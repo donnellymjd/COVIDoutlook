@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-172840607-1'
 
 menu:
-- {name: 'Home', folder: '.', file: 'index.html'}
+- {name: 'Home', folder: '.', file: ''}
 - {name: 'State Reports', folder: '.', file: 'statereports'}
 - {name: 'Compare States', folder: '.', file: 'compare'}
 - {name: 'Reproduction Rates', folder: '.', file: 'reproduction'}
