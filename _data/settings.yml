@@ -8,10 +8,11 @@ google-ID: 'UA-172840607-1'
 
 menu:
 - {name: 'Home', folder: '.', file: 'index.html'}
-- {name: 'Data', folder: 'pages', file: 'facts.html'}
-- {name: 'Reproduction Rates', folder: 'pages', file: 'facts.html'}
-- {name: 'Compare States', folder: 'pages', file: 'resources.html'}
-- {name: 'Methodology', folder: 'pages', file: 'sample-posts.html'}
+- {name: 'State Reports', folder: '.', file: 'statereports'}
+- {name: 'Compare States', folder: '.', file: 'compare'}
+- {name: 'Reproduction Rates', folder: '.', file: 'reproduction'}
+- {name: 'Data', folder: '.', file: 'data'}
+- {name: 'Methodology', folder: '.', file: 'methodology'}
 #- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 #- {name: 'About', folder: 'pages', file: 'about.html'}
 #- {name: 'Contact', folder: 'pages', file: 'contact.html'}
