@@ -47,6 +47,12 @@
   .dropdown-content {
     display: none;
   }
+  .minilogo {
+    display: none;
+  }
+  .minilogo-div {
+    display: none;
+  }
 }
 @media (max-width: $container-width) {
   .menu-list {
@@ -54,6 +60,16 @@
   }
   .site-title {
     padding-right: 0.25rem;
+  }
+  .minilogo {
+    height: 30px;
+  }
+  .minilogo-div {
+    border: none;
+      padding: 0px;
+      margin-top: 8px;
+      position: absolute;
+      display: inline-block;
   }
   .dropbtn {
       background-color: white;
@@ -67,6 +83,7 @@
   .dropdown {
       position: relative;
       display: inline-block;
+      align-items: center;
   }
   .dropdown-content {
       display: none;
