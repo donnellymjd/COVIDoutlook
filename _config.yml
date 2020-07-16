@@ -16,7 +16,7 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "COVIDoutlook.info"
 description:	       "a source for data-driven estimations and projections about the COVID-19 crisis in the United States"
-author:              "COVIDoutlook Team"
+author:              "The COVIDoutlook Team"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
