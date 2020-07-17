@@ -6,6 +6,7 @@ image: duotone5.png
 This data page, like the rest of the site, is brand new. Unfortunately, it's not fully functional yet. Please check back here soon for downloadable datasets of the forecasts and other data displayed on this website.
 
 ### Forecast Downloads (comma separated values)
+ - [Forecast published on July 17, 2020](/download/df_fore_allstates_20200717.csv)
  - [Forecast published on July 16, 2020](/download/df_fore_allstates_20200716.csv)
  - [Forecast published on July 15, 2020](/download/df_fore_allstates_20200715.csv)
  - [Forecast published on July 14, 2020](/download/df_fore_allstates_20200714.csv)
