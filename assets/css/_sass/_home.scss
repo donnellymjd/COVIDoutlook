@@ -1,10 +1,15 @@
 .featured-posts {
-  height: 300px;
+  height: 140px;
   margin: 5px 10px 10px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+}
+@media (min-width: $container-width) {
+  .featured-posts {
+    height: 275px;
+  }
 }
 .featured-posts h2 {
   bottom: 0;
