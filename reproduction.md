@@ -10,6 +10,5 @@ image: duotone4.png
         seamless="seamless"
         allow="encrypted-media"
         allowfullscreen
-        onload="resizeIframe(this)"
         height="3000px">
 </iframe>
