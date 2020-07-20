@@ -3,13 +3,12 @@ layout: page
 title: Reproduction Rates
 image: duotone4.png
 ---
-<iframe class="resp-iframe" src="/rts.html"
-        sandbox="allow-same-origin allow-scripts"
-        scrolling="no"
-        gesture="media"
-        seamless="seamless"
-        allow="encrypted-media"
-        allowfullscreen
-        onload="resizeIframe(this)"
-        height="3000px">
-</iframe>
+<iframe 
+    src="/rts.html" 
+    width="100%" 
+    height="100%" 
+    marginheight="0" 
+    frameborder="0" 
+    border="0" 
+    scrolling="auto" 
+    onload="autoResize(this);"></iframe>
