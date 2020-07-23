@@ -9,6 +9,15 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
+hr {
+  height: 1px;
+  width: 50%;
+  text-align:center;
+  margin: 0 auto;
+  margin-top: 1.5rem;
+  margin-bottom: 2rem
+}
+
 /*
   Basic styling
 */
@@ -45,7 +54,7 @@ body img {
     align: middle;
     margin: 5px auto auto auto;
     display: block;
-    max-width: 600px;
+    max-width: 90%;
 }
 
 p {
@@ -77,10 +86,12 @@ li {
 }
 
 dt {
-  font-weight: bold;
+  font-weight: 900;
+  margin-bottom: 0.5rem;
 }
 dd {
-  margin-bottom: .5rem;
+  font-size: 0.9rem;
+  line-height: 1.25;
 }
 
 /*

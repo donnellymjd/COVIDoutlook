@@ -2,7 +2,7 @@
 
 
   <nav class="menu-list">
-    <a href="{{ site.github.url }}/"><img src="/assets/img/hlogo-blackonwhite.svg" onerror="this.onerror=null; this.src='/assets/img/hlogo-blackonwhite.png'"></a>
+    <a href="{{ site.github.url }}/"><img src="/assets/img/hlogo-blackonwhite.svg" class='big-logo' onerror="this.onerror=null; this.src='/assets/img/hlogo-blackonwhite.png'"></a>
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
     {% endfor %}

@@ -1,0 +1,77 @@
+---
+title: VA
+layout: 'noheader'
+statecode: VA
+---
+### How Fast is COVID-19 Currently Spreading?
+<img src='/assets/images/covid19/VA_ch_rt_confid.png'>
+Reproduction Rate with Confidence Intervals
+: The reproduction rate (sometimes referred to as the Rt, R0, or "R-naught") is the average number of people that each infected person transmits COVID-19 to. If the reproduction rate is below 1.0, then the epidemic will fizzle out. If the reproduction rate is above 1.0, then the epidemic is spreading exponentially. More information about how this chart was calculated is available on the methodology page.
+
+- - - -
+<img src='/assets/images/covid19/VA_ch_positivetests.png'>
+Positive COVID-19 Tests Per Day
+: This chart shows the number of *daily new infections* detected by RT-PCR testing, the kind of tests that look for active infections (rather than antibody tests that look for evidence of past infections). The chart also plots the 7-day rolling average as a red line, which takes the simple mean of each day and the previous six days, in order to give a better sense of changes in the trend of new cases. Some states do not report this data every day, resulting in big spikes and dips. Many states also have consistently higher results on some days of the week, likely due to testing centers and lab opening hours. The 7-day rolling average line should give a more accurate sense of changes in trend.
+
+- - - -
+<img src='/assets/images/covid19/VA_ch_totaltests.png'>
+Total COVID-19 Tests Per Day
+: This chart shows positive and negative RT-PCR daily test results stacked on top of each other, meaning the top of each bar represents the total number of test results reported each day. The chart also plots the 7-day rolling average as a red line, which takes the simple mean of each day and the previous six days, in order to give a better sense of changes in the trend of new cases. Some states do not report this data every day, resulting in big spikes and dips. Many states also have consistently higher results on some days of the week, likely due to testing centers and lab opening hours. The 7-day rolling average line should give a more accurate sense of changes in trend.
+
+- - - -
+<img src='/assets/images/covid19/VA_ch_postestshare.png'>
+Daily Positive COVID-19 Test Share (Positivity Rate)
+: Similar to the previous chart, this chart shows positive and negative RT-PCR daily test results stacked on top of each other, but each day's results are normalized so the positive and negative results add up to 100%. The chart also plots the 7-day rolling average as a red line, which takes the simple mean of each day and the previous six days, in order to give a better sense of changes in the trend of new cases. Some states do not report this data every day, resulting in big spikes and dips. Many states also have consistently higher results on some days of the week, likely due to testing centers and lab opening hours. The 7-day rolling average line should give a more accurate sense of changes in trend.
+
+- - - -
+<img src='/assets/images/covid19/VA_ch_detection_rt.png'>
+Daily Infection Detection Rate
+: This chart shows the model estimated daily percentage of new infections that are detected through positive tests (RT-PCR tests that test for active infections). The formula for this detection rate is new reported daily positive test results / the model's estimate of new infections (new infections in the SEIR model are called "exposures"). Some people will be counted twice in the testing data, especially those in a hospital as doctors try to identify the end of an active infection. That double counting along with small expected model errors, especially at times when the underlying active infectious rate in a state is low, can result in detection rates above 100%.
+
+- - - -
+{% include_relative plotly/VA_casepercap_cnty_map.html %}
+Cases Per 100,000 Residents
+: Reported cumulative COVID-19 cases per 100,000 residents. Many of the cases reported are no longer infectious as the vast majority of people who become infected with COVID-19 recover. The top end of the scale is set at the 90th percentile of all US counties.
+
+- - - -
+<img src='/assets/images/covid19/VA_ch_googmvmt.png'>
+Google Movement Data
+: Through its [Community Mobility Reports](https://www.google.com/covid19/mobility/), Google has made public aggregate data that represent "movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential." These are percent changes from baseline (roughly the average of visits in February 2020.) Notice the spike in grocery and pharmacy visits in mid-March in most states.
+
+- - - -
+### Model and Forecast Results
+<img src='/assets/images/covid19/VA_ch_exposed_infectious.png'>
+Simultaneous Infections Forecast
+: The model is able to estimate the number of people with active infections in a region over time. The exposed population refers to people who have been infected very recently but are pre-symptomatic and less likely to be able to spread COVID-19. The Infectious Population is an estimate of the number of people who are currently experiencing symptoms and are able to spread COVID-19.
+
+- - - -
+<img src='/assets/images/covid19/VA_ch_hosp.png'>
+Hospitalization and Deaths Forecast
+: The core model output is an estimate of the number of COVID-19 hospitalizations and deaths. More information on the methodology of this model is available on the [model methodology page](http://www.michaeldonnel.ly/covid19/methodology/). Concurrent hospitalizations refers to the number of COVID-19 cases estimated/forecast to be in the hospital on any given day. Deaths represents the model's estimate for the total number of deaths to have occurred by a given date. ICU cases are treated as a subset of hospitalizations and ventilations are treated as a subset of ICU cases.
+
+- - - -
+<img src='/assets/images/covid19/VA_ch_population_share.png'>
+Population Overview Forecast
+: The forecasting model also outputs estimates of the percentage of the overall population that has a current COVID-19 infection, recovered from a past infection, died from COVID-19, or is currently susceptible because they have not been previously infected. (Currently, since no vaccine exists, the entire uninfected population is represented as susceptible.) More information on the methodology of this model is available on the [model methodology page](http://www.michaeldonnel.ly/covid19/methodology/).
+
+- - - -
+<img src='/assets/images/covid19/VA_ch_cumul_infections.png'>
+Cumulative Infections Forecast
+: This chart shows the number of *total COVID-19 infections* estimated by the model over time. We show it alongside the number of total positive test results to show the estimated undercounting of cases. 
+
+- - - -
+<img src='/assets/images/covid19/VA_ch_daily_exposures.png'>
+Daily Exposures Forecast
+: This chart shows the number of *new infections* estimated by the model every day. We show it alongside the number of new positive test results to show the estimated undercounting of new cases. We call this the exposed population because refers to people who have been infected very recently but are pre-symptomatic and less likely to be able to spread COVID-19.
+
+- - - -
+<img src='/assets/images/covid19/VA_ch_hosp_admits.png'>
+Daily Hospital Admissions Forecast
+: This chart shows the number of *new hospital admissions with COVID-19 infections* estimated by the model over time. Hospital admissions differ from the earlier concurrent hospitalizations chart. Concurrent COVID-19 hospitalizations are determined by the sum of earlier admissions minus the sum of earlier discharges and deaths. We show it alongside the reported number of hospital admissions where available. Many states do not report this data at all and some only report it sporadically.
+
+- - - -
+<img src='/assets/images/covid19/VA_ch_daily_deaths.png'>
+Daily Deaths Forecast
+: This chart shows the number of *new deaths from COVID-19* estimated by the model over time.  Generally, reported COVID-19 death data from states is generally reliable. So there is rarely major difference between the model's estimates and the reported data. Occassionally there is a major spike or dip in the reported data as a result of changes in the reporting definitions from states.
+
+- - - -
