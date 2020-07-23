@@ -1,5 +1,5 @@
 ---
-title: UT
+title: Utah
 layout: noheader
 statecode: UT
 ---
@@ -30,8 +30,8 @@ Daily Infection Detection Rate
 
 - - - -
 {% include_relative plotly/UT_casepercap_cnty_map.html %}
-Cases Per 100,000 Residents
-: Reported cumulative COVID-19 cases per 100,000 residents. Many of the cases reported are no longer infectious as the vast majority of people who become infected with COVID-19 recover. The top end of the scale is set at the 90th percentile of all US counties.
+14-Day Change in COVID-19 Cases Per 100k Residents
+: Change in the reported cumulative COVID-19 cases per 100,000 residents over the most recent two weeks. The top end of the scale is set at the 90th percentile of all US counties. This chart is based on reported data rather than modeled data. As a result, states with higher testing rates will appear worse off than states with lower testing rates.
 
 - - - -
 <img src='/assets/images/covid19/UT_ch_googmvmt.png'>
