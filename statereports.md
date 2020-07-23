@@ -70,7 +70,7 @@ To see a state report, please select one from dropdown menu.
     marginheight="0" 
     frameborder="0" 
     border="0" 
-    scrolling="auto" 
+    scrolling="no" 
     onload="autoResize(this);"></iframe>
 </div>
 <p><span style="text-align:center; font-size:0.8rem; font-style: italic; line-height: 1;">Currently our state reports are not interactive in order to improve website loading speed. Please check back in the future for interactive reports.</span></p>
