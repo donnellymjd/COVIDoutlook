@@ -28,3 +28,4 @@ gem 'jekyll-paginate'
 gem 'jekyll-sitemap'
 gem 'jekyll-seo-tag'
 gem "rake"
+ruby "2.7.1"
