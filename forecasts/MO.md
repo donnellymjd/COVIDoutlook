@@ -1,14 +1,9 @@
 ---
 title: MO
-layout: 'noheader'
+layout: noheader
 statecode: MO
 ---
 ### How Fast is COVID-19 Currently Spreading?
-<img src='/assets/images/covid19/MO_ch_rt_confid.png'>
-Reproduction Rate with Confidence Intervals
-: The reproduction rate (sometimes referred to as the Rt, R0, or "R-naught") is the average number of people that each infected person transmits COVID-19 to. If the reproduction rate is below 1.0, then the epidemic will fizzle out. If the reproduction rate is above 1.0, then the epidemic is spreading exponentially. More information about how this chart was calculated is available on the methodology page.
-
-- - - -
 <img src='/assets/images/covid19/MO_ch_positivetests.png'>
 Positive COVID-19 Tests Per Day
 : This chart shows the number of *daily new infections* detected by RT-PCR testing, the kind of tests that look for active infections (rather than antibody tests that look for evidence of past infections). The chart also plots the 7-day rolling average as a red line, which takes the simple mean of each day and the previous six days, in order to give a better sense of changes in the trend of new cases. Some states do not report this data every day, resulting in big spikes and dips. Many states also have consistently higher results on some days of the week, likely due to testing centers and lab opening hours. The 7-day rolling average line should give a more accurate sense of changes in trend.
@@ -22,6 +17,11 @@ Total COVID-19 Tests Per Day
 <img src='/assets/images/covid19/MO_ch_postestshare.png'>
 Daily Positive COVID-19 Test Share (Positivity Rate)
 : Similar to the previous chart, this chart shows positive and negative RT-PCR daily test results stacked on top of each other, but each day's results are normalized so the positive and negative results add up to 100%. The chart also plots the 7-day rolling average as a red line, which takes the simple mean of each day and the previous six days, in order to give a better sense of changes in the trend of new cases. Some states do not report this data every day, resulting in big spikes and dips. Many states also have consistently higher results on some days of the week, likely due to testing centers and lab opening hours. The 7-day rolling average line should give a more accurate sense of changes in trend.
+
+- - - -
+<img src='/assets/images/covid19/MO_ch_rt_confid.png'>
+Reproduction Rate with Confidence Intervals
+: The reproduction rate (sometimes referred to as the Rt, R0, or "R-naught") is the average number of people that each infected person transmits COVID-19 to. If the reproduction rate is below 1.0, then the epidemic will fizzle out. If the reproduction rate is above 1.0, then the epidemic is spreading exponentially. More information about how this chart was calculated is available on the methodology page.
 
 - - - -
 <img src='/assets/images/covid19/MO_ch_detection_rt.png'>
