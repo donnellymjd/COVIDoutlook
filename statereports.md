@@ -8,6 +8,7 @@ To see a state report, please select one from dropdown menu.
 <form name="change">
 <SELECT NAME="options" ONCHANGE="document.getElementById('youriframe').src = this.options[this.selectedIndex].value">
     <option value="0">Select State</option>
+    <option value="/forecasts/US">United States</option>
     <option value="/forecasts/AL">Alabama</option>
     <option value="/forecasts/AK">Alaska</option>
     <option value="/forecasts/AZ">Arizona</option>
@@ -63,7 +64,7 @@ To see a state report, please select one from dropdown menu.
 </form>
 <div>
     <iframe 
-    src="about:blank"
+    src="/forecasts/US"
     id="youriframe"
     style="margin:0; width:100%; height:150px; border:none; overflow:hidden;" scrolling="no" onload="AdjustIframeHeightOnLoad()"></iframe>
 </div>
