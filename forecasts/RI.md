@@ -3,6 +3,7 @@ title: Rhode Island
 layout: noheader
 statecode: RI
 ---
+## Rhode Island
 ### How Fast is COVID-19 Currently Spreading?
 <img src='/assets/images/covid19/RI_ch_positivetests.png'>
 Positive COVID-19 Tests Per Day

@@ -3,6 +3,7 @@ title: South Carolina
 layout: noheader
 statecode: SC
 ---
+## South Carolina
 ### How Fast is COVID-19 Currently Spreading?
 <img src='/assets/images/covid19/SC_ch_positivetests.png'>
 Positive COVID-19 Tests Per Day

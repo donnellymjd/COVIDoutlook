@@ -3,6 +3,7 @@ title: Pennsylvania
 layout: noheader
 statecode: PA
 ---
+## Pennsylvania
 ### How Fast is COVID-19 Currently Spreading?
 <img src='/assets/images/covid19/PA_ch_positivetests.png'>
 Positive COVID-19 Tests Per Day

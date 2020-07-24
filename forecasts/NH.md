@@ -3,6 +3,7 @@ title: New Hampshire
 layout: noheader
 statecode: NH
 ---
+## New Hampshire
 ### How Fast is COVID-19 Currently Spreading?
 <img src='/assets/images/covid19/NH_ch_positivetests.png'>
 Positive COVID-19 Tests Per Day

@@ -3,6 +3,7 @@ title: District of Columbia
 layout: noheader
 statecode: DC
 ---
+## District of Columbia
 ### How Fast is COVID-19 Currently Spreading?
 <img src='/assets/images/covid19/DC_ch_positivetests.png'>
 Positive COVID-19 Tests Per Day

@@ -3,6 +3,7 @@ title: Missouri
 layout: noheader
 statecode: MO
 ---
+## Missouri
 ### How Fast is COVID-19 Currently Spreading?
 <img src='/assets/images/covid19/MO_ch_positivetests.png'>
 Positive COVID-19 Tests Per Day

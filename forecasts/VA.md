@@ -3,6 +3,7 @@ title: Virginia
 layout: noheader
 statecode: VA
 ---
+## Virginia
 ### How Fast is COVID-19 Currently Spreading?
 <img src='/assets/images/covid19/VA_ch_positivetests.png'>
 Positive COVID-19 Tests Per Day

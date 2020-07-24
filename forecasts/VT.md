@@ -3,6 +3,7 @@ title: Vermont
 layout: noheader
 statecode: VT
 ---
+## Vermont
 ### How Fast is COVID-19 Currently Spreading?
 <img src='/assets/images/covid19/VT_ch_positivetests.png'>
 Positive COVID-19 Tests Per Day

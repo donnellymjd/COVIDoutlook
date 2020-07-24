@@ -3,6 +3,7 @@ title: Arizona
 layout: noheader
 statecode: AZ
 ---
+## Arizona
 ### How Fast is COVID-19 Currently Spreading?
 <img src='/assets/images/covid19/AZ_ch_positivetests.png'>
 Positive COVID-19 Tests Per Day
