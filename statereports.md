@@ -66,13 +66,9 @@ To see a state report, please select one from dropdown menu.
     <iframe 
     src="/forecasts/US"
     id="youriframe"
-    style="margin:0; width:100%; height:150px; border:none; overflow:hidden;" scrolling="no" onload="AdjustIframeHeightOnLoad()"></iframe>
+    style="margin:0; width:100%; height:150px; border:none; overflow:hidden;" scrolling="no" 
+    onload="AdjustIframeHeightOnLoad()"></iframe>
 </div>
-
-<script type="text/javascript">
-function AdjustIframeHeightOnLoad() { document.getElementById("youriframe").style.height = document.getElementById("youriframe").contentWindow.document.body.scrollHeight + "px"; }
-function AdjustIframeHeight(i) { document.getElementById("youriframe").style.height = parseInt(i) + "px"; }
-</script>
 
 
 <p><span style="text-align:center; font-size:0.8rem; font-style: italic; line-height: 1;">Currently our state reports are not interactive in order to improve website loading speed. Please check back in the future for interactive reports.</span></p>

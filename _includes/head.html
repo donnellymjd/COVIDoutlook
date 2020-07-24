@@ -33,6 +33,10 @@
       $(iframe).height($(iframe).contents().find('html').height());
   }
   </script>
+  <script type="text/javascript">
+  function AdjustIframeHeightOnLoad() { document.getElementById("youriframe").style.height = document.getElementById("youriframe").contentWindow.document.body.scrollHeight + "px"; }
+  function AdjustIframeHeight(i) { document.getElementById("youriframe").style.height = parseInt(i) + "px"; }
+  </script>
   <!-- Google Analytics -->
   {% include google-analytics.html %}
 

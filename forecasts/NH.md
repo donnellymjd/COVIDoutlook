@@ -30,9 +30,13 @@ Daily Infection Detection Rate
 : This chart shows the model estimated daily percentage of new infections that are detected through positive tests (RT-PCR tests that test for active infections). The formula for this detection rate is new reported daily positive test results / the model's estimate of new infections (new infections in the SEIR model are called "exposures"). Some people will be counted twice in the testing data, especially those in a hospital as doctors try to identify the end of an active infection. That double counting along with small expected model errors, especially at times when the underlying active infectious rate in a state is low, can result in detection rates above 100%.
 
 - - - -
-{% include_relative plotly/NH_casepercap_cnty_map.html %}
-14-Day Change in COVID-19 Cases Per 100k Residents
-: Change in the reported cumulative COVID-19 cases per 100,000 residents over the most recent two weeks. The top end of the scale is set at the 90th percentile of all US counties. This chart is based on reported data rather than modeled data. As a result, states with higher testing rates will appear worse off than states with lower testing rates.
+<div>
+    <iframe 
+    src="/forecasts/plotly/NH_casepercap_cnty_map.html"
+    style="margin:0; width:100%; height:800px; border:none; overflow:hidden;" scrolling="no"></iframe>
+</div>
+New COVID-19 Cases Per 100k Residents Over Last 14 Days
+: Newly reported COVID-19 cases per 100,000 residents over the most recent two weeks. The top end of the color scale is set at the 90th percentile of all US counties. This chart is based on reported data rather than modeled data. As a result, states with higher testing rates will appear worse off than states with lower testing rates.
 
 - - - -
 <img src='/assets/images/covid19/NH_ch_googmvmt.png'>
