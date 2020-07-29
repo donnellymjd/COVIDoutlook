@@ -14,4 +14,4 @@ image: duotone2.png
 </script>
 <script src="/assets/js/compare.js" async="True"></script>
 
-<div class="bk-root" id="1af2608f-134b-4f0b-aa86-3180e89f2424" data-root-id="1101"></div>
+<div class="bk-root" id="95c27783-da61-49e7-9bd1-0a6d3edf98f2" data-root-id="1101"></div>
