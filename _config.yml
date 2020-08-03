@@ -18,6 +18,12 @@ title:		           "COVIDoutlook.info"
 description:	       "Original data-driven analyses and projections of the COVID-19 crisis in the United States"
 author:              "The COVIDoutlook Team"
 
+twitter:
+  username: COVIDoutlook
+  card: summary
+
+url: www.COVIDoutlook.info
+
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
