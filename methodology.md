@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Methodology
-image: duotone.png
+banner: duotone.png
 ---
 *[This methodology section is a work in progress. Please check back for a more complete version.]*
 

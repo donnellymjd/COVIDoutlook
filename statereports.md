@@ -1,7 +1,7 @@
 ---
 layout: page
 title: State Reports
-image: duotone3.png
+banner: duotone3.png
 ---
 To see a state report, please select one from dropdown menu. 
 

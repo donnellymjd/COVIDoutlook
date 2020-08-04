@@ -1,11 +1,15 @@
 ---
 layout: page
 title: Data
-image: duotone5.png
+banner: duotone5.png
 ---
 This data page, like the rest of the site, is brand new. Unfortunately, it's not fully functional yet. Please check back here soon for downloadable datasets of the forecasts and other data displayed on this website.
 
+### Reference Downloads (comma separated values)
+ - [COVID-19 Related Policy Actions by State - Source: KFF.org](/download/df_interventions.csv)
+
 ### Forecast Downloads (comma separated values)
+ - [Forecast published on August 04, 2020](/download/df_fore_allstates_20200804.csv)
  - [Forecast published on August 03, 2020](/download/df_fore_allstates_20200803.csv)
  - [Forecast published on August 02, 2020](/download/df_fore_allstates_20200802.csv)
  - [Forecast published on August 01, 2020](/download/df_fore_allstates_20200801.csv)
