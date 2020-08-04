@@ -22,8 +22,11 @@ twitter:
   username: COVIDoutlook
   card: summary
 
-url: https://www.COVIDoutlook.info
-image: /assets/img/hlogo-blackonwhite.png
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/hlogo-blackonwhite.png
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
