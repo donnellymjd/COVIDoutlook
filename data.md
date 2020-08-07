@@ -9,6 +9,7 @@ This data page, like the rest of the site, is brand new. Unfortunately, it's not
  - [COVID-19 Related Policy Actions by State - Source: KFF.org](/download/df_interventions.csv)
 
 ### Forecast Downloads (comma separated values)
+ - [Forecast published on August 07, 2020](/download/df_fore_allstates_20200807.csv)
  - [Forecast published on August 06, 2020](/download/df_fore_allstates_20200806.csv)
  - [Forecast published on August 05, 2020](/download/df_fore_allstates_20200805.csv)
  - [Forecast published on August 04, 2020](/download/df_fore_allstates_20200804.csv)
