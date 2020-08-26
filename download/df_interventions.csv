@@ -98,7 +98,7 @@
 96,Delaware,DE,2020-03-27,['3/27'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54072
 97,Delaware,DE,2020-03-29,['3/29'],Mandatory Quarantine for Travelers,restricting,https://governor.delaware.gov/wp-content/uploads/sites/24/2020/03/Seventh-Modification-to-State-of-Emergency-03292020.pdf
 98,Delaware,DE,2020-04-01,"['4/1', '6/30', '7/2']",Premium Grace Period,restricting,https://governor.delaware.gov/wp-content/uploads/sites/24/2020/04/Ninth-Modification-to-State-of-Emergency-04012020-1.pdf ;  https://governor.delaware.gov/health-soe/twenty-third-state-of-emergency/ ;  https://insurance.delaware.gov/wp-content/uploads/sites/15/2020/07/domestic-foreign-insurers-bulletin-no117.p df
-99,Delaware,DE,2020-04-28,['4/28'],Face Covering Requirement,restricting,https://governor.delaware.gov/health-soe/thirteenth-state-of-emergency/
+99,Delaware,DE,2020-04-28,"['4/28', '8/24']",Face Covering Requirement,restricting,https://governor.delaware.gov/health-soe/thirteenth-state-of-emergency/
 100,Delaware,DE,2020-05-08,['5/8'],Easing: Non-Essential Business Closures (announced 5/7),easing,https://governor.delaware.gov/health-soe/fifteenth-state-of-emergency/
 101,Delaware,DE,2020-06-15,['6/15'],"Easing: Non-Essential Business Closures, Large Gatherings Ban, Restaurant Limits (announced 6/15)",easing,https://governor.delaware.gov/health-soe/twenty-first-state-of-emergenc y/
 102,Delaware,DE,2020-07-01,['7/1'],Easing: Restaurant Limits (announced 6/30),easing,
@@ -168,7 +168,7 @@
 166,Illinois,IL,2020-04-20,['4/20'],Premium Grace Period,restricting,https://insurance.illinois.gov/cb/2020/CB2020-11.pdf
 167,Illinois,IL,2020-05-01,"['5/1', '5/29']",Face Covering Requirement,restricting,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx
 168,Illinois,IL,2020-05-29,['5/29'],"Easing: Stay at Home Order, Non-Essential Business Closures, Large Gathering Ban (Announced 4/23)",easing,https://twitter.com/GovPritzker/status/1266109657791303689    https://coronavirus.illinois.gov/s/restore-illinois-phase-3 ;  https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx
-169,Illinois,IL,2020-08-18,['8/18'],"Easing: Large Gathering Ban, Restaurant/Bar Limits",easing,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-51.pdf
+169,Illinois,IL,2020-08-18,['8/18'],"Easing: Large Gathering Ban, Restaurant/Bar Limits",easing,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-51.pdf ;  https://www2.illinois.gov/Pages/news-item.aspx?ReleaseID=21989
 170,Indiana,IN,2020-03-06,['3/6'],Public Health Emergency,restricting,https://calendar.in.gov/site/gov/event/gov-holcomb-announces-first-coronavirus-case-declares-public-health-emergency/ ;  https://www.in.gov/gov/files/Executive%20Order%2020-30%20Renewal%20of%20Public%20Health%20Emergency.pdf
 171,Indiana,IN,2020-03-16,['3/16'],Restaurant Limits,restricting,https://calendar.in.gov/site/gov/event/gov-holcomb-announces-more-steps-to-slow-the-spread-of-covid-19/
 172,Indiana,IN,2020-03-19,['3/19'],School Closures,restricting,https://calendar.in.gov/site/gov/event/gov-holcomb-takes-more-actions-to-protect-hoosiers-during-public-emergency/
@@ -660,28 +660,29 @@
 658,West Virginia,WV,2020-03-24,"['3/24', '4/4']",Large Gatherings Ban,restricting,
 659,West Virginia,WV,2020-03-30,['3/30'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/88791
 660,West Virginia,WV,2020-04-01,['4/1'],Primary Election Postponement,restricting,
-661,West Virginia,WV,2020-05-18,"['5/18', '7/7']",Face Covering Requirement,restricting,
+661,West Virginia,WV,2020-05-18,"['5/18', '7/7', '8/21']",Face Covering Requirement,restricting,
 662,West Virginia,WV,2020-05-04,['5/4'],"Easing: Stay At Home Order, Non-Essential Business Closures,  Restaurant Limits, Large Gatherings Ban (announced 4/30)",easing,https://governor.wv.gov/Documents/2020%20Executive%20Orders/Executive-Order-April-30-2020-Safer-At-Home-Order.pdf
 663,West Virginia,WV,2020-05-04,"['5/4', '5/11', '5/21', '5/26', '5/30']","Easing: Non-Essential Business Closures, Restaurant Limits,  Mandatory Quarantine for Travelers  (announced 5/19)",easing,
 664,West Virginia,WV,2020-06-05,"['6/5', '6/10']","Easing: Non-Essential Business Closures, Large Gathering Ban (announced 6/4)",easing,
 665,West Virginia,WV,2020-07-14,['7/14'],Easing: Large Gathering Ban (announced 7/13),easing,
-666,Wisconsin,WI,2020-03-12,"['3/12', '8/1']",Public Health Emergency,restricting,https://content.govdelivery.com/attachments/WIGOV/2020/07/30/file_attachments/1507488/EO082-PHECOVIDSecondSpike%20%28003%29.pdf
-667,Wisconsin,WI,2020-03-17,"['3/17', '3/20', '3/24', '4/6', '4/16']","Large Gatherings Ban, Restaurant Limits",restricting,https://content.govdelivery.com/attachments/WIGOV/2020/04/16/file_attachments/1428995/EMO28-SaferAtHome.pdf :
-668,Wisconsin,WI,2020-03-18,"['3/18', '3/20', '4/16']",School Closures,restricting,
-669,Wisconsin,WI,2020-03-25,"['3/25', '4/16']",Stay At Home Order/Non-Essential Business Closures,restricting,
-670,Wisconsin,WI,2020-04-20,['4/20'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/97716
-671,Wisconsin,WI,2020-08-01,['8/1'],Face Covering Requirement,restricting,
-672,Wisconsin,WI,2020-04-24,"['4/24', '5/11', '5/13']",Easing: Non-Essential Business Closures (announced 4/16),easing,
-673,Wisconsin,WI,2020-05-13,['5/13'],"Easing: Stay At Home Order,  Large Gatherings Ban, Restaurant Limits  (announced 5/13)",easing,
-674,Wyoming,WY,2020-03-13,['3/13'],"Emergency Declaration, Public Health Emergency",restricting,https://drive.google.com/file/d/19mX3feCje2NKRrKi_GPiKvwcckGVoVBh/view
-675,Wyoming,WY,2020-03-20,"['3/20', '3/27', '4/3', '4/28', '5/13']","School Closures, Restaurant Limits",restricting,https://drive.google.com/file/d/1LOAj8puy0LomGsPLbAmBuGPQTJ90A51b/view
-676,Wyoming,WY,2020-03-21,"['3/21', '3/27', '4/3', '4/28']",Large Gatherings Ban,restricting,
-677,Wyoming,WY,2020-03-27,['3/27'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54070
-678,Wyoming,WY,2020-04-03,"['4/3', '4/29', '7/20']",Mandatory Quarantine for Travelers,restricting,
-679,Wyoming,WY,2020-06-15,"['6/15', '8/1', '8/16']",Face Covering Requirement,restricting,
-680,Wyoming,WY,2020-05-15,"['5/15', '6/1']",Easing: Restaurant Limits  (announced 5/13),easing,
-681,Wyoming,WY,2020-06-15,"['6/15', '7/1', '7/16', '8/1', '8/16']","Easing: School Closures, Restaurant Limits (announced 6/10)",easing,
-682,Wyoming,WY,2020-05-15,"['5/15', '6/1', '6/15', '7/1', '7/16', '8/1', '8/16']",Easing: Large Gatherings Ban (announced 5/13),easing,
+666,West Virginia,WV,2020-07-14,"['7/14', '7/23', '8/1', '8/12']",Easing: Bar Closures (announced 7/13),easing,
+667,Wisconsin,WI,2020-03-12,"['3/12', '8/1']",Public Health Emergency,restricting,https://content.govdelivery.com/attachments/WIGOV/2020/07/30/file_attachments/1507488/EO082-PHECOVIDSecondSpike%20%28003%29.pdf
+668,Wisconsin,WI,2020-03-17,"['3/17', '3/20', '3/24', '4/6', '4/16']","Large Gatherings Ban, Restaurant Limits",restricting,https://content.govdelivery.com/attachments/WIGOV/2020/04/16/file_attachments/1428995/EMO28-SaferAtHome.pdf :
+669,Wisconsin,WI,2020-03-18,"['3/18', '3/20', '4/16']",School Closures,restricting,
+670,Wisconsin,WI,2020-03-25,"['3/25', '4/16']",Stay At Home Order/Non-Essential Business Closures,restricting,
+671,Wisconsin,WI,2020-04-20,['4/20'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/97716
+672,Wisconsin,WI,2020-08-01,['8/1'],Face Covering Requirement,restricting,
+673,Wisconsin,WI,2020-04-24,"['4/24', '5/11', '5/13']",Easing: Non-Essential Business Closures (announced 4/16),easing,
+674,Wisconsin,WI,2020-05-13,['5/13'],"Easing: Stay At Home Order,  Large Gatherings Ban, Restaurant Limits  (announced 5/13)",easing,
+675,Wyoming,WY,2020-03-13,['3/13'],"Emergency Declaration, Public Health Emergency",restricting,https://drive.google.com/file/d/19mX3feCje2NKRrKi_GPiKvwcckGVoVBh/view
+676,Wyoming,WY,2020-03-20,"['3/20', '3/27', '4/3', '4/28', '5/13']","School Closures, Restaurant Limits",restricting,https://drive.google.com/file/d/1LOAj8puy0LomGsPLbAmBuGPQTJ90A51b/view
+677,Wyoming,WY,2020-03-21,"['3/21', '3/27', '4/3', '4/28']",Large Gatherings Ban,restricting,
+678,Wyoming,WY,2020-03-27,['3/27'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54070
+679,Wyoming,WY,2020-04-03,"['4/3', '4/29', '7/20']",Mandatory Quarantine for Travelers,restricting,
+680,Wyoming,WY,2020-06-15,"['6/15', '8/1', '8/16']",Face Covering Requirement,restricting,
+681,Wyoming,WY,2020-05-15,"['5/15', '6/1']",Easing: Restaurant Limits  (announced 5/13),easing,
+682,Wyoming,WY,2020-06-15,"['6/15', '7/1', '7/16', '8/1', '8/16']","Easing: School Closures, Restaurant Limits (announced 6/10)",easing,
+683,Wyoming,WY,2020-05-15,"['5/15', '6/1', '6/15', '7/1', '7/16', '8/1', '8/16']",Easing: Large Gatherings Ban (announced 5/13),easing,
 0,US,US,2012-01-02,,New Year Day,holiday,
 1,US,US,2012-01-16,,Martin Luther King Jr. Day,holiday,
 2,US,US,2012-02-20,,Presidents Day (Washingtons Birthday),holiday,
