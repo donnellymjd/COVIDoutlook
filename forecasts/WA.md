@@ -1,6 +1,6 @@
 ---
 title: Washington
-layout: noheader
+layout: statereport
 statecode: WA
 ---
 ## Washington

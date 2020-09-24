@@ -1,6 +1,6 @@
 ---
 title: Connecticut
-layout: noheader
+layout: statereport
 statecode: CT
 ---
 ## Connecticut

@@ -1,6 +1,6 @@
 ---
 title: Kentucky
-layout: noheader
+layout: statereport
 statecode: KY
 ---
 ## Kentucky

@@ -1,6 +1,6 @@
 ---
 title: Alaska
-layout: noheader
+layout: statereport
 statecode: AK
 ---
 ## Alaska

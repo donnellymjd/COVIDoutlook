@@ -1,6 +1,6 @@
 ---
 title: Alabama
-layout: noheader
+layout: statereport
 statecode: AL
 ---
 ## Alabama

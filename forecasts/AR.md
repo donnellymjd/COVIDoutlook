@@ -1,6 +1,6 @@
 ---
 title: Arkansas
-layout: noheader
+layout: statereport
 statecode: AR
 ---
 ## Arkansas

@@ -1,6 +1,6 @@
 ---
 title: Georgia
-layout: noheader
+layout: statereport
 statecode: GA
 ---
 ## Georgia

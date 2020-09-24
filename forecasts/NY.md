@@ -1,6 +1,6 @@
 ---
 title: New York
-layout: noheader
+layout: statereport
 statecode: NY
 ---
 ## New York

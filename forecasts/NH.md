@@ -1,6 +1,6 @@
 ---
 title: New Hampshire
-layout: noheader
+layout: statereport
 statecode: NH
 ---
 ## New Hampshire

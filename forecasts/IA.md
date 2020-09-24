@@ -1,6 +1,6 @@
 ---
 title: Iowa
-layout: noheader
+layout: statereport
 statecode: IA
 ---
 ## Iowa

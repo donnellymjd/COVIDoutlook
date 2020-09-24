@@ -1,6 +1,6 @@
 ---
 title: Oklahoma
-layout: noheader
+layout: statereport
 statecode: OK
 ---
 ## Oklahoma

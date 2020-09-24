@@ -1,6 +1,6 @@
 ---
 title: Nebraska
-layout: noheader
+layout: statereport
 statecode: NE
 ---
 ## Nebraska

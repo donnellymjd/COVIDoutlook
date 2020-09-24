@@ -2,7 +2,11 @@
 layout: default
 ---
 
-<div class="featured-posts" {% if page.banner %}style="background-image:url({{ site.github.url }}/assets/img/{{ page.banner }})"{% endif %}>
+<div class="featured-posts" {% if page.banner %}
+     style="background-image:url({{ site.github.url }}/assets/img/{{ page.banner }})"
+     {% elsif layout.banner %}
+ style="background-image:url({{ site.github.url }}/assets/img/{{ layout.banner }})"
+{% endif %}>
   <h2><span>{{ page.title }}</span></h2>
 </div>
 

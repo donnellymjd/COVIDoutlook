@@ -1,6 +1,6 @@
 ---
 title: New Mexico
-layout: noheader
+layout: statereport
 statecode: NM
 ---
 ## New Mexico

@@ -1,6 +1,6 @@
 ---
 title: New Jersey
-layout: noheader
+layout: statereport
 statecode: NJ
 ---
 ## New Jersey

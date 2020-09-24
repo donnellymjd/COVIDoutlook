@@ -1,6 +1,6 @@
 ---
 title: Missouri
-layout: noheader
+layout: statereport
 statecode: MO
 ---
 ## Missouri

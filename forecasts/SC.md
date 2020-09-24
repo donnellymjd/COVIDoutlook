@@ -1,6 +1,6 @@
 ---
 title: South Carolina
-layout: noheader
+layout: statereport
 statecode: SC
 ---
 ## South Carolina

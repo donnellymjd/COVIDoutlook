@@ -1,6 +1,6 @@
 ---
 title: Pennsylvania
-layout: noheader
+layout: statereport
 statecode: PA
 ---
 ## Pennsylvania

@@ -1,6 +1,6 @@
 ---
 title: South Dakota
-layout: noheader
+layout: statereport
 statecode: SD
 ---
 ## South Dakota

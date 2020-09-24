@@ -1,6 +1,6 @@
 ---
 title: Maryland
-layout: noheader
+layout: statereport
 statecode: MD
 ---
 ## Maryland

@@ -1,6 +1,6 @@
 ---
 title: Utah
-layout: noheader
+layout: statereport
 statecode: UT
 ---
 ## Utah

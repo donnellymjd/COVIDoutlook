@@ -1,6 +1,6 @@
 ---
 title: Florida
-layout: noheader
+layout: statereport
 statecode: FL
 ---
 ## Florida

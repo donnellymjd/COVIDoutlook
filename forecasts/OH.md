@@ -1,6 +1,6 @@
 ---
 title: Ohio
-layout: noheader
+layout: statereport
 statecode: OH
 ---
 ## Ohio

@@ -1,6 +1,6 @@
 ---
 title: Rhode Island
-layout: noheader
+layout: statereport
 statecode: RI
 ---
 ## Rhode Island

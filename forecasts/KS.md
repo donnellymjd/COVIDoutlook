@@ -1,6 +1,6 @@
 ---
 title: Kansas
-layout: noheader
+layout: statereport
 statecode: KS
 ---
 ## Kansas

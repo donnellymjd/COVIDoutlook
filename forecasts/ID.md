@@ -1,6 +1,6 @@
 ---
 title: Idaho
-layout: noheader
+layout: statereport
 statecode: ID
 ---
 ## Idaho

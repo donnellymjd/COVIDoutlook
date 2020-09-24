@@ -1,6 +1,6 @@
 ---
 title: Vermont
-layout: noheader
+layout: statereport
 statecode: VT
 ---
 ## Vermont

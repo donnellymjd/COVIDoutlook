@@ -1,6 +1,6 @@
 ---
 title: West Virginia
-layout: noheader
+layout: statereport
 statecode: WV
 ---
 ## West Virginia

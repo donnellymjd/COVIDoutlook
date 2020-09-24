@@ -1,6 +1,6 @@
 ---
 title: Montana
-layout: noheader
+layout: statereport
 statecode: MT
 ---
 ## Montana

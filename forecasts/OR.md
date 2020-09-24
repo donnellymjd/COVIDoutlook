@@ -1,6 +1,6 @@
 ---
 title: Oregon
-layout: noheader
+layout: statereport
 statecode: OR
 ---
 ## Oregon

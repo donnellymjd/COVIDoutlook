@@ -1,6 +1,6 @@
 ---
 title: North Dakota
-layout: noheader
+layout: statereport
 statecode: ND
 ---
 ## North Dakota

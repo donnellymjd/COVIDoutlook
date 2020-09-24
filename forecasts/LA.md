@@ -1,6 +1,6 @@
 ---
 title: Louisiana
-layout: noheader
+layout: statereport
 statecode: LA
 ---
 ## Louisiana

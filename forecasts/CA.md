@@ -1,6 +1,6 @@
 ---
 title: California
-layout: noheader
+layout: statereport
 statecode: CA
 ---
 ## California

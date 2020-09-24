@@ -1,6 +1,6 @@
 ---
 title: Tennessee
-layout: noheader
+layout: statereport
 statecode: TN
 ---
 ## Tennessee

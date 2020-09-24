@@ -1,6 +1,6 @@
 ---
 title: Virginia
-layout: noheader
+layout: statereport
 statecode: VA
 ---
 ## Virginia

@@ -1,6 +1,6 @@
 ---
 title: Massachusetts
-layout: noheader
+layout: statereport
 statecode: MA
 ---
 ## Massachusetts

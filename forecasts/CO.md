@@ -1,6 +1,6 @@
 ---
 title: Colorado
-layout: noheader
+layout: statereport
 statecode: CO
 ---
 ## Colorado

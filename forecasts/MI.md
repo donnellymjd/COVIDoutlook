@@ -1,6 +1,6 @@
 ---
 title: Michigan
-layout: noheader
+layout: statereport
 statecode: MI
 ---
 ## Michigan

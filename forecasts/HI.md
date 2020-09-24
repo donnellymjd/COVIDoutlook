@@ -1,6 +1,6 @@
 ---
 title: Hawaii
-layout: noheader
+layout: statereport
 statecode: HI
 ---
 ## Hawaii

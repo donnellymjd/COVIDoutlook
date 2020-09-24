@@ -1,6 +1,6 @@
 ---
 title: Delaware
-layout: noheader
+layout: statereport
 statecode: DE
 ---
 ## Delaware

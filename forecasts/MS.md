@@ -1,6 +1,6 @@
 ---
 title: Mississippi
-layout: noheader
+layout: statereport
 statecode: MS
 ---
 ## Mississippi

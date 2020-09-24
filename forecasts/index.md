@@ -1,6 +1,6 @@
 ---
 title: United States
-layout: noheader
+layout: statereport
 statecode: US
 ---
 ## United States

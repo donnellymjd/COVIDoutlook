@@ -1,6 +1,6 @@
 ---
 title: Nevada
-layout: noheader
+layout: statereport
 statecode: NV
 ---
 ## Nevada

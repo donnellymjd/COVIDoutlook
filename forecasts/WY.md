@@ -1,6 +1,6 @@
 ---
 title: Wyoming
-layout: noheader
+layout: statereport
 statecode: WY
 ---
 ## Wyoming

@@ -1,6 +1,6 @@
 ---
 title: Arizona
-layout: noheader
+layout: statereport
 statecode: AZ
 ---
 ## Arizona

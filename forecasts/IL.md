@@ -1,6 +1,6 @@
 ---
 title: Illinois
-layout: noheader
+layout: statereport
 statecode: IL
 ---
 ## Illinois

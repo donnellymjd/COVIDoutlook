@@ -1,6 +1,6 @@
 ---
 title: Texas
-layout: noheader
+layout: statereport
 statecode: TX
 ---
 ## Texas

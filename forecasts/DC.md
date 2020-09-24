@@ -1,6 +1,6 @@
 ---
 title: District of Columbia
-layout: noheader
+layout: statereport
 statecode: DC
 ---
 ## District of Columbia

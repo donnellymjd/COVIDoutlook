@@ -1,6 +1,6 @@
 ---
 title: Indiana
-layout: noheader
+layout: statereport
 statecode: IN
 ---
 ## Indiana

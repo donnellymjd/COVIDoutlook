@@ -1,6 +1,6 @@
 ---
 title: North Carolina
-layout: noheader
+layout: statereport
 statecode: NC
 ---
 ## North Carolina

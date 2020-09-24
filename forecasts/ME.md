@@ -1,6 +1,6 @@
 ---
 title: Maine
-layout: noheader
+layout: statereport
 statecode: ME
 ---
 ## Maine

@@ -1,6 +1,6 @@
 ---
 title: Minnesota
-layout: noheader
+layout: statereport
 statecode: MN
 ---
 ## Minnesota

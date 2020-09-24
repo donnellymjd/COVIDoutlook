@@ -1,6 +1,6 @@
 ---
 title: Wisconsin
-layout: noheader
+layout: statereport
 statecode: WI
 ---
 ## Wisconsin
