@@ -4,6 +4,38 @@ layout: statereport
 statecode: VA
 ---
 ## Virginia
+<table border="0" class="dataframe">
+  <thead>
+    <tr style="text-align: center;">
+      <th>Riskiest State Rank</th>
+      <th>Population</th>
+      <th>Model Est'd Active Infections</th>
+      <th>Current Reproduction Rate (Rt)</th>
+      <th>Total Cases</th>
+      <th>14-Day Avg Daily Cases</th>
+      <th>Positivity Rate</th>
+      <th>Total Deaths</th>
+      <th>14-Day Avg Daily Deaths</th>
+      <th>Hospitalized</th>
+      <th>14-Day Avg Daily Hosp Admits</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>34</td>
+      <td>8,535,519</td>
+      <td>6,549</td>
+      <td>0.66</td>
+      <td>144,433</td>
+      <td>913.8</td>
+      <td>5.2%</td>
+      <td>3,136</td>
+      <td>30.4</td>
+      <td>965.00</td>
+      <td>63.36</td>
+    </tr>
+  </tbody>
+</table>
 ### How Fast is COVID-19 Currently Spreading?
 <img src='/assets/images/covid19/VA_ch_positivetests.png'>
 Positive COVID-19 Tests Per Day
@@ -40,11 +72,11 @@ New COVID-19 Cases Per 100k Residents Over Last 14 Days
 
 - - - -
 <img src='/assets/images/covid19/VA_ch_googmvmt.png'>
+### Model and Forecast Results
 Google Movement Data
 : Through its [Community Mobility Reports](https://www.google.com/covid19/mobility/), Google has made public aggregate data that represent "movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential." These are percent changes from baseline (roughly the average of visits in February 2020.) Notice the spike in grocery and pharmacy visits in mid-March in most states.
 
 - - - -
-### Model and Forecast Results
 <img src='/assets/images/covid19/VA_ch_exposed_infectious.png'>
 Simultaneous Infections Forecast
 : The model is able to estimate the number of people with active infections in a region over time. The exposed population refers to people who have been infected very recently but are pre-symptomatic and less likely to be able to spread COVID-19. The Infectious Population is an estimate of the number of people who are currently experiencing symptoms and are able to spread COVID-19.
