@@ -4,9 +4,9 @@ layout: statereport
 statecode: NH
 ---
 ## New Hampshire
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -31,7 +31,7 @@ statecode: NH
       <td>2.1%</td>
       <td>438</td>
       <td>0.3</td>
-      <td>16.00</td>
+      <td>16</td>
       <td>0.86</td>
     </tr>
   </tbody>

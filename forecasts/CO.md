@@ -4,9 +4,9 @@ layout: statereport
 statecode: CO
 ---
 ## Colorado
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,11 +27,11 @@ statecode: CO
       <td>3,177</td>
       <td>1.06</td>
       <td>67,217</td>
-      <td>502.3</td>
+      <td>502.3▲</td>
       <td>7.2%▲</td>
       <td>1,935</td>
       <td>3.3</td>
-      <td>258.00</td>
+      <td>258</td>
       <td>19.14</td>
     </tr>
   </tbody>

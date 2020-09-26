@@ -4,9 +4,9 @@ layout: statereport
 statecode: WA
 ---
 ## Washington
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,11 +27,11 @@ statecode: WA
       <td>5,918</td>
       <td>1.35</td>
       <td>84,238</td>
-      <td>373.4</td>
+      <td>373.4▼</td>
       <td>3.1%</td>
       <td>2,080</td>
       <td>6.4</td>
-      <td>269.00</td>
+      <td>269</td>
       <td>24.21</td>
     </tr>
   </tbody>

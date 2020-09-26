@@ -4,9 +4,9 @@ layout: statereport
 statecode: MN
 ---
 ## Minnesota
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,11 +27,11 @@ statecode: MN
       <td>8,450</td>
       <td>1.14</td>
       <td>94,189</td>
-      <td>819.5</td>
+      <td>819.5▲</td>
       <td>8.3%</td>
       <td>2,046</td>
       <td>6.9</td>
-      <td>303.00</td>
+      <td>303</td>
       <td>37.71</td>
     </tr>
   </tbody>

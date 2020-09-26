@@ -4,9 +4,9 @@ layout: statereport
 statecode: CT
 ---
 ## Connecticut
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -31,7 +31,7 @@ statecode: CT
       <td>1.2%</td>
       <td>4,501</td>
       <td>1.5</td>
-      <td>76.00</td>
+      <td>76</td>
       <td>14.50</td>
     </tr>
   </tbody>

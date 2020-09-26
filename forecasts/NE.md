@@ -4,9 +4,9 @@ layout: statereport
 statecode: NE
 ---
 ## Nebraska
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,11 +27,11 @@ statecode: NE
       <td>3,317</td>
       <td>1.10</td>
       <td>42,731</td>
-      <td>382.7</td>
+      <td>382.7▲</td>
       <td>12.3%</td>
       <td>462</td>
       <td>2.3</td>
-      <td>231.00</td>
+      <td>231</td>
       <td>10.00</td>
     </tr>
   </tbody>

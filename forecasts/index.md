@@ -4,10 +4,9 @@ layout: statereport
 statecode: US
 ---
 ## United States
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
-      <th>Riskiest State Rank</th>
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
@@ -21,6 +20,18 @@ statecode: US
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>328,239,523</td>
+      <td>394,464</td>
+      <td>1.03</td>
+      <td>6,948,881</td>
+      <td>41,190.9</td>
+      <td>5.4%</td>
+      <td>194,999</td>
+      <td>756.9</td>
+      <td>29,362</td>
+      <td>Not Available</td>
+    </tr>
   </tbody>
 </table>
 ### How Fast is COVID-19 Currently Spreading?

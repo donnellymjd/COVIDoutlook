@@ -4,9 +4,9 @@ layout: statereport
 statecode: MD
 ---
 ## Maryland
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -31,7 +31,7 @@ statecode: MD
       <td>5.5%▲</td>
       <td>3,917</td>
       <td>6.4</td>
-      <td>344.00</td>
+      <td>344</td>
       <td>40.86</td>
     </tr>
   </tbody>

@@ -4,9 +4,9 @@ layout: statereport
 statecode: MT
 ---
 ## Montana
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,12 +27,12 @@ statecode: MT
       <td>919</td>
       <td>1.57</td>
       <td>11,564</td>
-      <td>198.5</td>
+      <td>198.5▲</td>
       <td>5.4%</td>
       <td>170</td>
-      <td>2.8</td>
-      <td>140.00</td>
-      <td>11.21</td>
+      <td>2.8▲</td>
+      <td>140▼</td>
+      <td>11.21▲</td>
     </tr>
   </tbody>
 </table>

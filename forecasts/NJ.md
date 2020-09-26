@@ -4,9 +4,9 @@ layout: statereport
 statecode: NJ
 ---
 ## New Jersey
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,11 +27,11 @@ statecode: NJ
       <td>1,582</td>
       <td>1.05</td>
       <td>202,100</td>
-      <td>443.7</td>
+      <td>443.7▲</td>
       <td>1.8%</td>
       <td>16,097</td>
       <td>5.2</td>
-      <td>405.00</td>
+      <td>405</td>
       <td>26.21</td>
     </tr>
   </tbody>

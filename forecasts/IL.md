@@ -4,9 +4,9 @@ layout: statereport
 statecode: IL
 ---
 ## Illinois
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,11 +27,11 @@ statecode: IL
       <td>12,027</td>
       <td>1.03</td>
       <td>286,374</td>
-      <td>1,892.2</td>
+      <td>1,892.2▼</td>
       <td>3.6%</td>
       <td>8,807</td>
       <td>21.6</td>
-      <td>1,637.00</td>
+      <td>1,637</td>
       <td>Not Available</td>
     </tr>
   </tbody>

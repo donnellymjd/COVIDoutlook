@@ -4,9 +4,9 @@ layout: statereport
 statecode: ND
 ---
 ## North Dakota
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,12 +27,12 @@ statecode: ND
       <td>2,104</td>
       <td>1.00</td>
       <td>19,885</td>
-      <td>371.5</td>
+      <td>371.5▲</td>
       <td>26.6%▲</td>
       <td>156</td>
-      <td>1.6</td>
-      <td>89.00</td>
-      <td>11.36</td>
+      <td>1.6▲</td>
+      <td>89▲</td>
+      <td>11.36▲</td>
     </tr>
   </tbody>
 </table>

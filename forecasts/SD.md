@@ -4,9 +4,9 @@ layout: statereport
 statecode: SD
 ---
 ## South Dakota
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,12 +27,12 @@ statecode: SD
       <td>5,906</td>
       <td>1.32</td>
       <td>20,554</td>
-      <td>316.9</td>
+      <td>316.9▲</td>
       <td>19.3%▼</td>
       <td>216</td>
-      <td>2.8</td>
-      <td>194.00</td>
-      <td>18.71</td>
+      <td>2.8▲</td>
+      <td>194▲</td>
+      <td>18.71▲</td>
     </tr>
   </tbody>
 </table>

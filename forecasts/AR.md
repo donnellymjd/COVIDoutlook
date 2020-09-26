@@ -4,9 +4,9 @@ layout: statereport
 statecode: AR
 ---
 ## Arkansas
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,11 +27,11 @@ statecode: AR
       <td>6,019</td>
       <td>1.08</td>
       <td>79,946</td>
-      <td>783.1</td>
+      <td>783.1▲</td>
       <td>8.4%</td>
       <td>1,266</td>
-      <td>22.4</td>
-      <td>478.00</td>
+      <td>22.4▲</td>
+      <td>478</td>
       <td>37.43</td>
     </tr>
   </tbody>

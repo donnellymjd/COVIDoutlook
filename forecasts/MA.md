@@ -4,9 +4,9 @@ layout: statereport
 statecode: MA
 ---
 ## Massachusetts
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,12 +27,12 @@ statecode: MA
       <td>1,952</td>
       <td>1.11</td>
       <td>129,481</td>
-      <td>392.5</td>
+      <td>392.5▲</td>
       <td>2.3%▲</td>
       <td>9,373</td>
       <td>13.8</td>
-      <td>389.00</td>
-      <td>14.86</td>
+      <td>389</td>
+      <td>14.86▲</td>
     </tr>
   </tbody>
 </table>

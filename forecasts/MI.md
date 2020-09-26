@@ -4,9 +4,9 @@ layout: statereport
 statecode: MI
 ---
 ## Michigan
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -30,8 +30,8 @@ statecode: MI
       <td>794.7</td>
       <td>2.6%</td>
       <td>7,027</td>
-      <td>9.1</td>
-      <td>558.00</td>
+      <td>9.1▼</td>
+      <td>558</td>
       <td>Not Available</td>
     </tr>
   </tbody>

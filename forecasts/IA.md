@@ -4,9 +4,9 @@ layout: statereport
 statecode: IA
 ---
 ## Iowa
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,11 +27,11 @@ statecode: IA
       <td>6,968</td>
       <td>1.08</td>
       <td>82,045</td>
-      <td>779.4</td>
+      <td>779.4▲</td>
       <td>15.3%▼</td>
       <td>1,307</td>
-      <td>6.9</td>
-      <td>330.00</td>
+      <td>6.9▼</td>
+      <td>330</td>
       <td>0.00</td>
     </tr>
   </tbody>

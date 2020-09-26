@@ -4,9 +4,9 @@ layout: statereport
 statecode: MS
 ---
 ## Mississippi
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,12 +27,12 @@ statecode: MS
       <td>2,504</td>
       <td>1.09</td>
       <td>96,032</td>
-      <td>489.8</td>
+      <td>489.8▼</td>
       <td>6.3%▼</td>
       <td>2,894</td>
-      <td>16.0</td>
-      <td>609.00</td>
-      <td>14.07</td>
+      <td>16.0▼</td>
+      <td>609▼</td>
+      <td>14.07▲</td>
     </tr>
   </tbody>
 </table>

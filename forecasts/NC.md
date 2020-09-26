@@ -4,9 +4,9 @@ layout: statereport
 statecode: NC
 ---
 ## North Carolina
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,11 +27,11 @@ statecode: NC
       <td>19,976</td>
       <td>1.07</td>
       <td>204,331</td>
-      <td>1,574.6</td>
+      <td>1,574.6▲</td>
       <td>6.3%▼</td>
       <td>3,409</td>
       <td>27.6</td>
-      <td>903.00</td>
+      <td>903</td>
       <td>Not Available</td>
     </tr>
   </tbody>

@@ -4,9 +4,9 @@ layout: statereport
 statecode: OR
 ---
 ## Oregon
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,12 +27,12 @@ statecode: OR
       <td>8,094</td>
       <td>1.30</td>
       <td>32,314</td>
-      <td>246.4</td>
+      <td>246.4▲</td>
       <td>6.0%</td>
       <td>542</td>
       <td>3.1</td>
-      <td>199.00</td>
-      <td>18.64</td>
+      <td>199</td>
+      <td>18.64▲</td>
     </tr>
   </tbody>
 </table>

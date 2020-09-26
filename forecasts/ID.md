@@ -4,9 +4,9 @@ layout: statereport
 statecode: ID
 ---
 ## Idaho
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,11 +27,11 @@ statecode: ID
       <td>2,681</td>
       <td>1.27</td>
       <td>39,234</td>
-      <td>329.8</td>
+      <td>329.8▲</td>
       <td>17.7%▲</td>
       <td>457</td>
-      <td>3.6</td>
-      <td>147.00</td>
+      <td>3.6▼</td>
+      <td>147▼</td>
       <td>15.36</td>
     </tr>
   </tbody>

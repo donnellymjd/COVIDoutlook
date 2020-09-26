@@ -4,9 +4,9 @@ layout: statereport
 statecode: HI
 ---
 ## Hawaii
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,12 +27,12 @@ statecode: HI
       <td>264</td>
       <td>0.88</td>
       <td>11,779</td>
-      <td>106.2</td>
+      <td>106.2▼</td>
       <td>3.7%▼</td>
       <td>124</td>
-      <td>2.1</td>
-      <td>150.00</td>
-      <td>12.07</td>
+      <td>2.1▼</td>
+      <td>150▼</td>
+      <td>12.07▲</td>
     </tr>
   </tbody>
 </table>

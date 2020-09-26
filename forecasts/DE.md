@@ -4,9 +4,9 @@ layout: statereport
 statecode: DE
 ---
 ## Delaware
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,11 +27,11 @@ statecode: DE
       <td>871</td>
       <td>1.05</td>
       <td>20,085</td>
-      <td>115.6</td>
+      <td>115.6▲</td>
       <td>7.1%▲</td>
       <td>631</td>
-      <td>1.3</td>
-      <td>53.00</td>
+      <td>1.3▲</td>
+      <td>53</td>
       <td>Not Available</td>
     </tr>
   </tbody>

@@ -4,9 +4,9 @@ layout: statereport
 statecode: UT
 ---
 ## Utah
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,12 +27,12 @@ statecode: UT
       <td>5,890</td>
       <td>1.22</td>
       <td>68,530</td>
-      <td>846.8</td>
+      <td>846.8▲</td>
       <td>13.6%▲</td>
       <td>448</td>
       <td>1.2</td>
-      <td>190.00</td>
-      <td>27.14</td>
+      <td>190</td>
+      <td>27.14▲</td>
     </tr>
   </tbody>
 </table>

@@ -4,9 +4,9 @@ layout: statereport
 statecode: AZ
 ---
 ## Arizona
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,11 +27,11 @@ statecode: AZ
       <td>5,140</td>
       <td>0.67</td>
       <td>216,367</td>
-      <td>631.7</td>
+      <td>631.7▲</td>
       <td>6.0%</td>
       <td>5,587</td>
       <td>21.4</td>
-      <td>521.00</td>
+      <td>521▼</td>
       <td>16.07</td>
     </tr>
   </tbody>

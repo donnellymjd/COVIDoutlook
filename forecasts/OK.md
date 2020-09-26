@@ -4,9 +4,9 @@ layout: statereport
 statecode: OK
 ---
 ## Oklahoma
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,12 +27,12 @@ statecode: OK
       <td>9,836</td>
       <td>1.04</td>
       <td>82,520</td>
-      <td>1,062.7</td>
+      <td>1,062.7▲</td>
       <td>9.0%</td>
       <td>993</td>
       <td>7.5</td>
-      <td>590.00</td>
-      <td>58.79</td>
+      <td>590</td>
+      <td>58.79▲</td>
     </tr>
   </tbody>
 </table>

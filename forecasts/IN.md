@@ -4,9 +4,9 @@ layout: statereport
 statecode: IN
 ---
 ## Indiana
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -31,7 +31,7 @@ statecode: IN
       <td>7.5%▼</td>
       <td>3,566</td>
       <td>10.4</td>
-      <td>856.00</td>
+      <td>856</td>
       <td>58.00</td>
     </tr>
   </tbody>

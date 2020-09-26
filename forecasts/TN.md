@@ -4,9 +4,9 @@ layout: statereport
 statecode: TN
 ---
 ## Tennessee
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -31,7 +31,7 @@ statecode: TN
       <td>5.7%</td>
       <td>2,352</td>
       <td>23.4</td>
-      <td>838.00</td>
+      <td>838▼</td>
       <td>60.93</td>
     </tr>
   </tbody>

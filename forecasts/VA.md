@@ -4,9 +4,9 @@ layout: statereport
 statecode: VA
 ---
 ## Virginia
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,12 +27,12 @@ statecode: VA
       <td>6,549</td>
       <td>0.66</td>
       <td>144,433</td>
-      <td>913.8</td>
+      <td>913.8▼</td>
       <td>5.2%</td>
       <td>3,136</td>
-      <td>30.4</td>
-      <td>965.00</td>
-      <td>63.36</td>
+      <td>30.4▲</td>
+      <td>965▼</td>
+      <td>63.36▼</td>
     </tr>
   </tbody>
 </table>

@@ -4,9 +4,9 @@ layout: statereport
 statecode: RI
 ---
 ## Rhode Island
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -30,9 +30,9 @@ statecode: RI
       <td>91.1</td>
       <td>4.7%</td>
       <td>1,107</td>
-      <td>2.6</td>
-      <td>94.00</td>
-      <td>7.50</td>
+      <td>2.6▲</td>
+      <td>94</td>
+      <td>7.50▼</td>
     </tr>
   </tbody>
 </table>

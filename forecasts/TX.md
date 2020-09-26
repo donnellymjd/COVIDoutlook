@@ -4,9 +4,9 @@ layout: statereport
 statecode: TX
 ---
 ## Texas
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,11 +27,11 @@ statecode: TX
       <td>43,402</td>
       <td>1.02</td>
       <td>728,552</td>
-      <td>5,371.1</td>
+      <td>5,371.1▲</td>
       <td>16.4%▲</td>
       <td>15,364</td>
-      <td>97.6</td>
-      <td>3,221.00</td>
+      <td>97.6▼</td>
+      <td>3,221▼</td>
       <td>Not Available</td>
     </tr>
   </tbody>

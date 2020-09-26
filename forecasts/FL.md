@@ -4,9 +4,9 @@ layout: statereport
 statecode: FL
 ---
 ## Florida
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,12 +27,12 @@ statecode: FL
       <td>23,203</td>
       <td>0.88</td>
       <td>695,887</td>
-      <td>2,679.0</td>
+      <td>2,679.0▼</td>
       <td>11.4%</td>
       <td>14,083</td>
-      <td>101.8</td>
-      <td>2,121.00</td>
-      <td>164.21</td>
+      <td>101.8▼</td>
+      <td>2,121▼</td>
+      <td>164.21▼</td>
     </tr>
   </tbody>
 </table>

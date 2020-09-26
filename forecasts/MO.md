@@ -4,9 +4,9 @@ layout: statereport
 statecode: MO
 ---
 ## Missouri
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,11 +27,11 @@ statecode: MO
       <td>31,029</td>
       <td>1.22</td>
       <td>120,298</td>
-      <td>1,509.9</td>
+      <td>1,509.9▲</td>
       <td>12.0%▼</td>
       <td>1,994</td>
-      <td>20.9</td>
-      <td>1,068.00</td>
+      <td>20.9▲</td>
+      <td>1,068▲</td>
       <td>Not Available</td>
     </tr>
   </tbody>

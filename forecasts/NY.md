@@ -4,9 +4,9 @@ layout: statereport
 statecode: NY
 ---
 ## New York
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -31,7 +31,7 @@ statecode: NY
       <td>0.9%</td>
       <td>25,446</td>
       <td>4.6</td>
-      <td>511.00</td>
+      <td>511</td>
       <td>0.00</td>
     </tr>
   </tbody>

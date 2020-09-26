@@ -4,9 +4,9 @@ layout: statereport
 statecode: WI
 ---
 ## Wisconsin
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,12 +27,12 @@ statecode: WI
       <td>22,095</td>
       <td>1.29</td>
       <td>117,329</td>
-      <td>1,836.0</td>
+      <td>1,836.0▲</td>
       <td>16.5%▲</td>
       <td>1,284</td>
       <td>5.6</td>
-      <td>543.00</td>
-      <td>49.93</td>
+      <td>543▲</td>
+      <td>49.93▲</td>
     </tr>
   </tbody>
 </table>

@@ -4,9 +4,9 @@ layout: statereport
 statecode: LA
 ---
 ## Louisiana
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,11 +27,11 @@ statecode: LA
       <td>3,947</td>
       <td>1.05</td>
       <td>165,152</td>
-      <td>574.5</td>
+      <td>574.5▼</td>
       <td>3.7%▼</td>
       <td>5,444</td>
-      <td>17.3</td>
-      <td>570.00</td>
+      <td>17.3▼</td>
+      <td>570▼</td>
       <td>Not Available</td>
     </tr>
   </tbody>

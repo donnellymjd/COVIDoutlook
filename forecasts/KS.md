@@ -4,9 +4,9 @@ layout: statereport
 statecode: KS
 ---
 ## Kansas
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,11 +27,11 @@ statecode: KS
       <td>3,027</td>
       <td>1.15</td>
       <td>56,592</td>
-      <td>586.1</td>
+      <td>586.1▲</td>
       <td>15.2%▲</td>
       <td>632</td>
-      <td>8.6</td>
-      <td>343.00</td>
+      <td>8.6▲</td>
+      <td>343</td>
       <td>19.93</td>
     </tr>
   </tbody>

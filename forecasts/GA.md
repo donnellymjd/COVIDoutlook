@@ -4,9 +4,9 @@ layout: statereport
 statecode: GA
 ---
 ## Georgia
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,11 +27,11 @@ statecode: GA
       <td>13,131</td>
       <td>0.77</td>
       <td>312,514</td>
-      <td>1,552.4</td>
+      <td>1,552.4▼</td>
       <td>7.5%▼</td>
       <td>6,874</td>
-      <td>44.9</td>
-      <td>1,891.00</td>
+      <td>44.9▼</td>
+      <td>1,891▼</td>
       <td>133.71</td>
     </tr>
   </tbody>

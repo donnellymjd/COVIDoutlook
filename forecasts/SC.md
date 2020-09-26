@@ -4,9 +4,9 @@ layout: statereport
 statecode: SC
 ---
 ## South Carolina
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,12 +27,12 @@ statecode: SC
       <td>8,161</td>
       <td>1.02</td>
       <td>143,902</td>
-      <td>1,061.1</td>
+      <td>1,061.1▲</td>
       <td>8.2%▼</td>
       <td>3,297</td>
-      <td>19.2</td>
-      <td>773.00</td>
-      <td>45.79</td>
+      <td>19.2▼</td>
+      <td>773▼</td>
+      <td>45.79▼</td>
     </tr>
   </tbody>
 </table>

@@ -4,9 +4,9 @@ layout: statereport
 statecode: PA
 ---
 ## Pennsylvania
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -31,7 +31,7 @@ statecode: PA
       <td>6.4%▲</td>
       <td>8,081</td>
       <td>17.4</td>
-      <td>435.00</td>
+      <td>435</td>
       <td>73.00</td>
     </tr>
   </tbody>

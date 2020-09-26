@@ -4,9 +4,9 @@ layout: statereport
 statecode: AL
 ---
 ## Alabama
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -30,8 +30,8 @@ statecode: AL
       <td>996.8</td>
       <td>13.5%▼</td>
       <td>2,491</td>
-      <td>11.3</td>
-      <td>718.00</td>
+      <td>11.3▼</td>
+      <td>718▼</td>
       <td>94.64</td>
     </tr>
   </tbody>

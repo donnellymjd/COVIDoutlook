@@ -4,9 +4,9 @@ layout: statereport
 statecode: WY
 ---
 ## Wyoming
-<table border="0" class="dataframe">
+<table border="0" class="w3-table w3-striped w3-bordered w3-hoverable w3-medium">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: center;" class="w3-light-grey">
       <th>Riskiest State Rank</th>
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
@@ -27,12 +27,12 @@ statecode: WY
       <td>152</td>
       <td>0.90</td>
       <td>5,420</td>
-      <td>82.6</td>
+      <td>82.6▲</td>
       <td>10.1%▲</td>
       <td>50</td>
       <td>0.6</td>
-      <td>22.00</td>
-      <td>2.07</td>
+      <td>22</td>
+      <td>2.07▲</td>
     </tr>
   </tbody>
 </table>
