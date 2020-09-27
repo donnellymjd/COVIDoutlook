@@ -22,17 +22,17 @@ statecode: NM
   </thead>
   <tbody>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>2,096,829</td>
-      <td>3,187</td>
-      <td>1.25</td>
-      <td>28,224</td>
-      <td>128.2</td>
-      <td>2.3%</td>
-      <td>859</td>
-      <td>3.1</td>
-      <td>66</td>
-      <td>11.71</td>
+      <td>3,513</td>
+      <td>1.31</td>
+      <td>28,487</td>
+      <td>137.4▲</td>
+      <td>2.4%</td>
+      <td>865</td>
+      <td>3.4</td>
+      <td>75</td>
+      <td>12.36▲</td>
     </tr>
   </tbody>
 </table>
