@@ -22,16 +22,16 @@ statecode: PA
   </thead>
   <tbody>
     <tr>
-      <td>40</td>
+      <td>38</td>
       <td>12,801,989</td>
-      <td>4,826</td>
-      <td>0.90</td>
-      <td>155,232</td>
-      <td>816.2</td>
-      <td>6.4%▲</td>
-      <td>8,103</td>
-      <td>19.0▲</td>
-      <td>444</td>
+      <td>6,293</td>
+      <td>1.07</td>
+      <td>156,150</td>
+      <td>876.4▲</td>
+      <td>6.3%</td>
+      <td>8,106</td>
+      <td>19.2▲</td>
+      <td>462</td>
       <td>73.00</td>
     </tr>
   </tbody>

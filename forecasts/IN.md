@@ -22,17 +22,17 @@ statecode: IN
   </thead>
   <tbody>
     <tr>
-      <td>14</td>
+      <td>8</td>
       <td>6,732,219</td>
-      <td>13,858</td>
-      <td>1.13</td>
-      <td>116,549</td>
-      <td>856.3</td>
-      <td>8.4%▼</td>
-      <td>3,577</td>
-      <td>10.0</td>
+      <td>16,247</td>
+      <td>1.22</td>
+      <td>117,450</td>
+      <td>831.9</td>
+      <td>9.7%▼</td>
+      <td>3,580</td>
+      <td>10.1</td>
       <td>910</td>
-      <td>57.93</td>
+      <td>60.50</td>
     </tr>
   </tbody>
 </table>

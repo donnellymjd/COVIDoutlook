@@ -24,15 +24,15 @@ statecode: RI
     <tr>
       <td>39</td>
       <td>1,059,361</td>
-      <td>448</td>
-      <td>0.69</td>
+      <td>506</td>
+      <td>0.81</td>
       <td>24,181</td>
-      <td>84.4</td>
-      <td>4.9%</td>
+      <td>77.4</td>
+      <td>4.8%▲</td>
       <td>1,107</td>
-      <td>2.5▲</td>
+      <td>2.3</td>
       <td>94</td>
-      <td>6.14▼</td>
+      <td>5.79▼</td>
     </tr>
   </tbody>
 </table>
