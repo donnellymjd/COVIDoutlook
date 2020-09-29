@@ -22,17 +22,17 @@ statecode: ID
   </thead>
   <tbody>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>1,787,065</td>
-      <td>3,260</td>
-      <td>1.35</td>
-      <td>40,296</td>
-      <td>366.4▲</td>
+      <td>2,778</td>
+      <td>1.30</td>
+      <td>40,501</td>
+      <td>373.0▲</td>
       <td>18.5%▲</td>
       <td>460</td>
       <td>3.2▼</td>
       <td>135▼</td>
-      <td>15.36</td>
+      <td>15.00</td>
     </tr>
   </tbody>
 </table>

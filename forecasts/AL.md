@@ -22,17 +22,17 @@ statecode: AL
   </thead>
   <tbody>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>4,903,185</td>
-      <td>7,463</td>
-      <td>0.89</td>
-      <td>152,321</td>
-      <td>969.0</td>
-      <td>12.9%▼</td>
+      <td>6,668</td>
+      <td>0.86</td>
+      <td>152,983</td>
+      <td>966.0</td>
+      <td>12.8%▼</td>
       <td>2,501</td>
-      <td>10.7▼</td>
-      <td>741▼</td>
-      <td>94.64</td>
+      <td>10.4</td>
+      <td>753▼</td>
+      <td>95.36▼</td>
     </tr>
   </tbody>
 </table>

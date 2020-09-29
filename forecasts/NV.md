@@ -24,14 +24,14 @@ statecode: NV
     <tr>
       <td>6</td>
       <td>3,080,156</td>
-      <td>8,239</td>
+      <td>7,606</td>
       <td>1.21</td>
-      <td>78,728</td>
-      <td>370.8▲</td>
-      <td>11.1%▼</td>
+      <td>79,191</td>
+      <td>384.1▲</td>
+      <td>11.2%▼</td>
       <td>1,585</td>
-      <td>9.5</td>
-      <td>442▼</td>
+      <td>9.2▼</td>
+      <td>451▼</td>
       <td>Not Available</td>
     </tr>
   </tbody>
