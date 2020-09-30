@@ -22,16 +22,16 @@ statecode: NH
   </thead>
   <tbody>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>1,359,711</td>
-      <td>76</td>
-      <td>0.95</td>
-      <td>8,208</td>
-      <td>35.3</td>
+      <td>92</td>
+      <td>1.06</td>
+      <td>8,233</td>
+      <td>34.6</td>
       <td>1.3%</td>
       <td>439</td>
-      <td>0.2</td>
-      <td>16</td>
+      <td>0.1</td>
+      <td>13</td>
       <td>1.14</td>
     </tr>
   </tbody>

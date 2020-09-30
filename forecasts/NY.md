@@ -24,14 +24,14 @@ statecode: NY
     <tr>
       <td>51</td>
       <td>19,453,561</td>
-      <td>730</td>
-      <td>1.09</td>
-      <td>456,460</td>
-      <td>822.3</td>
+      <td>739</td>
+      <td>1.18</td>
+      <td>457,649</td>
+      <td>852.5</td>
       <td>1.0%</td>
-      <td>25,468</td>
-      <td>5.3</td>
-      <td>543</td>
+      <td>25,470</td>
+      <td>4.6</td>
+      <td>541</td>
       <td>0.00</td>
     </tr>
   </tbody>

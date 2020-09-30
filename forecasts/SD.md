@@ -22,17 +22,17 @@ statecode: SD
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>884,659</td>
-      <td>5,877</td>
-      <td>1.31</td>
-      <td>21,738</td>
-      <td>352.6▲</td>
-      <td>21.3%▼</td>
-      <td>218</td>
-      <td>2.4▲</td>
-      <td>209▲</td>
-      <td>22.64▲</td>
+      <td>6,396</td>
+      <td>1.29</td>
+      <td>21,997</td>
+      <td>357.4▲</td>
+      <td>21.7%▼</td>
+      <td>223</td>
+      <td>2.8▲</td>
+      <td>211▲</td>
+      <td>22.57▲</td>
     </tr>
   </tbody>
 </table>
