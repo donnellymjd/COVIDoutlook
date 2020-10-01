@@ -24,13 +24,13 @@ statecode: MO
     <tr>
       <td>3</td>
       <td>6,137,428</td>
-      <td>31,226</td>
-      <td>1.17</td>
-      <td>124,762</td>
-      <td>1,383.3</td>
-      <td>13.1%▼</td>
-      <td>2,086</td>
-      <td>25.3▲</td>
+      <td>28,632</td>
+      <td>1.11</td>
+      <td>126,113</td>
+      <td>1,394.7</td>
+      <td>13.9%</td>
+      <td>2,118</td>
+      <td>27.1▲</td>
       <td>1,137▲</td>
       <td>Not Available</td>
     </tr>

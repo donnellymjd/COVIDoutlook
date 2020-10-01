@@ -24,15 +24,15 @@ statecode: OH
     <tr>
       <td>19</td>
       <td>11,689,100</td>
-      <td>16,223</td>
-      <td>1.14</td>
-      <td>152,907</td>
-      <td>958.7</td>
+      <td>17,702</td>
+      <td>1.17</td>
+      <td>153,987</td>
+      <td>962.1</td>
       <td>2.8%</td>
-      <td>4,783</td>
-      <td>19.8</td>
-      <td>672</td>
-      <td>66.57</td>
+      <td>4,804</td>
+      <td>17.8▼</td>
+      <td>689</td>
+      <td>68.29</td>
     </tr>
   </tbody>
 </table>

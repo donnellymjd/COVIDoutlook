@@ -24,14 +24,14 @@ statecode: VT
     <tr>
       <td>48</td>
       <td>623,989</td>
-      <td>51</td>
-      <td>1.26</td>
-      <td>1,749</td>
-      <td>3.4</td>
-      <td>0.4%</td>
+      <td>57</td>
+      <td>1.25</td>
+      <td>1,752</td>
+      <td>3.6</td>
+      <td>0.5%</td>
       <td>58</td>
       <td>0.0</td>
-      <td>5</td>
+      <td>3</td>
       <td>5.00</td>
     </tr>
   </tbody>

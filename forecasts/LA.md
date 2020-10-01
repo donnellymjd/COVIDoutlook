@@ -24,14 +24,14 @@ statecode: LA
     <tr>
       <td>32</td>
       <td>4,648,794</td>
-      <td>3,206</td>
-      <td>0.94</td>
-      <td>166,848</td>
-      <td>542.5▼</td>
-      <td>3.5%▼</td>
-      <td>5,490</td>
-      <td>15.1▼</td>
-      <td>578▼</td>
+      <td>3,424</td>
+      <td>0.97</td>
+      <td>167,458</td>
+      <td>542.4▼</td>
+      <td>3.7%▼</td>
+      <td>5,511</td>
+      <td>15.5▼</td>
+      <td>553▼</td>
       <td>Not Available</td>
     </tr>
   </tbody>
