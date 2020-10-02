@@ -22,17 +22,17 @@ statecode: OH
   </thead>
   <tbody>
     <tr>
-      <td>19</td>
+      <td>16</td>
       <td>11,689,100</td>
-      <td>17,702</td>
+      <td>18,303</td>
       <td>1.17</td>
-      <td>153,987</td>
-      <td>962.1</td>
-      <td>2.8%</td>
-      <td>4,804</td>
-      <td>17.8▼</td>
-      <td>689</td>
-      <td>68.29</td>
+      <td>155,314</td>
+      <td>980.6</td>
+      <td>2.6%</td>
+      <td>4,817</td>
+      <td>16.9▼</td>
+      <td>699</td>
+      <td>70.07</td>
     </tr>
   </tbody>
 </table>

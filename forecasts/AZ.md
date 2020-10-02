@@ -22,17 +22,17 @@ statecode: AZ
   </thead>
   <tbody>
     <tr>
-      <td>22</td>
+      <td>19</td>
       <td>7,278,717</td>
-      <td>9,667</td>
-      <td>1.22</td>
-      <td>218,507</td>
-      <td>614.3▲</td>
-      <td>6.4%</td>
-      <td>5,650</td>
-      <td>19.9</td>
-      <td>560▼</td>
-      <td>21.00</td>
+      <td>10,754</td>
+      <td>1.25</td>
+      <td>219,212</td>
+      <td>539.4</td>
+      <td>6.1%</td>
+      <td>5,674</td>
+      <td>18.9</td>
+      <td>620▼</td>
+      <td>28.93</td>
     </tr>
   </tbody>
 </table>

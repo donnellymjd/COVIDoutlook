@@ -24,15 +24,15 @@ statecode: KY
     <tr>
       <td>5</td>
       <td>4,467,673</td>
-      <td>14,109</td>
-      <td>1.16</td>
-      <td>68,840</td>
-      <td>719.7▲</td>
+      <td>17,280</td>
+      <td>1.24</td>
+      <td>69,728</td>
+      <td>739.9▲</td>
       <td>2.8%▼</td>
-      <td>1,174</td>
-      <td>6.6</td>
-      <td>541</td>
-      <td>25.14▲</td>
+      <td>1,191</td>
+      <td>7.0</td>
+      <td>524</td>
+      <td>24.21</td>
     </tr>
   </tbody>
 </table>
