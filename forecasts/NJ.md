@@ -24,15 +24,15 @@ statecode: NJ
     <tr>
       <td>47</td>
       <td>8,882,190</td>
-      <td>2,215</td>
-      <td>1.20</td>
-      <td>205,889</td>
-      <td>537.7▲</td>
+      <td>2,011</td>
+      <td>1.13</td>
+      <td>207,576</td>
+      <td>590.5▲</td>
       <td>2.2%</td>
-      <td>16,127</td>
-      <td>5.0</td>
-      <td>523</td>
-      <td>29.00</td>
+      <td>16,135</td>
+      <td>5.5</td>
+      <td>485</td>
+      <td>27.93</td>
     </tr>
   </tbody>
 </table>

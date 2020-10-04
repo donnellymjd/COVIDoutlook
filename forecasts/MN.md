@@ -22,17 +22,17 @@ statecode: MN
   </thead>
   <tbody>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>5,639,632</td>
-      <td>7,977</td>
-      <td>0.92</td>
-      <td>100,200</td>
-      <td>962.7▲</td>
-      <td>8.1%</td>
-      <td>2,102</td>
-      <td>7.7</td>
-      <td>340</td>
-      <td>50.57▲</td>
+      <td>9,040</td>
+      <td>0.97</td>
+      <td>102,787</td>
+      <td>1,004.7▲</td>
+      <td>8.2%</td>
+      <td>2,126</td>
+      <td>7.9</td>
+      <td>340▲</td>
+      <td>51.57▲</td>
     </tr>
   </tbody>
 </table>
