@@ -22,17 +22,17 @@ statecode: VA
   </thead>
   <tbody>
     <tr>
-      <td>24</td>
+      <td>36</td>
       <td>8,535,519</td>
-      <td>12,448</td>
-      <td>0.91</td>
-      <td>150,803</td>
-      <td>796.3▼</td>
-      <td>4.5%▼</td>
-      <td>3,270</td>
-      <td>20.0</td>
-      <td>906▼</td>
-      <td>64.86▼</td>
+      <td>13,439</td>
+      <td>0.90</td>
+      <td>152,557</td>
+      <td>815.6▼</td>
+      <td>4.7%▼</td>
+      <td>3,276</td>
+      <td>18.2▼</td>
+      <td>925▼</td>
+      <td>65.71▼</td>
     </tr>
   </tbody>
 </table>

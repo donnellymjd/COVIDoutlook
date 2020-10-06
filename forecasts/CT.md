@@ -22,16 +22,16 @@ statecode: CT
   </thead>
   <tbody>
     <tr>
-      <td>29</td>
+      <td>42</td>
       <td>3,565,287</td>
-      <td>3,779</td>
-      <td>1.77</td>
-      <td>58,297</td>
-      <td>197.9▲</td>
-      <td>1.1%</td>
-      <td>4,513</td>
-      <td>1.5</td>
-      <td>110</td>
+      <td>3,303</td>
+      <td>1.30</td>
+      <td>59,120</td>
+      <td>221.1</td>
+      <td>1.2%</td>
+      <td>4,517</td>
+      <td>1.6</td>
+      <td>129</td>
       <td>18.00▲</td>
     </tr>
   </tbody>

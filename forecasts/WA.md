@@ -22,17 +22,17 @@ statecode: WA
   </thead>
   <tbody>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>7,614,893</td>
-      <td>3,573</td>
-      <td>1.08</td>
-      <td>88,810</td>
-      <td>514.9▲</td>
-      <td>3.6%</td>
-      <td>2,143</td>
-      <td>7.6</td>
-      <td>263</td>
-      <td>26.50</td>
+      <td>6,241</td>
+      <td>0.92</td>
+      <td>89,874</td>
+      <td>523.3▲</td>
+      <td>3.7%</td>
+      <td>2,142</td>
+      <td>7.5</td>
+      <td>260</td>
+      <td>26.14</td>
     </tr>
   </tbody>
 </table>

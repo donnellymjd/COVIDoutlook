@@ -22,16 +22,16 @@ statecode: VT
   </thead>
   <tbody>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>623,989</td>
-      <td>114</td>
-      <td>1.50</td>
-      <td>1,778</td>
-      <td>4.9</td>
-      <td>0.6%</td>
+      <td>17</td>
+      <td>1.23</td>
+      <td>1,817</td>
+      <td>7.0</td>
+      <td>0.9%</td>
       <td>58</td>
       <td>0.0</td>
-      <td>0</td>
+      <td>1</td>
       <td>5.00</td>
     </tr>
   </tbody>
