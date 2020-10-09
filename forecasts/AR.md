@@ -22,17 +22,17 @@ statecode: AR
   </thead>
   <tbody>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>3,017,804</td>
-      <td>4,237</td>
-      <td>0.94</td>
-      <td>87,430</td>
-      <td>790.4▲</td>
-      <td>5.8%▼</td>
-      <td>1,447</td>
-      <td>17.9▼</td>
-      <td>516▲</td>
-      <td>42.86▲</td>
+      <td>2,690</td>
+      <td>0.90</td>
+      <td>90,145</td>
+      <td>792.6</td>
+      <td>5.7%▼</td>
+      <td>1,503</td>
+      <td>18.4▼</td>
+      <td>546▲</td>
+      <td>46.07▲</td>
     </tr>
   </tbody>
 </table>

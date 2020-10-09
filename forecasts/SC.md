@@ -22,17 +22,17 @@ statecode: SC
   </thead>
   <tbody>
     <tr>
-      <td>37</td>
+      <td>47</td>
       <td>5,148,714</td>
-      <td>7,365</td>
-      <td>0.96</td>
-      <td>152,159</td>
-      <td>1,002.5▲</td>
-      <td>5.7%▼</td>
-      <td>3,456</td>
-      <td>17.4▼</td>
-      <td>593▼</td>
-      <td>36.00▼</td>
+      <td>2,792</td>
+      <td>1.10</td>
+      <td>154,755</td>
+      <td>860.6▼</td>
+      <td>5.4%▼</td>
+      <td>3,514</td>
+      <td>16.8▼</td>
+      <td>716▼</td>
+      <td>37.86▼</td>
     </tr>
   </tbody>
 </table>
