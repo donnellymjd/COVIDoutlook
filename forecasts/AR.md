@@ -24,15 +24,15 @@ statecode: AR
     <tr>
       <td>40</td>
       <td>3,017,804</td>
-      <td>2,690</td>
-      <td>0.90</td>
+      <td>2,748</td>
+      <td>0.91</td>
       <td>90,145</td>
-      <td>792.6</td>
-      <td>5.7%▼</td>
+      <td>728.5▼</td>
+      <td>5.5%▼</td>
       <td>1,503</td>
-      <td>18.4▼</td>
+      <td>16.9▼</td>
       <td>546▲</td>
-      <td>46.07▲</td>
+      <td>43.07▲</td>
     </tr>
   </tbody>
 </table>

@@ -24,15 +24,15 @@ statecode: OK
     <tr>
       <td>3</td>
       <td>3,956,971</td>
-      <td>17,346</td>
+      <td>18,158</td>
       <td>1.11</td>
-      <td>95,564</td>
-      <td>1,022.9</td>
+      <td>97,088</td>
+      <td>1,040.6</td>
       <td>8.0%</td>
-      <td>1,085</td>
-      <td>7.4</td>
-      <td>697▲</td>
-      <td>63.71▲</td>
+      <td>1,091</td>
+      <td>7.0</td>
+      <td>749▲</td>
+      <td>66.57▲</td>
     </tr>
   </tbody>
 </table>
