@@ -22,16 +22,16 @@ statecode: TX
   </thead>
   <tbody>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>28,995,881</td>
-      <td>63,108</td>
-      <td>0.90</td>
-      <td>785,830</td>
-      <td>4,091.3▼</td>
-      <td>6.9%▼</td>
-      <td>16,432</td>
-      <td>76.3▼</td>
-      <td>3,593</td>
+      <td>64,920</td>
+      <td>0.92</td>
+      <td>790,060</td>
+      <td>4,044.4▼</td>
+      <td>6.8%▼</td>
+      <td>16,526</td>
+      <td>74.4▼</td>
+      <td>3,628</td>
       <td>Not Available</td>
     </tr>
   </tbody>

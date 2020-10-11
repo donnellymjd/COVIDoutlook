@@ -22,16 +22,16 @@ statecode: AK
   </thead>
   <tbody>
     <tr>
-      <td>39</td>
+      <td>37</td>
       <td>731,545</td>
-      <td>774</td>
-      <td>1.34</td>
-      <td>10,176</td>
-      <td>141.0▲</td>
-      <td>3.8%</td>
+      <td>938</td>
+      <td>1.48</td>
+      <td>10,428</td>
+      <td>150.9▲</td>
+      <td>3.7%</td>
       <td>60</td>
       <td>0.6</td>
-      <td>51</td>
+      <td>66</td>
       <td>0.00</td>
     </tr>
   </tbody>

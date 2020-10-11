@@ -22,15 +22,15 @@ statecode: RI
   </thead>
   <tbody>
     <tr>
-      <td>26</td>
+      <td>29</td>
       <td>1,059,361</td>
-      <td>2,419</td>
-      <td>1.10</td>
+      <td>2,282</td>
+      <td>1.05</td>
       <td>26,294</td>
-      <td>150.9▲</td>
-      <td>5.6%</td>
+      <td>143.6▲</td>
+      <td>5.8%</td>
       <td>1,130</td>
-      <td>1.6▼</td>
+      <td>1.4▼</td>
       <td>112▲</td>
       <td>12.64▲</td>
     </tr>

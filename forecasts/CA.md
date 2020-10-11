@@ -22,16 +22,16 @@ statecode: CA
   </thead>
   <tbody>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>39,512,223</td>
-      <td>54,896</td>
-      <td>0.91</td>
-      <td>838,606</td>
-      <td>3,183.3</td>
+      <td>54,987</td>
+      <td>0.92</td>
+      <td>842,776</td>
+      <td>3,181.4</td>
       <td>2.6%</td>
-      <td>16,428</td>
-      <td>73.6▼</td>
-      <td>3,186▼</td>
+      <td>16,500</td>
+      <td>69.1▼</td>
+      <td>3,084</td>
       <td>Not Available</td>
     </tr>
   </tbody>

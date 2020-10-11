@@ -26,13 +26,13 @@ statecode: WY
       <td>578,759</td>
       <td>1,749</td>
       <td>1.15</td>
-      <td>7,335</td>
-      <td>136.8▲</td>
-      <td>15.1%▲</td>
+      <td>7,455</td>
+      <td>142.1▲</td>
+      <td>15.6%▲</td>
       <td>54</td>
       <td>0.3▼</td>
       <td>54▲</td>
-      <td>4.36▲</td>
+      <td>4.64▲</td>
     </tr>
   </tbody>
 </table>

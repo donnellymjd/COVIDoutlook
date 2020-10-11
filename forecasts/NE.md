@@ -22,17 +22,17 @@ statecode: NE
   </thead>
   <tbody>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>1,934,408</td>
-      <td>2,387</td>
-      <td>1.08</td>
-      <td>50,059</td>
-      <td>523.4▲</td>
-      <td>12.8%▲</td>
-      <td>514</td>
-      <td>3.7▲</td>
-      <td>293▲</td>
-      <td>15.86▲</td>
+      <td>2,410</td>
+      <td>1.07</td>
+      <td>51,144</td>
+      <td>570.1▲</td>
+      <td>12.5%▲</td>
+      <td>519</td>
+      <td>3.6▲</td>
+      <td>299▲</td>
+      <td>15.93▲</td>
     </tr>
   </tbody>
 </table>
