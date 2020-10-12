@@ -24,14 +24,14 @@ statecode: AK
     <tr>
       <td>37</td>
       <td>731,545</td>
-      <td>938</td>
-      <td>1.48</td>
-      <td>10,428</td>
-      <td>150.9▲</td>
-      <td>3.7%</td>
+      <td>1,065</td>
+      <td>1.55</td>
+      <td>10,686</td>
+      <td>161.1▲</td>
+      <td>3.8%</td>
       <td>60</td>
-      <td>0.6</td>
-      <td>66</td>
+      <td>0.3▼</td>
+      <td>57</td>
       <td>0.00</td>
     </tr>
   </tbody>

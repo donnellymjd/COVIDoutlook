@@ -24,14 +24,14 @@ statecode: DC
     <tr>
       <td>1</td>
       <td>705,749</td>
-      <td>5,142</td>
-      <td>1.33</td>
-      <td>15,918</td>
-      <td>50.2</td>
-      <td>1.4%</td>
-      <td>636</td>
+      <td>5,261</td>
+      <td>1.30</td>
+      <td>15,984</td>
+      <td>52.4</td>
+      <td>1.3%</td>
+      <td>637</td>
       <td>0.9▲</td>
-      <td>99</td>
+      <td>86</td>
       <td>Not Available</td>
     </tr>
   </tbody>

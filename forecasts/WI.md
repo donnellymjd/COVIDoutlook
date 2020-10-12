@@ -22,17 +22,17 @@ statecode: WI
   </thead>
   <tbody>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>5,822,434</td>
-      <td>24,355</td>
-      <td>1.06</td>
-      <td>155,602</td>
-      <td>2,526.5▲</td>
+      <td>24,801</td>
+      <td>1.05</td>
+      <td>158,315</td>
+      <td>2,559.8▲</td>
       <td>20.5%▲</td>
-      <td>1,468</td>
-      <td>12.6▲</td>
-      <td>870▲</td>
-      <td>91.29▲</td>
+      <td>1,475</td>
+      <td>13.1▲</td>
+      <td>872▲</td>
+      <td>93.07▲</td>
     </tr>
   </tbody>
 </table>
