@@ -22,17 +22,17 @@ statecode: CO
   </thead>
   <tbody>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>5,758,736</td>
-      <td>10,280</td>
-      <td>1.16</td>
-      <td>77,642</td>
-      <td>652.3▲</td>
-      <td>7.1%</td>
+      <td>11,115</td>
+      <td>1.19</td>
+      <td>78,461</td>
+      <td>670.1▲</td>
+      <td>7.3%</td>
       <td>1,998</td>
       <td>4.1</td>
-      <td>365▲</td>
-      <td>25.64</td>
+      <td>383▲</td>
+      <td>26.43</td>
     </tr>
   </tbody>
 </table>
