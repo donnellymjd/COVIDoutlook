@@ -24,7 +24,7 @@ statecode: NE
     <tr>
       <td>38</td>
       <td>1,934,408</td>
-      <td>2,676</td>
+      <td>2,672</td>
       <td>1.11</td>
       <td>52,839</td>
       <td>590.1▲</td>
