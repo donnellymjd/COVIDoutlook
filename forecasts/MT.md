@@ -24,15 +24,15 @@ statecode: MT
     <tr>
       <td>3</td>
       <td>1,068,778</td>
-      <td>5,724</td>
-      <td>1.52</td>
-      <td>19,125</td>
-      <td>479.4▲</td>
-      <td>10.6%▲</td>
-      <td>212</td>
-      <td>2.7</td>
-      <td>291▲</td>
-      <td>14.71▲</td>
+      <td>5,623</td>
+      <td>1.43</td>
+      <td>19,611</td>
+      <td>491.9▲</td>
+      <td>9.9%▲</td>
+      <td>217</td>
+      <td>2.9</td>
+      <td>294▲</td>
+      <td>14.43▲</td>
     </tr>
   </tbody>
 </table>

@@ -22,17 +22,17 @@ statecode: FL
   </thead>
   <tbody>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>21,477,737</td>
-      <td>78,738</td>
-      <td>1.08</td>
-      <td>736,024</td>
-      <td>2,480.1</td>
-      <td>11.4%▼</td>
-      <td>15,599</td>
-      <td>99.4</td>
-      <td>2,206</td>
-      <td>174.14</td>
+      <td>83,727</td>
+      <td>1.10</td>
+      <td>738,749</td>
+      <td>2,441.5</td>
+      <td>11.3%</td>
+      <td>15,722</td>
+      <td>100.6</td>
+      <td>2,127</td>
+      <td>171.29</td>
     </tr>
   </tbody>
 </table>

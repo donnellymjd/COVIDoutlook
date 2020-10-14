@@ -22,16 +22,16 @@ statecode: LA
   </thead>
   <tbody>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>4,648,794</td>
-      <td>23,558</td>
-      <td>1.28</td>
-      <td>174,647</td>
-      <td>595.1▲</td>
+      <td>24,547</td>
+      <td>1.30</td>
+      <td>175,329</td>
+      <td>605.8▲</td>
       <td>4.1%</td>
-      <td>5,669</td>
-      <td>13.5▼</td>
-      <td>577▼</td>
+      <td>5,679</td>
+      <td>13.5</td>
+      <td>573</td>
       <td>Not Available</td>
     </tr>
   </tbody>
