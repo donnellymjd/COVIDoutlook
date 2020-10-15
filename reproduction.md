@@ -16,262 +16,262 @@ banner: duotone4.png
 <div class="w3-row-padding">
     <div class="w3-container">
         
-<div class="bk-root" id="26436968-2811-4ffe-9bd6-bc0aa61eb820" data-root-id="3517"></div>
+<div class="bk-root" id="185372aa-38fe-4feb-ae0a-a3801709474c" data-root-id="3517"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="df4bbbef-6f05-47b0-99e0-cd5dffeaa440" data-root-id="3668"></div>
+<div class="bk-root" id="e56eca28-1728-4b05-a354-0f237ca7d301" data-root-id="3668"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="f05c5ac0-96dc-4d7f-b42d-0163c14ff054" data-root-id="3819"></div>
+<div class="bk-root" id="03ef222f-4e20-4bc8-98da-159b320748c9" data-root-id="3819"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="6a8c17bd-c71d-4202-a461-ff00b71b2e97" data-root-id="3970"></div>
+<div class="bk-root" id="dc272d7d-4f6b-4eb8-999b-c1f1dab79bc6" data-root-id="3970"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="1c8caec1-89c7-440d-9881-e7e44afb86b8" data-root-id="4121"></div>
+<div class="bk-root" id="ce30680a-fd87-44e3-b77f-1ca4617bb057" data-root-id="4121"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="9b147e6e-3802-474f-a8ef-90cc9ef7b4a0" data-root-id="4272"></div>
+<div class="bk-root" id="dbf71167-3296-4674-b0f3-355112ab6e65" data-root-id="4272"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="51579fa6-50b5-4545-93cb-a154e79295cd" data-root-id="4423"></div>
+<div class="bk-root" id="893811ca-e15e-452f-940f-e653678bf0f8" data-root-id="4423"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="f5f8ff24-e217-43c5-9a42-6b03c35a15c1" data-root-id="4574"></div>
+<div class="bk-root" id="97d4bb85-2f1b-497c-9f54-ef350e063e8d" data-root-id="4574"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="1f9aa3c0-7e57-49b5-9011-58532c7d04f2" data-root-id="4725"></div>
+<div class="bk-root" id="48092307-4012-4940-a99d-89d4bfbb5a5e" data-root-id="4725"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="91a437e9-f8c1-4177-af17-b43657810749" data-root-id="4876"></div>
+<div class="bk-root" id="9a18d16f-3290-43bc-a338-3b58d51d7baf" data-root-id="4876"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="b632f72d-1c90-4585-9081-d86f2fef1fe5" data-root-id="5027"></div>
+<div class="bk-root" id="2ffd535d-aa4b-4577-9df1-1d99cb889db4" data-root-id="5027"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="ca986c77-fde7-4169-bf13-86004f26b376" data-root-id="5178"></div>
+<div class="bk-root" id="413434e9-3741-473d-9ea8-4a6a868dc215" data-root-id="5178"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="903bbd97-b89a-4495-8acd-434d9b004dc2" data-root-id="5329"></div>
+<div class="bk-root" id="27bd69e7-4bc3-49a1-baf5-3412a9ee4cbd" data-root-id="5329"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="26dfee8f-cdd3-446a-81b7-4909b3d2d1d5" data-root-id="5480"></div>
+<div class="bk-root" id="4e50024d-2349-4bdc-8998-e2094f2bd629" data-root-id="5480"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="9f5ddb70-458b-4405-b639-79669978fb43" data-root-id="5631"></div>
+<div class="bk-root" id="920d8747-74fd-408c-be6c-cff2f207d9b3" data-root-id="5631"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="9ade7e48-9005-4b59-be2b-31c3a7cc9bfa" data-root-id="5782"></div>
+<div class="bk-root" id="6e2892e5-fa9d-4e41-ab0b-32dc6c1b99f0" data-root-id="5782"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="1a6045b2-4c6f-4eb8-9ef4-2edc01e55509" data-root-id="5933"></div>
+<div class="bk-root" id="a6438d46-4437-4311-9a97-2851a34f88df" data-root-id="5933"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="2cdaef6b-36d8-458e-8203-71825bf80fc6" data-root-id="6084"></div>
+<div class="bk-root" id="4cbf3754-a0d3-4999-a02d-5030203d0dd4" data-root-id="6084"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="7efc9aa1-a615-41df-94b8-2c4742149e5e" data-root-id="6235"></div>
+<div class="bk-root" id="e46d65b6-a852-4479-87c8-3efa03188355" data-root-id="6235"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="3326aa19-3736-45cd-acce-0ab1359da7f7" data-root-id="6386"></div>
+<div class="bk-root" id="3cc5ba68-064d-49a6-ac7d-27fc9e1b40ac" data-root-id="6386"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="39cea562-3a2f-4700-b228-d9956ea2c4d2" data-root-id="6537"></div>
+<div class="bk-root" id="d565ad59-06ea-48bb-9ef7-76a7f5e1a655" data-root-id="6537"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="6593d1a7-5ceb-4050-bf76-4dc0ffea1425" data-root-id="6688"></div>
+<div class="bk-root" id="440a2bf0-6dea-4d8c-824a-9501a052997d" data-root-id="6688"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="cfb49f1f-8c6a-48dd-8ebf-d2f8bdb4e580" data-root-id="6839"></div>
+<div class="bk-root" id="a88f945b-ede5-4a29-9164-94614a8a90ca" data-root-id="6839"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="ffe9e204-337d-475b-a11c-6c618a60e10f" data-root-id="6990"></div>
+<div class="bk-root" id="1e16d8b9-abec-4ca7-9672-9838fe301c67" data-root-id="6990"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="74bb71be-2ba8-4c40-bd24-1a5db2cfdd85" data-root-id="7141"></div>
+<div class="bk-root" id="f4b79daa-5394-4979-b241-80cbfe2b6f70" data-root-id="7141"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="2bca2167-d660-4207-925e-77f79cc4a42c" data-root-id="7292"></div>
+<div class="bk-root" id="545a97a7-3db1-4449-a7cd-51b65d550357" data-root-id="7292"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="03b97e2b-1de0-449d-8ec5-189808bc46ba" data-root-id="7443"></div>
+<div class="bk-root" id="6cbf7b0a-c383-4116-b74b-cd9e87f6cefe" data-root-id="7443"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="69f36510-d25f-4033-a3c3-24764b00b19a" data-root-id="7594"></div>
+<div class="bk-root" id="0a2dfa90-dc73-4d15-8222-9f9c017c40bc" data-root-id="7594"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="3be89e51-454f-4fce-a56a-aeea351d2dae" data-root-id="7745"></div>
+<div class="bk-root" id="f6585038-7dea-4bab-9c14-e8bded3a046d" data-root-id="7745"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="7fc91207-0dd9-4ef6-9f3d-ecb8dd400f8c" data-root-id="7896"></div>
+<div class="bk-root" id="43e6acc4-3376-4983-90c8-fb535729cba2" data-root-id="7896"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="a8bf9bd7-df3b-45a2-b0ed-ab21783e80a0" data-root-id="8047"></div>
+<div class="bk-root" id="838dfae6-2f7c-4507-b73c-296ff0909b57" data-root-id="8047"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="f2eb9f06-6bb0-4d11-b007-1edc949fa739" data-root-id="8198"></div>
+<div class="bk-root" id="d8fedd17-e73f-4003-8d08-032fbefc5000" data-root-id="8198"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="c2c42b3a-22b4-4d2d-b64d-087cdd1bc7fa" data-root-id="8349"></div>
+<div class="bk-root" id="b3a96e6f-8372-441d-8417-19738277411e" data-root-id="8349"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="00bad1d5-5a6a-4985-9d43-e93e9ef8cd86" data-root-id="8500"></div>
+<div class="bk-root" id="31f38354-238f-4907-9469-09c2de403789" data-root-id="8500"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="bfb9a8ab-7246-4981-a5de-23d996f36a1d" data-root-id="8651"></div>
+<div class="bk-root" id="1dad1239-3910-45f5-98a8-9ff72f91907c" data-root-id="8651"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="8e3a12cd-2f24-471b-aaed-b44ae818a801" data-root-id="8802"></div>
+<div class="bk-root" id="96b73eb4-dd30-4955-bc1b-e0870842dffa" data-root-id="8802"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="d4942d9c-8056-4be0-b95c-a308e12cf880" data-root-id="8953"></div>
+<div class="bk-root" id="13b42056-5343-40a6-9bd1-6178c115ca5d" data-root-id="8953"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="1d4c8bf7-5617-45e3-9eaf-3149cd561495" data-root-id="9104"></div>
+<div class="bk-root" id="90ed815d-9022-49c2-bba1-a819b9dfe652" data-root-id="9104"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="18dbcd87-b7ea-4456-86da-765d2d20f08b" data-root-id="9255"></div>
+<div class="bk-root" id="47cf4e0b-6046-43a5-9a1b-2cc0008c7564" data-root-id="9255"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="f58e0ca6-51f2-490b-a925-984e009d99b6" data-root-id="9406"></div>
+<div class="bk-root" id="df578a4a-196a-4b5f-9a76-a99b9dc79fc4" data-root-id="9406"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="5e5fbd90-f61a-4bb2-ade9-024cc1d50696" data-root-id="9557"></div>
+<div class="bk-root" id="8baf1c82-06fa-4c83-bcfb-e244ced3b077" data-root-id="9557"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="9788b231-ebfb-45c7-a5c4-61eb5b4b5114" data-root-id="9708"></div>
+<div class="bk-root" id="b79bd8ae-9fd1-4aba-8beb-49f3eb62f9bd" data-root-id="9708"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="bcf1e811-7334-436b-9fdd-5a2ee27e9c5a" data-root-id="9859"></div>
+<div class="bk-root" id="2811fba2-216b-4a3d-84b7-d550b11d5efe" data-root-id="9859"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="bf65d26f-8052-49a2-942d-98e0c9b10da0" data-root-id="10010"></div>
+<div class="bk-root" id="2072d0be-16b2-4970-a9e0-5da16bcf0624" data-root-id="10010"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="c7d461ce-171d-4529-9bd8-4c97c2b0f02d" data-root-id="10161"></div>
+<div class="bk-root" id="11b4f675-fa95-4abd-b444-eec6f61c0e16" data-root-id="10161"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="a0b0e066-17e4-4b03-a9e1-4712d7e30011" data-root-id="10312"></div>
+<div class="bk-root" id="2632d3ed-4a49-4899-878d-de846a12acb9" data-root-id="10312"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="cdfed5cc-cbfa-47c3-870d-c6ae8ec56755" data-root-id="10463"></div>
+<div class="bk-root" id="8975032b-7a06-46e8-a99e-0939ae04e63f" data-root-id="10463"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="b6dff2cd-64eb-482f-afd5-075166b0ceae" data-root-id="10614"></div>
+<div class="bk-root" id="d3ebc45f-4b70-4ada-9464-c92e12a8f72f" data-root-id="10614"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="ca8afd9f-e85c-4d40-8420-a24c31f42676" data-root-id="10765"></div>
+<div class="bk-root" id="2eaec120-2f56-4409-b0c5-63c77eddf452" data-root-id="10765"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="a06c942a-1c1f-4eff-aa80-dc3be909ce1e" data-root-id="10916"></div>
+<div class="bk-root" id="c118c877-5e30-4d1e-8644-21ad0efcaee5" data-root-id="10916"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="c33f3dd5-46ea-4461-9500-61e9f4e3bc0e" data-root-id="11067"></div>
+<div class="bk-root" id="a5678309-10eb-4107-aec6-a963ad124c56" data-root-id="11067"></div>
     </div>
 
     <div class="w3-third">
         
-<div class="bk-root" id="244a6b27-ac39-4120-953a-2084ef575195" data-root-id="11218"></div>
+<div class="bk-root" id="b8511c93-dd10-4b74-bd61-a3a74f835bf5" data-root-id="11218"></div>
     </div>
 
 </div>

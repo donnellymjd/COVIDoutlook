@@ -24,14 +24,14 @@ statecode: NC
     <tr>
       <td>19</td>
       <td>10,488,084</td>
-      <td>31,647</td>
-      <td>1.10</td>
-      <td>234,481</td>
-      <td>1,810.3▲</td>
+      <td>31,308</td>
+      <td>1.07</td>
+      <td>236,407</td>
+      <td>1,841.1▲</td>
       <td>6.0%▲</td>
-      <td>3,816</td>
-      <td>23.0▼</td>
-      <td>1,103</td>
+      <td>3,856</td>
+      <td>23.1▼</td>
+      <td>1,152▲</td>
       <td>Not Available</td>
     </tr>
   </tbody>
