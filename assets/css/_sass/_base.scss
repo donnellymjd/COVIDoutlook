@@ -115,6 +115,11 @@ blockquote {
   line-height: 1.5;
 }
 
+.plotly-container  {
+  width: 100%;
+  padding-top: 60%; /* 6:4 Aspect Ratio */
+}
+
 /**
  * Tables
  */
