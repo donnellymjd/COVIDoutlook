@@ -24,13 +24,13 @@ statecode: MI
     <tr>
       <td>19</td>
       <td>9,986,857</td>
-      <td>29,448</td>
-      <td>1.16</td>
-      <td>156,913</td>
-      <td>1,278.6▲</td>
-      <td>3.7%</td>
-      <td>7,302</td>
-      <td>14.3</td>
+      <td>32,136</td>
+      <td>1.20</td>
+      <td>159,119</td>
+      <td>1,365.9▲</td>
+      <td>3.8%</td>
+      <td>7,317</td>
+      <td>14.8</td>
       <td>1,000▲</td>
       <td>Not Available</td>
     </tr>

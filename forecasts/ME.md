@@ -24,15 +24,15 @@ statecode: ME
     <tr>
       <td>50</td>
       <td>1,344,212</td>
-      <td>292</td>
-      <td>0.96</td>
-      <td>5,836</td>
-      <td>28.9</td>
+      <td>295</td>
+      <td>0.97</td>
+      <td>5,865</td>
+      <td>28.4</td>
       <td>0.5%</td>
-      <td>144</td>
-      <td>0.1</td>
+      <td>145</td>
+      <td>0.2</td>
       <td>11</td>
-      <td>0.93</td>
+      <td>1.00</td>
     </tr>
   </tbody>
 </table>

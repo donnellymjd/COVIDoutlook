@@ -22,17 +22,17 @@ statecode: OK
   </thead>
   <tbody>
     <tr>
-      <td>10</td>
+      <td>13</td>
       <td>3,956,971</td>
-      <td>17,216</td>
-      <td>1.05</td>
-      <td>103,836</td>
-      <td>1,104.8</td>
+      <td>16,252</td>
+      <td>1.03</td>
+      <td>105,308</td>
+      <td>1,124.9▲</td>
       <td>8.4%</td>
-      <td>1,143</td>
-      <td>7.7</td>
-      <td>781▲</td>
-      <td>77.93▲</td>
+      <td>1,154</td>
+      <td>7.9</td>
+      <td>793▲</td>
+      <td>73.71▲</td>
     </tr>
   </tbody>
 </table>
