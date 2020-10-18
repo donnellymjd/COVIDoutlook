@@ -24,15 +24,15 @@ statecode: MD
     <tr>
       <td>28</td>
       <td>6,045,680</td>
-      <td>14,697</td>
+      <td>14,479</td>
       <td>0.99</td>
-      <td>134,329</td>
-      <td>579.1▲</td>
+      <td>135,127</td>
+      <td>593.4▲</td>
       <td>5.7%</td>
-      <td>4,032</td>
-      <td>5.9</td>
-      <td>416</td>
-      <td>51.00▲</td>
+      <td>4,036</td>
+      <td>5.6</td>
+      <td>422▲</td>
+      <td>48.71▲</td>
     </tr>
   </tbody>
 </table>
