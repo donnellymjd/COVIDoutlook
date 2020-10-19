@@ -24,15 +24,15 @@ statecode: CO
     <tr>
       <td>25</td>
       <td>5,758,736</td>
-      <td>15,364</td>
+      <td>16,084</td>
       <td>1.28</td>
-      <td>83,230</td>
-      <td>809.4▲</td>
-      <td>8.9%</td>
+      <td>84,369</td>
+      <td>843.9▲</td>
+      <td>9.2%</td>
       <td>2,042</td>
       <td>5.3</td>
-      <td>434▲</td>
-      <td>36.86▲</td>
+      <td>428▲</td>
+      <td>39.36▲</td>
     </tr>
   </tbody>
 </table>

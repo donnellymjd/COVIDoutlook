@@ -24,14 +24,14 @@ statecode: DE
     <tr>
       <td>37</td>
       <td>973,764</td>
-      <td>1,531</td>
-      <td>0.84</td>
-      <td>22,942</td>
-      <td>129.8▲</td>
-      <td>5.7%</td>
-      <td>664</td>
+      <td>1,596</td>
+      <td>0.89</td>
+      <td>23,093</td>
+      <td>132.1▲</td>
+      <td>5.6%</td>
+      <td>665</td>
       <td>1.4</td>
-      <td>101▲</td>
+      <td>106▲</td>
       <td>Not Available</td>
     </tr>
   </tbody>

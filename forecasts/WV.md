@@ -24,14 +24,14 @@ statecode: WV
     <tr>
       <td>40</td>
       <td>1,792,147</td>
-      <td>2,378</td>
-      <td>1.14</td>
-      <td>19,801</td>
-      <td>238.1▲</td>
-      <td>3.7%</td>
+      <td>2,454</td>
+      <td>1.15</td>
+      <td>20,081</td>
+      <td>246.6▲</td>
+      <td>3.8%</td>
       <td>399</td>
-      <td>3.0</td>
-      <td>180</td>
+      <td>2.9</td>
+      <td>173</td>
       <td>0.00</td>
     </tr>
   </tbody>
