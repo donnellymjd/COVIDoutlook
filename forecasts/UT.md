@@ -24,15 +24,15 @@ statecode: UT
     <tr>
       <td>29</td>
       <td>3,205,958</td>
-      <td>7,593</td>
+      <td>7,488</td>
       <td>1.05</td>
-      <td>94,394</td>
-      <td>1,198.3▲</td>
-      <td>14.8%</td>
-      <td>543</td>
+      <td>95,562</td>
+      <td>1,202.8▲</td>
+      <td>14.7%</td>
+      <td>546</td>
       <td>4.6▲</td>
-      <td>307▲</td>
-      <td>48.29▲</td>
+      <td>304▲</td>
+      <td>47.79▲</td>
     </tr>
   </tbody>
 </table>
