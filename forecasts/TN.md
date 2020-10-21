@@ -22,17 +22,17 @@ statecode: TN
   </thead>
   <tbody>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>6,829,174</td>
-      <td>30,182</td>
-      <td>1.17</td>
-      <td>232,061</td>
-      <td>2,025.9▲</td>
-      <td>7.7%</td>
-      <td>2,922</td>
-      <td>23.2▼</td>
-      <td>1,338▲</td>
-      <td>49.64</td>
+      <td>31,165</td>
+      <td>1.18</td>
+      <td>233,569</td>
+      <td>2,013.9▲</td>
+      <td>7.9%▲</td>
+      <td>2,952</td>
+      <td>23.6</td>
+      <td>1,424▲</td>
+      <td>50.36</td>
     </tr>
   </tbody>
 </table>
