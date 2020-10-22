@@ -22,17 +22,17 @@ statecode: NJ
   </thead>
   <tbody>
     <tr>
-      <td>28</td>
+      <td>26</td>
       <td>8,882,190</td>
-      <td>23,077</td>
-      <td>1.20</td>
-      <td>222,193</td>
-      <td>917.9▲</td>
-      <td>2.7%</td>
-      <td>16,227</td>
-      <td>5.7</td>
-      <td>781▲</td>
-      <td>56.07▲</td>
+      <td>25,812</td>
+      <td>1.25</td>
+      <td>223,223</td>
+      <td>955.2▲</td>
+      <td>2.8%</td>
+      <td>16,245</td>
+      <td>6.6</td>
+      <td>844▲</td>
+      <td>57.29▲</td>
     </tr>
   </tbody>
 </table>
