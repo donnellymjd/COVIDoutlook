@@ -24,8 +24,8 @@ statecode: KS
     <tr>
       <td>38</td>
       <td>2,913,314</td>
-      <td>4,535</td>
-      <td>1.06</td>
+      <td>4,728</td>
+      <td>1.09</td>
       <td>74,456</td>
       <td>750.3▲</td>
       <td>18.7%▲</td>

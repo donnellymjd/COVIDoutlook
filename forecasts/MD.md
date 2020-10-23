@@ -22,17 +22,17 @@ statecode: MD
   </thead>
   <tbody>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>6,045,680</td>
-      <td>14,746</td>
+      <td>14,838</td>
       <td>1.03</td>
-      <td>137,236</td>
-      <td>612.3▲</td>
+      <td>137,979</td>
+      <td>611.0▲</td>
       <td>5.8%</td>
-      <td>4,058</td>
-      <td>6.1</td>
-      <td>463▲</td>
-      <td>50.43▲</td>
+      <td>4,070</td>
+      <td>6.5</td>
+      <td>458▲</td>
+      <td>50.36▲</td>
     </tr>
   </tbody>
 </table>
