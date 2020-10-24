@@ -22,17 +22,17 @@ statecode: KS
   </thead>
   <tbody>
     <tr>
-      <td>38</td>
+      <td>36</td>
       <td>2,913,314</td>
-      <td>4,728</td>
-      <td>1.09</td>
-      <td>74,456</td>
-      <td>750.3▲</td>
-      <td>18.7%▲</td>
-      <td>952</td>
-      <td>16.4▲</td>
-      <td>329▲</td>
-      <td>27.50</td>
+      <td>5,052</td>
+      <td>1.12</td>
+      <td>76,230</td>
+      <td>744.5▲</td>
+      <td>18.6%▲</td>
+      <td>975</td>
+      <td>15.1▲</td>
+      <td>403▲</td>
+      <td>28.50</td>
     </tr>
   </tbody>
 </table>

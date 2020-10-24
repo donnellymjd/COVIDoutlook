@@ -24,15 +24,15 @@ statecode: HI
     <tr>
       <td>35</td>
       <td>1,415,872</td>
-      <td>2,598</td>
-      <td>0.97</td>
-      <td>14,427</td>
-      <td>85.4</td>
+      <td>2,480</td>
+      <td>0.95</td>
+      <td>14,529</td>
+      <td>85.4▼</td>
       <td>100.0%▲</td>
-      <td>203</td>
-      <td>2.9</td>
+      <td>206</td>
+      <td>3.0</td>
       <td>75▼</td>
-      <td>9.93</td>
+      <td>10.36▲</td>
     </tr>
   </tbody>
 </table>

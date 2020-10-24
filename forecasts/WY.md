@@ -22,17 +22,17 @@ statecode: WY
   </thead>
   <tbody>
     <tr>
-      <td>22</td>
+      <td>16</td>
       <td>578,759</td>
-      <td>1,925</td>
-      <td>1.04</td>
-      <td>10,119</td>
-      <td>216.2▲</td>
-      <td>23.3%▲</td>
+      <td>2,271</td>
+      <td>1.14</td>
+      <td>10,545</td>
+      <td>229.3▲</td>
+      <td>23.4%▲</td>
       <td>68</td>
       <td>1.0▲</td>
-      <td>81▲</td>
-      <td>4.29</td>
+      <td>83▲</td>
+      <td>5.36▲</td>
     </tr>
   </tbody>
 </table>

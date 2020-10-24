@@ -22,16 +22,16 @@ statecode: NY
   </thead>
   <tbody>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>19,453,561</td>
-      <td>15,348</td>
-      <td>1.03</td>
-      <td>490,134</td>
-      <td>1,430.7▲</td>
+      <td>15,743</td>
+      <td>1.04</td>
+      <td>491,771</td>
+      <td>1,433.9</td>
       <td>1.2%</td>
-      <td>25,694</td>
-      <td>9.9</td>
-      <td>986▲</td>
+      <td>25,705</td>
+      <td>10.3</td>
+      <td>1,023▲</td>
       <td>0.00</td>
     </tr>
   </tbody>
