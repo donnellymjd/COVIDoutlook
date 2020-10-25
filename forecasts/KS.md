@@ -22,10 +22,10 @@ statecode: KS
   </thead>
   <tbody>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>2,913,314</td>
-      <td>5,052</td>
-      <td>1.12</td>
+      <td>5,275</td>
+      <td>1.13</td>
       <td>76,230</td>
       <td>744.5▲</td>
       <td>18.6%▲</td>
