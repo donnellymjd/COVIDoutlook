@@ -24,14 +24,14 @@ statecode: IL
     <tr>
       <td>2</td>
       <td>12,671,821</td>
-      <td>90,964</td>
+      <td>93,715</td>
       <td>1.21</td>
-      <td>374,907</td>
-      <td>3,960.4▲</td>
-      <td>5.8%▲</td>
-      <td>9,751</td>
-      <td>37.9▲</td>
-      <td>2,616▲</td>
+      <td>378,969</td>
+      <td>4,055.8▲</td>
+      <td>5.9%▲</td>
+      <td>9,775</td>
+      <td>38.9▲</td>
+      <td>2,605▲</td>
       <td>Not Available</td>
     </tr>
   </tbody>

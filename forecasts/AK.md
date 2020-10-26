@@ -24,11 +24,11 @@ statecode: AK
     <tr>
       <td>44</td>
       <td>731,545</td>
-      <td>745</td>
-      <td>1.05</td>
-      <td>13,535</td>
-      <td>221.9▲</td>
-      <td>5.8%▲</td>
+      <td>822</td>
+      <td>1.13</td>
+      <td>14,064</td>
+      <td>241.3▲</td>
+      <td>5.9%▲</td>
       <td>68</td>
       <td>0.6</td>
       <td>58▲</td>

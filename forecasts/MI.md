@@ -22,10 +22,10 @@ statecode: MI
   </thead>
   <tbody>
     <tr>
-      <td>15</td>
+      <td>18</td>
       <td>9,986,857</td>
-      <td>40,759</td>
-      <td>1.12</td>
+      <td>38,994</td>
+      <td>1.07</td>
       <td>175,612</td>
       <td>1,867.7▲</td>
       <td>4.6%</td>
