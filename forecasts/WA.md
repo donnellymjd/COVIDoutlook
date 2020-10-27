@@ -24,8 +24,8 @@ statecode: WA
     <tr>
       <td>46</td>
       <td>7,614,893</td>
-      <td>6,016</td>
-      <td>1.08</td>
+      <td>6,228</td>
+      <td>1.09</td>
       <td>102,913</td>
       <td>705.6▲</td>
       <td>3.3%</td>

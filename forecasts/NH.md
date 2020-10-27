@@ -24,14 +24,14 @@ statecode: NH
     <tr>
       <td>49</td>
       <td>1,359,711</td>
-      <td>625</td>
-      <td>0.91</td>
-      <td>10,328</td>
-      <td>88.3▲</td>
+      <td>736</td>
+      <td>1.08</td>
+      <td>10,397</td>
+      <td>89.6▲</td>
       <td>3.2%▲</td>
-      <td>473</td>
-      <td>1.3</td>
-      <td>23</td>
+      <td>475</td>
+      <td>1.4</td>
+      <td>25</td>
       <td>1.14</td>
     </tr>
   </tbody>

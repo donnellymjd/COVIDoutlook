@@ -22,17 +22,17 @@ statecode: MS
   </thead>
   <tbody>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>2,976,149</td>
-      <td>7,762</td>
-      <td>1.07</td>
-      <td>115,088</td>
-      <td>725.4▲</td>
-      <td>29.0%▲</td>
-      <td>3,255</td>
-      <td>11.0▼</td>
-      <td>683▲</td>
-      <td>23.36▼</td>
+      <td>7,403</td>
+      <td>1.06</td>
+      <td>115,763</td>
+      <td>752.5▲</td>
+      <td>29.7%▲</td>
+      <td>3,263</td>
+      <td>11.6▼</td>
+      <td>679▲</td>
+      <td>24.21▼</td>
     </tr>
   </tbody>
 </table>
