@@ -22,15 +22,15 @@ statecode: MI
   </thead>
   <tbody>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>9,986,857</td>
-      <td>40,733</td>
-      <td>1.09</td>
-      <td>179,669</td>
-      <td>2,019.5▲</td>
-      <td>4.8%▲</td>
-      <td>7,552</td>
-      <td>23.4▲</td>
+      <td>41,678</td>
+      <td>1.10</td>
+      <td>182,344</td>
+      <td>2,105.9▲</td>
+      <td>5.0%▲</td>
+      <td>7,585</td>
+      <td>23.6▲</td>
       <td>1,332▲</td>
       <td>Not Available</td>
     </tr>
