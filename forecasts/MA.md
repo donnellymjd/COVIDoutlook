@@ -22,17 +22,17 @@ statecode: MA
   </thead>
   <tbody>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>6,892,503</td>
-      <td>29,532</td>
-      <td>1.22</td>
-      <td>153,037</td>
-      <td>901.8▲</td>
-      <td>5.7%▲</td>
-      <td>9,888</td>
-      <td>18.4▲</td>
-      <td>567</td>
-      <td>18.64</td>
+      <td>30,960</td>
+      <td>1.23</td>
+      <td>154,218</td>
+      <td>944.7▲</td>
+      <td>5.8%▲</td>
+      <td>9,924</td>
+      <td>19.8▲</td>
+      <td>582</td>
+      <td>20.00</td>
     </tr>
   </tbody>
 </table>
