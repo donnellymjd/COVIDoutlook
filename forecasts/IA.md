@@ -22,16 +22,16 @@ statecode: IA
   </thead>
   <tbody>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>3,155,070</td>
-      <td>21,276</td>
-      <td>1.14</td>
-      <td>113,042</td>
-      <td>1,118.4▲</td>
-      <td>35.5%▲</td>
-      <td>1,682</td>
-      <td>13.2▲</td>
-      <td>596▲</td>
+      <td>22,258</td>
+      <td>1.16</td>
+      <td>114,982</td>
+      <td>1,161.8▲</td>
+      <td>37.6%▲</td>
+      <td>1,693</td>
+      <td>13.4▲</td>
+      <td>605▲</td>
       <td>0.00</td>
     </tr>
   </tbody>

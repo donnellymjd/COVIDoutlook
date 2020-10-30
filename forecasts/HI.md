@@ -22,17 +22,17 @@ statecode: HI
   </thead>
   <tbody>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>1,415,872</td>
-      <td>2,577</td>
-      <td>0.99</td>
-      <td>14,978</td>
-      <td>86.1</td>
+      <td>2,485</td>
+      <td>0.97</td>
+      <td>15,039</td>
+      <td>83.4</td>
       <td>100.0%▲</td>
-      <td>215</td>
-      <td>3.0</td>
+      <td>213</td>
+      <td>2.1▼</td>
       <td>61▼</td>
-      <td>8.71</td>
+      <td>8.57</td>
     </tr>
   </tbody>
 </table>
