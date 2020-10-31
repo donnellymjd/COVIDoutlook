@@ -22,16 +22,16 @@ statecode: DE
   </thead>
   <tbody>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>973,764</td>
-      <td>3,063</td>
+      <td>3,151</td>
       <td>1.13</td>
-      <td>24,553</td>
-      <td>142.4▲</td>
-      <td>7.2%</td>
-      <td>689</td>
-      <td>2.0</td>
-      <td>99</td>
+      <td>24,751</td>
+      <td>144.8▲</td>
+      <td>7.4%</td>
+      <td>704</td>
+      <td>3.0▲</td>
+      <td>101</td>
       <td>Not Available</td>
     </tr>
   </tbody>
