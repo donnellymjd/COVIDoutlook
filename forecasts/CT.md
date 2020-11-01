@@ -22,10 +22,10 @@ statecode: CT
   </thead>
   <tbody>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>3,565,287</td>
-      <td>6,582</td>
-      <td>1.14</td>
+      <td>6,815</td>
+      <td>1.15</td>
       <td>71,207</td>
       <td>598.4▲</td>
       <td>2.6%</td>

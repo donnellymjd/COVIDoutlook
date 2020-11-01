@@ -22,10 +22,10 @@ statecode: LA
   </thead>
   <tbody>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>4,648,794</td>
-      <td>18,175</td>
-      <td>0.99</td>
+      <td>17,908</td>
+      <td>0.97</td>
       <td>186,649</td>
       <td>637.4</td>
       <td>4.5%</td>

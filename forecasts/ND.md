@@ -22,17 +22,17 @@ statecode: ND
   </thead>
   <tbody>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>762,062</td>
-      <td>5,121</td>
-      <td>1.17</td>
-      <td>42,483</td>
-      <td>854.7▲</td>
-      <td>47.7%▲</td>
+      <td>5,594</td>
+      <td>1.21</td>
+      <td>43,916</td>
+      <td>903.9▲</td>
+      <td>49.8%▲</td>
       <td>400</td>
       <td>7.1▼</td>
-      <td>294▲</td>
-      <td>26.07▲</td>
+      <td>309▲</td>
+      <td>26.86▲</td>
     </tr>
   </tbody>
 </table>
