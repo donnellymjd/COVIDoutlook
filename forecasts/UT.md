@@ -22,17 +22,17 @@ statecode: UT
   </thead>
   <tbody>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>3,205,958</td>
-      <td>9,691</td>
+      <td>10,018</td>
       <td>1.15</td>
-      <td>114,656</td>
-      <td>1,525.6▲</td>
-      <td>18.5%▲</td>
-      <td>604</td>
-      <td>4.6</td>
-      <td>335▲</td>
-      <td>60.93▲</td>
+      <td>116,510</td>
+      <td>1,579.7▲</td>
+      <td>19.2%▲</td>
+      <td>614</td>
+      <td>5.1</td>
+      <td>355▲</td>
+      <td>62.14▲</td>
     </tr>
   </tbody>
 </table>

@@ -24,8 +24,8 @@ statecode: CT
     <tr>
       <td>40</td>
       <td>3,565,287</td>
-      <td>6,815</td>
-      <td>1.15</td>
+      <td>7,059</td>
+      <td>1.16</td>
       <td>71,207</td>
       <td>598.4▲</td>
       <td>2.6%</td>

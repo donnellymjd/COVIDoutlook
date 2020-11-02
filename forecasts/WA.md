@@ -24,15 +24,15 @@ statecode: WA
     <tr>
       <td>48</td>
       <td>7,614,893</td>
-      <td>6,750</td>
-      <td>1.07</td>
-      <td>106,573</td>
-      <td>691.4▲</td>
-      <td>4.2%</td>
+      <td>7,139</td>
+      <td>1.09</td>
+      <td>107,501</td>
+      <td>664.3</td>
+      <td>4.0%</td>
       <td>2,366</td>
       <td>9.1</td>
-      <td>366</td>
-      <td>39.36▲</td>
+      <td>386</td>
+      <td>41.21▲</td>
     </tr>
   </tbody>
 </table>
