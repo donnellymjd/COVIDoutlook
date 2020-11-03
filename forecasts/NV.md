@@ -22,16 +22,16 @@ statecode: NV
   </thead>
   <tbody>
     <tr>
-      <td>18</td>
+      <td>15</td>
       <td>3,080,156</td>
-      <td>14,025</td>
-      <td>1.21</td>
-      <td>101,479</td>
-      <td>801.3▲</td>
-      <td>20.9%▲</td>
-      <td>1,781</td>
+      <td>13,993</td>
+      <td>1.18</td>
+      <td>102,114</td>
+      <td>805.1▲</td>
+      <td>21.2%▲</td>
+      <td>1,784</td>
       <td>5.1</td>
-      <td>585▲</td>
+      <td>678▲</td>
       <td>Not Available</td>
     </tr>
   </tbody>
