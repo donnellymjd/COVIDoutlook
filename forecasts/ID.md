@@ -24,15 +24,15 @@ statecode: ID
     <tr>
       <td>45</td>
       <td>1,787,065</td>
-      <td>2,008</td>
+      <td>1,980</td>
       <td>0.97</td>
-      <td>65,088</td>
-      <td>856.9▲</td>
+      <td>65,845</td>
+      <td>861.1▲</td>
       <td>32.3%▲</td>
-      <td>630</td>
-      <td>7.3▲</td>
-      <td>263▲</td>
-      <td>29.21▲</td>
+      <td>632</td>
+      <td>7.2▲</td>
+      <td>155▲</td>
+      <td>29.43▲</td>
     </tr>
   </tbody>
 </table>

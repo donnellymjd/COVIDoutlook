@@ -22,17 +22,17 @@ statecode: ME
   </thead>
   <tbody>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>1,344,212</td>
-      <td>719</td>
-      <td>1.38</td>
-      <td>6,799</td>
-      <td>59.8▲</td>
-      <td>0.9%</td>
+      <td>792</td>
+      <td>1.40</td>
+      <td>6,926</td>
+      <td>66.9▲</td>
+      <td>1.0%</td>
       <td>148</td>
       <td>0.1</td>
-      <td>29</td>
-      <td>1.86</td>
+      <td>31</td>
+      <td>2.36▲</td>
     </tr>
   </tbody>
 </table>

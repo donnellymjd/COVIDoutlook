@@ -24,15 +24,15 @@ statecode: OR
     <tr>
       <td>47</td>
       <td>4,217,737</td>
-      <td>4,307</td>
-      <td>1.18</td>
-      <td>45,978</td>
-      <td>441.7▲</td>
-      <td>7.4%</td>
-      <td>692</td>
-      <td>4.6</td>
-      <td>234</td>
-      <td>21.71</td>
+      <td>4,524</td>
+      <td>1.21</td>
+      <td>46,460</td>
+      <td>451.7▲</td>
+      <td>7.7%</td>
+      <td>701</td>
+      <td>4.9</td>
+      <td>237</td>
+      <td>22.43</td>
     </tr>
   </tbody>
 </table>

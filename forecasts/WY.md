@@ -24,15 +24,15 @@ statecode: WY
     <tr>
       <td>5</td>
       <td>578,759</td>
-      <td>4,332</td>
-      <td>1.16</td>
-      <td>14,167</td>
-      <td>346.9▲</td>
-      <td>30.4%▲</td>
-      <td>87</td>
-      <td>2.1▲</td>
-      <td>132▲</td>
-      <td>6.71▲</td>
+      <td>4,337</td>
+      <td>1.15</td>
+      <td>14,619</td>
+      <td>363.8▲</td>
+      <td>29.9%▲</td>
+      <td>93</td>
+      <td>2.3▲</td>
+      <td>124▲</td>
+      <td>7.14▲</td>
     </tr>
   </tbody>
 </table>

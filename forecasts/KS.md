@@ -24,7 +24,7 @@ statecode: KS
     <tr>
       <td>31</td>
       <td>2,913,314</td>
-      <td>8,095</td>
+      <td>8,387</td>
       <td>1.28</td>
       <td>89,227</td>
       <td>1,161.4▲</td>
