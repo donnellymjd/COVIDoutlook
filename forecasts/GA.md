@@ -22,17 +22,17 @@ statecode: GA
   </thead>
   <tbody>
     <tr>
-      <td>29</td>
+      <td>36</td>
       <td>10,617,423</td>
-      <td>35,551</td>
-      <td>1.02</td>
-      <td>364,589</td>
-      <td>1,582.2▲</td>
-      <td>7.6%</td>
-      <td>8,029</td>
-      <td>25.4▼</td>
-      <td>1,761</td>
-      <td>96.57</td>
+      <td>24,236</td>
+      <td>1.00</td>
+      <td>366,452</td>
+      <td>1,621.6▲</td>
+      <td>7.3%</td>
+      <td>8,522</td>
+      <td>58.4▲</td>
+      <td>1,782</td>
+      <td>97.57</td>
     </tr>
   </tbody>
 </table>

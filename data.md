@@ -9,6 +9,7 @@ This data page, like the rest of the site, is brand new. Unfortunately, it's not
  - [COVID-19 Related Policy Actions by State - Source: KFF.org](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_interventions.csv)
 
 ### Forecast Downloads (comma separated values)
+ - [Forecast published on November 05, 2020](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_fore_allstates_20201105.csv)
  - [Forecast published on November 04, 2020](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_fore_allstates_20201104.csv)
  - [Forecast published on November 03, 2020](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_fore_allstates_20201103.csv)
  - [Forecast published on November 02, 2020](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_fore_allstates_20201102.csv)

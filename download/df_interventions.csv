@@ -68,7 +68,7 @@
 66,Colorado,CO,2020-03-19,['3/19'],Marketplace SEP,restricting,https://connectforhealthco.com/get-started/covid-19-support/ ;  https://connectforhealthco.com/connect-for-health-colorado-extends-emergency-special-enrollment-period-until-april-30-in-response-to-covid-19-outbreak/
 67,Colorado,CO,2020-03-26,['3/26'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54063
 68,Colorado,CO,2020-03-26,"['3/26', '4/6', '4/26']","Stay At Home Order, Non-Essential Business Closure, Large Gatherings Ban",restricting,https://covid19.colorado.gov/sites/covid19/files/Updated%20Public%20Health%20Order%20-%20Authorized%20Business.32620.pdf ;  https://drive.google.com/file/d/1O1EDCY6-A6QBKxzDImCSF8bBBdOOI3Km/view ;  https://drive.google.com/file/d/1UHbu2_DTdTvSlPcpsd_vDLtnaslmISuo/view ;  https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20044%20Safer%20at%20Home.pdf
-69,Colorado,CO,2020-06-18,"['6/18', '7/17', '9/12', '10/9']",Face Covering Requirement,restricting,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20219%20Nonmedical%20Face%20Coverings.pdf
+69,Colorado,CO,2020-06-18,"['6/18', '7/17', '9/12', '10/9', '11/2']",Face Covering Requirement,restricting,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20237_0.pdf
 70,Colorado,CO,2020-04-27,"['4/27', '6/1']","Easing: Stay at Home Order, Non-Essential Business Closure, Large Gatherings Ban (announced 4/26, 6/1)",easing,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20044%20Safer%20at%20Home.pdf ;  https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20079%20Extending%20Safer%20At%20Home.pdf ;  https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20091%20Safer%20at%20Home%20and%20in%20the%20Vast%2C%20Great%20Outdoors.pd f
 71,Colorado,CO,2020-05-27,['5/27'],Easing: Restaurant Limits (announced 5/24),easing,https://covid19.colorado.gov/safer-at-home/restaurants-food-services ;  https://drive.google.com/file/d/1_yyWSUnb40TKDBk9EcvYcSkOzhCDV8NA/view
 72,Colorado,CO,2020-06-18,['6/18'],"Easing: Non-Essential Business Closure, Restaurant Limits (announced 6/18",easing,https://drive.google.com/file/d/1BdMbwLeI0sY5xmvWk555jCewPvgTJb9e/vie w
@@ -119,7 +119,7 @@
 117,District of Columbia,DC,2020-05-29,['5/29'],"Easing: Stay at Home Order, Restaurant Limits (announced 5/27)",easing,https://coronavirus.dc.gov/sites/default/files/dc/sites/coronavirus/page_content/attachments/MO2020-067.pdf
 118,District of Columbia,DC,2020-06-22,['6/22'],"Easing: Non-Essential Business Closure, Restaurant Limits, Large Gatherings Ban (announced 6/19)",easing,https://coronavirus.dc.gov/phasetw o
 119,Florida,FL,2020-03-01,"['3/1', '6/30', '7/7', '8/14', '8/28', '10/23']",Public Health Emergency,restricting,https://floridahealthcovid19.gov/wp-content/uploads/2020/10/Public-Health-Emergency-Extension-Filed-10.23.2020.pdf
-120,Florida,FL,2020-03-09,"['3/9', '5/8', '8/4']",Emergency Declaration,restricting,https://www.flgov.com/wp-content/uploads/orders/2020/EO_20-213.pdf
+120,Florida,FL,2020-03-09,"['3/9', '5/8', '8/4', '11/3']",Emergency Declaration,restricting,https://www.flgov.com/wp-content/uploads/orders/2020/EO_20-276.pdf
 121,Florida,FL,2020-03-10,['3/10'],Early Rx Refill,restricting,https://www.floir.com/siteDocuments/OIR-20-02M.pdf
 122,Florida,FL,2020-03-16,['3/16'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/downloads/fl-section-1135-appvl.pdf
 123,Florida,FL,2020-03-17,"['3/17', '4/18']",School Closures,restricting,http://www.fldoe.org/newsroom/latest-news/florida-extends-distance-learning-through-remainder-of-academic-year.stml
@@ -272,13 +272,13 @@
 270,Massachusetts,MA,2020-04-28,['4/28'],,restricting,"Extension of Non-Essential Business CLosures, Large Gatherings:    https://www.mass.gov/doc/signed-second-extension-of-essential-services-order/download"
 271,Massachusetts,MA,2020-05-06,['5/6'],Face Covering Requirement,restricting,https://www.mass.gov/doc/may-1-2020-masks-and-face-coverings/download
 272,Massachusetts,MA,2020-05-18,['5/18'],"Extension of Non-Essential Business CLosures, Large Gatherings",restricting,https://www.mass.gov/doc/may-15-2020-24-hour-extension-order/download
-273,Massachusetts,MA,2020-05-06,['5/6'],Face Covering Requirement,restricting,https://www.mass.gov/doc/may-1-2020-masks-and-face-coverings/download
+273,Massachusetts,MA,2020-05-06,"['5/6', '11/6']",Face Covering Requirement,restricting,https://www.mass.gov/doc/may-1-2020-masks-and-face-coverings/download
 274,Massachusetts,MA,2020-05-19,['5/19'],Easing: Non-Essential Business Closures (Announced 5/11),easing,
 275,Massachusetts,MA,2020-06-08,['6/8'],Easing: Large Gatherings (Announced 6/6),easing,https://www.mass.gov/doc/june-6-2020-regulating-gatherings-throughout-the-commonwealth/download  6/22 Restaurant Limits (Announced 6/1):  https://www.mass.gov/doc/june-6-2020-phase-ii-reopening/download ;  https://www.mass.gov/news/reopening-massachusetts-baker-polito-administration-initiates-transition-to-step-two-of-seco nd
 276,Massachusetts,MA,2020-07-06,['7/6'],"Easing: Non-Essential Business Closures, Large Gatherings Ban (Announced 7/2)",easing,https://www.mass.gov/news/reopening-massachusetts-baker-polito-administration-initiates-transition-to-third-phase-of
 277,Massachusetts,MA,2020-08-07,['8/7'],Easing: Pausing Reopening,easing,https://www.mass.gov/news/reopening-massachusetts-baker-polito-administration-initiates-transition-to-third-phase-of
 278,Massachusetts,MA,2020-10-05,['10/5'],Easing: Reopening Resumed,easing,https://www.mass.gov/news/reopening-massachusetts-baker-polito-administration-initiates-transition-to-third-phase-of
-279,Massachusetts,MA,2020-08-11,"['8/11', '10/5']","Easing: Large Gatherings, Restaurant Limits",easing,https://www.mass.gov/doc/revised-gatherings-order-august-7-2020/download ;  https://www.mass.gov/doc/governors-covid-19-order-52/download
+279,Massachusetts,MA,2020-08-11,"['8/11', '10/5', '11/6']","Easing: Large Gatherings, Restaurant Limits",easing,https://www.mass.gov/doc/revised-gatherings-order-august-7-2020/download ;  https://www.mass.gov/doc/governors-covid-19-order-52/download ;  https://www.mass.gov/doc/covid-19-order-54/download ;  https://www.mass.gov/doc/covid-19-order-53/download
 280,Michigan,MI,2020-03-10,"['3/10', '4/1', '4/30', '5/22', '6/18', '7/14', '8/7', '9/29']",Emergency Declaration,restricting,"https://www.michigan.gov/whitmer/0,9309,7-387-90499_90705-540837–,00.html"
 281,Michigan,MI,2020-03-16,['3/16'],School Closures,restricting,"https://www.michigan.gov/whitmer/0,9309,7-387-90499_90705-521890–,00.html"
 282,Michigan,MI,2020-03-17,['3/17'],"Restaurant Limits, Bar Closures",restricting,"https://www.michigan.gov/whitmer/0,9309,7-387-90499_90705-521789–,00.html"
@@ -581,7 +581,7 @@
 579,Pennsylvania,PA,2020-09-21,['9/21'],Easing: Restaurant Limits,easing,https://www.governor.pa.gov/wp-content/uploads/2020/09/20200917-TWW-amendment-to-targeted-mitigation-order.pdf
 580,Pennsylvania,PA,2020-07-16,['7/16'],"Easing: Large Gatherings Ban, Restaurant Limits, Bar Closures",easing,https://www.governor.pa.gov/wp-content/uploads/2020/07/20200715-TWW-targeted-mitigation-order.pdf
 581,Pennsylvania,PA,2020-09-04,['9/4'],Easing: Extension of New Restrictions,easing,https://governor.ri.gov/documents/orders/Executive-Order-20-73.pdf
-582,Rhode Island,RI,2020-03-09,"['3/9', '4/8', '7/3', '7/31', '10/2']",Emergency Declaration,restricting,https://governor.ri.gov/documents/orders/Executive-Order-20-81.pdf
+582,Rhode Island,RI,2020-03-09,"['3/9', '4/8', '7/3', '7/31', '10/2', '11/2']",Emergency Declaration,restricting,https://governor.ri.gov/documents/orders/Executive-Order-20-91.pdf
 583,Rhode Island,RI,2020-03-13,['3/13'],"Free Vaccine, Waive Prior Auth, Early Rx Refill",restricting,http://www.ohic.ri.gov/documents/2020/March/Insurance%20Coverage%20Instructions%20During%20COVID-19%20State%20of%20Emergency%20FINAL.pdf
 584,Rhode Island,RI,2020-03-16,"['3/16', '3/28', '4/10']","Large Gatherings Ban, Restaurant Limits",restricting,http://www.governor.ri.gov/documents/orders/Executive-Order-20-23.pdf
 585,Rhode Island,RI,2020-03-18,"['3/18', '3/30']",School Closures,restricting,https://www.ri.gov/press/view/37961 ;  https://twitter.com/RIDeptEd/status/1244684069511876609
