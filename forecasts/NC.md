@@ -22,16 +22,16 @@ statecode: NC
   </thead>
   <tbody>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>10,488,084</td>
-      <td>39,710</td>
-      <td>1.01</td>
-      <td>285,661</td>
-      <td>2,333.5▲</td>
-      <td>6.5%</td>
-      <td>4,548</td>
-      <td>33.3▲</td>
-      <td>1,193</td>
+      <td>39,368</td>
+      <td>1.00</td>
+      <td>288,569</td>
+      <td>2,347.2▲</td>
+      <td>6.4%</td>
+      <td>4,582</td>
+      <td>33.4▲</td>
+      <td>1,161</td>
       <td>Not Available</td>
     </tr>
   </tbody>

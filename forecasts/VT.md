@@ -25,13 +25,13 @@ statecode: VT
       <td>51</td>
       <td>623,989</td>
       <td>68</td>
-      <td>1.22</td>
-      <td>2,303</td>
-      <td>22.6▲</td>
-      <td>3.1%</td>
+      <td>1.21</td>
+      <td>2,326</td>
+      <td>22.1▲</td>
+      <td>3.2%▲</td>
       <td>58</td>
       <td>0.0</td>
-      <td>7</td>
+      <td>4</td>
       <td>5.00</td>
     </tr>
   </tbody>
