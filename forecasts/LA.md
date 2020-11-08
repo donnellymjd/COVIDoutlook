@@ -24,8 +24,8 @@ statecode: LA
     <tr>
       <td>23</td>
       <td>4,648,794</td>
-      <td>18,633</td>
-      <td>1.04</td>
+      <td>19,568</td>
+      <td>1.06</td>
       <td>191,715</td>
       <td>650.9</td>
       <td>4.7%</td>
