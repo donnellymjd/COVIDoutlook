@@ -22,16 +22,16 @@ statecode: OR
   </thead>
   <tbody>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>4,217,737</td>
-      <td>5,134</td>
-      <td>1.23</td>
-      <td>49,587</td>
-      <td>560.6▲</td>
-      <td>9.6%▲</td>
-      <td>729</td>
-      <td>5.4</td>
-      <td>266</td>
+      <td>5,351</td>
+      <td>1.24</td>
+      <td>50,448</td>
+      <td>596.2▲</td>
+      <td>9.9%▲</td>
+      <td>730</td>
+      <td>5.5</td>
+      <td>266▲</td>
       <td>24.57</td>
     </tr>
   </tbody>

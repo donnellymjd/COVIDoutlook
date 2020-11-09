@@ -22,16 +22,16 @@ statecode: MO
   </thead>
   <tbody>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>6,137,428</td>
-      <td>31,857</td>
+      <td>32,373</td>
       <td>1.19</td>
-      <td>205,066</td>
-      <td>2,686.7▲</td>
-      <td>29.3%▼</td>
-      <td>3,150</td>
-      <td>24.9</td>
-      <td>1,926▲</td>
+      <td>209,197</td>
+      <td>2,835.9▲</td>
+      <td>28.2%▼</td>
+      <td>3,153</td>
+      <td>24.9▼</td>
+      <td>1,965▲</td>
       <td>Not Available</td>
     </tr>
   </tbody>
