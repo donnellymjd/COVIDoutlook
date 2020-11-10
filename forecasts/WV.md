@@ -22,16 +22,16 @@ statecode: WV
   </thead>
   <tbody>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>1,792,147</td>
-      <td>4,519</td>
-      <td>1.10</td>
-      <td>28,404</td>
-      <td>464.1▲</td>
-      <td>5.1%</td>
-      <td>502</td>
-      <td>5.6▲</td>
-      <td>288▲</td>
+      <td>4,634</td>
+      <td>1.11</td>
+      <td>28,805</td>
+      <td>470.1▲</td>
+      <td>5.5%</td>
+      <td>530</td>
+      <td>7.6▲</td>
+      <td>290▲</td>
       <td>0.00</td>
     </tr>
   </tbody>

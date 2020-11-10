@@ -22,16 +22,16 @@ statecode: IL
   </thead>
   <tbody>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>12,671,821</td>
-      <td>153,530</td>
-      <td>1.24</td>
-      <td>487,987</td>
-      <td>7,787.0▲</td>
-      <td>9.6%▲</td>
-      <td>10,538</td>
-      <td>54.5▲</td>
-      <td>4,303▲</td>
+      <td>164,800</td>
+      <td>1.26</td>
+      <td>498,560</td>
+      <td>8,204.4▲</td>
+      <td>9.7%▲</td>
+      <td>10,563</td>
+      <td>55.1▲</td>
+      <td>4,409▲</td>
       <td>Not Available</td>
     </tr>
   </tbody>

@@ -13,4 +13,4 @@ banner: duotone2.png
 </script>
 <script src="/assets/js/compare.js" async="True"></script>
 
-<div class="bk-root" id="1edc7191-4ced-41e0-a088-87ac84de5d31" data-root-id="1105"></div>
+<div class="bk-root" id="770bd8dd-3509-4623-8878-4b00ba260ea8" data-root-id="1105"></div>

@@ -24,14 +24,14 @@ statecode: CA
     <tr>
       <td>35</td>
       <td>39,512,223</td>
-      <td>103,127</td>
-      <td>1.09</td>
-      <td>964,639</td>
-      <td>4,757.9▲</td>
-      <td>3.4%</td>
-      <td>17,963</td>
-      <td>44.1</td>
-      <td>3,554</td>
+      <td>110,715</td>
+      <td>1.13</td>
+      <td>971,851</td>
+      <td>5,060.1▲</td>
+      <td>3.7%</td>
+      <td>17,977</td>
+      <td>44.3</td>
+      <td>3,668</td>
       <td>Not Available</td>
     </tr>
   </tbody>

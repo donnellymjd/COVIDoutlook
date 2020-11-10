@@ -22,17 +22,17 @@ statecode: MT
   </thead>
   <tbody>
     <tr>
-      <td>20</td>
+      <td>16</td>
       <td>1,068,778</td>
-      <td>5,034</td>
-      <td>1.09</td>
-      <td>39,679</td>
-      <td>842.8▲</td>
-      <td>19.3%▲</td>
-      <td>456</td>
-      <td>11.4▲</td>
-      <td>458▲</td>
-      <td>17.71▼</td>
+      <td>5,895</td>
+      <td>1.20</td>
+      <td>40,053</td>
+      <td>825.1▲</td>
+      <td>17.9%▲</td>
+      <td>457</td>
+      <td>11.0▲</td>
+      <td>470▲</td>
+      <td>18.21▼</td>
     </tr>
   </tbody>
 </table>
