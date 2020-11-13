@@ -24,14 +24,14 @@ statecode: TX
     <tr>
       <td>24</td>
       <td>28,995,881</td>
-      <td>147,785</td>
+      <td>152,504</td>
       <td>1.10</td>
-      <td>985,380</td>
-      <td>7,527.6▲</td>
-      <td>9.8%▲</td>
-      <td>18,863</td>
-      <td>83.1▲</td>
-      <td>6,779▲</td>
+      <td>993,841</td>
+      <td>7,644.4▲</td>
+      <td>10.4%▲</td>
+      <td>19,147</td>
+      <td>94.9▲</td>
+      <td>6,925▲</td>
       <td>Not Available</td>
     </tr>
   </tbody>

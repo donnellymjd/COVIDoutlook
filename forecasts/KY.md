@@ -22,17 +22,17 @@ statecode: KY
   </thead>
   <tbody>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>4,467,673</td>
-      <td>25,431</td>
-      <td>1.03</td>
-      <td>127,344</td>
-      <td>1,846.4▲</td>
-      <td>9.2%▲</td>
-      <td>1,604</td>
-      <td>11.6</td>
-      <td>1,189▲</td>
-      <td>99.64▲</td>
+      <td>26,321</td>
+      <td>1.04</td>
+      <td>129,680</td>
+      <td>1,883.9▲</td>
+      <td>8.5%▲</td>
+      <td>1,622</td>
+      <td>11.5</td>
+      <td>1,311▲</td>
+      <td>107.00▲</td>
     </tr>
   </tbody>
 </table>

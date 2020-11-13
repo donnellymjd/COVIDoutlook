@@ -22,16 +22,16 @@ statecode: DC
   </thead>
   <tbody>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>705,749</td>
-      <td>4,979</td>
-      <td>1.07</td>
-      <td>18,379</td>
-      <td>100.4▲</td>
+      <td>5,025</td>
+      <td>1.09</td>
+      <td>18,507</td>
+      <td>102.4▲</td>
       <td>2.3%</td>
       <td>657</td>
       <td>0.9▲</td>
-      <td>112</td>
+      <td>109</td>
       <td>Not Available</td>
     </tr>
   </tbody>
