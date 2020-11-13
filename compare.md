@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Compare States
-banner: duotone2.png
+image: duotone2.png
 ---
 
 
@@ -13,4 +13,4 @@ banner: duotone2.png
 </script>
 <script src="/assets/js/compare.js" async="True"></script>
 
-<div class="bk-root" id="fb86aa9d-a4bc-4499-89e8-3f610d87dba9" data-root-id="1105"></div>
+<div class="bk-root" id="ee729916-3b8b-4a06-99f4-86fe780475d7" data-root-id="1716"></div>
