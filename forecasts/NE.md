@@ -11,6 +11,7 @@ statecode: NE
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Days to Hospital Capacity</th>
       <th>Total Cases</th>
       <th>14-Day Avg Daily Cases</th>
       <th>Positivity Rate</th>
@@ -22,17 +23,18 @@ statecode: NE
   </thead>
   <tbody>
     <tr>
-      <td>28</td>
+      <td>26</td>
       <td>1,934,408</td>
-      <td>8,544</td>
-      <td>1.31</td>
-      <td>89,942</td>
-      <td>1,671.2▲</td>
-      <td>36.5%▲</td>
-      <td>731</td>
-      <td>7.4</td>
-      <td>885▲</td>
-      <td>37.93▲</td>
+      <td>9,519</td>
+      <td>1.33<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>29</td>
+      <td>92,553</td>
+      <td>1,743.1<span style="color: red">▲</span></td>
+      <td>37.8%<span style="color: red">▲</span></td>
+      <td>756</td>
+      <td>8.5<span style="color: red">▲</span></td>
+      <td>905<span style="color: red">▲</span></td>
+      <td>34.50<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
@@ -82,9 +84,14 @@ Simultaneous Infections Forecast
 : The model is able to estimate the number of people with active infections in a region over time. The exposed population refers to people who have been infected very recently but are pre-symptomatic and less likely to be able to spread COVID-19. The Infectious Population is an estimate of the number of people who are currently experiencing symptoms and are able to spread COVID-19.
 
 - - - -
-<img src='/assets/images/covid19/NE_ch_hosp.png'>
+<img src='/assets/images/covid19/NE_ch_hosp_concur.png'>
 Hospitalization and Deaths Forecast
-: The core model output is an estimate of the number of COVID-19 hospitalizations and deaths. More information on the methodology of this model is available on the [model methodology page](http://www.michaeldonnel.ly/covid19/methodology/). Concurrent hospitalizations refers to the number of COVID-19 cases estimated/forecast to be in the hospital on any given day. Deaths represents the model's estimate for the total number of deaths to have occurred by a given date. ICU cases are treated as a subset of hospitalizations and ventilations are treated as a subset of ICU cases.
+: The core model output is an estimate of the number of COVID-19 hospitalizations. More information on the methodology of this model is available on the [model methodology page](http://www.michaeldonnel.ly/covid19/methodology/). Concurrent hospitalizations refers to the number of COVID-19 cases estimated/forecast to be in the hospital on any given day. ICU cases are treated as a subset of hospitalizations and ventilations are treated as a subset of ICU cases.
+
+- - - -
+<img src='/assets/images/covid19/NE_ch_deaths_tot.png'>
+Total Deaths Forecast
+: The core model output is an estimate of the cumulative number of COVID-19 deaths. More information on the methodology of this model is available on the [model methodology page](http://www.michaeldonnel.ly/covid19/methodology/). Deaths represents the model's estimate for the total number of deaths to have occurred by a given date. 
 
 - - - -
 <img src='/assets/images/covid19/NE_ch_population_share.png'>

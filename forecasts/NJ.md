@@ -11,6 +11,7 @@ statecode: NJ
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Days to Hospital Capacity</th>
       <th>Total Cases</th>
       <th>14-Day Avg Daily Cases</th>
       <th>Positivity Rate</th>
@@ -24,15 +25,16 @@ statecode: NJ
     <tr>
       <td>30</td>
       <td>8,882,190</td>
-      <td>33,926</td>
-      <td>1.34</td>
-      <td>266,986</td>
-      <td>2,317.1▲</td>
-      <td>5.9%▲</td>
-      <td>16,495</td>
-      <td>11.6</td>
-      <td>1,827▲</td>
-      <td>86.57▼</td>
+      <td>35,347</td>
+      <td>1.37<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>37</td>
+      <td>270,383</td>
+      <td>2,418.6<span style="color: red">▲</span></td>
+      <td>5.7%<span style="color: red">▲</span></td>
+      <td>16,522</td>
+      <td>13.1</td>
+      <td>1,909<span style="color: red">▲</span></td>
+      <td>89.50<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
@@ -82,9 +84,14 @@ Simultaneous Infections Forecast
 : The model is able to estimate the number of people with active infections in a region over time. The exposed population refers to people who have been infected very recently but are pre-symptomatic and less likely to be able to spread COVID-19. The Infectious Population is an estimate of the number of people who are currently experiencing symptoms and are able to spread COVID-19.
 
 - - - -
-<img src='/assets/images/covid19/NJ_ch_hosp.png'>
+<img src='/assets/images/covid19/NJ_ch_hosp_concur.png'>
 Hospitalization and Deaths Forecast
-: The core model output is an estimate of the number of COVID-19 hospitalizations and deaths. More information on the methodology of this model is available on the [model methodology page](http://www.michaeldonnel.ly/covid19/methodology/). Concurrent hospitalizations refers to the number of COVID-19 cases estimated/forecast to be in the hospital on any given day. Deaths represents the model's estimate for the total number of deaths to have occurred by a given date. ICU cases are treated as a subset of hospitalizations and ventilations are treated as a subset of ICU cases.
+: The core model output is an estimate of the number of COVID-19 hospitalizations. More information on the methodology of this model is available on the [model methodology page](http://www.michaeldonnel.ly/covid19/methodology/). Concurrent hospitalizations refers to the number of COVID-19 cases estimated/forecast to be in the hospital on any given day. ICU cases are treated as a subset of hospitalizations and ventilations are treated as a subset of ICU cases.
+
+- - - -
+<img src='/assets/images/covid19/NJ_ch_deaths_tot.png'>
+Total Deaths Forecast
+: The core model output is an estimate of the cumulative number of COVID-19 deaths. More information on the methodology of this model is available on the [model methodology page](http://www.michaeldonnel.ly/covid19/methodology/). Deaths represents the model's estimate for the total number of deaths to have occurred by a given date. 
 
 - - - -
 <img src='/assets/images/covid19/NJ_ch_population_share.png'>

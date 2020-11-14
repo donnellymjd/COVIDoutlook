@@ -11,6 +11,7 @@ statecode: VA
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Days to Hospital Capacity</th>
       <th>Total Cases</th>
       <th>14-Day Avg Daily Cases</th>
       <th>Positivity Rate</th>
@@ -22,17 +23,18 @@ statecode: VA
   </thead>
   <tbody>
     <tr>
-      <td>37</td>
+      <td>35</td>
       <td>8,535,519</td>
-      <td>26,773</td>
-      <td>1.20</td>
-      <td>198,027</td>
-      <td>1,417.4▲</td>
-      <td>7.2%</td>
-      <td>3,758</td>
-      <td>8.7▼</td>
-      <td>1,313</td>
-      <td>171.50▲</td>
+      <td>28,815</td>
+      <td>1.22<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>44</td>
+      <td>199,262</td>
+      <td>1,401.6<span style="color: red">▲</span></td>
+      <td>7.5%</td>
+      <td>3,785</td>
+      <td>10.1<span style="color: green">▼</span></td>
+      <td>1,296<span style="color: red">▲</span></td>
+      <td>171.21<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
@@ -82,9 +84,14 @@ Simultaneous Infections Forecast
 : The model is able to estimate the number of people with active infections in a region over time. The exposed population refers to people who have been infected very recently but are pre-symptomatic and less likely to be able to spread COVID-19. The Infectious Population is an estimate of the number of people who are currently experiencing symptoms and are able to spread COVID-19.
 
 - - - -
-<img src='/assets/images/covid19/VA_ch_hosp.png'>
+<img src='/assets/images/covid19/VA_ch_hosp_concur.png'>
 Hospitalization and Deaths Forecast
-: The core model output is an estimate of the number of COVID-19 hospitalizations and deaths. More information on the methodology of this model is available on the [model methodology page](http://www.michaeldonnel.ly/covid19/methodology/). Concurrent hospitalizations refers to the number of COVID-19 cases estimated/forecast to be in the hospital on any given day. Deaths represents the model's estimate for the total number of deaths to have occurred by a given date. ICU cases are treated as a subset of hospitalizations and ventilations are treated as a subset of ICU cases.
+: The core model output is an estimate of the number of COVID-19 hospitalizations. More information on the methodology of this model is available on the [model methodology page](http://www.michaeldonnel.ly/covid19/methodology/). Concurrent hospitalizations refers to the number of COVID-19 cases estimated/forecast to be in the hospital on any given day. ICU cases are treated as a subset of hospitalizations and ventilations are treated as a subset of ICU cases.
+
+- - - -
+<img src='/assets/images/covid19/VA_ch_deaths_tot.png'>
+Total Deaths Forecast
+: The core model output is an estimate of the cumulative number of COVID-19 deaths. More information on the methodology of this model is available on the [model methodology page](http://www.michaeldonnel.ly/covid19/methodology/). Deaths represents the model's estimate for the total number of deaths to have occurred by a given date. 
 
 - - - -
 <img src='/assets/images/covid19/VA_ch_population_share.png'>
