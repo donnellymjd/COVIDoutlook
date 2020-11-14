@@ -25,9 +25,9 @@ statecode: MT
     <tr>
       <td>18</td>
       <td>1,068,778</td>
-      <td>6,505</td>
+      <td>6,702</td>
       <td>1.21<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>35</td>
+      <td>34</td>
       <td>44,244</td>
       <td>880.6<span style="color: red">▲</span></td>
       <td>16.7%<span style="color: red">▲</span></td>

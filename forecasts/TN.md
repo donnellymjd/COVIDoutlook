@@ -25,9 +25,9 @@ statecode: TN
     <tr>
       <td>16</td>
       <td>6,829,174</td>
-      <td>44,714</td>
+      <td>46,213</td>
       <td>1.23<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>26</td>
+      <td>25</td>
       <td>300,458</td>
       <td>2,926.4<span style="color: red">▲</span></td>
       <td>11.5%<span style="color: red">▲</span></td>

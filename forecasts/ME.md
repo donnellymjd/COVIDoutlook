@@ -25,9 +25,9 @@ statecode: ME
     <tr>
       <td>47</td>
       <td>1,344,212</td>
-      <td>1,646</td>
+      <td>1,736</td>
       <td>1.41<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>59</td>
+      <td>58</td>
       <td>8,639</td>
       <td>147.8<span style="color: red">▲</span></td>
       <td>1.9%</td>

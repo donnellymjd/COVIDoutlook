@@ -25,9 +25,9 @@ statecode: TX
     <tr>
       <td>25</td>
       <td>28,995,881</td>
-      <td>148,887</td>
+      <td>151,048</td>
       <td>1.08<span style="color: #ffcc00">▶</span></td>
-      <td>62</td>
+      <td>61</td>
       <td>1,004,983</td>
       <td>7,966.6<span style="color: red">▲</span></td>
       <td>10.4%<span style="color: red">▲</span></td>

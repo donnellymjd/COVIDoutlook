@@ -25,9 +25,9 @@ statecode: MN
     <tr>
       <td>31</td>
       <td>5,639,632</td>
-      <td>21,712</td>
+      <td>22,530</td>
       <td>1.27<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>44</td>
+      <td>43</td>
       <td>207,339</td>
       <td>4,419.6<span style="color: red">▲</span></td>
       <td>23.9%<span style="color: red">▲</span></td>

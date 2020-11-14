@@ -25,9 +25,9 @@ statecode: OR
     <tr>
       <td>46</td>
       <td>4,217,737</td>
-      <td>6,926</td>
+      <td>7,208</td>
       <td>1.29<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>60</td>
+      <td>59</td>
       <td>54,937</td>
       <td>753.4<span style="color: red">▲</span></td>
       <td>12.0%<span style="color: red">▲</span></td>

@@ -23,11 +23,11 @@ statecode: HI
   </thead>
   <tbody>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>1,415,872</td>
-      <td>2,965</td>
+      <td>3,037</td>
       <td>1.15<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>83</td>
+      <td>82</td>
       <td>16,534</td>
       <td>101.3<span style="color: red">▲</span></td>
       <td>100.0%<span style="color: red">▲</span></td>

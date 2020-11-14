@@ -23,11 +23,11 @@ statecode: MD
   </thead>
   <tbody>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>6,045,680</td>
-      <td>36,150</td>
+      <td>37,612</td>
       <td>1.29<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>28</td>
+      <td>27</td>
       <td>161,769</td>
       <td>1,246.8<span style="color: red">▲</span></td>
       <td>11.1%<span style="color: red">▲</span></td>

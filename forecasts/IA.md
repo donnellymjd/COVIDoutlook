@@ -25,9 +25,9 @@ statecode: IA
     <tr>
       <td>1</td>
       <td>3,155,070</td>
-      <td>56,487</td>
+      <td>59,938</td>
       <td>1.47<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td><img src="https://media.giphy.com/media/daDPy7kxfE1TfxLzNg/giphy.gif" width=15 height=15>4</td>
+      <td><img src="https://media.giphy.com/media/daDPy7kxfE1TfxLzNg/giphy.gif" width=15 height=15>3</td>
       <td>159,635</td>
       <td>3,032.1<span style="color: red">▲</span></td>
       <td>48.6%<span style="color: red">▲</span></td>

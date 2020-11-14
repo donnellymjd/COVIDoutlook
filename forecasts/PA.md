@@ -25,9 +25,9 @@ statecode: PA
     <tr>
       <td>32</td>
       <td>12,801,989</td>
-      <td>46,091</td>
+      <td>47,844</td>
       <td>1.28<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>52</td>
+      <td>51</td>
       <td>254,387</td>
       <td>3,490.7<span style="color: red">▲</span></td>
       <td>17.8%<span style="color: red">▲</span></td>

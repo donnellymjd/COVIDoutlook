@@ -23,11 +23,11 @@ statecode: WA
   </thead>
   <tbody>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>7,614,893</td>
-      <td>15,668</td>
+      <td>16,620</td>
       <td>1.47<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>43</td>
+      <td>42</td>
       <td>123,356</td>
       <td>1,271.4<span style="color: red">▲</span></td>
       <td>6.2%<span style="color: red">▲</span></td>

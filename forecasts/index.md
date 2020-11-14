@@ -23,7 +23,7 @@ statecode: US
   <tbody>
     <tr>
       <td>328,239,523</td>
-      <td>1,832,299</td>
+      <td>1,891,884</td>
       <td>1.23</td>
       <td>Not Available</td>
       <td>10,539,616</td>

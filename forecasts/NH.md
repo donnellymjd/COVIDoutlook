@@ -25,9 +25,9 @@ statecode: NH
     <tr>
       <td>49</td>
       <td>1,359,711</td>
-      <td>1,577</td>
+      <td>1,623</td>
       <td>1.20<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>105</td>
+      <td>104</td>
       <td>13,470</td>
       <td>184.7<span style="color: red">▲</span></td>
       <td>7.1%<span style="color: red">▲</span></td>

@@ -25,7 +25,7 @@ statecode: GA
     <tr>
       <td>37</td>
       <td>10,617,423</td>
-      <td>34,479</td>
+      <td>34,758</td>
       <td>1.04<span style="color: #ffcc00">▶</span></td>
       <td>Not Available</td>
       <td>382,505</td>

@@ -25,9 +25,9 @@ statecode: FL
     <tr>
       <td>28</td>
       <td>21,477,737</td>
-      <td>97,622</td>
+      <td>100,448</td>
       <td>1.19<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>42</td>
+      <td>41</td>
       <td>858,585</td>
       <td>4,919.4<span style="color: red">▲</span></td>
       <td>15.3%<span style="color: red">▲</span></td>

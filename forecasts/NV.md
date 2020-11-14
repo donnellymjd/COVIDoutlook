@@ -25,9 +25,9 @@ statecode: NV
     <tr>
       <td>17</td>
       <td>3,080,156</td>
-      <td>19,404</td>
+      <td>19,861</td>
       <td>1.14<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>28</td>
+      <td>27</td>
       <td>116,737</td>
       <td>1,210.8<span style="color: red">▲</span></td>
       <td>25.1%<span style="color: red">▲</span></td>

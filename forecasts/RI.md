@@ -23,11 +23,11 @@ statecode: RI
   </thead>
   <tbody>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>1,059,361</td>
-      <td>7,727</td>
+      <td>7,972</td>
       <td>1.22<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>34</td>
+      <td>33</td>
       <td>41,529</td>
       <td>618.2<span style="color: red">▲</span></td>
       <td>19.6%<span style="color: red">▲</span></td>

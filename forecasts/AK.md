@@ -25,9 +25,9 @@ statecode: AK
     <tr>
       <td>45</td>
       <td>731,545</td>
-      <td>1,222</td>
+      <td>1,258</td>
       <td>1.19<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>77</td>
+      <td>76</td>
       <td>21,812</td>
       <td>421.7<span style="color: red">▲</span></td>
       <td>2.3%<span style="color: green">▼</span></td>

@@ -23,11 +23,11 @@ statecode: MA
   </thead>
   <tbody>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>6,892,503</td>
-      <td>40,822</td>
+      <td>42,489</td>
       <td>1.29<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>31</td>
+      <td>30</td>
       <td>183,095</td>
       <td>1,853.5<span style="color: red">▲</span></td>
       <td>9.6%<span style="color: red">▲</span></td>

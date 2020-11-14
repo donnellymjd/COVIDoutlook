@@ -25,9 +25,9 @@ statecode: MO
     <tr>
       <td>23</td>
       <td>6,137,428</td>
-      <td>34,402</td>
+      <td>35,430</td>
       <td>1.20<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>39</td>
+      <td>38</td>
       <td>229,376</td>
       <td>3,512.6<span style="color: red">▲</span></td>
       <td>33.1%<span style="color: green">▼</span></td>

@@ -25,9 +25,9 @@ statecode: OH
     <tr>
       <td>8</td>
       <td>11,689,100</td>
-      <td>101,655</td>
+      <td>105,964</td>
       <td>1.31<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>21</td>
+      <td>20</td>
       <td>282,528</td>
       <td>4,981.9<span style="color: red">▲</span></td>
       <td>9.7%<span style="color: red">▲</span></td>
