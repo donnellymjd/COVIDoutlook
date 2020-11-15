@@ -25,14 +25,14 @@ statecode: MI
     <tr>
       <td>4</td>
       <td>9,986,857</td>
-      <td>126,262</td>
-      <td>1.32<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td><img src="https://media.giphy.com/media/daDPy7kxfE1TfxLzNg/giphy.gif" width=15 height=15>11</td>
-      <td>268,362</td>
-      <td>5,355.3<span style="color: red">▲</span></td>
-      <td>9.9%<span style="color: red">▲</span></td>
-      <td>8,308</td>
-      <td>45.9<span style="color: red">▲</span></td>
+      <td>130,798</td>
+      <td>1.31<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td><img src="https://media.giphy.com/media/daDPy7kxfE1TfxLzNg/giphy.gif" width=15 height=15>10</td>
+      <td>275,792</td>
+      <td>5,599.0<span style="color: red">▲</span></td>
+      <td>10.0%<span style="color: red">▲</span></td>
+      <td>8,376</td>
+      <td>48.4<span style="color: red">▲</span></td>
       <td>3,241<span style="color: red">▲</span></td>
       <td>Not Available</td>
     </tr>

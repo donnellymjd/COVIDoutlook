@@ -23,18 +23,18 @@ statecode: VA
   </thead>
   <tbody>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>8,535,519</td>
-      <td>29,773</td>
+      <td>31,781</td>
       <td>1.22<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>43</td>
-      <td>199,262</td>
-      <td>1,401.6<span style="color: red">▲</span></td>
-      <td>7.5%</td>
-      <td>3,785</td>
-      <td>10.1<span style="color: green">▼</span></td>
-      <td>1,296<span style="color: red">▲</span></td>
-      <td>171.21<span style="color: red">▲</span></td>
+      <td>41</td>
+      <td>200,799</td>
+      <td>1,400.6<span style="color: red">▲</span></td>
+      <td>7.4%</td>
+      <td>3,799</td>
+      <td>10.4<span style="color: green">▼</span></td>
+      <td>1,312<span style="color: red">▲</span></td>
+      <td>176.43<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

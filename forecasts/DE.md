@@ -23,17 +23,17 @@ statecode: DE
   </thead>
   <tbody>
     <tr>
-      <td>27</td>
+      <td>25</td>
       <td>973,764</td>
-      <td>4,621</td>
-      <td>1.27<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>42</td>
-      <td>28,016</td>
-      <td>233.2<span style="color: red">▲</span></td>
-      <td>12.2%<span style="color: red">▲</span></td>
-      <td>734</td>
-      <td>2.1<span style="color: green">▼</span></td>
-      <td>130<span style="color: red">▲</span></td>
+      <td>4,906</td>
+      <td>1.29<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>38</td>
+      <td>28,395</td>
+      <td>246.0<span style="color: red">▲</span></td>
+      <td>12.9%<span style="color: red">▲</span></td>
+      <td>736</td>
+      <td>2.0<span style="color: green">▼</span></td>
+      <td>132<span style="color: red">▲</span></td>
       <td>Not Available</td>
     </tr>
   </tbody>

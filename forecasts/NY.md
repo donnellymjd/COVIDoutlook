@@ -25,15 +25,15 @@ statecode: NY
     <tr>
       <td>40</td>
       <td>19,453,561</td>
-      <td>48,541</td>
-      <td>1.38<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>44</td>
-      <td>551,163</td>
-      <td>3,266.6<span style="color: red">▲</span></td>
-      <td>2.2%</td>
-      <td>26,079</td>
-      <td>19.6</td>
-      <td>1,737<span style="color: red">▲</span></td>
+      <td>54,087</td>
+      <td>1.42<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>39</td>
+      <td>556,551</td>
+      <td>3,505.1<span style="color: red">▲</span></td>
+      <td>2.3%</td>
+      <td>26,103</td>
+      <td>21.1<span style="color: red">▲</span></td>
+      <td>1,788<span style="color: red">▲</span></td>
       <td>0.00</td>
     </tr>
   </tbody>

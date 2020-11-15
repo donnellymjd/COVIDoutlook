@@ -23,18 +23,18 @@ statecode: KY
   </thead>
   <tbody>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>4,467,673</td>
-      <td>27,137</td>
-      <td>1.07<span style="color: #ffcc00">▶</span></td>
-      <td>33</td>
-      <td>132,844</td>
-      <td>1,971.6<span style="color: red">▲</span></td>
-      <td>9.1%<span style="color: red">▲</span></td>
-      <td>1,647</td>
-      <td>12.2</td>
-      <td>1,358<span style="color: red">▲</span></td>
-      <td>111.00<span style="color: red">▲</span></td>
+      <td>28,449</td>
+      <td>1.10<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>26</td>
+      <td>136,137</td>
+      <td>2,065.6<span style="color: red">▲</span></td>
+      <td>9.5%<span style="color: red">▲</span></td>
+      <td>1,658</td>
+      <td>12.4</td>
+      <td>1,378<span style="color: red">▲</span></td>
+      <td>112.36<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
