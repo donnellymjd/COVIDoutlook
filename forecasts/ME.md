@@ -26,7 +26,7 @@ statecode: ME
       <td>47</td>
       <td>1,344,212</td>
       <td>2,200</td>
-      <td>1.59<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.59<span style="color: red">🟥</span></td>
       <td>43</td>
       <td>8,791</td>
       <td>151.6<span style="color: red">▲</span></td>

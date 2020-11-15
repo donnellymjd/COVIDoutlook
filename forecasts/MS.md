@@ -26,7 +26,7 @@ statecode: MS
       <td>33</td>
       <td>2,976,149</td>
       <td>11,161</td>
-      <td>1.22<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.22<span style="color: red">🟥</span></td>
       <td>46</td>
       <td>133,340</td>
       <td>941.4<span style="color: red">▲</span></td>

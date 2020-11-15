@@ -26,7 +26,7 @@ statecode: NM
       <td>12</td>
       <td>2,096,829</td>
       <td>15,467</td>
-      <td>1.14<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.14<span style="color: red">🟥</span></td>
       <td>36</td>
       <td>62,006</td>
       <td>1,149.8<span style="color: red">▲</span></td>

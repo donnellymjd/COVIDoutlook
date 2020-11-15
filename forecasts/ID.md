@@ -26,7 +26,7 @@ statecode: ID
       <td>44</td>
       <td>1,787,065</td>
       <td>3,218</td>
-      <td>1.11<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.11<span style="color: red">🟥</span></td>
       <td>118</td>
       <td>79,798</td>
       <td>1,142.0<span style="color: red">▲</span></td>

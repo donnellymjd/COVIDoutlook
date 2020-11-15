@@ -26,7 +26,7 @@ statecode: MD
       <td>16</td>
       <td>6,045,680</td>
       <td>40,630</td>
-      <td>1.30<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.30<span style="color: red">🟥</span></td>
       <td>24</td>
       <td>164,090</td>
       <td>1,343.5<span style="color: red">▲</span></td>

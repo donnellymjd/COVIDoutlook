@@ -26,8 +26,8 @@ statecode: OK
       <td>6</td>
       <td>3,956,971</td>
       <td>46,073</td>
-      <td>1.37<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td><img src="https://media.giphy.com/media/daDPy7kxfE1TfxLzNg/giphy.gif" width=15 height=15>5</td>
+      <td>1.37<span style="color: red">🟥</span></td>
+      <td><img src="https://media.giphy.com/media/daDPy7kxfE1TfxLzNg/giphy.gif" width=15 height=15><span>5</span></td>
       <td>150,205</td>
       <td>1,960.2<span style="color: red">▲</span></td>
       <td>14.7%<span style="color: red">▲</span></td>

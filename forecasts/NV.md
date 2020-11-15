@@ -26,7 +26,7 @@ statecode: NV
       <td>20</td>
       <td>3,080,156</td>
       <td>19,731</td>
-      <td>1.13<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.13<span style="color: red">🟥</span></td>
       <td>28</td>
       <td>119,006</td>
       <td>1,303.1<span style="color: red">▲</span></td>

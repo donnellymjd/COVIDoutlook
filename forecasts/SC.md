@@ -26,8 +26,8 @@ statecode: SC
       <td>50</td>
       <td>5,148,714</td>
       <td>3,623</td>
-      <td>1.13<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>140</td>
+      <td>1.13<span style="color: red">🟥</span></td>
+      <td>120+</td>
       <td>194,014</td>
       <td>1,243.0<span style="color: red">▲</span></td>
       <td>6.4%</td>

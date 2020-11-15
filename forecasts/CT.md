@@ -26,7 +26,7 @@ statecode: CT
       <td>38</td>
       <td>3,565,287</td>
       <td>11,100</td>
-      <td>1.19<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.19<span style="color: red">🟥</span></td>
       <td>69</td>
       <td>88,645</td>
       <td>1,245.6<span style="color: red">▲</span></td>

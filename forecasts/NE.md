@@ -26,7 +26,7 @@ statecode: NE
       <td>22</td>
       <td>1,934,408</td>
       <td>11,385</td>
-      <td>1.35<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.35<span style="color: red">🟥</span></td>
       <td>24</td>
       <td>94,922</td>
       <td>1,805.5<span style="color: red">▲</span></td>

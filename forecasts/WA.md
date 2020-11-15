@@ -26,7 +26,7 @@ statecode: WA
       <td>43</td>
       <td>7,614,893</td>
       <td>14,960</td>
-      <td>1.40<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.40<span style="color: red">🟥</span></td>
       <td>49</td>
       <td>125,498</td>
       <td>1,351.8<span style="color: red">▲</span></td>

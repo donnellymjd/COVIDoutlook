@@ -26,7 +26,7 @@ statecode: MO
       <td>23</td>
       <td>6,137,428</td>
       <td>35,187</td>
-      <td>1.19<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.19<span style="color: red">🟥</span></td>
       <td>39</td>
       <td>235,722</td>
       <td>3,752.6<span style="color: red">▲</span></td>

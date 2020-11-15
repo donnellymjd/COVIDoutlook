@@ -26,7 +26,7 @@ statecode: HI
       <td>42</td>
       <td>1,415,872</td>
       <td>2,884</td>
-      <td>1.10<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.10<span style="color: red">🟥</span></td>
       <td>110</td>
       <td>16,652</td>
       <td>102.6<span style="color: red">▲</span></td>

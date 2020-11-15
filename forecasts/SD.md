@@ -26,7 +26,7 @@ statecode: SD
       <td>13</td>
       <td>884,659</td>
       <td>6,461</td>
-      <td>1.10<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.10<span style="color: red">🟥</span></td>
       <td>47</td>
       <td>64,182</td>
       <td>1,299.3<span style="color: red">▲</span></td>

@@ -26,8 +26,8 @@ statecode: LA
       <td>28</td>
       <td>4,648,794</td>
       <td>21,461</td>
-      <td>0.96<span style="color: green"><span style="color: green">▼</span></span></td>
-      <td>Not Available</td>
+      <td>0.96<span style="color: green">🟢</span></td>
+      <td>120+</td>
       <td>201,981</td>
       <td>1,095.1<span style="color: red">▲</span></td>
       <td>6.7%</td>

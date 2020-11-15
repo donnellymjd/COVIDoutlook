@@ -26,8 +26,8 @@ statecode: IN
       <td>3</td>
       <td>6,732,219</td>
       <td>107,698</td>
-      <td>1.24<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td><img src="https://media.giphy.com/media/daDPy7kxfE1TfxLzNg/giphy.gif" width=15 height=15>-4</td>
+      <td>1.24<span style="color: red">🟥</span></td>
+      <td><img src="https://media.giphy.com/media/daDPy7kxfE1TfxLzNg/giphy.gif" width=15 height=15><span>-4</span></td>
       <td>244,887</td>
       <td>4,680.6<span style="color: red">▲</span></td>
       <td>29.9%<span style="color: red">▲</span></td>

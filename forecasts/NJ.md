@@ -26,7 +26,7 @@ statecode: NJ
       <td>30</td>
       <td>8,882,190</td>
       <td>39,717</td>
-      <td>1.37<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.37<span style="color: red">🟥</span></td>
       <td>34</td>
       <td>274,736</td>
       <td>2,632.1<span style="color: red">▲</span></td>

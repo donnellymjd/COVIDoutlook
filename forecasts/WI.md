@@ -26,8 +26,8 @@ statecode: WI
       <td>5</td>
       <td>5,822,434</td>
       <td>69,767</td>
-      <td>1.17<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td><img src="https://media.giphy.com/media/daDPy7kxfE1TfxLzNg/giphy.gif" width=15 height=15>9</td>
+      <td>1.17<span style="color: red">🟥</span></td>
+      <td><img src="https://media.giphy.com/media/daDPy7kxfE1TfxLzNg/giphy.gif" width=15 height=15><span>9</span></td>
       <td>323,604</td>
       <td>6,123.9<span style="color: red">▲</span></td>
       <td>34.5%<span style="color: red">▲</span></td>

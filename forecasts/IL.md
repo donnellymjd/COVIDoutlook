@@ -26,8 +26,8 @@ statecode: IL
       <td>2</td>
       <td>12,671,821</td>
       <td>220,100</td>
-      <td>1.31<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td><img src="https://media.giphy.com/media/daDPy7kxfE1TfxLzNg/giphy.gif" width=15 height=15>-1</td>
+      <td>1.31<span style="color: red">🟥</span></td>
+      <td><img src="https://media.giphy.com/media/daDPy7kxfE1TfxLzNg/giphy.gif" width=15 height=15><span>-1</span></td>
       <td>562,985</td>
       <td>10,459.0<span style="color: red">▲</span></td>
       <td>11.7%<span style="color: red">▲</span></td>

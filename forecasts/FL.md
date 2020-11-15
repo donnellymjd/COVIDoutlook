@@ -26,7 +26,7 @@ statecode: FL
       <td>26</td>
       <td>21,477,737</td>
       <td>105,733</td>
-      <td>1.20<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.20<span style="color: red">🟥</span></td>
       <td>39</td>
       <td>862,990</td>
       <td>5,070.9<span style="color: red">▲</span></td>

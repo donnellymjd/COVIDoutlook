@@ -26,7 +26,7 @@ statecode: OH
       <td>8</td>
       <td>11,689,100</td>
       <td>111,793</td>
-      <td>1.31<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.31<span style="color: red">🟥</span></td>
       <td>18</td>
       <td>290,243</td>
       <td>5,324.7<span style="color: red">▲</span></td>

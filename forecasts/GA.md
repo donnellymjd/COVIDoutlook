@@ -26,8 +26,8 @@ statecode: GA
       <td>36</td>
       <td>10,617,423</td>
       <td>36,674</td>
-      <td>1.06<span style="color: #ffcc00">▶</span></td>
-      <td>128</td>
+      <td>1.06<span style="color: #ffcc00">🟡</span></td>
+      <td>120+</td>
       <td>384,997</td>
       <td>1,729.1<span style="color: red">▲</span></td>
       <td>8.7%<span style="color: red">▲</span></td>

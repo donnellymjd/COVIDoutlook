@@ -26,7 +26,7 @@ statecode: DE
       <td>25</td>
       <td>973,764</td>
       <td>4,906</td>
-      <td>1.29<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.29<span style="color: red">🟥</span></td>
       <td>38</td>
       <td>28,395</td>
       <td>246.0<span style="color: red">▲</span></td>

@@ -26,7 +26,7 @@ statecode: AL
       <td>14</td>
       <td>4,903,185</td>
       <td>34,667</td>
-      <td>1.13<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.13<span style="color: red">🟥</span></td>
       <td>30</td>
       <td>215,843</td>
       <td>1,682.7<span style="color: red">▲</span></td>

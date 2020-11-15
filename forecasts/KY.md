@@ -26,7 +26,7 @@ statecode: KY
       <td>21</td>
       <td>4,467,673</td>
       <td>28,449</td>
-      <td>1.10<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.10<span style="color: red">🟥</span></td>
       <td>26</td>
       <td>136,137</td>
       <td>2,065.6<span style="color: red">▲</span></td>

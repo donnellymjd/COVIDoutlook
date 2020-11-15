@@ -26,7 +26,7 @@ statecode: CA
       <td>39</td>
       <td>39,512,223</td>
       <td>114,470</td>
-      <td>1.25<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.25<span style="color: red">🟥</span></td>
       <td>43</td>
       <td>1,008,377</td>
       <td>6,169.4<span style="color: red">▲</span></td>

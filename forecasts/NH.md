@@ -26,7 +26,7 @@ statecode: NH
       <td>48</td>
       <td>1,359,711</td>
       <td>2,071</td>
-      <td>1.34<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.34<span style="color: red">🟥</span></td>
       <td>66</td>
       <td>14,311</td>
       <td>230.5<span style="color: red">▲</span></td>

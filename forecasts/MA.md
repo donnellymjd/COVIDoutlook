@@ -26,7 +26,7 @@ statecode: MA
       <td>18</td>
       <td>6,892,503</td>
       <td>44,718</td>
-      <td>1.32<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.32<span style="color: red">🟥</span></td>
       <td>28</td>
       <td>186,142</td>
       <td>1,969.0<span style="color: red">▲</span></td>

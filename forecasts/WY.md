@@ -26,7 +26,7 @@ statecode: WY
       <td>17</td>
       <td>578,759</td>
       <td>3,882</td>
-      <td>1.14<span style="color: red"><span style="color: red">▲</span></span></td>
+      <td>1.14<span style="color: red">🟥</span></td>
       <td>54</td>
       <td>21,881</td>
       <td>613.1<span style="color: red">▲</span></td>

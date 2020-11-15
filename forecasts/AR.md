@@ -26,8 +26,8 @@ statecode: AR
       <td>49</td>
       <td>3,017,804</td>
       <td>3,685</td>
-      <td>1.14<span style="color: red"><span style="color: red">▲</span></span></td>
-      <td>125</td>
+      <td>1.14<span style="color: red">🟥</span></td>
+      <td>120+</td>
       <td>130,318</td>
       <td>1,294.9<span style="color: red">▲</span></td>
       <td>12.8%<span style="color: red">▲</span></td>

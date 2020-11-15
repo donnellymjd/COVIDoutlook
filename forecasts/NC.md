@@ -26,8 +26,8 @@ statecode: NC
       <td>37</td>
       <td>10,488,084</td>
       <td>33,719</td>
-      <td>1.02<span style="color: #ffcc00">▶</span></td>
-      <td>Not Available</td>
+      <td>1.02<span style="color: #ffcc00">🟡</span></td>
+      <td>120+</td>
       <td>309,118</td>
       <td>2,463.1<span style="color: red">▲</span></td>
       <td>6.4%</td>
