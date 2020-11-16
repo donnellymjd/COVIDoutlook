@@ -25,15 +25,15 @@ statecode: IL
     <tr>
       <td>2</td>
       <td>12,671,821</td>
-      <td>220,100</td>
-      <td>1.31<span style="color: red">🟥</span></td>
-      <td><img src="https://media.giphy.com/media/daDPy7kxfE1TfxLzNg/giphy.gif" width=15 height=15><span>-1</span></td>
-      <td>562,985</td>
-      <td>10,459.0<span style="color: red">▲</span></td>
-      <td>11.7%<span style="color: red">▲</span></td>
-      <td>11,088</td>
-      <td>74.1<span style="color: red">▲</span></td>
-      <td>5,415<span style="color: red">▲</span></td>
+      <td>219,340</td>
+      <td>1.30<span style="color: red">🟥</span></td>
+      <td><img src="https://media.giphy.com/media/daDPy7kxfE1TfxLzNg/giphy.gif" width=15 height=15><span>-2</span></td>
+      <td>573,616</td>
+      <td>10,719.8<span style="color: red">▲</span></td>
+      <td>11.9%<span style="color: red">▲</span></td>
+      <td>11,162</td>
+      <td>77.6<span style="color: red">▲</span></td>
+      <td>5,474<span style="color: red">▲</span></td>
       <td>Not Available</td>
     </tr>
   </tbody>

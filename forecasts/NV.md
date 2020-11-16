@@ -25,14 +25,14 @@ statecode: NV
     <tr>
       <td>20</td>
       <td>3,080,156</td>
-      <td>19,731</td>
+      <td>20,152</td>
       <td>1.13<span style="color: red">🟥</span></td>
-      <td>28</td>
-      <td>119,006</td>
-      <td>1,303.1<span style="color: red">▲</span></td>
-      <td>26.3%<span style="color: red">▲</span></td>
-      <td>1,908</td>
-      <td>9.4<span style="color: red">▲</span></td>
+      <td>27</td>
+      <td>120,183</td>
+      <td>1,336.0<span style="color: red">▲</span></td>
+      <td>27.0%<span style="color: red">▲</span></td>
+      <td>1,909</td>
+      <td>9.1<span style="color: red">▲</span></td>
       <td>1,025<span style="color: red">▲</span></td>
       <td>Not Available</td>
     </tr>

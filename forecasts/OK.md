@@ -25,16 +25,16 @@ statecode: OK
     <tr>
       <td>6</td>
       <td>3,956,971</td>
-      <td>46,073</td>
-      <td>1.37<span style="color: red">🟥</span></td>
-      <td><img src="https://media.giphy.com/media/daDPy7kxfE1TfxLzNg/giphy.gif" width=15 height=15><span>5</span></td>
-      <td>150,205</td>
-      <td>1,960.2<span style="color: red">▲</span></td>
-      <td>14.7%<span style="color: red">▲</span></td>
-      <td>1,516</td>
-      <td>12.8</td>
+      <td>48,070</td>
+      <td>1.38<span style="color: red">🟥</span></td>
+      <td><img src="https://media.giphy.com/media/daDPy7kxfE1TfxLzNg/giphy.gif" width=15 height=15><span>4</span></td>
+      <td>154,128</td>
+      <td>2,144.1<span style="color: red">▲</span></td>
+      <td>15.9%<span style="color: red">▲</span></td>
+      <td>1,528</td>
+      <td>13.1</td>
       <td>1,247<span style="color: red">▲</span></td>
-      <td>98.71<span style="color: red">▲</span></td>
+      <td>104.36<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
