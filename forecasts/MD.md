@@ -23,18 +23,18 @@ statecode: MD
   </thead>
   <tbody>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>6,045,680</td>
-      <td>43,194</td>
-      <td>1.31<span style="color: red">🟥</span></td>
-      <td>23</td>
-      <td>165,930</td>
-      <td>1,413.2<span style="color: red">▲</span></td>
-      <td>12.3%<span style="color: red">▲</span></td>
-      <td>4,302</td>
-      <td>10.7<span style="color: red">▲</span></td>
-      <td>938<span style="color: red">▲</span></td>
-      <td>99.86<span style="color: red">▲</span></td>
+      <td>44,986</td>
+      <td>1.30<span style="color: red"> 🟥</span></td>
+      <td>22<span style="color: red"> 🟥</span></td>
+      <td>167,656</td>
+      <td>1,475.8<span style="color: red">▲</span></td>
+      <td>12.7%<span style="color: red">▲</span></td>
+      <td>4,309</td>
+      <td>11.0<span style="color: red">▲</span></td>
+      <td>985<span style="color: red">▲</span></td>
+      <td>102.57<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

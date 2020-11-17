@@ -25,16 +25,16 @@ statecode: IA
     <tr>
       <td>1</td>
       <td>3,155,070</td>
-      <td>63,989</td>
-      <td>1.42<span style="color: red">🟥</span></td>
-      <td><img src="https://media.giphy.com/media/daDPy7kxfE1TfxLzNg/giphy.gif" width=15 height=15><span>1</span></td>
-      <td>167,282</td>
-      <td>3,236.8<span style="color: red">▲</span></td>
-      <td>49.6%<span style="color: red">▲</span></td>
-      <td>1,985</td>
-      <td>19.1<span style="color: red">▲</span></td>
-      <td>1,279<span style="color: red">▲</span></td>
-      <td>0.00</td>
+      <td>63,015</td>
+      <td>1.37<span style="color: red"> 🟥</span></td>
+      <td>0<span style="color: red"> 🟥</span></td>
+      <td>169,353</td>
+      <td>3,284.4<span style="color: red">▲</span></td>
+      <td>50.1%<span style="color: red">▲</span></td>
+      <td>1,991</td>
+      <td>17.9<span style="color: red">▲</span></td>
+      <td>1,392<span style="color: red">▲</span></td>
+      <td>0.00<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

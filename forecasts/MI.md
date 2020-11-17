@@ -25,16 +25,16 @@ statecode: MI
     <tr>
       <td>4</td>
       <td>9,986,857</td>
-      <td>126,390</td>
-      <td>1.25<span style="color: red">🟥</span></td>
-      <td><img src="https://media.giphy.com/media/daDPy7kxfE1TfxLzNg/giphy.gif" width=15 height=15><span>11</span></td>
-      <td>275,792</td>
-      <td>5,599.0<span style="color: red">▲</span></td>
-      <td>10.0%<span style="color: red">▲</span></td>
-      <td>8,376</td>
-      <td>48.4<span style="color: red">▲</span></td>
-      <td>3,241<span style="color: red">▲</span></td>
-      <td>Not Available</td>
+      <td>133,149</td>
+      <td>1.26<span style="color: red"> 🟥</span></td>
+      <td>9<span style="color: red"> 🟥</span></td>
+      <td>288,954</td>
+      <td>6,044.9<span style="color: red">▲</span></td>
+      <td>10.6%<span style="color: red">▲</span></td>
+      <td>8,431</td>
+      <td>51.1<span style="color: red">▲</span></td>
+      <td>3,580<span style="color: red">▲</span></td>
+      <td>nannan</td>
     </tr>
   </tbody>
 </table>
