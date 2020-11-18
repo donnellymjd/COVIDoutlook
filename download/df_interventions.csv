@@ -58,7 +58,7 @@
 56,California,CA,2020-03-19,['3/19'],"Stay At Home Order, Non-Essential Business Closures",restricting,https://covid19.ca.gov/img/Executive-Order-N-33-20.pdf
 57,California,CA,2020-03-23,['3/23'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54030
 58,California,CA,2020-04-01,['4/1'],School Closures,restricting,https://www.cde.ca.gov/nr/ne/yr20/yr20rel16.asp
-59,California,CA,2020-06-18,['6/18'],Face Covering Requirement,restricting,https://www.cdph.ca.gov/Programs/CID/DCDC/CDPH  Document Library/COVID-19/Guidance-for-Face-Coverings_06-18-2020.pdf
+59,California,CA,2020-06-18,"['6/18', '11/17']",Face Covering Requirement,restricting,https://www.cdph.ca.gov/Programs/CID/DCDC/CDPH  Document Library/COVID-19/Guidance-for-Face-Coverings_06-18-2020.pdf;  https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/guidance-for-face-coverings.aspx
 60,California,CA,2020-05-08,['5/8'],"Easing: Non-Essential Business Closures, Restaurant Limits (announced 5/4)",easing,
 61,California,CA,2020-10-09,['10/9'],Easing: Large Gathering Bans,easing,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/CDPH-Guidance-for-the-Prevention-of-COVID-19-Transmission-for-Gatherings-10-09.aspx
 62,California,CA,2020-11-13,['11/13'],Easing: Large Gatherings Ban,easing,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Guidance-for-the-Prevention-of-COVID-19-Transmission-for-Gatherings-November-2020.aspx
@@ -148,7 +148,7 @@
 146,Hawaii,HI,2020-03-17,"['3/17', '3/21', '3/23', '4/16', '4/25', '5/18']","Stay At Home Order, Mandatory Quarantine for Travelers, Large Gatherings Ban, Restaurant Limits",restricting,https://governor.hawaii.gov/newsroom/latest-news/proper-use-of-covid-19-tests-imperative-there-is-a-current-shortage-of-hand-sanitizers-and-toilet-paper-in-hawaii-in-part-because-of-the-publics-over-reaction-to-covid-19-the-hawai/ ;  https://governor.hawaii.gov/wp-content/uploads/2020/03/2003152-ATG_Second-Supplementary-Proclamation-for-COVID-19-signed.pdf ;  https://governor.hawaii.gov/wp-content/uploads/2020/03/2003162-ATG_Third-Supplementary-Proclamation-for-COVID-19-signed.pdf ;  https://governor.hawaii.gov/wp-content/uploads/2020/04/2004088-ATG_Fifth-Supplementary-Proclamation-for-COVID-19-distribution-signed.pdf ;  https://governor.hawaii.gov/wp-content/uploads/2020/04/2004144-ATG_Sixth-Supplementary-Proclamation-for-COVID-19-distribution-signed.pdf   https://governor.hawaii.gov/wp-content/uploads/2020/05/2005088-ATG_Eighth-Supplementary-Proclamation-for-COVID-19-distribution-signed.pdf
 147,Hawaii,HI,2020-07-17,"['7/17', '10/15']",Mandatory Quarantine for Travelers,restricting,https://governor.hawaii.gov/wp-content/uploads/2020/07/2007090-ATG_Tenth-Supplementary-Proclamation-for-COVID-19-distribution-signed.pdf ;  https://hawaiicovid19.com/travel/
 148,Hawaii,HI,2020-03-26,['3/26'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54064
-149,Hawaii,HI,2020-04-17,"['4/17', '6/10']",Face Covering Requirement,restricting,https://governor.hawaii.gov/wp-content/uploads/2020/06/2006097A-ATG_Ninth-Supplementary-Proclamation-COVID-19-distribution-signed.pdf
+149,Hawaii,HI,2020-04-17,"['4/17', '6/10', '11/6']",Face Covering Requirement,restricting,https://governor.hawaii.gov/wp-content/uploads/2020/06/2006097A-ATG_Ninth-Supplementary-Proclamation-COVID-19-distribution-signed.pdf
 150,Hawaii,HI,2020-05-07,['5/7'],Easing: Non-Essential Business Closures (Announced 4/23),easing,https://governor.hawaii.gov/wp-content/uploads/2020/05/2005024-ATG_Seventh-Supplementary-Proclamation-for-COVID-19-distribution-signed-1.pdf ;  https://governor.hawaii.gov/newsroom/latest-news/office-of-the-governor-news-release-governor-ige-approves-requests-to-safety-re-open-more-businesses-across-the-state/ ;  https://governor.hawaii.gov/wp-content/uploads/2020/06/2006115-COH_Mayors-COVID-19-Emergency-Rule-No.-8-distribution-signed.pdf
 151,Hawaii,HI,2020-06-01,['6/1'],Easing: Restaurant Limits (Announced 5/27),easing,https://governor.hawaii.gov/newsroom/latest-news/office-of-the-governor-news-release-governor-ige-approves-requests-to-safety-re-open-more-businesses-across-the-state/
 152,Hawaii,HI,2020-06-10,['6/10'],Easing: Stay at Home Order,easing,https://governor.hawaii.gov/wp-content/uploads/2020/06/2006097A-ATG_Ninth-Supplementary-Proclamation-COVID-19-distribution-signed.pdf
@@ -466,282 +466,286 @@
 464,New Jersey,NJ,2020-09-01,['9/1'],Easing: Non-Essential Business Closures (announced 8/27),easing,https://nj.gov/governor/news/news/562020/approved/20200827e.shtml
 465,New Jersey,NJ,2020-09-04,['9/4'],Easing: Non-Essential Business Closures (announced 9/1),easing,https://nj.gov/governor/news/news/562020/approved/20200901a.shtml
 466,New Jersey,NJ,2020-08-03,['8/3'],Easing: Large Gatherings Ban,easing,https://www.nj.gov/infobank/eo/056murphy/pdf/EO-173.pdf
-467,New Mexico,NM,2020-03-11,"['3/11', '8/28', '9/18']",Public Health Emergency,restricting,https://cv.nmhealth.org/wp-content/uploads/2020/09/Executive-Order-2020-064.pdf
-468,New Mexico,NM,2020-03-13,['3/13'],Cost-Sharing Waiver (Treatment),restricting,https://nmhealth.org/publication/view/rules/5670/
-469,New Mexico,NM,2020-03-13,"['3/13', '3/26']",School Closures,restricting,https://www.governor.state.nm.us/wp-content/uploads/2020/03/MLG_EO_2020_012.pdf
-470,New Mexico,NM,2020-03-15,"['3/15', '4/6']",Restaurant Limits,restricting,https://cv.nmhealth.org/wp-content/uploads/2020/04/040620-DOH-PHO.pdf
-471,New Mexico,NM,2020-03-16,['3/16'],Large Gatherings Ban,restricting,https://www.governor.state.nm.us/wp-content/uploads/2020/03/AMENDED-PUBLIC-HEALTH-ORDER.pdf
-472,New Mexico,NM,2020-03-23,['3/23'],Non-Essential Retail Business Closures,restricting,https://cv.nmhealth.org/wp-content/uploads/2020/03/COVID-19-DOH-Order-fv.pdf
-473,New Mexico,NM,2020-03-23,['3/23'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54032
-474,New Mexico,NM,2020-03-23,['3/23'],Stay at Home Order,restricting,https://cv.nmhealth.org/wp-content/uploads/2020/03/COVID-19-DOH-Order-fv.pdf
-475,New Mexico,NM,2020-03-27,"['3/27', '6/1']",Mandatory Quarantine for Travelers,restricting,https://cv.nmhealth.org/wp-content/uploads/2020/06/Executive-Order-2020-037.pdf
-476,New Mexico,NM,2020-04-06,"['4/6', '4/11', '5/1', '5/15']",Extension of All Orders Relating to COVID-19,restricting,https://cv.nmhealth.org/wp-content/uploads/2020/05/2020-30-phase-1A.pdf
-477,New Mexico,NM,2020-05-05,"['5/5', '5/15']",Face Covering Requirement,restricting,https://cv.nmhealth.org/wp-content/uploads/2020/05/5-15-2020-PHO.pdf
-478,New Mexico,NM,2020-05-15,['5/15'],"Easing: Non-Essential Business Closures, Large Gatherings Ban (announced 5/15)",easing,https://cv.nmhealth.org/wp-content/uploads/2020/05/5-15-2020-PHO.pdf
-479,New Mexico,NM,2020-06-01,['6/1'],"Easing: Stay-at-Home Order, Non-Essential Business Closures (announced 6/1)",easing,https://cv.nmhealth.org/wp-content/uploads/2020/06/060120-PHO.pdf
-480,New Mexico,NM,2020-06-12,['6/12'],"Easing: Non-Essential Business Closures, Restaurant Limits (announced 6/12)",easing,https://www.nmhealth.org/publication/view/rules/5955/ ;  https://cv.nmhealth.org/wp-content/uploads/2020/07/063020-PHO-1.pdf
-481,New Mexico,NM,2020-08-28,['8/28'],"Easing: Large Gatherings Ban, Restaurant Limits",easing,https://cv.nmhealth.org/wp-content/uploads/2020/08/082820-PHO.pdf
-482,New Mexico,NM,2020-09-03,['9/3'],Easing: Non-Essential Business Closures,easing,https://cv.nmhealth.org/wp-content/uploads/2020/09/090320-PHO.pdf
-483,New Mexico,NM,2020-09-03,"['9/3', '10/16']",Easing: Mandatory Traveler Quarantine,easing,https://cv.nmhealth.org/wp-content/uploads/2020/10/Executive-Order-2020-072-1.pdf
-484,New Mexico,NM,2020-09-18,['9/18'],Easing: Non-Essential Business Closures,easing,https://cv.nmhealth.org/wp-content/uploads/2020/09/091820-PHO.pdf
-485,New Mexico,NM,2020-07-13,"['7/13', '7/30']",Easing: Restaurant Limits (lifted),easing,https://cv.nmhealth.org/wp-content/uploads/2020/07/07.30.20-PHO.pdf
-486,New Mexico,NM,2020-10-16,['10/16'],Easing: Large Gatherings Ban,easing,https://cv.nmhealth.org/wp-content/uploads/2020/10/101620-PHO-1.pdf
-487,New Mexico,NM,2020-10-23,['10/23'],"Easing: Stay-At-Home Order, Non-Essential Business Closures, Restaurant Limits",easing,https://cv.nmhealth.org/wp-content/uploads/2020/11/110520-PHO.pdf
-488,New Mexico,NM,2020-11-13,['11/13'],"Easing: Non-Essential Business Closures, Restaurant Limits",easing,https://cv.nmhealth.org/wp-content/uploads/2020/11/111320-PHO-1.pdf
-489,New York,NY,2020-03-03,"['3/3', '3/13']",Free Vaccine,restricting,https://www.dfs.ny.gov/industry_guidance/circular_letters/cl2020_03 ;  https://www.governor.ny.gov/news/governor-cuomo-announces-new-directive-requiring-new-york-insurers-waive-cost-sharing ;  https://www.dfs.ny.gov/system/files/documents/2020/03/re62_57_text.pdf ;  https://www.dfs.ny.gov/reports_and_publications/press_releases/pr202003131 ;
-490,New York,NY,2020-03-07,['3/7'],Emergency Declaration,restricting,https://www.governor.ny.gov/sites/governor.ny.gov/files/atoms/files/EO_202.pdf
-491,New York,NY,2020-03-14,['3/14'],Restaurant Limits,restricting,https://www.governor.ny.gov/news/no-2023-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency
-492,New York,NY,2020-03-16,"['3/16', '5/4', '6/16', '7/15', '8/15', '9/15', '12/31']",Marketplace SEP,restricting,https://www.dfs.ny.gov/reports_and_publications/press_releases/pr202009162
-493,New York,NY,2020-03-16,"['3/16', '3/27', '5/1', '5/7']",School Closures,restricting,https://www.governor.ny.gov/news/no-20228-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency
-494,New York,NY,2020-03-17,['3/17'],Paid Sick Leave,restricting,https://www.governor.ny.gov/news/governor-cuomo-announces-three-way-agreement-legislature-paid-sick-leave-bill-provide-immediate
-495,New York,NY,2020-03-20,"['3/20', '3/27', '4/16']","Stay At Home Order, Non-Essential Business Closures, Large Gatherings Ban",restricting,https://www.governor.ny.gov/news/governor-cuomo-signs-new-york-state-pause-executive-order ;  https://www.governor.ny.gov/news/no-20213-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency ;  https://twitter.com/NYGovCuomo/status/1250817149041590277
-496,New York,NY,2020-03-26,['3/26'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54067
-497,New York,NY,2020-03-28,['3/28'],Primary Election Postponement,restricting,https://www.nytimes.com/2020/04/27/nyregion/coronavirus-new-york-update.html
-498,New York,NY,2020-04-02,"['4/2', '5/29']",Premium Grace Period,restricting,https://www.dfs.ny.gov/press_releases/pr202004023 ;  https://www.governor.ny.gov/sites/governor.ny.gov/files/atoms/files/EO_202_35.pd f
-499,New York,NY,2020-04-07,"['4/7', '4/16', '5/14', '5/21']",Extension of All Orders Relating to COVID-19,restricting,https://www.governor.ny.gov/news/no-20232-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency
-500,New York,NY,2020-04-12,"['4/12', '4/15', '5/14', '5/28', '6/3', '6/19']",Face Covering Requirement,restricting,https://www.governor.ny.gov/news/no-20243-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency
-501,New York,NY,2020-06-24,['6/24'],Mandatory Quarantine for Travelers,restricting,https://www.governor.ny.gov/news/no-205-quarantine-restrictions-travelers-arriving-new-york ;
-502,New York,NY,2020-06-26,['6/26'],Large Gatherings Ban,restricting,https://www.governor.ny.gov/news/governor-cuomo-announces-five-regions-track-enter-phase-iv-reopening-friday
-503,New York,NY,2020-05-14,['5/14'],Easing: Non-Essential Business Closures (announced 5/14),easing,https://www.governor.ny.gov/news/no-20231-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency
-504,New York,NY,2020-05-22,['5/22'],Easing: Large Gatherings Ban (announced 5/22),easing,https://www.governor.ny.gov/news/no-20233-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency
-505,New York,NY,2020-05-29,['5/29'],Easing: Non-Essential Business Closures (announced 5/29),easing,https://www.governor.ny.gov/news/no-20235-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency
-506,New York,NY,2020-06-02,['6/2'],Easing: Non-Essential Business Closures (announced 6/2),easing,https://www.governor.ny.gov/sites/governor.ny.gov/files/atoms/files/EO_202.36.pdf
-507,New York,NY,2020-06-06,"['6/6', '7/7']",Easing: Restaurant Limits (announced 6/3),easing,https://www.governor.ny.gov/news/no-20238-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency ;  https://www.governor.ny.gov/news/video-photos-audio-rush-transcript-governor-cuomo-announces-new-york-city-enters-phase-iii https://www.governor.ny.gov/news/no-20239-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency
-508,New York,NY,2020-06-15,"['6/15', '7/8']",Easing: Large Gatherings Ban (announced 6/15),easing,https://www.governor.ny.gov/sites/governor.ny.gov/files/atoms/files/EO_202.42.pdf ;  https://www.governor.ny.gov/news/governor-cuomo-announces-long-island-cleared-global-public-health-experts-enter-phase-4-0
-509,New York,NY,2020-06-23,['6/23'],Easing: Non-Essential Business Closures,easing,https://www.governor.ny.gov/news/governor-cuomo-announces-new-york-city-cleared-global-health-experts-enter-phase-four-reopening
-510,New York,NY,2020-08-14,['8/14'],Easing: Non-Essential Business Closures,easing,https://www.governor.ny.gov/news/governor-cuomo-announces-bowling-alleys-can-reopen-50-percent-capacity-starting-monday
-511,New York,NY,2020-08-24,['8/24'],Easing: Non-Essential Business Closures,easing,https://www.governor.ny.gov/news/governor-cuomo-announces-bowling-alleys-can-reopen-50-percent-capacity-starting-monday
-512,New York,NY,2020-10-07,"['10/7', '10/22', '11/9']",Easing: Restrictions for Areas with High Concentration of Cases,easing,https://www.governor.ny.gov/news/governor-cuomo-announces-new-cluster-action-initiative ;  https://www.governor.ny.gov/news/governor-cuomo-announces-updated-covid-19-micro-cluster-focus-zones-0
-513,New York,NY,2020-11-13,['11/13'],"Easing: Restaurant Limits, Bar Closures",easing,https://www.governor.ny.gov/news/audio-rush-transcript-governor-cuomo-announces-restaurants-bars-other-sla-licensed-entities
-514,North Carolina,NC,2020-03-10,['3/10'],Emergency Declaration,restricting,https://files.nc.gov/governor/documents/files/EO116-SOE-COVID-19.pdf
-515,North Carolina,NC,2020-03-14,"['3/14', '3/23', '3/27']","Large Gatherings Ban, School Closures",restricting,https://files.nc.gov/governor/documents/files/EO120.pdf ;  https://files.nc.gov/governor/documents/files/EO121-Stay-at-Home-Order-3.pdf
-516,North Carolina,NC,2020-03-14,['3/14'],Restaurant Limits,restricting,https://files.nc.gov/governor/documents/files/EO118.pdf
-517,North Carolina,NC,2020-03-23,['3/23'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54036
-518,North Carolina,NC,2020-03-27,"['3/27', '4/23']","Stay At Home Order, Non-Essential Business Closures",restricting,https://files.nc.gov/governor/documents/files/EO135-Extensions.pdf
-519,North Carolina,NC,2020-03-27,['3/27'],Premium Grace Period,restricting,https://files.nc.gov/doi/documents/legislative-services/20-b-06-covid-19-pandemic.pdf
-520,North Carolina,NC,2020-05-05,['5/5'],"Extension of COVID-19 related orders, except for Non-Essential Business Closures",restricting,https://files.nc.gov/governor/documents/files/EO138-Phase-1.pdf
-521,North Carolina,NC,2020-06-26,['6/26'],Face Covering Requirement,restricting,https://governor.nc.gov/documents/executive-order-no-147
-522,North Carolina,NC,2020-05-08,['5/8'],Easing: Non-Essential Business Closures (announced 5/5),easing,https://files.nc.gov/governor/documents/files/EO138-Phase-1.pdf
-523,North Carolina,NC,2020-05-22,"['5/22', '7/16']","Easing: Stay-At-Home Order, Non-Essential Business Closures, Restaurant Limits (announced 5/20)",easing,https://files.nc.gov/governor/documents/files/EO141-Phase-2.pdf ;  https://files.nc.gov/governor/documents/files/EO151-Phase-2-Extension-1.pdf ;  https://files.nc.gov/governor/documents/files/EO155-Extension-of-Phase-2.pdf
-524,North Carolina,NC,2020-09-01,['9/1'],"Easing: Non-Essential Business Closures, Large Gatherings Ban, Restaurant Limits",easing,https://files.nc.gov/governor/documents/files/EO163-New-Phase-2.5.pdf
-525,North Carolina,NC,2020-10-02,"['10/2', '10/21']","Easing: Non-Essential Business Closures, Bar Closures (announced 9/30)",easing,https://files.nc.gov/governor/documents/files/EO169-Phase-3.pdf ;  https://files.nc.gov/governor/documents/files/EO170-Phase-3-Extension.pdf
-526,North Carolina,NC,2020-07-31,['7/31'],Easing: Restaurant Limits (lifted),easing,https://files.nc.gov/governor/documents/files/EO-153-Restricting-Late-Night-Service-of-Alcoholic-Beverages.pdf
-527,North Carolina,NC,2020-11-11,['11/11'],Easing: Large Gatherings Ban,easing,https://files.nc.gov/governor/documents/files/EO176-Phase-3-ext.pdf
-528,North Dakota,ND,2020-03-13,['3/13'],Emergency Declaration,restricting,https://www.governor.nd.gov/sites/www/files/documents/EO%202020-03.pdf
-529,North Dakota,ND,2020-03-15,"['3/15', '3/30']",School Closures,restricting,https://www.governor.nd.gov/sites/www/files/documents/executive-orders/Executive%20Order%202020-10.1.pdf
-530,North Dakota,ND,2020-03-19,"['3/19', '4/1', '4/15']",Restaurant Limits,restricting,https://www.governor.nd.gov/sites/www/files/documents/executive-orders/Executive%20Order%202020-06.3%20Extending%20Restrictions%20on%20Certain%20Types%20of%20Businesses%20During%20COVID-19%20Pandemic.pdf
-531,North Dakota,ND,2020-03-24,['3/24'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54046
-532,North Dakota,ND,2020-03-28,"['3/28', '4/8']",Mandatory Quarantine for Travelers,restricting,https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/HCW/SHO-Order.pdf
-533,North Dakota,ND,2020-04-02,"['4/2', '4/15']",Non-Essential Business Closures,restricting,https://www.governor.nd.gov/sites/www/files/documents/executive-orders/Executive%20Order%202020-06.3%20Extending%20Restrictions%20on%20Certain%20Types%20of%20Businesses%20During%20COVID-19%20Pandemic.pdf
-534,North Dakota,ND,2020-05-01,['5/1'],"Easing: Non-Essential Business Closures, Restaurant Limits (announced 4/29)",easing,https://www.governor.nd.gov/sites/www/files/documents/executive-orders/Executive%20Order%202020-06.4.pdf
-535,North Dakota,ND,2020-05-15,['5/15'],Easing: Non-Essential Business Closures (announced 5/15),easing,https://www.governor.nd.gov/sites/www/files/documents/executive-orders/Executive%20Order%202020-06.6.pdf
-536,North Dakota,ND,2020-05-22,['5/22'],"Easing: Non-Essential Business Closures, Restaurant Limits (announced 5/22)",easing,https://www.governor.nd.gov/sites/www/files/documents/executive-orders/Executive%20Order%202020-06.7%20FINAL.pdf
-537,North Dakota,ND,2020-07-28,['7/28'],Easing: Mandatory Traveler Quarantine,easing,https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/State%20Health%20Officer%20Orders/2020-02.3_International_Travel.pdf
-538,North Dakota,ND,2020-09-21,['9/21'],Easing: Mandatory Traveler Quarantine,easing,https://www.health.nd.gov/news/mariani-lifts-state-health-officer-order-regarding-international-travel
-539,North Dakota,ND,2020-10-16,['10/16'],"Easing: Non-Essential Business Closures, Restaurant Limits, Bar Closures",easing,https://www.health.nd.gov/news/burgum-announces-changes-county-risk-levels-recommended-gathering-sizes-slow-covid-19
-540,North Dakota,ND,2020-10-16,['10/16'],Easing: Large Gatherings Ban,easing,https://www.health.nd.gov/news/burgum-announces-changes-county-risk-levels-recommended-gathering-sizes-slow-covid-19
-541,North Dakota,ND,2020-11-13,['11/13'],"Easing: Restaurant Limits, Bar Closures",easing,https://www.governor.nd.gov/sites/www/files/documents/executive-orders/Executive%20Order%202020-43.pdf
-542,North Dakota,ND,2020-11-13,['11/13'],Easing: Face Covering Requirement,easing,https://www.governor.nd.gov/sites/www/files/documents/executive-orders/SHO%20Order%202020-08%20Signed.pdf
-543,Ohio,OH,2020-03-09,['3/9'],Emergency Declaration,restricting,https://content.govdelivery.com/attachments/OHOOD/2020/03/09/file_attachments/1396418/Executive%202020-01D.pdf
-544,Ohio,OH,2020-03-12,"['3/12', '3/30', '4/20']",School Closures,restricting,https://governor.ohio.gov/wps/portal/gov/governor/media/news-and-media/covid19-update-april-20-2020
-545,Ohio,OH,2020-03-15,"['3/15', '4/2']",Restaurant Limits,restricting,https://content.govdelivery.com/attachments/OHOOD/2020/04/02/file_attachments/1418062/Signed%20Amended%20Director%27s%20Stay%20At%20Home%20Order.pdf
-546,Ohio,OH,2020-03-16,['3/16'],Primary Election Postponement,restricting,https://coronavirus.ohio.gov/wps/wcm/connect/gov/c6a47eea-ce8a-4eff-bad3-d4141216bf9b/ODH+Director%27s+Order+Closure+of+the+Polling+Locations.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE.Z18_M1HGGIK0N0JO00QO9DDDDM3000-c6a47eea-ce8a-4eff-bad3-d4141216bf9b-n3ELaWW
-547,Ohio,OH,2020-03-20,['3/20'],Premium Grace Period,restricting,https://iop-odi-content.s3.amazonaws.com/static/Legal/Bulletins/Documents/2020-03.pdf
-548,Ohio,OH,2020-03-22,['3/22'],Mandatory Quarantine for Travelers,restricting,https://content.govdelivery.com/attachments/OHOOD/2020/04/02/file_attachments/1418062/Signed%20Amended%20Director%27s%20Stay%20At%20Home%20Order.pdf
-549,Ohio,OH,2020-03-22,"['3/22', '4/2']","Stay At Home Order, Non-Essential Business Closures, Large Gatherings Ban",restricting,https://content.govdelivery.com/attachments/OHOOD/2020/04/02/file_attachments/1418062/Signed%20Amended%20Director%27s%20Stay%20At%20Home%20Order.pdf
-550,Ohio,OH,2020-04-22,['4/22'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/97856
-551,Ohio,OH,2020-04-30,"['4/30', '5/29', '7/23']",Face Covering Requirement,restricting,
-552,Ohio,OH,2020-07-08,['7/8'],Face Covering Requirement,restricting,https://governor.ohio.gov/wps/portal/gov/governor/media/news-and-media/covid19-update-07072020
-553,Ohio,OH,2020-05-01,['5/1'],Easing: Non-Essential Business Closures (announced 4/30),easing,https://coronavirus.ohio.gov/static/publicorders/Directors-Stay-Safe-Ohio-Order.pdf
-554,Ohio,OH,2020-05-15,['5/15'],Easing: Non-Essential Business Closures (announced 5/12),easing,https://governor.ohio.gov/wps/portal/gov/governor/media/news-and-media/covid19-update-may-12-2020
-555,Ohio,OH,2020-05-15,['5/15'],Easing: Restaurant Limits (announced 5/7),easing,https://governor.ohio.gov/wps/portal/gov/governor/media/news-and-media/covid19-update-may-7-2020
-556,Ohio,OH,2020-05-20,['5/20'],"Easing: Stay-At-Home Order, Mandatory Quarantine for Travelers (announced 5/20)",easing,https://content.govdelivery.com/attachments/OHOOD/2020/05/20/file_attachments/1456369/Stay%20Safe%20Partial%20Rescission.pdf
-557,Ohio,OH,2020-05-29,['5/29'],"Easing: Non-Essential Business Closures, Large Gatherings Ban (announced 5/29)",easing,https://content.govdelivery.com/attachments/OHOOD/2020/05/29/file_attachments/1462932/Signed%20Director’s%20Order%20Upated%20and%20Revised%20Business%20Guidance%20and%20Social%20Distancing.pdf
-558,Ohio,OH,2020-05-31,['5/31'],Easing: Non-Essential Business Closures (announced 5/30),easing,https://content.govdelivery.com/attachments/OHOOD/2020/05/30/file_attachments/1463195/Directors%20Day%20Care%20Order%205-29-2020.pdf
-559,Ohio,OH,2020-06-05,['6/5'],Easing: Restaurant Limits (announced 6/1),easing,https://coronavirus.ohio.gov/static/publicorders/dao-Reopens-Restaurants-Bars.pdf
-560,Ohio,OH,2020-06-30,['6/30'],Easing: Extension of Reopening Orders,easing,https://coronavirus.ohio.gov/static/publicorders/Extend-Expiration-Date-Various-Orders.pdf ;  https://coronavirus.ohio.gov/static/publicorders/Second-Order-Extend-Exp-Date-Various-Orders.pdf
-561,Ohio,OH,2020-08-25,['8/25'],Easing: Non-Essential Business Closures,easing,https://content.govdelivery.com/attachments/OHOOD/2020/08/25/file_attachments/1526223/ODH%20Order%20-%20Entertainemnt%20Venue%2008.25.2020.pdf
-562,Ohio,OH,2020-09-23,['9/23'],"Easing: Restaurant Limits, Bar Closures",easing,https://content.govdelivery.com/attachments/OHOOD/2020/09/23/file_attachments/1553535/3rd%20Dine%20Safe%20Order%2009.23.20.pdf
-563,Ohio,OH,2020-07-30,['7/30'],Easing: Bar Closures (lifted),easing,https://com.ohio.gov/documents/DOLC-Rule80StakeholderMessageEdits_finalforwebsite.pdf
-564,Oklahoma,OK,2020-03-15,"['3/15', '4/2', '5/1', '7/11', '7/30', '8/28', '9/25', '10/24']",Emergency Declaration,restricting,https://www.sos.ok.gov/documents/executive/1967.pdf
-565,Oklahoma,OK,2020-03-16,"['3/16', '3/25']",School Closures,restricting,https://sde.ok.gov/sites/default/files/documents/files/20200325124831229.pdf
-566,Oklahoma,OK,2020-03-24,"['3/24', '4/1']","Stay At Home Order, Non-Essential Business Closures, Large Gatherings Ban",restricting,https://www.sos.ok.gov/documents/executive/1926.pdf
-567,Oklahoma,OK,2020-03-24,['3/24'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54048
-568,Oklahoma,OK,2020-03-29,['3/29'],Mandatory Quarantine for Travelers,restricting,https://www.sos.ok.gov/documents/executive/1924.pdf
-569,Oklahoma,OK,2020-04-06,['4/6'],"Waive Prior Auth, Early Rx Refill, Premium Grace Period",restricting,https://www.oid.ok.gov/lh-bulletin-no-2020-02-amended/
-570,Oklahoma,OK,2020-04-08,"['4/8', '4/16', '4/20', '4/24', '4/30', '5/12', '5/30', '6/12']",Extension of All COVID-19 Related Orders,restricting,https://www.sos.ok.gov/documents/executive/1949.pdf
-571,Oklahoma,OK,2020-04-24,['4/24'],"Easing: Non-Essential Business Closures, 5/1 Non-Essential Business Closures, Restaurant Limits, and Large Gatherings Ban (announced 4/22)",easing,https://www.okcommerce.gov/wp-content/uploads/Open-Up-and-Recover-Safely-Plan.pdf
-572,Oklahoma,OK,2020-05-12,['5/12'],Easing: Mandatory Quarantine for Travelers and Stay-At-Home Order (announced 5/12),easing,https://www.sos.ok.gov/documents/executive/1943.pdf
-573,Oklahoma,OK,2020-06-30,['6/30'],Easing: Waive Prior Auth Extension,easing,https://www.oid.ok.gov/lh-bulletin2020-0 2/
-574,Oregon,OR,2020-03-05,['3/5'],Free Vaccine,restricting,https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36097 ;  https://dfr.oregon.gov/insure/health/understand/Pages/coronavirus.aspx
-575,Oregon,OR,2020-03-08,"['3/8', '5/1', '6/30', '8/1']","Emergency Declaration, Disaster Declaration",restricting,https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=37225
-576,Oregon,OR,2020-03-16,['3/16'],Restaurant Limits,restricting,https://www.oregon.gov/gov/Documents/executive_orders/eo_20-07.pdf ;  https://www.oregon.gov/gov/admin/Pages/eo_20-14.aspx
-577,Oregon,OR,2020-03-17,"['3/17', '4/8', '4/23']",School Closures,restricting,https://www.oregon.gov/gov/Documents/executive_orders/eo_20-20.pdf
-578,Oregon,OR,2020-03-23,['3/23'],"Stay At Home Order, Non-Essential Business Closure, Large Gatherings Ban",restricting,https://govsite-assets.s3.amazonaws.com/jkAULYKcSh6DoDF8wBM0_EO%2020-12.pdf
-579,Oregon,OR,2020-03-25,['3/25'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54061
-580,Oregon,OR,2020-03-25,"['3/25', '4/24', '5/6']",Premium Grace Period,restricting,https://dfr.oregon.gov/news/2020/Pages/20200325-grace-period-insurance-deadlines.aspx ;  https://dfr.oregon.gov/business/reg/Documents/Extension%20of%20DCBS%20Order.pdf ;   https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36497 ;  https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36563
-581,Oregon,OR,2020-05-15,"['5/15', '5/21', '5/23']","Easing: Non-Essential Business Closures, Large Gatherings Ban, Restaurant Limits (announced 5/14)",easing,https://www.oregon.gov/gov/Documents/executive_orders/eo_20-25.pdf ;  https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36665 ;  https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36673
-582,Oregon,OR,2020-06-05,"['6/5', '6/6', '6/8']","Easing: Stay-at-Home Order, Non-Essential Business Closures, Large Gatherings Ban, Restaurant Limits (announced 6/4)",easing,https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36749 ;  https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36755 ;  https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36753
-583,Oregon,OR,2020-07-15,"['7/15', '9/24']",Easing: Large Gatherings Ban,easing,https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36940 ;  https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2351G.pdf
-584,Oregon,OR,2020-07-24,['7/24'],"Easing: Restaurant Limits, Bar Closures",easing,https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=37003
-585,Oregon,OR,2020-11-11,['11/11'],Easing: Restrictions for Counties with High Transmission,easing,https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2342k.pdf
-586,Oregon,OR,2020-11-18,['11/18'],"Easing: Non-Essential Business Closures, Large Gatherings Ban, Restaurant Limits, Bar Closures (announced 11/13)",easing,https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=37702
-587,Pennsylvania,PA,2020-03-06,"['3/6', '6/3', '9/1']",Disaster Proclamation,restricting,https://www.governor.pa.gov/newsroom/gov-wolf-signs-second-renewal-of-covid-19-disaster-declaration-for-state-response-and-recovery/
-588,Pennsylvania,PA,2020-03-10,['3/10'],Waive Prior Auth,restricting,https://www.insurance.pa.gov/Regulations/Laws%20Regulations/Documents/COVID-19%20Bulletin%20Final_3.10.20.pdf
-589,Pennsylvania,PA,2020-03-13,"['3/13', '4/9']",School Closures,restricting,https://www.education.pa.gov/Documents/K-12/Safe%20Schools/COVID/Act%2013%20Order.pdf
-590,Pennsylvania,PA,2020-03-16,['3/16'],Restaurant Limits,restricting,https://www.governor.pa.gov/newsroom/wolf-administration-updates-businesses-on-guidance-for-covid-19-mitigation-efforts/
-591,Pennsylvania,PA,2020-03-19,['3/19'],Non-Essential Business Closures,restricting,https://www.governor.pa.gov/wp-content/uploads/2020/03/20200319-TWW-COVID-19-business-closure-order.pdf ;  https://www.governor.pa.gov/wp-content/uploads/2020/03/2020.3.20-TWW-amendment-to-COVID-19-business-closure-order.pdf
-592,Pennsylvania,PA,2020-03-23,"['3/23', '3/24', '3/25', '3/27', '3/28', '3/30', '3/31', '4/1', '5/7']","Stay At Home Order, Large Gatherings Ban",restricting,https://www.governor.pa.gov/wp-content/uploads/2020/05/20200507-TWW-Stay-at-Home-Order-Amendment.pdf
-593,Pennsylvania,PA,2020-03-27,['3/27'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54073
-594,Pennsylvania,PA,2020-05-08,"['5/8', '5/15', '5/22', '5/29', '6/5']","Easing: Stay at Home Order, Non-Essential Business Closures, Large Gatherings Ban (announced 5/7)",easing,https://www.governor.pa.gov/wp-content/uploads/2020/05/20200507-TWW-Yellow-Phase-Order.pdf ;  https://www.governor.pa.gov/wp-content/uploads/2020/05/20200514-TWW-amendment-to-yellow-phase-order.pdf ;  https://www.governor.pa.gov/wp-content/uploads/2020/05/20200521-TWW-Yellow-Phase-Order-Amendment.pdf ;  https://www.governor.pa.gov/wp-content/uploads/2020/05/20200528-TWW-yellow-phase-order-amendment.pdf ;
-595,Pennsylvania,PA,2020-05-29,"['5/29', '6/5', '6/12', '7/2']","Easing: Non-Essential Business Closures, Large Gatherings Ban, Restaurant Limits (announced 5/27)",easing,https://www.governor.pa.gov/wp-content/uploads/2020/05/20200527-TWW-green-phase-order.pdf ;  https://www.governor.pa.gov/wp-content/uploads/2020/06/20200604-TWW-amendment-to-green-phase-order.pdf ;  https://www.governor.pa.gov/wp-content/uploads/2020/06/20200611-TWW-amendment-to-green-phase-order.pdf
-596,Pennsylvania,PA,2020-09-21,['9/21'],Easing: Restaurant Limits,easing,https://www.governor.pa.gov/wp-content/uploads/2020/09/20200917-TWW-amendment-to-targeted-mitigation-order.pdf
-597,Pennsylvania,PA,2020-07-16,['7/16'],"Easing: Large Gatherings Ban, Restaurant Limits, Bar Closures",easing,https://www.governor.pa.gov/wp-content/uploads/2020/07/20200715-TWW-targeted-mitigation-order.pdf
-598,Pennsylvania,PA,2020-09-04,['9/4'],Easing: Extension of New Restrictions,easing,https://governor.ri.gov/documents/orders/Executive-Order-20-73.pdf
-599,Rhode Island,RI,2020-03-09,"['3/9', '4/8', '7/3', '7/31', '10/2', '11/2']",Emergency Declaration,restricting,https://governor.ri.gov/documents/orders/Executive-Order-20-91.pdf
-600,Rhode Island,RI,2020-03-13,['3/13'],"Free Vaccine, Waive Prior Auth, Early Rx Refill",restricting,http://www.ohic.ri.gov/documents/2020/March/Insurance%20Coverage%20Instructions%20During%20COVID-19%20State%20of%20Emergency%20FINAL.pdf
-601,Rhode Island,RI,2020-03-16,"['3/16', '3/28', '4/10']","Large Gatherings Ban, Restaurant Limits",restricting,http://www.governor.ri.gov/documents/orders/Executive-Order-20-23.pdf
-602,Rhode Island,RI,2020-03-18,"['3/18', '3/30']",School Closures,restricting,https://www.ri.gov/press/view/37961 ;  https://twitter.com/RIDeptEd/status/1244684069511876609
-603,Rhode Island,RI,2020-03-23,['3/23'],Primary Election Postponement,restricting,http://www.governor.ri.gov/documents/orders/Executive-Order-20-11.pdf
-604,Rhode Island,RI,2020-03-25,['3/25'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54053
-605,Rhode Island,RI,2020-03-13,"['3/13', '3/26', '3/28', '4/10']",Stay At Home Order,restricting,http://www.governor.ri.gov/documents/orders/Executive-Order-20-12.pdf ;  http://www.governor.ri.gov/documents/orders/Executive-Order-20-13.pdf ;  http://www.governor.ri.gov/documents/orders/Executive-Order-20-23.pdf
-606,Rhode Island,RI,2020-03-28,"['3/28', '10/28']",Mandatory Quarantine for Travelers,restricting,https://governor.ri.gov/documents/orders/Executive-Order-20-88.pdf
-607,Rhode Island,RI,2020-04-27,['4/27'],,restricting,Waive Prior Auth:  http://www.ohic.ri.gov/documents/2020/April/COVID/April%2027/OHIC%20Bulletin%202020-03-dtd%2004272020%20-Temporary%20Emergency%20Measures%20Re%20BDR%20and%20NPs.pdf
-608,Rhode Island,RI,2020-05-07,"['5/7', '5/15', '6/4']",Extension of COVID-19 Related Orders,restricting,https://governor.ri.gov/documents/orders/Executive-Order-20-42.pdf
-609,Rhode Island,RI,2020-11-05,['11/5'],Face Mask Requirement,restricting,https://governor.ri.gov/documents/orders/Executive-Order-20-92.pdf
-610,Rhode Island,RI,2020-05-09,['5/9'],"Easing: Stay-At-Home Order, Non-Essential Business Closures (announced 5/8)",easing,https://governor.ri.gov/documents/orders/Executive-Order-20-32.pdf ;  https://governor.ri.gov/documents/orders/Executive-Order-20-36.pdf
-611,Rhode Island,RI,2020-06-01,['6/1'],"Easing: Non-Essential Business Closures, Large Gatherings Ban, Restaurant Limits (announced 5/29)",easing,https://governor.ri.gov/documents/orders/Executive-Order-20-40.pdf
-612,Rhode Island,RI,2020-06-29,['6/29'],"Easing: Non-Essential Business Closures, Large Gatherings Ban (announced 6/29)",easing,https://governor.ri.gov/documents/orders/Executive-Order-20-50.pdf
-613,Rhode Island,RI,2020-07-29,['7/29'],"Easing: Large Gatherings Ban, Non-Essential Business Closures",easing,https://governor.ri.gov/documents/orders/Executive-Order-20-58.pdf
-614,Rhode Island,RI,2020-08-28,"['8/28', '9/28', '10/28', '10/30']",Easing: Extension of Reopening Phase,easing,https://governor.ri.gov/documents/orders/Executive-Order-20-90.pdf
-615,Rhode Island,RI,2020-08-07,"['8/7', '10/6']",Easing: Bar Closures (lifted and replaced with 11/8 order),easing,https://governor.ri.gov/documents/orders/Executive-Order-20-61.pdf ;  https://governor.ri.gov/documents/orders/Executive-Order-20-83.pdf
-616,Rhode Island,RI,2020-10-30,['10/30'],Easing: Large Gathering Ban,easing,https://governor.ri.gov/documents/orders/Executive-Order-20-90.pdf
-617,Rhode Island,RI,2020-11-08,['11/8'],"Easing: Non-Essential Business Closures, Restaurant Limits, Bar Closures (announced 11/5)",easing,https://governor.ri.gov/documents/orders/Executive-Order-20-95.pdf
-618,South Carolina,SC,2020-03-13,"['3/13', '4/27', '5/27', '6/26', '7/11', '7/26', '8/10', '8/25', '9/9', '9/24', '10/9', '10/24', '11/8']",Emergency Declaration,restricting,https://governor.sc.gov/sites/default/files/Documents/Executive-Orders/2020-11-08%20FINAL%20Executive%20Order%20No.%202020-70%20-%20State%20of%20Emergency.pdf
-619,South Carolina,SC,2020-03-15,"['3/15', '3/24', '4/12', '4/22']",School Closures,restricting,https://governor.sc.gov/sites/default/files/Documents/Executive-Budget/2020-04-27%20eFILED%20Executive%20Order%20No.%202020-29%20-%20State%20of%20Emergency%20Due%20to%20COVID-19%20Pandemic%20Response%20%26%20Other%20Measures.pdf
-620,South Carolina,SC,2020-03-17,"['3/17', '4/6']","Large Gatherings Ban, Restaurant Limits",restricting,https://governor.sc.gov/sites/default/files/Documents/Executive-Orders/2020-04-06%20eFILED%20Executive%20Order%20No.%202020-21%20-%20Stay%20at%20Home%20or%20Work%20Order.pdf
-621,South Carolina,SC,2020-03-27,['3/27'],Mandatory Quarantine for Travelers,restricting,https://governor.sc.gov/sites/default/files/Documents/Executive-Orders/2020-03-27%20FILED%20Executive%20Order%20No.%202020-14%20-%20Self-Quarantine%20for%20Individuals%20from%20High-Risk%20Areas.pdf
-622,South Carolina,SC,2020-03-31,['3/31'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/88876
-623,South Carolina,SC,2020-03-31,"['3/31', '4/6']",Non-Essential Business Closures,restricting,https://governor.sc.gov/sites/default/files/Documents/Executive-Orders/2020-04-06%20eFILED%20Executive%20Order%20No.%202020-21%20-%20Stay%20at%20Home%20or%20Work%20Order.pdf
-624,South Carolina,SC,2020-04-06,['4/6'],Stay At Home Order,restricting,https://governor.sc.gov/sites/default/files/Documents/Executive-Orders/2020-04-06%20eFILED%20Executive%20Order%20No.%202020-21%20-%20Stay%20at%20Home%20or%20Work%20Order.pdf
-625,South Carolina,SC,2020-04-20,['4/20'],Easing: Non-Essential Business Closures (announced 4/20),easing,https://governor.sc.gov/sites/default/files/Documents/Executive-Orders/2020-04-20%20eFILED%20Executive%20Order%20No.%202020-28%20-%20Modification%20of%20Restrictions%20for%20Public%20Beaches%20%26%20Waters%20%26%20Incremental%20Modification%20of%20Non-Essential%20Business%20Closures.pdf
-626,South Carolina,SC,2020-05-04,['5/4'],"Easing: Stay-At-Home Order, Mandatory Quarantine for Travelers, Restaurant Limits (announced 5/1)",easing,https://governor.sc.gov/news/2020-05/gov-henry-mcmaster-lift-work-or-home-order-may-4th
-627,South Carolina,SC,2020-05-11,['5/11'],Easing: Restaurant Limits (announced 5/8),easing,https://governor.sc.gov/sites/default/files/Documents/Executive-Orders/2020-05-08%20eFILED%20Executive%20Order%20No.%202020-34%20-%20Authorization%20of%20Limited%20Indoor%20Dining%20Services%20%26%20Rescission%20of%20Boating%20Restrictions.pdf
-628,South Carolina,SC,2020-05-18,['5/18'],Easing: Non-Essential Business Closures (announced 5/15),easing,https://governor.sc.gov/sites/default/files/Documents/Executive-Orders/2020-05-15%20FILED%20Executive%20Order%20No.%202020-36%20-%20Additional%20Incremental%20Modification%20of%20Non-Essential%20Business%20Closures.pdf
-629,South Carolina,SC,2020-05-22,['5/22'],Easing: Non-Essential Business Closures (announced 5/20),easing,https://governor.sc.gov/sites/default/files/Documents/2020-05-21%20eFILED%20Executive%20Order%20No.%202020-37%20-%20Additional%20Modification%20of%20Non-Essential%20Business%20Closures.pdf
-630,South Carolina,SC,2020-07-11,['7/11'],Easing: Bar Closures,easing,https://governor.sc.gov/sites/default/files/Documents/2020-07-11%20eFILED%20Executive%20Order%20No.%202020-45%20-%20Temporary%20Restrictions%20re%20Alcoholic%20Beverages%20at%20Restaurants%20%26%20Bars.pdf
-631,South Carolina,SC,2020-08-03,['8/3'],"Easing: Non-Essential Business Closures, Restaurant Limits (lifted)",easing,https://governor.sc.gov/sites/default/files/Documents/2020-07-26%20FINAL%20Executive%20Order%20No.%202020-48%20-%20State%20of%20Emergency.pdf
-632,South Carolina,SC,2020-10-02,['10/2'],Easing: Restaurant Limits,easing,https://governor.sc.gov/sites/default/files/Documents/Executive-Orders/2020-10-02%20FINAL%20Executive%20Order%20No.%202020-63%20-%20Amending%20%26%20Consolidating%20Emergency%20Measures.pdf
-633,South Dakota,SD,2020-03-13,"['3/13', '3/26', '4/10', '5/26', '7/7']",Emergency Declaration,restricting,https://sdsos.gov/general-information/executive-actions/executive-orders/assets/2020-30.PDF
-634,South Dakota,SD,2020-03-16,"['3/16', '3/24', '4/6']",School Closures,restricting,https://twitter.com/sddoe/status/1247242924938735623
-635,South Dakota,SD,2020-03-23,"['3/23', '4/6']",Large Gatherings Ban,restricting,
-636,South Dakota,SD,2020-03-24,['3/24'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54047
-637,South Dakota,SD,2020-04-28,['4/28'],Easing: Large Gathering Ban (announced 4/28),easing,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54047
-638,Tennessee,TN,2020-03-12,"['3/12', '5/6', '6/29', '9/30', '10/30']",Emergency Declaration,restricting,
-639,Tennessee,TN,2020-03-20,"['3/20', '3/24', '4/15']",School Closures,restricting,https://www.tn.gov/governor/covid-19/covid-19-daily-bulletin/2020/4/15/covid-19-bulletin–9—april-15–2020.html
-640,Tennessee,TN,2020-03-23,"['3/23', '4/13']","Large Gatherings Ban, Restaurant Limits",restricting,https://publications.tnsosfiles.com/pub/execorders/exec-orders-lee27.pdf
-641,Tennessee,TN,2020-03-31,"['3/31', '4/13']",Stay At Home Order/Non-Essential Business Closures,restricting,
-642,Tennessee,TN,2020-03-31,['3/31'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/88881
-643,Tennessee,TN,2020-07-03,"['7/3', '9/30']",Face Covering Requirement,restricting,
-644,Tennessee,TN,2020-04-29,['4/29'],"Easing: Stay At Home Order, Non-Essential Business Closures, Restaurant Limits (announced 4/28)",easing,
-645,Tennessee,TN,2020-05-22,['5/22'],"Easing: Non-Essential Business Closures, Restaurant Limits, Large Gatherings Ban (announced 5/22)",easing,
-646,Texas,TX,2020-03-13,"['3/13', '4/12', '5/12', '6/11', '7/10', '9/7']",Emergency Declaration,restricting,https://gov.texas.gov/uploads/files/press/DISASTER_renewing_covid19_disaster_proclamation_IMAGE_09-07-2020.pdf
-647,Texas,TX,2020-03-19,"['3/19', '3/31']","Large Gatherings Ban, Restaurant Limits",restricting,https://gov.texas.gov/news/post/governor-abbott-issues-executive-order-implements-statewide-essential-services-and-activities-protocols
-648,Texas,TX,2020-03-20,"['3/20', '3/24', '3/31', '4/17']",School Closures,restricting,
-649,Texas,TX,2020-03-19,['3/19'],Non-Essential Business Closures,restricting,
-650,Texas,TX,2020-03-30,"['3/30', '4/27']",Mandatory Quarantine for Travelers,restricting,
-651,Texas,TX,2020-03-30,['3/30'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/88806
-652,Texas,TX,2020-04-02,['4/2'],Stay At Home Order,restricting,
-653,Texas,TX,2020-06-24,"['6/24', '7/2']",Face Covering Requirement,restricting,
-654,Texas,TX,2020-05-01,['5/1'],"Easing: Restaurant Limits, Large Gatherings Ban (announced 4/27)",easing,
-655,Texas,TX,2020-05-21,['5/21'],Easing: Mandatory Quarantine for Travelers (announced 5/21),easing,
-656,Texas,TX,2020-05-08,"['5/8', '5/22', '5/26', '6/3', '6/29', '9/21', '10/14']",Easing: Non-Essential Business Closures (announced 5/5),easing,
-657,Texas,TX,2020-06-26,"['6/26', '9/21', '10/14']","Easing: Bar Closures, Large Gatherings Ban,  Restaurant Limits  (announced 6/26)",easing,
-658,Utah,UT,2020-03-06,"['3/6', '8/20', '9/21', '11/9']",Emergency Declaration,restricting,https://coronavirus-download.utah.gov/Governor/EO-2020-72-state-of-emergency-covid-19.pdf
-659,Utah,UT,2020-03-16,"['3/16', '3/24', '4/14']",School Closures,restricting,https://twitter.com/GovHerbert/status/1250147935880220673
-660,Utah,UT,2020-03-18,"['3/18', '4/1']",Large Gatherings Ban,restricting,https://drive.google.com/file/d/1PH2tbSfCvKjtw7LG1PgqhPclCaqiu-q6/view
-661,Utah,UT,2020-03-18,"['3/18', '4/1', '4/14']",Restaurant Limits,restricting,https://twitter.com/GovHerbert/status/1250146981252485121
-662,Utah,UT,2020-03-27,['3/27'],Stay At Home Order,restricting,https://drive.google.com/file/d/1Qey2xIxAEqIxiiAHJyHSxBosmjetkbN7/view
-663,Utah,UT,2020-03-27,"['3/27', '4/10']",Mandatory Quarantine for Travelers,restricting,https://drive.google.com/file/d/1Ypzr9sM2b0XAqKYhR37aUkZMlmM-_5av/view
-664,Utah,UT,2020-04-10,['4/10'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/92206
-665,Utah,UT,2020-04-29,"['4/29', '6/29', '7/10', '7/17', '7/23', '7/27', '8/14', '8/20', '9/4', '9/11']",Face Covering Requirement,restricting,
-666,Utah,UT,2020-05-01,['5/1'],Easing: Stay At Home Order  (announced 4/29),easing,https://drive.google.com/file/d/1xcR8cszh7ATSZY2Y2NeCkzo5mV4gD3qj/view
-667,Utah,UT,2020-05-01,"['5/1', '5/28']","Easing: Mandatory Quarantine for Travelers,  Restaurant Limits, Large Gatherings Ban  (announced 4/29)",easing,
-668,Utah,UT,2020-05-01,"['5/1', '5/16', '5/22', '5/29', '6/5', '6/19', '6/29', '7/10', '7/17', '7/27', '8/14', '8/20', '9/4', '9/11', '9/16']",Easing: Large Gatherings Ban  (announced 5/22),easing,
-669,Utah,UT,2020-11-09,"['11/9', '11/12']","Easing: Large Gatherings Ban, Face Covering Requirement",easing,
-670,Vermont,VT,2020-03-13,"['3/13', '4/10', '5/15', '6/15', '7/15', '8/8', '8/14', '9/11', '10/15', '11/14']",Emergency Declaration,restricting,https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%208%20TO%20AMENDED%20AND%20RESTATED%20EXECUTIVE%20ORDER%2001-20.pdf
-671,Vermont,VT,2020-03-18,"['3/18', '3/26']",School Closures,restricting,https://governor.vermont.gov/press-release/governor-phil-scott-dismisses-schools-person-instruction-remainder-2019-2020-school
-672,Vermont,VT,2020-03-17,"['3/17', '5/15']",Restaurant Limits,restricting,https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%2014%20TO%20EXECUTIVE%20ORDER%2001-20.pdf
-673,Vermont,VT,2020-03-20,['3/20'],Marketplace SEP,restricting,https://dvha.vermont.gov/covid-19
-674,Vermont,VT,2020-03-24,"['3/24', '4/10', '5/7', '5/15']",Stay At Home Order/Non-Essential Business Closures/ Large Gatherings Ban,restricting,
-675,Vermont,VT,2020-03-30,['3/30'],Mandatory Quarantine for Travelers,restricting,https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%207%20TO%20EXECUTIVE%20ORDER%2001-20.pdf
-676,Vermont,VT,2020-03-30,['3/30'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/88796
-677,Vermont,VT,2020-06-01,"['6/1', '8/1', '9/11']",Face Covering Requirement,restricting,
-678,Vermont,VT,2020-04-20,['4/20'],Easing: Non-Essential Business Closures(announced 4/17),easing,
-679,Vermont,VT,2020-05-15,['5/15'],Easing: Stay At Home Order (announced 5/15),easing,
-680,Vermont,VT,2020-05-22,"['5/22', '9/18']",Easing: Restaurant Limits (announced 5/22),easing,
-681,Vermont,VT,2020-06-01,"['6/1', '6/26']","Easing: Large Gatherings Ban, Non-Essential Business Closures (announced 5/29)",easing,
-682,Vermont,VT,2020-06-08,['6/8'],"Easing: Mandatory Quarantine for Travelers,  Restaurant Limits   (announced 6/5)",easing,
-683,Vermont,VT,2020-07-01,"['7/1', '9/18', '11/110']",Easing: Mandatory Quarantine for Travelers (announced 6/26),easing,
-684,Vermont,VT,2020-11-14,['11/14'],"Easing: Restaurant Limits, Bar Closures, Large Gatherings Ban (announced 11/13)",easing,
-685,Virginia,VA,2020-03-12,"['3/12', '3/26']",Emergency Declaration,restricting,https://www.governor.virginia.gov/media/governorvirginiagov/executive-actions/EO-51-AMENDED-Declaration-of-a-State-of-Emergency-Due-to-Novel-Coronavirus-(COVID-19).pdf
-686,Virginia,VA,2020-03-16,"['3/16', '3/23', '3/30']",School Closures,restricting,
-687,Virginia,VA,2020-03-24,"['3/24', '4/15']","Non-Essential Business Closures, Large Gatherings Ban, Restaurant Limits",restricting,https://www.governor.virginia.gov/newsroom/all-releases/2020/april/headline-856145-en.html
-688,Virginia,VA,2020-03-23,['3/23'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54035
-689,Virginia,VA,2020-03-30,['3/30'],Stay At Home Order,restricting,https://www.governor.virginia.gov/media/governorvirginiagov/executive-actions/EO-55-Temporary-Stay-at-Home-Order-Due-to-Novel-Coronavirus-(COVID-19).pdf
-690,Virginia,VA,2020-04-13,['4/13'],Primary Election Postponement (local),restricting,
-691,Virginia,VA,2020-05-26,"['5/26', '8/21']",Face Covering Requirement,restricting,
-692,Virginia,VA,2020-05-15,['5/15'],"Easing: Non-Essential Business Closures, Restaurant Limits  ( announced 5/8)",easing,
-693,Virginia,VA,2020-06-05,"['6/5', '7/1', '8/21', '10/29', '11/5']","Easing: Non-Essential Business Closures, Restaurant Limits, Large Gatherings Ban (announced 6/4)",easing,
-694,Virginia,VA,2020-11-13,['11/13'],"Easing: Face Covering Requirement,   Bar Closures, Restaurant Limits, Large Gatherings Ban (announced 7/23)",easing,
-695,Washington,WA,2020-02-29,"['2/29', '7/2']",Emergency Declaration,restricting,https://www.governor.wa.gov/sites/default/files/20-05%20Coronavirus%20%28final%29.pdf?utm_medium=email&utm_source=govdelivery
-696,Washington,WA,2020-03-05,"['3/5', '5/1', '6/3', '7/2', '7/29']","Early Rx Refill, Waive Prior Auth",restricting,https://www.insurance.wa.gov/sites/default/files/documents/emergency-order-number-20-01.pdf  ;  https://www.governor.wa.gov/sites/default/files/proclamations/20-06%20Coronavirus%20%28tmp%29.pdf?utm_medium=email&utm_source=govdelivery ;  https://www.insurance.wa.gov/news/kreidler-extends-emergency-order-30-days-waiving-deductibles-and-copays-coronavirus-testing ;  https://www.insurance.wa.gov/news/kreidler-extends-emergency-order-july-3-waiving-deductibles-and-copays-coronavirus-testin g;  https://cv.nmhealth.org/wp-content/uploads/2020/07/Executive-Order-2020-054-2.pd f
-697,Washington,WA,2020-03-10,"['3/10', '4/1']",Marketplace SEP,restricting,https://www.wahbexchange.org/washington-healthplanfinder-extends-current-special-enrollment-period-gives-extra-month-for-uninsured-to-secure-health-coverage/
-698,Washington,WA,2020-03-15,['3/15'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54022
-699,Washington,WA,2020-03-17,"['3/17', '4/6']",School Closures,restricting,https://www.governor.wa.gov/sites/default/files/20-09.1%20-%20COVID-19%20School%20Closure%20Extension.pdf?utm_medium=email&utm_source=govdelivery
-700,Washington,WA,2020-03-16,"['3/16', '3/23']",Large Gatherings Ban,restricting,https://www.governor.wa.gov/sites/default/files/proclamations/20-25%20Coronovirus%20Stay%20Safe-Stay%20Healthy%20%28tmp%29%20%28002%29.pdf
-701,Washington,WA,2020-03-16,['3/16'],Restaurant Limits,restricting,https://www.governor.wa.gov/news-media/inslee-statement-statewide-shutdown-restaurants-bars-and-limits-size-gatherings-expanded
-702,Washington,WA,2020-03-23,"['3/23', '4/2', '5/4']",Stay At Home Order/Non-Essential Business Closures,restricting,
-703,Washington,WA,2020-03-24,['3/24'],Premium Grace Period,restricting,https://www.insurance.wa.gov/sites/default/files/documents/emergency-order-20-02_3.pdf ;  expired 5/23:  https://www.insurance.wa.gov/sites/default/files/documents/emergency-order-20-02-extension.pdf
-704,Washington,WA,2020-10-15,['10/15'],,restricting,https://www.insurance.wa.gov/sites/default/files/documents/final-emergency-order-20-02-sixth-extension.pdf
-705,Washington,WA,2020-06-26,"['6/26', '7/25']",Face Covering Requirement,restricting,
-706,Washington,WA,2020-05-11,"['5/11', '5/28']","Easing: Restaurant Limits, Large Gatherings Ban ( announced 5/11)",easing,https://www.governor.wa.gov/news-media/inslee-issues-guidance-partially-resuming-dine-restaurant-and-tavern-industry-phase-2
-707,Washington,WA,2020-05-14,"['5/14', '6/3', '6/5', '6/27', '10/6']",Easing: Non-Essential Business Closures (announced 5/14),easing,
-708,Washington,WA,2020-07-20,['7/20'],Easing: Large Gatherings Ban (announced 7/16),easing,
-709,Washington,WA,2020-07-31,"['7/31', '10/6']","Easing: Bar Closures, Restaurant Limits, Large Gatherings Ban (announced 7/23)",easing,
-710,West Virginia,WV,2020-03-04,['3/4'],Preparedness Proclamation,restricting,https://governor.wv.gov/Documents/SKM_C45820030417010.pdf
-711,West Virginia,WV,2020-03-13,['3/13'],Early Rx Refill,restricting,https://www.wvinsurance.gov/Portals/0/pdf/20-05_Prescription_Refill_Bulletin.pdf?ver=2020-03-14-144759-5 ;  https://www.wvinsurance.gov/Portals/0/pdf/WestVirginiaInsuranceBulletinNo.2020-01.pdf?ver=2020-03-09-163536-04390
-712,West Virginia,WV,2020-03-13,"['3/13', '3/25', '4/21']",School Closures,restricting,https://governor.wv.gov/News/press-releases/2020/Pages/COVID-19-UPDATE-Gov.-Justice-announces-West-Virginia-schools-to-remain-closed-for-rest-of-academic-year.aspx
-713,West Virginia,WV,2020-03-17,"['3/17', '3/23']",Restaurant Limits,restricting,https://www.wvinsurance.gov/Portals/0/pdf/pressrelease/WVStayHomeOrder.pdf?ver=2020-03-23-152606-773
-714,West Virginia,WV,2020-03-18,"['3/18', '3/26']",Premium Grace Period,restricting,https://www.wvinsurance.gov/Portals/0/pdf/pressrelease/20-07%20COVID-19%20Regulatory%20Guidance.pdf?ver=2020-03-26-195235-360 ;
-715,West Virginia,WV,2020-03-24,['3/24'],Stay At Home Order/Non-Essential Business Closures,restricting,
-716,West Virginia,WV,2020-03-24,"['3/24', '4/4']",Large Gatherings Ban,restricting,
-717,West Virginia,WV,2020-03-30,['3/30'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/88791
-718,West Virginia,WV,2020-04-01,['4/1'],Primary Election Postponement,restricting,
-719,West Virginia,WV,2020-05-18,"['5/18', '7/7', '8/21', '11/14']",Face Covering Requirement,restricting,
-720,West Virginia,WV,2020-05-04,['5/4'],"Easing: Stay At Home Order, Non-Essential Business Closures,  Restaurant Limits, Large Gatherings Ban (announced 4/30)",easing,https://governor.wv.gov/Documents/2020%20Executive%20Orders/Executive-Order-April-30-2020-Safer-At-Home-Order.pdf
-721,West Virginia,WV,2020-05-04,"['5/4', '5/11', '5/21', '5/26', '5/30']","Easing: Non-Essential Business Closures, Restaurant Limits,  Mandatory Quarantine for Travelers  (announced 5/19)",easing,
-722,West Virginia,WV,2020-06-05,"['6/5', '6/10']","Easing: Non-Essential Business Closures, Large Gathering Ban (announced 6/4)",easing,
-723,West Virginia,WV,2020-07-14,['7/14'],Easing: Large Gathering Ban (announced 7/13),easing,
-724,West Virginia,WV,2020-11-16,['11/16'],"Easing: Non-Essential Business Closures, Restaurant Limits, Bar Closures,  Large Gathering Ban",easing,
-725,Wisconsin,WI,2020-03-12,"['3/12', '8/1', '9/22']",Public Health Emergency,restricting,https://content.govdelivery.com/attachments/WIGOV/2020/09/22/file_attachments/1552234/EO090-DeclaringPublicHealthEmergency.pdf
-726,Wisconsin,WI,2020-03-17,"['3/17', '3/20', '3/24', '4/6', '4/16']","Large Gatherings Ban, Restaurant Limits",restricting,https://content.govdelivery.com/attachments/WIGOV/2020/04/16/file_attachments/1428995/EMO28-SaferAtHome.pdf :
-727,Wisconsin,WI,2020-03-18,"['3/18', '3/20', '4/16']",School Closures,restricting,
-728,Wisconsin,WI,2020-03-25,"['3/25', '4/16']",Stay At Home Order/Non-Essential Business Closures,restricting,
-729,Wisconsin,WI,2020-04-20,['4/20'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/97716
-730,Wisconsin,WI,2020-08-01,"['8/1', '9/22']",Face Covering Requirement,restricting,
-731,Wisconsin,WI,2020-04-24,"['4/24', '5/11', '5/13']",Easing: Non-Essential Business Closures (announced 4/16),easing,
-732,Wisconsin,WI,2020-05-13,['5/13'],"Easing: Stay At Home Order,  Large Gatherings Ban, Restaurant Limits  (announced 5/13)",easing,
-733,Wisconsin,WI,2020-10-08,"['10/8', '10/14']",Easing: Large Gatherings Ban (announced 10/6),easing,
-734,Wyoming,WY,2020-03-13,['3/13'],"Emergency Declaration, Public Health Emergency",restricting,https://drive.google.com/file/d/19mX3feCje2NKRrKi_GPiKvwcckGVoVBh/view
-735,Wyoming,WY,2020-03-20,"['3/20', '3/27', '4/3', '4/28', '5/13']","School Closures, Restaurant Limits",restricting,https://drive.google.com/file/d/1LOAj8puy0LomGsPLbAmBuGPQTJ90A51b/view
-736,Wyoming,WY,2020-03-21,"['3/21', '3/27', '4/3', '4/28']",Large Gatherings Ban,restricting,
-737,Wyoming,WY,2020-03-27,['3/27'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54070
-738,Wyoming,WY,2020-04-03,"['4/3', '4/29', '7/20']",Mandatory Quarantine for Travelers,restricting,
-739,Wyoming,WY,2020-06-15,"['6/15', '8/1', '8/16', '9/1', '10/16', '11/1', '11/16']",Face Covering Requirement,restricting,
-740,Wyoming,WY,2020-05-15,"['5/15', '6/1']",Easing: Restaurant Limits  (announced 5/13),easing,
-741,Wyoming,WY,2020-06-15,"['6/15', '7/1', '7/16', '8/1', '8/16', '9/1', '9/16', '10/1', '10/16', '11/1', '11/16']","Easing: School Closures, Restaurant Limits (announced 6/10)",easing,
-742,Wyoming,WY,2020-05-15,"['5/15', '6/1', '6/15', '7/1', '7/16', '8/1', '8/16', '9/1', '9/16', '10/1', '10/16', '11/1', '11/16']",Easing: Large Gatherings Ban (announced 5/13),easing,
+467,New Jersey,NJ,2020-11-17,['11/17'],Easing: Large Gatherings Ban,easing,https://nj.gov/infobank/eo/056murphy/pdf/EO-196.pdf
+468,New Mexico,NM,2020-03-11,"['3/11', '8/28', '9/18']",Public Health Emergency,restricting,https://cv.nmhealth.org/wp-content/uploads/2020/09/Executive-Order-2020-064.pdf
+469,New Mexico,NM,2020-03-13,['3/13'],Cost-Sharing Waiver (Treatment),restricting,https://nmhealth.org/publication/view/rules/5670/
+470,New Mexico,NM,2020-03-13,"['3/13', '3/26']",School Closures,restricting,https://www.governor.state.nm.us/wp-content/uploads/2020/03/MLG_EO_2020_012.pdf
+471,New Mexico,NM,2020-03-15,"['3/15', '4/6']",Restaurant Limits,restricting,https://cv.nmhealth.org/wp-content/uploads/2020/04/040620-DOH-PHO.pdf
+472,New Mexico,NM,2020-03-16,['3/16'],Large Gatherings Ban,restricting,https://www.governor.state.nm.us/wp-content/uploads/2020/03/AMENDED-PUBLIC-HEALTH-ORDER.pdf
+473,New Mexico,NM,2020-03-23,['3/23'],Non-Essential Retail Business Closures,restricting,https://cv.nmhealth.org/wp-content/uploads/2020/03/COVID-19-DOH-Order-fv.pdf
+474,New Mexico,NM,2020-03-23,['3/23'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54032
+475,New Mexico,NM,2020-03-23,['3/23'],Stay at Home Order,restricting,https://cv.nmhealth.org/wp-content/uploads/2020/03/COVID-19-DOH-Order-fv.pdf
+476,New Mexico,NM,2020-03-27,"['3/27', '6/1']",Mandatory Quarantine for Travelers,restricting,https://cv.nmhealth.org/wp-content/uploads/2020/06/Executive-Order-2020-037.pdf
+477,New Mexico,NM,2020-04-06,"['4/6', '4/11', '5/1', '5/15']",Extension of All Orders Relating to COVID-19,restricting,https://cv.nmhealth.org/wp-content/uploads/2020/05/2020-30-phase-1A.pdf
+478,New Mexico,NM,2020-05-05,"['5/5', '5/15']",Face Covering Requirement,restricting,https://cv.nmhealth.org/wp-content/uploads/2020/05/5-15-2020-PHO.pdf
+479,New Mexico,NM,2020-05-15,['5/15'],"Easing: Non-Essential Business Closures, Large Gatherings Ban (announced 5/15)",easing,https://cv.nmhealth.org/wp-content/uploads/2020/05/5-15-2020-PHO.pdf
+480,New Mexico,NM,2020-06-01,['6/1'],"Easing: Stay-at-Home Order, Non-Essential Business Closures (announced 6/1)",easing,https://cv.nmhealth.org/wp-content/uploads/2020/06/060120-PHO.pdf
+481,New Mexico,NM,2020-06-12,['6/12'],"Easing: Non-Essential Business Closures, Restaurant Limits (announced 6/12)",easing,https://www.nmhealth.org/publication/view/rules/5955/ ;  https://cv.nmhealth.org/wp-content/uploads/2020/07/063020-PHO-1.pdf
+482,New Mexico,NM,2020-08-28,['8/28'],"Easing: Large Gatherings Ban, Restaurant Limits",easing,https://cv.nmhealth.org/wp-content/uploads/2020/08/082820-PHO.pdf
+483,New Mexico,NM,2020-09-03,['9/3'],Easing: Non-Essential Business Closures,easing,https://cv.nmhealth.org/wp-content/uploads/2020/09/090320-PHO.pdf
+484,New Mexico,NM,2020-09-03,"['9/3', '10/16']",Easing: Mandatory Traveler Quarantine,easing,https://cv.nmhealth.org/wp-content/uploads/2020/10/Executive-Order-2020-072-1.pdf
+485,New Mexico,NM,2020-09-18,['9/18'],Easing: Non-Essential Business Closures,easing,https://cv.nmhealth.org/wp-content/uploads/2020/09/091820-PHO.pdf
+486,New Mexico,NM,2020-07-13,"['7/13', '7/30']",Easing: Restaurant Limits (lifted),easing,https://cv.nmhealth.org/wp-content/uploads/2020/07/07.30.20-PHO.pdf
+487,New Mexico,NM,2020-10-16,['10/16'],Easing: Large Gatherings Ban,easing,https://cv.nmhealth.org/wp-content/uploads/2020/10/101620-PHO-1.pdf
+488,New Mexico,NM,2020-10-23,['10/23'],"Easing: Stay-At-Home Order, Non-Essential Business Closures, Restaurant Limits",easing,https://cv.nmhealth.org/wp-content/uploads/2020/11/110520-PHO.pdf
+489,New Mexico,NM,2020-11-13,['11/13'],"Easing: Non-Essential Business Closures, Restaurant Limits",easing,https://cv.nmhealth.org/wp-content/uploads/2020/11/111320-PHO-1.pdf
+490,New York,NY,2020-03-03,"['3/3', '3/13']",Free Vaccine,restricting,https://www.dfs.ny.gov/industry_guidance/circular_letters/cl2020_03 ;  https://www.governor.ny.gov/news/governor-cuomo-announces-new-directive-requiring-new-york-insurers-waive-cost-sharing ;  https://www.dfs.ny.gov/system/files/documents/2020/03/re62_57_text.pdf ;  https://www.dfs.ny.gov/reports_and_publications/press_releases/pr202003131 ;
+491,New York,NY,2020-03-07,['3/7'],Emergency Declaration,restricting,https://www.governor.ny.gov/sites/governor.ny.gov/files/atoms/files/EO_202.pdf
+492,New York,NY,2020-03-14,['3/14'],Restaurant Limits,restricting,https://www.governor.ny.gov/news/no-2023-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency
+493,New York,NY,2020-03-16,"['3/16', '5/4', '6/16', '7/15', '8/15', '9/15', '12/31']",Marketplace SEP,restricting,https://www.dfs.ny.gov/reports_and_publications/press_releases/pr202009162
+494,New York,NY,2020-03-16,"['3/16', '3/27', '5/1', '5/7']",School Closures,restricting,https://www.governor.ny.gov/news/no-20228-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency
+495,New York,NY,2020-03-17,['3/17'],Paid Sick Leave,restricting,https://www.governor.ny.gov/news/governor-cuomo-announces-three-way-agreement-legislature-paid-sick-leave-bill-provide-immediate
+496,New York,NY,2020-03-20,"['3/20', '3/27', '4/16']","Stay At Home Order, Non-Essential Business Closures, Large Gatherings Ban",restricting,https://www.governor.ny.gov/news/governor-cuomo-signs-new-york-state-pause-executive-order ;  https://www.governor.ny.gov/news/no-20213-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency ;  https://twitter.com/NYGovCuomo/status/1250817149041590277
+497,New York,NY,2020-03-26,['3/26'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54067
+498,New York,NY,2020-03-28,['3/28'],Primary Election Postponement,restricting,https://www.nytimes.com/2020/04/27/nyregion/coronavirus-new-york-update.html
+499,New York,NY,2020-04-02,"['4/2', '5/29']",Premium Grace Period,restricting,https://www.dfs.ny.gov/press_releases/pr202004023 ;  https://www.governor.ny.gov/sites/governor.ny.gov/files/atoms/files/EO_202_35.pd f
+500,New York,NY,2020-04-07,"['4/7', '4/16', '5/14', '5/21']",Extension of All Orders Relating to COVID-19,restricting,https://www.governor.ny.gov/news/no-20232-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency
+501,New York,NY,2020-04-12,"['4/12', '4/15', '5/14', '5/28', '6/3', '6/19']",Face Covering Requirement,restricting,https://www.governor.ny.gov/news/no-20243-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency
+502,New York,NY,2020-06-24,['6/24'],Mandatory Quarantine for Travelers,restricting,https://www.governor.ny.gov/news/no-205-quarantine-restrictions-travelers-arriving-new-york ;
+503,New York,NY,2020-06-26,['6/26'],Large Gatherings Ban,restricting,https://www.governor.ny.gov/news/governor-cuomo-announces-five-regions-track-enter-phase-iv-reopening-friday
+504,New York,NY,2020-05-14,['5/14'],Easing: Non-Essential Business Closures (announced 5/14),easing,https://www.governor.ny.gov/news/no-20231-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency
+505,New York,NY,2020-05-22,['5/22'],Easing: Large Gatherings Ban (announced 5/22),easing,https://www.governor.ny.gov/news/no-20233-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency
+506,New York,NY,2020-05-29,['5/29'],Easing: Non-Essential Business Closures (announced 5/29),easing,https://www.governor.ny.gov/news/no-20235-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency
+507,New York,NY,2020-06-02,['6/2'],Easing: Non-Essential Business Closures (announced 6/2),easing,https://www.governor.ny.gov/sites/governor.ny.gov/files/atoms/files/EO_202.36.pdf
+508,New York,NY,2020-06-06,"['6/6', '7/7']",Easing: Restaurant Limits (announced 6/3),easing,https://www.governor.ny.gov/news/no-20238-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency ;  https://www.governor.ny.gov/news/video-photos-audio-rush-transcript-governor-cuomo-announces-new-york-city-enters-phase-iii https://www.governor.ny.gov/news/no-20239-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency
+509,New York,NY,2020-06-15,"['6/15', '7/8']",Easing: Large Gatherings Ban (announced 6/15),easing,https://www.governor.ny.gov/sites/governor.ny.gov/files/atoms/files/EO_202.42.pdf ;  https://www.governor.ny.gov/news/governor-cuomo-announces-long-island-cleared-global-public-health-experts-enter-phase-4-0
+510,New York,NY,2020-06-23,['6/23'],Easing: Non-Essential Business Closures,easing,https://www.governor.ny.gov/news/governor-cuomo-announces-new-york-city-cleared-global-health-experts-enter-phase-four-reopening
+511,New York,NY,2020-08-14,['8/14'],Easing: Non-Essential Business Closures,easing,https://www.governor.ny.gov/news/governor-cuomo-announces-bowling-alleys-can-reopen-50-percent-capacity-starting-monday
+512,New York,NY,2020-08-24,['8/24'],Easing: Non-Essential Business Closures,easing,https://www.governor.ny.gov/news/governor-cuomo-announces-bowling-alleys-can-reopen-50-percent-capacity-starting-monday
+513,New York,NY,2020-10-07,"['10/7', '10/22', '11/9']",Easing: Restrictions for Areas with High Concentration of Cases,easing,https://www.governor.ny.gov/news/governor-cuomo-announces-new-cluster-action-initiative ;  https://www.governor.ny.gov/news/governor-cuomo-announces-updated-covid-19-micro-cluster-focus-zones-0
+514,New York,NY,2020-11-13,['11/13'],"Easing: Restaurant Limits, Bar Closures",easing,https://www.governor.ny.gov/news/audio-rush-transcript-governor-cuomo-announces-restaurants-bars-other-sla-licensed-entities
+515,North Carolina,NC,2020-03-10,['3/10'],Emergency Declaration,restricting,https://files.nc.gov/governor/documents/files/EO116-SOE-COVID-19.pdf
+516,North Carolina,NC,2020-03-14,"['3/14', '3/23', '3/27']","Large Gatherings Ban, School Closures",restricting,https://files.nc.gov/governor/documents/files/EO120.pdf ;  https://files.nc.gov/governor/documents/files/EO121-Stay-at-Home-Order-3.pdf
+517,North Carolina,NC,2020-03-14,['3/14'],Restaurant Limits,restricting,https://files.nc.gov/governor/documents/files/EO118.pdf
+518,North Carolina,NC,2020-03-23,['3/23'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54036
+519,North Carolina,NC,2020-03-27,"['3/27', '4/23']","Stay At Home Order, Non-Essential Business Closures",restricting,https://files.nc.gov/governor/documents/files/EO135-Extensions.pdf
+520,North Carolina,NC,2020-03-27,['3/27'],Premium Grace Period,restricting,https://files.nc.gov/doi/documents/legislative-services/20-b-06-covid-19-pandemic.pdf
+521,North Carolina,NC,2020-05-05,['5/5'],"Extension of COVID-19 related orders, except for Non-Essential Business Closures",restricting,https://files.nc.gov/governor/documents/files/EO138-Phase-1.pdf
+522,North Carolina,NC,2020-06-26,['6/26'],Face Covering Requirement,restricting,https://governor.nc.gov/documents/executive-order-no-147
+523,North Carolina,NC,2020-05-08,['5/8'],Easing: Non-Essential Business Closures (announced 5/5),easing,https://files.nc.gov/governor/documents/files/EO138-Phase-1.pdf
+524,North Carolina,NC,2020-05-22,"['5/22', '7/16']","Easing: Stay-At-Home Order, Non-Essential Business Closures, Restaurant Limits (announced 5/20)",easing,https://files.nc.gov/governor/documents/files/EO141-Phase-2.pdf ;  https://files.nc.gov/governor/documents/files/EO151-Phase-2-Extension-1.pdf ;  https://files.nc.gov/governor/documents/files/EO155-Extension-of-Phase-2.pdf
+525,North Carolina,NC,2020-09-01,['9/1'],"Easing: Non-Essential Business Closures, Large Gatherings Ban, Restaurant Limits",easing,https://files.nc.gov/governor/documents/files/EO163-New-Phase-2.5.pdf
+526,North Carolina,NC,2020-10-02,"['10/2', '10/21']","Easing: Non-Essential Business Closures, Bar Closures (announced 9/30)",easing,https://files.nc.gov/governor/documents/files/EO169-Phase-3.pdf ;  https://files.nc.gov/governor/documents/files/EO170-Phase-3-Extension.pdf
+527,North Carolina,NC,2020-07-31,['7/31'],Easing: Restaurant Limits (lifted),easing,https://files.nc.gov/governor/documents/files/EO-153-Restricting-Late-Night-Service-of-Alcoholic-Beverages.pdf
+528,North Carolina,NC,2020-11-11,['11/11'],Easing: Large Gatherings Ban,easing,https://files.nc.gov/governor/documents/files/EO176-Phase-3-ext.pdf
+529,North Dakota,ND,2020-03-13,['3/13'],Emergency Declaration,restricting,https://www.governor.nd.gov/sites/www/files/documents/EO%202020-03.pdf
+530,North Dakota,ND,2020-03-15,"['3/15', '3/30']",School Closures,restricting,https://www.governor.nd.gov/sites/www/files/documents/executive-orders/Executive%20Order%202020-10.1.pdf
+531,North Dakota,ND,2020-03-19,"['3/19', '4/1', '4/15']",Restaurant Limits,restricting,https://www.governor.nd.gov/sites/www/files/documents/executive-orders/Executive%20Order%202020-06.3%20Extending%20Restrictions%20on%20Certain%20Types%20of%20Businesses%20During%20COVID-19%20Pandemic.pdf
+532,North Dakota,ND,2020-03-24,['3/24'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54046
+533,North Dakota,ND,2020-03-28,"['3/28', '4/8']",Mandatory Quarantine for Travelers,restricting,https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/HCW/SHO-Order.pdf
+534,North Dakota,ND,2020-04-02,"['4/2', '4/15']",Non-Essential Business Closures,restricting,https://www.governor.nd.gov/sites/www/files/documents/executive-orders/Executive%20Order%202020-06.3%20Extending%20Restrictions%20on%20Certain%20Types%20of%20Businesses%20During%20COVID-19%20Pandemic.pdf
+535,North Dakota,ND,2020-05-01,['5/1'],"Easing: Non-Essential Business Closures, Restaurant Limits (announced 4/29)",easing,https://www.governor.nd.gov/sites/www/files/documents/executive-orders/Executive%20Order%202020-06.4.pdf
+536,North Dakota,ND,2020-05-15,['5/15'],Easing: Non-Essential Business Closures (announced 5/15),easing,https://www.governor.nd.gov/sites/www/files/documents/executive-orders/Executive%20Order%202020-06.6.pdf
+537,North Dakota,ND,2020-05-22,['5/22'],"Easing: Non-Essential Business Closures, Restaurant Limits (announced 5/22)",easing,https://www.governor.nd.gov/sites/www/files/documents/executive-orders/Executive%20Order%202020-06.7%20FINAL.pdf
+538,North Dakota,ND,2020-07-28,['7/28'],Easing: Mandatory Traveler Quarantine,easing,https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/State%20Health%20Officer%20Orders/2020-02.3_International_Travel.pdf
+539,North Dakota,ND,2020-09-21,['9/21'],Easing: Mandatory Traveler Quarantine,easing,https://www.health.nd.gov/news/mariani-lifts-state-health-officer-order-regarding-international-travel
+540,North Dakota,ND,2020-10-16,['10/16'],"Easing: Non-Essential Business Closures, Restaurant Limits, Bar Closures",easing,https://www.health.nd.gov/news/burgum-announces-changes-county-risk-levels-recommended-gathering-sizes-slow-covid-19
+541,North Dakota,ND,2020-10-16,['10/16'],Easing: Large Gatherings Ban,easing,https://www.health.nd.gov/news/burgum-announces-changes-county-risk-levels-recommended-gathering-sizes-slow-covid-19
+542,North Dakota,ND,2020-11-13,['11/13'],"Easing: Restaurant Limits, Bar Closures",easing,https://www.governor.nd.gov/sites/www/files/documents/executive-orders/Executive%20Order%202020-43.pdf
+543,North Dakota,ND,2020-11-13,['11/13'],Easing: Face Covering Requirement,easing,https://www.governor.nd.gov/sites/www/files/documents/executive-orders/SHO%20Order%202020-08%20Signed.pdf
+544,Ohio,OH,2020-03-09,['3/9'],Emergency Declaration,restricting,https://content.govdelivery.com/attachments/OHOOD/2020/03/09/file_attachments/1396418/Executive%202020-01D.pdf
+545,Ohio,OH,2020-03-12,"['3/12', '3/30', '4/20']",School Closures,restricting,https://governor.ohio.gov/wps/portal/gov/governor/media/news-and-media/covid19-update-april-20-2020
+546,Ohio,OH,2020-03-15,"['3/15', '4/2']",Restaurant Limits,restricting,https://content.govdelivery.com/attachments/OHOOD/2020/04/02/file_attachments/1418062/Signed%20Amended%20Director%27s%20Stay%20At%20Home%20Order.pdf
+547,Ohio,OH,2020-03-16,['3/16'],Primary Election Postponement,restricting,https://coronavirus.ohio.gov/wps/wcm/connect/gov/c6a47eea-ce8a-4eff-bad3-d4141216bf9b/ODH+Director%27s+Order+Closure+of+the+Polling+Locations.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE.Z18_M1HGGIK0N0JO00QO9DDDDM3000-c6a47eea-ce8a-4eff-bad3-d4141216bf9b-n3ELaWW
+548,Ohio,OH,2020-03-20,['3/20'],Premium Grace Period,restricting,https://iop-odi-content.s3.amazonaws.com/static/Legal/Bulletins/Documents/2020-03.pdf
+549,Ohio,OH,2020-03-22,['3/22'],Mandatory Quarantine for Travelers,restricting,https://content.govdelivery.com/attachments/OHOOD/2020/04/02/file_attachments/1418062/Signed%20Amended%20Director%27s%20Stay%20At%20Home%20Order.pdf
+550,Ohio,OH,2020-03-22,"['3/22', '4/2']","Stay At Home Order, Non-Essential Business Closures, Large Gatherings Ban",restricting,https://content.govdelivery.com/attachments/OHOOD/2020/04/02/file_attachments/1418062/Signed%20Amended%20Director%27s%20Stay%20At%20Home%20Order.pdf
+551,Ohio,OH,2020-04-22,['4/22'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/97856
+552,Ohio,OH,2020-04-30,"['4/30', '5/29', '7/23']",Face Covering Requirement,restricting,
+553,Ohio,OH,2020-07-08,['7/8'],Face Covering Requirement,restricting,https://governor.ohio.gov/wps/portal/gov/governor/media/news-and-media/covid19-update-07072020
+554,Ohio,OH,2020-05-01,['5/1'],Easing: Non-Essential Business Closures (announced 4/30),easing,https://coronavirus.ohio.gov/static/publicorders/Directors-Stay-Safe-Ohio-Order.pdf
+555,Ohio,OH,2020-05-15,['5/15'],Easing: Non-Essential Business Closures (announced 5/12),easing,https://governor.ohio.gov/wps/portal/gov/governor/media/news-and-media/covid19-update-may-12-2020
+556,Ohio,OH,2020-05-15,['5/15'],Easing: Restaurant Limits (announced 5/7),easing,https://governor.ohio.gov/wps/portal/gov/governor/media/news-and-media/covid19-update-may-7-2020
+557,Ohio,OH,2020-05-20,['5/20'],"Easing: Stay-At-Home Order, Mandatory Quarantine for Travelers (announced 5/20)",easing,https://content.govdelivery.com/attachments/OHOOD/2020/05/20/file_attachments/1456369/Stay%20Safe%20Partial%20Rescission.pdf
+558,Ohio,OH,2020-05-29,['5/29'],"Easing: Non-Essential Business Closures, Large Gatherings Ban (announced 5/29)",easing,https://content.govdelivery.com/attachments/OHOOD/2020/05/29/file_attachments/1462932/Signed%20Director’s%20Order%20Upated%20and%20Revised%20Business%20Guidance%20and%20Social%20Distancing.pdf
+559,Ohio,OH,2020-05-31,['5/31'],Easing: Non-Essential Business Closures (announced 5/30),easing,https://content.govdelivery.com/attachments/OHOOD/2020/05/30/file_attachments/1463195/Directors%20Day%20Care%20Order%205-29-2020.pdf
+560,Ohio,OH,2020-06-05,['6/5'],Easing: Restaurant Limits (announced 6/1),easing,https://coronavirus.ohio.gov/static/publicorders/dao-Reopens-Restaurants-Bars.pdf
+561,Ohio,OH,2020-06-30,['6/30'],Easing: Extension of Reopening Orders,easing,https://coronavirus.ohio.gov/static/publicorders/Extend-Expiration-Date-Various-Orders.pdf ;  https://coronavirus.ohio.gov/static/publicorders/Second-Order-Extend-Exp-Date-Various-Orders.pdf
+562,Ohio,OH,2020-08-25,['8/25'],Easing: Non-Essential Business Closures,easing,https://content.govdelivery.com/attachments/OHOOD/2020/08/25/file_attachments/1526223/ODH%20Order%20-%20Entertainemnt%20Venue%2008.25.2020.pdf
+563,Ohio,OH,2020-09-23,['9/23'],"Easing: Restaurant Limits, Bar Closures",easing,https://content.govdelivery.com/attachments/OHOOD/2020/09/23/file_attachments/1553535/3rd%20Dine%20Safe%20Order%2009.23.20.pdf
+564,Ohio,OH,2020-07-30,['7/30'],Easing: Bar Closures (lifted),easing,https://com.ohio.gov/documents/DOLC-Rule80StakeholderMessageEdits_finalforwebsite.pdf
+565,Ohio,OH,2020-11-17,['11/17'],Easing: Large Gatherings Ban,easing,https://content.govdelivery.com/attachments/OHOOD/2020/11/16/file_attachments/1601899/Gathering%20Order%20FINAL%2011.15.20.pdf
+566,Oklahoma,OK,2020-03-15,"['3/15', '4/2', '5/1', '7/11', '7/30', '8/28', '9/25', '10/24']",Emergency Declaration,restricting,https://www.sos.ok.gov/documents/executive/1967.pdf
+567,Oklahoma,OK,2020-03-16,"['3/16', '3/25']",School Closures,restricting,https://sde.ok.gov/sites/default/files/documents/files/20200325124831229.pdf
+568,Oklahoma,OK,2020-03-24,"['3/24', '4/1']","Stay At Home Order, Non-Essential Business Closures, Large Gatherings Ban",restricting,https://www.sos.ok.gov/documents/executive/1926.pdf
+569,Oklahoma,OK,2020-03-24,['3/24'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54048
+570,Oklahoma,OK,2020-03-29,['3/29'],Mandatory Quarantine for Travelers,restricting,https://www.sos.ok.gov/documents/executive/1924.pdf
+571,Oklahoma,OK,2020-04-06,['4/6'],"Waive Prior Auth, Early Rx Refill, Premium Grace Period",restricting,https://www.oid.ok.gov/lh-bulletin-no-2020-02-amended/
+572,Oklahoma,OK,2020-04-08,"['4/8', '4/16', '4/20', '4/24', '4/30', '5/12', '5/30', '6/12']",Extension of All COVID-19 Related Orders,restricting,https://www.sos.ok.gov/documents/executive/1949.pdf
+573,Oklahoma,OK,2020-04-24,['4/24'],"Easing: Non-Essential Business Closures, 5/1 Non-Essential Business Closures, Restaurant Limits, and Large Gatherings Ban (announced 4/22)",easing,https://www.okcommerce.gov/wp-content/uploads/Open-Up-and-Recover-Safely-Plan.pdf
+574,Oklahoma,OK,2020-05-12,['5/12'],Easing: Mandatory Quarantine for Travelers and Stay-At-Home Order (announced 5/12),easing,https://www.sos.ok.gov/documents/executive/1943.pdf
+575,Oklahoma,OK,2020-06-30,['6/30'],Easing: Waive Prior Auth Extension,easing,https://www.oid.ok.gov/lh-bulletin2020-0 2/
+576,Oklahoma,OK,2020-07-17,['7/17'],Easing: Face Covering Requirement,easing,https://www.sos.ok.gov/documents/executive/1971.pdf
+577,Oklahoma,OK,2020-07-19,['7/19'],"Easing: Restaurant Limits, Bar Closures",easing,https://www.sos.ok.gov/documents/executive/1971.pdf
+578,Oregon,OR,2020-03-05,['3/5'],Free Vaccine,restricting,https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36097 ;  https://dfr.oregon.gov/insure/health/understand/Pages/coronavirus.aspx
+579,Oregon,OR,2020-03-08,"['3/8', '5/1', '6/30', '8/1']","Emergency Declaration, Disaster Declaration",restricting,https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=37225
+580,Oregon,OR,2020-03-16,['3/16'],Restaurant Limits,restricting,https://www.oregon.gov/gov/Documents/executive_orders/eo_20-07.pdf ;  https://www.oregon.gov/gov/admin/Pages/eo_20-14.aspx
+581,Oregon,OR,2020-03-17,"['3/17', '4/8', '4/23']",School Closures,restricting,https://www.oregon.gov/gov/Documents/executive_orders/eo_20-20.pdf
+582,Oregon,OR,2020-03-23,['3/23'],"Stay At Home Order, Non-Essential Business Closure, Large Gatherings Ban",restricting,https://govsite-assets.s3.amazonaws.com/jkAULYKcSh6DoDF8wBM0_EO%2020-12.pdf
+583,Oregon,OR,2020-03-25,['3/25'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54061
+584,Oregon,OR,2020-03-25,"['3/25', '4/24', '5/6']",Premium Grace Period,restricting,https://dfr.oregon.gov/news/2020/Pages/20200325-grace-period-insurance-deadlines.aspx ;  https://dfr.oregon.gov/business/reg/Documents/Extension%20of%20DCBS%20Order.pdf ;   https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36497 ;  https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36563
+585,Oregon,OR,2020-05-15,"['5/15', '5/21', '5/23']","Easing: Non-Essential Business Closures, Large Gatherings Ban, Restaurant Limits (announced 5/14)",easing,https://www.oregon.gov/gov/Documents/executive_orders/eo_20-25.pdf ;  https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36665 ;  https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36673
+586,Oregon,OR,2020-06-05,"['6/5', '6/6', '6/8']","Easing: Stay-at-Home Order, Non-Essential Business Closures, Large Gatherings Ban, Restaurant Limits (announced 6/4)",easing,https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36749 ;  https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36755 ;  https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36753
+587,Oregon,OR,2020-07-15,"['7/15', '9/24']",Easing: Large Gatherings Ban,easing,https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36940 ;  https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2351G.pdf
+588,Oregon,OR,2020-07-24,['7/24'],"Easing: Restaurant Limits, Bar Closures",easing,https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=37003
+589,Oregon,OR,2020-11-11,['11/11'],Easing: Restrictions for Counties with High Transmission,easing,https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2342k.pdf
+590,Oregon,OR,2020-11-18,['11/18'],"Easing: Non-Essential Business Closures, Large Gatherings Ban, Restaurant Limits, Bar Closures (announced 11/13)",easing,https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=37702
+591,Pennsylvania,PA,2020-03-06,"['3/6', '6/3', '9/1']",Disaster Proclamation,restricting,https://www.governor.pa.gov/newsroom/gov-wolf-signs-second-renewal-of-covid-19-disaster-declaration-for-state-response-and-recovery/
+592,Pennsylvania,PA,2020-03-10,['3/10'],Waive Prior Auth,restricting,https://www.insurance.pa.gov/Regulations/Laws%20Regulations/Documents/COVID-19%20Bulletin%20Final_3.10.20.pdf
+593,Pennsylvania,PA,2020-03-13,"['3/13', '4/9']",School Closures,restricting,https://www.education.pa.gov/Documents/K-12/Safe%20Schools/COVID/Act%2013%20Order.pdf
+594,Pennsylvania,PA,2020-03-16,['3/16'],Restaurant Limits,restricting,https://www.governor.pa.gov/newsroom/wolf-administration-updates-businesses-on-guidance-for-covid-19-mitigation-efforts/
+595,Pennsylvania,PA,2020-03-19,['3/19'],Non-Essential Business Closures,restricting,https://www.governor.pa.gov/wp-content/uploads/2020/03/20200319-TWW-COVID-19-business-closure-order.pdf ;  https://www.governor.pa.gov/wp-content/uploads/2020/03/2020.3.20-TWW-amendment-to-COVID-19-business-closure-order.pdf
+596,Pennsylvania,PA,2020-03-23,"['3/23', '3/24', '3/25', '3/27', '3/28', '3/30', '3/31', '4/1', '5/7']","Stay At Home Order, Large Gatherings Ban",restricting,https://www.governor.pa.gov/wp-content/uploads/2020/05/20200507-TWW-Stay-at-Home-Order-Amendment.pdf
+597,Pennsylvania,PA,2020-03-27,['3/27'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54073
+598,Pennsylvania,PA,2020-05-08,"['5/8', '5/15', '5/22', '5/29', '6/5']","Easing: Stay at Home Order, Non-Essential Business Closures, Large Gatherings Ban (announced 5/7)",easing,https://www.governor.pa.gov/wp-content/uploads/2020/05/20200507-TWW-Yellow-Phase-Order.pdf ;  https://www.governor.pa.gov/wp-content/uploads/2020/05/20200514-TWW-amendment-to-yellow-phase-order.pdf ;  https://www.governor.pa.gov/wp-content/uploads/2020/05/20200521-TWW-Yellow-Phase-Order-Amendment.pdf ;  https://www.governor.pa.gov/wp-content/uploads/2020/05/20200528-TWW-yellow-phase-order-amendment.pdf ;
+599,Pennsylvania,PA,2020-05-29,"['5/29', '6/5', '6/12', '7/2']","Easing: Non-Essential Business Closures, Large Gatherings Ban, Restaurant Limits (announced 5/27)",easing,https://www.governor.pa.gov/wp-content/uploads/2020/05/20200527-TWW-green-phase-order.pdf ;  https://www.governor.pa.gov/wp-content/uploads/2020/06/20200604-TWW-amendment-to-green-phase-order.pdf ;  https://www.governor.pa.gov/wp-content/uploads/2020/06/20200611-TWW-amendment-to-green-phase-order.pdf
+600,Pennsylvania,PA,2020-09-21,['9/21'],Easing: Restaurant Limits,easing,https://www.governor.pa.gov/wp-content/uploads/2020/09/20200917-TWW-amendment-to-targeted-mitigation-order.pdf
+601,Pennsylvania,PA,2020-07-16,['7/16'],"Easing: Large Gatherings Ban, Restaurant Limits, Bar Closures",easing,https://www.governor.pa.gov/wp-content/uploads/2020/07/20200715-TWW-targeted-mitigation-order.pdf
+602,Pennsylvania,PA,2020-09-04,['9/4'],Easing: Extension of New Restrictions,easing,https://governor.ri.gov/documents/orders/Executive-Order-20-73.pdf
+603,Rhode Island,RI,2020-03-09,"['3/9', '4/8', '7/3', '7/31', '10/2', '11/2']",Emergency Declaration,restricting,https://governor.ri.gov/documents/orders/Executive-Order-20-91.pdf
+604,Rhode Island,RI,2020-03-13,['3/13'],"Free Vaccine, Waive Prior Auth, Early Rx Refill",restricting,http://www.ohic.ri.gov/documents/2020/March/Insurance%20Coverage%20Instructions%20During%20COVID-19%20State%20of%20Emergency%20FINAL.pdf
+605,Rhode Island,RI,2020-03-16,"['3/16', '3/28', '4/10']","Large Gatherings Ban, Restaurant Limits",restricting,http://www.governor.ri.gov/documents/orders/Executive-Order-20-23.pdf
+606,Rhode Island,RI,2020-03-18,"['3/18', '3/30']",School Closures,restricting,https://www.ri.gov/press/view/37961 ;  https://twitter.com/RIDeptEd/status/1244684069511876609
+607,Rhode Island,RI,2020-03-23,['3/23'],Primary Election Postponement,restricting,http://www.governor.ri.gov/documents/orders/Executive-Order-20-11.pdf
+608,Rhode Island,RI,2020-03-25,['3/25'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54053
+609,Rhode Island,RI,2020-03-13,"['3/13', '3/26', '3/28', '4/10']",Stay At Home Order,restricting,http://www.governor.ri.gov/documents/orders/Executive-Order-20-12.pdf ;  http://www.governor.ri.gov/documents/orders/Executive-Order-20-13.pdf ;  http://www.governor.ri.gov/documents/orders/Executive-Order-20-23.pdf
+610,Rhode Island,RI,2020-03-28,"['3/28', '10/28']",Mandatory Quarantine for Travelers,restricting,https://governor.ri.gov/documents/orders/Executive-Order-20-88.pdf
+611,Rhode Island,RI,2020-04-27,['4/27'],,restricting,Waive Prior Auth:  http://www.ohic.ri.gov/documents/2020/April/COVID/April%2027/OHIC%20Bulletin%202020-03-dtd%2004272020%20-Temporary%20Emergency%20Measures%20Re%20BDR%20and%20NPs.pdf
+612,Rhode Island,RI,2020-05-07,"['5/7', '5/15', '6/4']",Extension of COVID-19 Related Orders,restricting,https://governor.ri.gov/documents/orders/Executive-Order-20-42.pdf
+613,Rhode Island,RI,2020-11-05,['11/5'],Face Mask Requirement,restricting,https://governor.ri.gov/documents/orders/Executive-Order-20-92.pdf
+614,Rhode Island,RI,2020-05-09,['5/9'],"Easing: Stay-At-Home Order, Non-Essential Business Closures (announced 5/8)",easing,https://governor.ri.gov/documents/orders/Executive-Order-20-32.pdf ;  https://governor.ri.gov/documents/orders/Executive-Order-20-36.pdf
+615,Rhode Island,RI,2020-06-01,['6/1'],"Easing: Non-Essential Business Closures, Large Gatherings Ban, Restaurant Limits (announced 5/29)",easing,https://governor.ri.gov/documents/orders/Executive-Order-20-40.pdf
+616,Rhode Island,RI,2020-06-29,['6/29'],"Easing: Non-Essential Business Closures, Large Gatherings Ban (announced 6/29)",easing,https://governor.ri.gov/documents/orders/Executive-Order-20-50.pdf
+617,Rhode Island,RI,2020-07-29,['7/29'],"Easing: Large Gatherings Ban, Non-Essential Business Closures",easing,https://governor.ri.gov/documents/orders/Executive-Order-20-58.pdf
+618,Rhode Island,RI,2020-08-28,"['8/28', '9/28', '10/28', '10/30']",Easing: Extension of Reopening Phase,easing,https://governor.ri.gov/documents/orders/Executive-Order-20-90.pdf
+619,Rhode Island,RI,2020-08-07,"['8/7', '10/6']",Easing: Bar Closures (lifted and replaced with 11/8 order),easing,https://governor.ri.gov/documents/orders/Executive-Order-20-61.pdf ;  https://governor.ri.gov/documents/orders/Executive-Order-20-83.pdf
+620,Rhode Island,RI,2020-10-30,['10/30'],Easing: Large Gathering Ban,easing,https://governor.ri.gov/documents/orders/Executive-Order-20-90.pdf
+621,Rhode Island,RI,2020-11-08,['11/8'],"Easing: Non-Essential Business Closures, Restaurant Limits, Bar Closures (announced 11/5)",easing,https://governor.ri.gov/documents/orders/Executive-Order-20-95.pdf
+622,South Carolina,SC,2020-03-13,"['3/13', '4/27', '5/27', '6/26', '7/11', '7/26', '8/10', '8/25', '9/9', '9/24', '10/9', '10/24', '11/8']",Emergency Declaration,restricting,https://governor.sc.gov/sites/default/files/Documents/Executive-Orders/2020-11-08%20FINAL%20Executive%20Order%20No.%202020-70%20-%20State%20of%20Emergency.pdf
+623,South Carolina,SC,2020-03-15,"['3/15', '3/24', '4/12', '4/22']",School Closures,restricting,https://governor.sc.gov/sites/default/files/Documents/Executive-Budget/2020-04-27%20eFILED%20Executive%20Order%20No.%202020-29%20-%20State%20of%20Emergency%20Due%20to%20COVID-19%20Pandemic%20Response%20%26%20Other%20Measures.pdf
+624,South Carolina,SC,2020-03-17,"['3/17', '4/6']","Large Gatherings Ban, Restaurant Limits",restricting,https://governor.sc.gov/sites/default/files/Documents/Executive-Orders/2020-04-06%20eFILED%20Executive%20Order%20No.%202020-21%20-%20Stay%20at%20Home%20or%20Work%20Order.pdf
+625,South Carolina,SC,2020-03-27,['3/27'],Mandatory Quarantine for Travelers,restricting,https://governor.sc.gov/sites/default/files/Documents/Executive-Orders/2020-03-27%20FILED%20Executive%20Order%20No.%202020-14%20-%20Self-Quarantine%20for%20Individuals%20from%20High-Risk%20Areas.pdf
+626,South Carolina,SC,2020-03-31,['3/31'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/88876
+627,South Carolina,SC,2020-03-31,"['3/31', '4/6']",Non-Essential Business Closures,restricting,https://governor.sc.gov/sites/default/files/Documents/Executive-Orders/2020-04-06%20eFILED%20Executive%20Order%20No.%202020-21%20-%20Stay%20at%20Home%20or%20Work%20Order.pdf
+628,South Carolina,SC,2020-04-06,['4/6'],Stay At Home Order,restricting,https://governor.sc.gov/sites/default/files/Documents/Executive-Orders/2020-04-06%20eFILED%20Executive%20Order%20No.%202020-21%20-%20Stay%20at%20Home%20or%20Work%20Order.pdf
+629,South Carolina,SC,2020-04-20,['4/20'],Easing: Non-Essential Business Closures (announced 4/20),easing,https://governor.sc.gov/sites/default/files/Documents/Executive-Orders/2020-04-20%20eFILED%20Executive%20Order%20No.%202020-28%20-%20Modification%20of%20Restrictions%20for%20Public%20Beaches%20%26%20Waters%20%26%20Incremental%20Modification%20of%20Non-Essential%20Business%20Closures.pdf
+630,South Carolina,SC,2020-05-04,['5/4'],"Easing: Stay-At-Home Order, Mandatory Quarantine for Travelers, Restaurant Limits (announced 5/1)",easing,https://governor.sc.gov/news/2020-05/gov-henry-mcmaster-lift-work-or-home-order-may-4th
+631,South Carolina,SC,2020-05-11,['5/11'],Easing: Restaurant Limits (announced 5/8),easing,https://governor.sc.gov/sites/default/files/Documents/Executive-Orders/2020-05-08%20eFILED%20Executive%20Order%20No.%202020-34%20-%20Authorization%20of%20Limited%20Indoor%20Dining%20Services%20%26%20Rescission%20of%20Boating%20Restrictions.pdf
+632,South Carolina,SC,2020-05-18,['5/18'],Easing: Non-Essential Business Closures (announced 5/15),easing,https://governor.sc.gov/sites/default/files/Documents/Executive-Orders/2020-05-15%20FILED%20Executive%20Order%20No.%202020-36%20-%20Additional%20Incremental%20Modification%20of%20Non-Essential%20Business%20Closures.pdf
+633,South Carolina,SC,2020-05-22,['5/22'],Easing: Non-Essential Business Closures (announced 5/20),easing,https://governor.sc.gov/sites/default/files/Documents/2020-05-21%20eFILED%20Executive%20Order%20No.%202020-37%20-%20Additional%20Modification%20of%20Non-Essential%20Business%20Closures.pdf
+634,South Carolina,SC,2020-07-11,['7/11'],Easing: Bar Closures,easing,https://governor.sc.gov/sites/default/files/Documents/2020-07-11%20eFILED%20Executive%20Order%20No.%202020-45%20-%20Temporary%20Restrictions%20re%20Alcoholic%20Beverages%20at%20Restaurants%20%26%20Bars.pdf
+635,South Carolina,SC,2020-08-03,['8/3'],"Easing: Non-Essential Business Closures, Restaurant Limits (lifted)",easing,https://governor.sc.gov/sites/default/files/Documents/2020-07-26%20FINAL%20Executive%20Order%20No.%202020-48%20-%20State%20of%20Emergency.pdf
+636,South Carolina,SC,2020-10-02,['10/2'],Easing: Restaurant Limits,easing,https://governor.sc.gov/sites/default/files/Documents/Executive-Orders/2020-10-02%20FINAL%20Executive%20Order%20No.%202020-63%20-%20Amending%20%26%20Consolidating%20Emergency%20Measures.pdf
+637,South Dakota,SD,2020-03-13,"['3/13', '3/26', '4/10', '5/26', '7/7']",Emergency Declaration,restricting,https://sdsos.gov/general-information/executive-actions/executive-orders/assets/2020-30.PDF
+638,South Dakota,SD,2020-03-16,"['3/16', '3/24', '4/6']",School Closures,restricting,https://twitter.com/sddoe/status/1247242924938735623
+639,South Dakota,SD,2020-03-23,"['3/23', '4/6']",Large Gatherings Ban,restricting,
+640,South Dakota,SD,2020-03-24,['3/24'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54047
+641,South Dakota,SD,2020-04-28,['4/28'],Easing: Large Gathering Ban (announced 4/28),easing,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54047
+642,Tennessee,TN,2020-03-12,"['3/12', '5/6', '6/29', '9/30', '10/30']",Emergency Declaration,restricting,
+643,Tennessee,TN,2020-03-20,"['3/20', '3/24', '4/15']",School Closures,restricting,https://www.tn.gov/governor/covid-19/covid-19-daily-bulletin/2020/4/15/covid-19-bulletin–9—april-15–2020.html
+644,Tennessee,TN,2020-03-23,"['3/23', '4/13']","Large Gatherings Ban, Restaurant Limits",restricting,https://publications.tnsosfiles.com/pub/execorders/exec-orders-lee27.pdf
+645,Tennessee,TN,2020-03-31,"['3/31', '4/13']",Stay At Home Order/Non-Essential Business Closures,restricting,
+646,Tennessee,TN,2020-03-31,['3/31'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/88881
+647,Tennessee,TN,2020-07-03,"['7/3', '9/30']",Face Covering Requirement,restricting,
+648,Tennessee,TN,2020-04-29,['4/29'],"Easing: Stay At Home Order, Non-Essential Business Closures, Restaurant Limits (announced 4/28)",easing,
+649,Tennessee,TN,2020-05-22,['5/22'],"Easing: Non-Essential Business Closures, Restaurant Limits, Large Gatherings Ban (announced 5/22)",easing,
+650,Texas,TX,2020-03-13,"['3/13', '4/12', '5/12', '6/11', '7/10', '9/7']",Emergency Declaration,restricting,https://gov.texas.gov/uploads/files/press/DISASTER_renewing_covid19_disaster_proclamation_IMAGE_09-07-2020.pdf
+651,Texas,TX,2020-03-19,"['3/19', '3/31']","Large Gatherings Ban, Restaurant Limits",restricting,https://gov.texas.gov/news/post/governor-abbott-issues-executive-order-implements-statewide-essential-services-and-activities-protocols
+652,Texas,TX,2020-03-20,"['3/20', '3/24', '3/31', '4/17']",School Closures,restricting,
+653,Texas,TX,2020-03-19,['3/19'],Non-Essential Business Closures,restricting,
+654,Texas,TX,2020-03-30,"['3/30', '4/27']",Mandatory Quarantine for Travelers,restricting,
+655,Texas,TX,2020-03-30,['3/30'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/88806
+656,Texas,TX,2020-04-02,['4/2'],Stay At Home Order,restricting,
+657,Texas,TX,2020-06-24,"['6/24', '7/2']",Face Covering Requirement,restricting,
+658,Texas,TX,2020-05-01,['5/1'],"Easing: Restaurant Limits, Large Gatherings Ban (announced 4/27)",easing,
+659,Texas,TX,2020-05-21,['5/21'],Easing: Mandatory Quarantine for Travelers (announced 5/21),easing,
+660,Texas,TX,2020-05-08,"['5/8', '5/22', '5/26', '6/3', '6/29', '9/21', '10/14']",Easing: Non-Essential Business Closures (announced 5/5),easing,
+661,Texas,TX,2020-06-26,"['6/26', '9/21', '10/14']","Easing: Bar Closures, Large Gatherings Ban,  Restaurant Limits  (announced 6/26)",easing,
+662,Utah,UT,2020-03-06,"['3/6', '8/20', '9/21', '11/9']",Emergency Declaration,restricting,https://coronavirus-download.utah.gov/Governor/EO-2020-72-state-of-emergency-covid-19.pdf
+663,Utah,UT,2020-03-16,"['3/16', '3/24', '4/14']",School Closures,restricting,https://twitter.com/GovHerbert/status/1250147935880220673
+664,Utah,UT,2020-03-18,"['3/18', '4/1']",Large Gatherings Ban,restricting,https://drive.google.com/file/d/1PH2tbSfCvKjtw7LG1PgqhPclCaqiu-q6/view
+665,Utah,UT,2020-03-18,"['3/18', '4/1', '4/14']",Restaurant Limits,restricting,https://twitter.com/GovHerbert/status/1250146981252485121
+666,Utah,UT,2020-03-27,['3/27'],Stay At Home Order,restricting,https://drive.google.com/file/d/1Qey2xIxAEqIxiiAHJyHSxBosmjetkbN7/view
+667,Utah,UT,2020-03-27,"['3/27', '4/10']",Mandatory Quarantine for Travelers,restricting,https://drive.google.com/file/d/1Ypzr9sM2b0XAqKYhR37aUkZMlmM-_5av/view
+668,Utah,UT,2020-04-10,['4/10'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/92206
+669,Utah,UT,2020-04-29,"['4/29', '6/29', '7/10', '7/17', '7/23', '7/27', '8/14', '8/20', '9/4', '9/11']",Face Covering Requirement,restricting,
+670,Utah,UT,2020-05-01,['5/1'],Easing: Stay At Home Order  (announced 4/29),easing,https://drive.google.com/file/d/1xcR8cszh7ATSZY2Y2NeCkzo5mV4gD3qj/view
+671,Utah,UT,2020-05-01,"['5/1', '5/28']","Easing: Mandatory Quarantine for Travelers,  Restaurant Limits, Large Gatherings Ban  (announced 4/29)",easing,
+672,Utah,UT,2020-05-01,"['5/1', '5/16', '5/22', '5/29', '6/5', '6/19', '6/29', '7/10', '7/17', '7/27', '8/14', '8/20', '9/4', '9/11', '9/16']",Easing: Large Gatherings Ban  (announced 5/22),easing,
+673,Utah,UT,2020-11-09,"['11/9', '11/12']","Easing: Large Gatherings Ban, Face Covering Requirement",easing,
+674,Vermont,VT,2020-03-13,"['3/13', '4/10', '5/15', '6/15', '7/15', '8/8', '8/14', '9/11', '10/15', '11/14']",Emergency Declaration,restricting,https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%208%20TO%20AMENDED%20AND%20RESTATED%20EXECUTIVE%20ORDER%2001-20.pdf
+675,Vermont,VT,2020-03-18,"['3/18', '3/26']",School Closures,restricting,https://governor.vermont.gov/press-release/governor-phil-scott-dismisses-schools-person-instruction-remainder-2019-2020-school
+676,Vermont,VT,2020-03-17,"['3/17', '5/15']",Restaurant Limits,restricting,https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%2014%20TO%20EXECUTIVE%20ORDER%2001-20.pdf
+677,Vermont,VT,2020-03-20,['3/20'],Marketplace SEP,restricting,https://dvha.vermont.gov/covid-19
+678,Vermont,VT,2020-03-24,"['3/24', '4/10', '5/7', '5/15']",Stay At Home Order/Non-Essential Business Closures/ Large Gatherings Ban,restricting,
+679,Vermont,VT,2020-03-30,['3/30'],Mandatory Quarantine for Travelers,restricting,https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%207%20TO%20EXECUTIVE%20ORDER%2001-20.pdf
+680,Vermont,VT,2020-03-30,['3/30'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/88796
+681,Vermont,VT,2020-06-01,"['6/1', '8/1', '9/11']",Face Covering Requirement,restricting,
+682,Vermont,VT,2020-04-20,['4/20'],Easing: Non-Essential Business Closures(announced 4/17),easing,
+683,Vermont,VT,2020-05-15,['5/15'],Easing: Stay At Home Order (announced 5/15),easing,
+684,Vermont,VT,2020-05-22,"['5/22', '9/18']",Easing: Restaurant Limits (announced 5/22),easing,
+685,Vermont,VT,2020-06-01,"['6/1', '6/26']","Easing: Large Gatherings Ban, Non-Essential Business Closures (announced 5/29)",easing,
+686,Vermont,VT,2020-06-08,['6/8'],"Easing: Mandatory Quarantine for Travelers,  Restaurant Limits   (announced 6/5)",easing,
+687,Vermont,VT,2020-07-01,"['7/1', '9/18', '11/110']",Easing: Mandatory Quarantine for Travelers (announced 6/26),easing,
+688,Vermont,VT,2020-11-14,['11/14'],"Easing: Restaurant Limits, Bar Closures, Large Gatherings Ban (announced 11/13)",easing,
+689,Virginia,VA,2020-03-12,"['3/12', '3/26']",Emergency Declaration,restricting,https://www.governor.virginia.gov/media/governorvirginiagov/executive-actions/EO-51-AMENDED-Declaration-of-a-State-of-Emergency-Due-to-Novel-Coronavirus-(COVID-19).pdf
+690,Virginia,VA,2020-03-16,"['3/16', '3/23', '3/30']",School Closures,restricting,
+691,Virginia,VA,2020-03-24,"['3/24', '4/15']","Non-Essential Business Closures, Large Gatherings Ban, Restaurant Limits",restricting,https://www.governor.virginia.gov/newsroom/all-releases/2020/april/headline-856145-en.html
+692,Virginia,VA,2020-03-23,['3/23'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54035
+693,Virginia,VA,2020-03-30,['3/30'],Stay At Home Order,restricting,https://www.governor.virginia.gov/media/governorvirginiagov/executive-actions/EO-55-Temporary-Stay-at-Home-Order-Due-to-Novel-Coronavirus-(COVID-19).pdf
+694,Virginia,VA,2020-04-13,['4/13'],Primary Election Postponement (local),restricting,
+695,Virginia,VA,2020-05-26,"['5/26', '8/21']",Face Covering Requirement,restricting,
+696,Virginia,VA,2020-05-15,['5/15'],"Easing: Non-Essential Business Closures, Restaurant Limits  ( announced 5/8)",easing,
+697,Virginia,VA,2020-06-05,"['6/5', '7/1', '8/21', '10/29', '11/5']","Easing: Non-Essential Business Closures, Restaurant Limits, Large Gatherings Ban (announced 6/4)",easing,
+698,Virginia,VA,2020-11-13,['11/13'],"Easing: Face Covering Requirement,   Bar Closures, Restaurant Limits, Large Gatherings Ban (announced 7/23)",easing,
+699,Washington,WA,2020-02-29,"['2/29', '7/2']",Emergency Declaration,restricting,https://www.governor.wa.gov/sites/default/files/20-05%20Coronavirus%20%28final%29.pdf?utm_medium=email&utm_source=govdelivery
+700,Washington,WA,2020-03-05,"['3/5', '5/1', '6/3', '7/2', '7/29']","Early Rx Refill, Waive Prior Auth",restricting,https://www.insurance.wa.gov/sites/default/files/documents/emergency-order-number-20-01.pdf  ;  https://www.governor.wa.gov/sites/default/files/proclamations/20-06%20Coronavirus%20%28tmp%29.pdf?utm_medium=email&utm_source=govdelivery ;  https://www.insurance.wa.gov/news/kreidler-extends-emergency-order-30-days-waiving-deductibles-and-copays-coronavirus-testing ;  https://www.insurance.wa.gov/news/kreidler-extends-emergency-order-july-3-waiving-deductibles-and-copays-coronavirus-testin g;  https://cv.nmhealth.org/wp-content/uploads/2020/07/Executive-Order-2020-054-2.pd f
+701,Washington,WA,2020-03-10,"['3/10', '4/1']",Marketplace SEP,restricting,https://www.wahbexchange.org/washington-healthplanfinder-extends-current-special-enrollment-period-gives-extra-month-for-uninsured-to-secure-health-coverage/
+702,Washington,WA,2020-03-15,['3/15'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54022
+703,Washington,WA,2020-03-17,"['3/17', '4/6']",School Closures,restricting,https://www.governor.wa.gov/sites/default/files/20-09.1%20-%20COVID-19%20School%20Closure%20Extension.pdf?utm_medium=email&utm_source=govdelivery
+704,Washington,WA,2020-03-16,"['3/16', '3/23']",Large Gatherings Ban,restricting,https://www.governor.wa.gov/sites/default/files/proclamations/20-25%20Coronovirus%20Stay%20Safe-Stay%20Healthy%20%28tmp%29%20%28002%29.pdf
+705,Washington,WA,2020-03-16,['3/16'],Restaurant Limits,restricting,https://www.governor.wa.gov/news-media/inslee-statement-statewide-shutdown-restaurants-bars-and-limits-size-gatherings-expanded
+706,Washington,WA,2020-03-23,"['3/23', '4/2', '5/4']",Stay At Home Order/Non-Essential Business Closures,restricting,
+707,Washington,WA,2020-03-24,['3/24'],Premium Grace Period,restricting,https://www.insurance.wa.gov/sites/default/files/documents/emergency-order-20-02_3.pdf ;  expired 5/23:  https://www.insurance.wa.gov/sites/default/files/documents/emergency-order-20-02-extension.pdf
+708,Washington,WA,2020-10-15,['10/15'],,restricting,https://www.insurance.wa.gov/sites/default/files/documents/final-emergency-order-20-02-sixth-extension.pdf
+709,Washington,WA,2020-06-26,"['6/26', '7/25']",Face Covering Requirement,restricting,
+710,Washington,WA,2020-05-11,"['5/11', '5/28']","Easing: Restaurant Limits, Large Gatherings Ban ( announced 5/11)",easing,https://www.governor.wa.gov/news-media/inslee-issues-guidance-partially-resuming-dine-restaurant-and-tavern-industry-phase-2
+711,Washington,WA,2020-05-14,"['5/14', '6/3', '6/5', '6/27', '10/6']",Easing: Non-Essential Business Closures (announced 5/14),easing,
+712,Washington,WA,2020-07-20,['7/20'],Easing: Large Gatherings Ban (announced 7/16),easing,
+713,Washington,WA,2020-07-31,"['7/31', '10/6']","Easing: Bar Closures, Restaurant Limits, Large Gatherings Ban (announced 7/23)",easing,
+714,Washington,WA,2020-11-16,['11/16'],"Easing: Non-Essential Business Closures, Restaurant Limits, Bar Closures,  Large Gathering Ban",easing,
+715,West Virginia,WV,2020-03-04,['3/4'],Preparedness Proclamation,restricting,https://governor.wv.gov/Documents/SKM_C45820030417010.pdf
+716,West Virginia,WV,2020-03-13,['3/13'],Early Rx Refill,restricting,https://www.wvinsurance.gov/Portals/0/pdf/20-05_Prescription_Refill_Bulletin.pdf?ver=2020-03-14-144759-5 ;  https://www.wvinsurance.gov/Portals/0/pdf/WestVirginiaInsuranceBulletinNo.2020-01.pdf?ver=2020-03-09-163536-04390
+717,West Virginia,WV,2020-03-13,"['3/13', '3/25', '4/21']",School Closures,restricting,https://governor.wv.gov/News/press-releases/2020/Pages/COVID-19-UPDATE-Gov.-Justice-announces-West-Virginia-schools-to-remain-closed-for-rest-of-academic-year.aspx
+718,West Virginia,WV,2020-03-17,"['3/17', '3/23']",Restaurant Limits,restricting,https://www.wvinsurance.gov/Portals/0/pdf/pressrelease/WVStayHomeOrder.pdf?ver=2020-03-23-152606-773
+719,West Virginia,WV,2020-03-18,"['3/18', '3/26']",Premium Grace Period,restricting,https://www.wvinsurance.gov/Portals/0/pdf/pressrelease/20-07%20COVID-19%20Regulatory%20Guidance.pdf?ver=2020-03-26-195235-360 ;
+720,West Virginia,WV,2020-03-24,['3/24'],Stay At Home Order/Non-Essential Business Closures,restricting,
+721,West Virginia,WV,2020-03-24,"['3/24', '4/4']",Large Gatherings Ban,restricting,
+722,West Virginia,WV,2020-03-30,['3/30'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/88791
+723,West Virginia,WV,2020-04-01,['4/1'],Primary Election Postponement,restricting,
+724,West Virginia,WV,2020-05-18,"['5/18', '7/7', '8/21', '11/14']",Face Covering Requirement,restricting,
+725,West Virginia,WV,2020-05-04,['5/4'],"Easing: Stay At Home Order, Non-Essential Business Closures,  Restaurant Limits, Large Gatherings Ban (announced 4/30)",easing,https://governor.wv.gov/Documents/2020%20Executive%20Orders/Executive-Order-April-30-2020-Safer-At-Home-Order.pdf
+726,West Virginia,WV,2020-05-04,"['5/4', '5/11', '5/21', '5/26', '5/30']","Easing: Non-Essential Business Closures, Restaurant Limits,  Mandatory Quarantine for Travelers  (announced 5/19)",easing,
+727,West Virginia,WV,2020-06-05,"['6/5', '6/10']","Easing: Non-Essential Business Closures, Large Gathering Ban (announced 6/4)",easing,
+728,West Virginia,WV,2020-07-14,"['7/14', '9/16']",Easing: Large Gathering Ban (announced 7/13),easing,
+729,Wisconsin,WI,2020-03-12,"['3/12', '8/1', '9/22']",Public Health Emergency,restricting,https://content.govdelivery.com/attachments/WIGOV/2020/09/22/file_attachments/1552234/EO090-DeclaringPublicHealthEmergency.pdf
+730,Wisconsin,WI,2020-03-17,"['3/17', '3/20', '3/24', '4/6', '4/16']","Large Gatherings Ban, Restaurant Limits",restricting,https://content.govdelivery.com/attachments/WIGOV/2020/04/16/file_attachments/1428995/EMO28-SaferAtHome.pdf :
+731,Wisconsin,WI,2020-03-18,"['3/18', '3/20', '4/16']",School Closures,restricting,
+732,Wisconsin,WI,2020-03-25,"['3/25', '4/16']",Stay At Home Order/Non-Essential Business Closures,restricting,
+733,Wisconsin,WI,2020-04-20,['4/20'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/97716
+734,Wisconsin,WI,2020-08-01,"['8/1', '9/22']",Face Covering Requirement,restricting,
+735,Wisconsin,WI,2020-04-24,"['4/24', '5/11', '5/13']",Easing: Non-Essential Business Closures (announced 4/16),easing,
+736,Wisconsin,WI,2020-05-13,['5/13'],"Easing: Stay At Home Order,  Large Gatherings Ban, Restaurant Limits  (announced 5/13)",easing,
+737,Wisconsin,WI,2020-10-08,"['10/8', '10/14']",Easing: Large Gatherings Ban (announced 10/6),easing,
+738,Wyoming,WY,2020-03-13,['3/13'],"Emergency Declaration, Public Health Emergency",restricting,https://drive.google.com/file/d/19mX3feCje2NKRrKi_GPiKvwcckGVoVBh/view
+739,Wyoming,WY,2020-03-20,"['3/20', '3/27', '4/3', '4/28', '5/13']","School Closures, Restaurant Limits",restricting,https://drive.google.com/file/d/1LOAj8puy0LomGsPLbAmBuGPQTJ90A51b/view
+740,Wyoming,WY,2020-03-21,"['3/21', '3/27', '4/3', '4/28']",Large Gatherings Ban,restricting,
+741,Wyoming,WY,2020-03-27,['3/27'],Section 1135 Waiver,restricting,https://www.medicaid.gov/state-resource-center/disaster-response-toolkit/federal-disaster-resources/?entry=54070
+742,Wyoming,WY,2020-04-03,"['4/3', '4/29', '7/20']",Mandatory Quarantine for Travelers,restricting,
+743,Wyoming,WY,2020-06-15,"['6/15', '8/1', '8/16', '9/1', '10/16', '11/1', '11/16']",Face Covering Requirement,restricting,
+744,Wyoming,WY,2020-05-15,"['5/15', '6/1']",Easing: Restaurant Limits  (announced 5/13),easing,
+745,Wyoming,WY,2020-06-15,"['6/15', '7/1', '7/16', '8/1', '8/16', '9/1', '9/16', '10/1', '10/16', '11/1', '11/16']","Easing: School Closures, Restaurant Limits (announced 6/10)",easing,
+746,Wyoming,WY,2020-05-15,"['5/15', '6/1', '6/15', '7/1', '7/16', '8/1', '8/16', '9/1', '9/16', '10/1', '10/16', '11/1', '11/16']",Easing: Large Gatherings Ban (announced 5/13),easing,
 0,US,US,2012-01-02,,New Year Day,holiday,
 1,US,US,2012-01-16,,Martin Luther King Jr. Day,holiday,
 2,US,US,2012-02-20,,Presidents Day (Washingtons Birthday),holiday,
