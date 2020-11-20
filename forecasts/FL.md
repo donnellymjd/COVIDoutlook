@@ -23,18 +23,18 @@ statecode: FL
   </thead>
   <tbody>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>21,477,737</td>
-      <td>105,882</td>
-      <td>1.11<span style="color: red"> 🟥</span></td>
-      <td>55<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>892,352</td>
-      <td>5,864.0<span style="color: red">▲</span></td>
-      <td>17.9%<span style="color: red">▲</span></td>
-      <td>17,949</td>
-      <td>58.4<span style="color: #ffcc00">▶</span></td>
-      <td>3,352<span style="color: red">▲</span></td>
-      <td>200.29<span style="color: #ffcc00">▶</span></td>
+      <td>105,946</td>
+      <td>1.10<span style="color: red"> 🟥</span></td>
+      <td>60<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>901,234</td>
+      <td>6,061.3<span style="color: red">▲</span></td>
+      <td>18.3%<span style="color: red">▲</span></td>
+      <td>18,030</td>
+      <td>61.4<span style="color: red">▲</span></td>
+      <td>3,380<span style="color: red">▲</span></td>
+      <td>203.50<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

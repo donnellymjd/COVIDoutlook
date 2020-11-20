@@ -23,18 +23,18 @@ statecode: OR
   </thead>
   <tbody>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>4,217,737</td>
-      <td>8,958</td>
-      <td>1.11<span style="color: red"> 🟥</span></td>
-      <td>102<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>59,669</td>
-      <td>901.4<span style="color: red">▲</span></td>
-      <td>13.4%<span style="color: red">▲</span></td>
-      <td>788</td>
-      <td>5.9<span style="color: #ffcc00">▶</span></td>
-      <td>484<span style="color: red">▲</span></td>
-      <td>41.14<span style="color: red">▲</span></td>
+      <td>9,145</td>
+      <td>1.12<span style="color: red"> 🟥</span></td>
+      <td>92<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>60,873</td>
+      <td>931.0<span style="color: red">▲</span></td>
+      <td>13.5%<span style="color: red">▲</span></td>
+      <td>808</td>
+      <td>7.0<span style="color: red">▲</span></td>
+      <td>497<span style="color: red">▲</span></td>
+      <td>42.93<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
