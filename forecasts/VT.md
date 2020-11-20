@@ -23,11 +23,11 @@ statecode: VT
   </thead>
   <tbody>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>623,989</td>
-      <td>1,911</td>
+      <td>2,082</td>
       <td>1.75<span style="color: red"> 🟥</span></td>
-      <td>27<span style="color: red"> 🟥</span></td>
+      <td>26<span style="color: red"> 🟥</span></td>
       <td>3,310</td>
       <td>71.9<span style="color: red">▲</span></td>
       <td>7.4%<span style="color: red">▲</span></td>

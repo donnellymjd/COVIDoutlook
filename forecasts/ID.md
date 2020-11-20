@@ -25,7 +25,7 @@ statecode: ID
     <tr>
       <td>36</td>
       <td>1,787,065</td>
-      <td>7,833</td>
+      <td>7,895</td>
       <td>1.04<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>120+<span style="color: green"> 🟢</span></td>
       <td>86,435</td>

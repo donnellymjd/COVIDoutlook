@@ -25,9 +25,9 @@ statecode: OR
     <tr>
       <td>48</td>
       <td>4,217,737</td>
-      <td>9,145</td>
+      <td>9,322</td>
       <td>1.12<span style="color: red"> 🟥</span></td>
-      <td>91<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>90<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>60,873</td>
       <td>931.0<span style="color: red">▲</span></td>
       <td>13.5%<span style="color: red">▲</span></td>

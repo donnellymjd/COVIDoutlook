@@ -25,9 +25,9 @@ statecode: OK
     <tr>
       <td>6</td>
       <td>3,956,971</td>
-      <td>46,726</td>
+      <td>49,109</td>
       <td>1.37<span style="color: red"> 🟥</span></td>
-      <td>23<span style="color: red"> 🟥</span></td>
+      <td>22<span style="color: red"> 🟥</span></td>
       <td>164,340</td>
       <td>2,461.9<span style="color: red">▲</span></td>
       <td>15.9%<span style="color: red">▲</span></td>

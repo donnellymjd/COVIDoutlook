@@ -25,9 +25,9 @@ statecode: AZ
     <tr>
       <td>32</td>
       <td>7,278,717</td>
-      <td>36,422</td>
+      <td>37,008</td>
       <td>1.09<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>77<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>76<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>287,225</td>
       <td>2,461.2<span style="color: red">▲</span></td>
       <td>15.8%<span style="color: red">▲</span></td>

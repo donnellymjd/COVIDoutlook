@@ -25,7 +25,7 @@ statecode: SD
     <tr>
       <td>10</td>
       <td>884,659</td>
-      <td>8,298</td>
+      <td>8,351</td>
       <td>1.03<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>120+<span style="color: green"> 🟢</span></td>
       <td>69,742</td>
