@@ -27,7 +27,7 @@ statecode: AL
       <td>4,903,185</td>
       <td>25,792</td>
       <td>1.03<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>86<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>120+<span style="color: green"> 🟢</span></td>
       <td>225,910</td>
       <td>1,910.9<span style="color: red">▲</span></td>
       <td>21.5%<span style="color: #ffcc00">▶</span></td>

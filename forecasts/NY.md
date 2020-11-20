@@ -27,7 +27,7 @@ statecode: NY
       <td>19,453,561</td>
       <td>60,277</td>
       <td>1.31<span style="color: red"> 🟥</span></td>
-      <td>43<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>53<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>579,382</td>
       <td>4,326.4<span style="color: red">▲</span></td>
       <td>2.8%<span style="color: #ffcc00">▶</span></td>

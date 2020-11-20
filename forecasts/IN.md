@@ -27,7 +27,7 @@ statecode: IN
       <td>6,732,219</td>
       <td>114,567</td>
       <td>1.18<span style="color: red"> 🟥</span></td>
-      <td>-4<span style="color: red"> 🟥</span></td>
+      <td>29<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>275,503</td>
       <td>5,666.2<span style="color: red">▲</span></td>
       <td>32.0%<span style="color: red">▲</span></td>

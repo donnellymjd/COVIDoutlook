@@ -27,7 +27,7 @@ statecode: DC
       <td>705,749</td>
       <td>5,787</td>
       <td>1.28<span style="color: red"> 🟥</span></td>
-      <td>22<span style="color: red"> 🟥</span></td>
+      <td>32<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>19,678</td>
       <td>142.6<span style="color: red">▲</span></td>
       <td>3.0%<span style="color: #ffcc00">▶</span></td>

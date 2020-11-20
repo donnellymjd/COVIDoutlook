@@ -27,7 +27,7 @@ statecode: WI
       <td>5,822,434</td>
       <td>59,803</td>
       <td>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>21<span style="color: red"> 🟥</span></td>
+      <td>65<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>358,113</td>
       <td>6,753.0<span style="color: red">▲</span></td>
       <td>36.0%<span style="color: red">▲</span></td>

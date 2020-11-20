@@ -27,7 +27,7 @@ statecode: MO
       <td>6,137,428</td>
       <td>41,678</td>
       <td>1.17<span style="color: red"> 🟥</span></td>
-      <td>16<span style="color: red"> 🟥</span></td>
+      <td>66<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>257,822</td>
       <td>4,374.7<span style="color: red">▲</span></td>
       <td>39.3%<span style="color: green">▼</span></td>

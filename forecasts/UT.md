@@ -27,7 +27,7 @@ statecode: UT
       <td>3,205,958</td>
       <td>14,880</td>
       <td>1.09<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>61<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>89<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>165,996</td>
       <td>2,978.9<span style="color: red">▲</span></td>
       <td>28.4%<span style="color: red">▲</span></td>

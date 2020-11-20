@@ -27,7 +27,7 @@ statecode: WV
       <td>1,792,147</td>
       <td>9,203</td>
       <td>1.18<span style="color: red"> 🟥</span></td>
-      <td>40<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>63<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>37,399</td>
       <td>775.1<span style="color: red">▲</span></td>
       <td>6.8%<span style="color: red">▲</span></td>

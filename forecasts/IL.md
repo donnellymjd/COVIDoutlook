@@ -27,7 +27,7 @@ statecode: IL
       <td>12,671,821</td>
       <td>207,671</td>
       <td>1.09<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>-6<span style="color: red"> 🟥</span></td>
+      <td>39<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>621,383</td>
       <td>11,973.8<span style="color: red">▲</span></td>
       <td>12.4%<span style="color: red">▲</span></td>

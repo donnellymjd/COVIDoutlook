@@ -27,7 +27,7 @@ statecode: SD
       <td>884,659</td>
       <td>8,298</td>
       <td>1.03<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>0<span style="color: red"> 🟥</span></td>
+      <td>120+<span style="color: green"> 🟢</span></td>
       <td>69,742</td>
       <td>1,327.9<span style="color: red">▲</span></td>
       <td>54.5%<span style="color: red">▲</span></td>

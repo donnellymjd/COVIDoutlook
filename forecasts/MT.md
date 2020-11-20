@@ -27,7 +27,7 @@ statecode: MT
       <td>1,068,778</td>
       <td>7,407</td>
       <td>1.13<span style="color: red"> 🟥</span></td>
-      <td>15<span style="color: red"> 🟥</span></td>
+      <td>74<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>51,818</td>
       <td>1,060.7<span style="color: red">▲</span></td>
       <td>19.6%<span style="color: red">▲</span></td>

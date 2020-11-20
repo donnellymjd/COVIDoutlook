@@ -27,7 +27,7 @@ statecode: MI
       <td>9,986,857</td>
       <td>97,901</td>
       <td>1.17<span style="color: red"> 🟥</span></td>
-      <td>14<span style="color: red"> 🟥</span></td>
+      <td>33<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>311,041</td>
       <td>6,627.0<span style="color: red">▲</span></td>
       <td>11.1%<span style="color: red">▲</span></td>

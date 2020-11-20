@@ -27,7 +27,7 @@ statecode: MS
       <td>2,976,149</td>
       <td>26,601</td>
       <td>1.09<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>31<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>81<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>138,791</td>
       <td>1,064.6<span style="color: red">▲</span></td>
       <td>17.6%<span style="color: green">▼</span></td>
