@@ -5,10 +5,14 @@ banner: duotone5.png
 ---
 This data page, like the rest of the site, is brand new. Unfortunately, it's not fully functional yet. Please check back here soon for downloadable datasets of the forecasts and other data displayed on this website.
 
+### Data Sources
+ - 
+
 ### Reference Downloads (comma separated values)
  - [COVID-19 Related Policy Actions by State - Source: KFF.org](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_interventions.csv)
 
-### Forecast Downloads (comma separated values)
+### Our Forecasts (comma separated values)
+ - [Forecast published on November 21, 2020](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_fore_allstates_20201121.csv)
  - [Forecast published on November 20, 2020](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_fore_allstates_20201120.csv)
  - [Forecast published on November 19, 2020](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_fore_allstates_20201119.csv)
  - [Forecast published on November 18, 2020](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_fore_allstates_20201118.csv)

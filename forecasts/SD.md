@@ -25,16 +25,16 @@ statecode: SD
     <tr>
       <td>10</td>
       <td>884,659</td>
-      <td>8,351</td>
-      <td>1.03<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>120+<span style="color: green"> 🟢</span></td>
-      <td>69,742</td>
-      <td>1,327.9<span style="color: red">▲</span></td>
-      <td>54.5%<span style="color: red">▲</span></td>
-      <td>705</td>
-      <td>15.9<span style="color: red">▲</span></td>
-      <td>578<span style="color: red">▲</span></td>
-      <td>69.07<span style="color: red">▲</span></td>
+      <td>8,162</td>
+      <td><span style="color:transparent; font-size:0;">001.03</span>1.03<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
+      <td>71,070</td>
+      <td>1,316.5<span style="color: red">▲</span></td>
+      <td>53.1%<span style="color: red">▲</span></td>
+      <td>741</td>
+      <td>16.5<span style="color: red">▲</span></td>
+      <td>574<span style="color: red">▲</span></td>
+      <td>69.29<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

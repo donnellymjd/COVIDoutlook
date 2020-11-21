@@ -25,16 +25,16 @@ statecode: UT
     <tr>
       <td>35</td>
       <td>3,205,958</td>
-      <td>15,120</td>
-      <td>1.09<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>88<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>165,996</td>
-      <td>2,978.9<span style="color: red">▲</span></td>
-      <td>28.4%<span style="color: red">▲</span></td>
-      <td>756</td>
+      <td>14,855</td>
+      <td><span style="color:transparent; font-size:0;">001.11</span>1.11<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">075</span>75<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>170,584</td>
+      <td>3,093.2<span style="color: red">▲</span></td>
+      <td>28.7%<span style="color: red">▲</span></td>
+      <td>773</td>
       <td>8.9<span style="color: red">▲</span></td>
-      <td>553<span style="color: red">▲</span></td>
-      <td>98.93<span style="color: red">▲</span></td>
+      <td>554<span style="color: red">▲</span></td>
+      <td>102.00<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

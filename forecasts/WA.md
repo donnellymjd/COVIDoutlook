@@ -23,18 +23,18 @@ statecode: WA
   </thead>
   <tbody>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>7,614,893</td>
-      <td>21,811</td>
-      <td>1.22<span style="color: red"> 🟥</span></td>
-      <td>65<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>135,424</td>
-      <td>1,710.3<span style="color: red">▲</span></td>
-      <td>7.6%<span style="color: red">▲</span></td>
-      <td>2,592</td>
-      <td>12.6<span style="color: red">▲</span></td>
-      <td>651<span style="color: red">▲</span></td>
-      <td>63.36<span style="color: red">▲</span></td>
+      <td>19,892</td>
+      <td><span style="color:transparent; font-size:0;">001.16</span>1.16<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">082</span>82<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>137,411</td>
+      <td>1,775.8<span style="color: red">▲</span></td>
+      <td>7.9%<span style="color: red">▲</span></td>
+      <td>2,603</td>
+      <td>12.3<span style="color: #ffcc00">▶</span></td>
+      <td>715<span style="color: red">▲</span></td>
+      <td>62.07<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
