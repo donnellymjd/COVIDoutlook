@@ -25,15 +25,15 @@ statecode: WV
     <tr>
       <td>31</td>
       <td>1,792,147</td>
-      <td>9,595</td>
+      <td>10,036</td>
       <td><span style="color:transparent; font-size:0;">001.16</span>1.16<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">065</span>65<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>38,480</td>
-      <td>813.8<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">064</span>64<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>39,598</td>
+      <td>846.9<span style="color: red">▲</span></td>
       <td>6.8%<span style="color: red">▲</span></td>
-      <td>639</td>
-      <td>10.9<span style="color: red">▲</span></td>
-      <td>402<span style="color: red">▲</span></td>
+      <td>658</td>
+      <td>11.1<span style="color: red">▲</span></td>
+      <td>416<span style="color: red">▲</span></td>
       <td>0.00<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
