@@ -25,8 +25,8 @@ statecode: HI
     <tr>
       <td>50</td>
       <td>1,415,872</td>
-      <td>307</td>
-      <td><span style="color:transparent; font-size:0;">000.77</span>0.77<span style="color: green"> 🟢</span></td>
+      <td>785</td>
+      <td><span style="color:transparent; font-size:0;">001.02</span>1.02<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>17,483</td>
       <td>102.3<span style="color: #ffcc00">▶</span></td>

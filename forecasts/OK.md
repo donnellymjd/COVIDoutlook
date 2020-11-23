@@ -23,11 +23,11 @@ statecode: OK
   </thead>
   <tbody>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>3,956,971</td>
-      <td>45,167</td>
+      <td>48,812</td>
       <td><span style="color:transparent; font-size:0;">001.23</span>1.23<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">024</span>24<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">023</span>23<span style="color: red"> 🟥</span></td>
       <td>174,330</td>
       <td>2,719.4<span style="color: red">▲</span></td>
       <td>14.8%<span style="color: red">▲</span></td>

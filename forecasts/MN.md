@@ -25,7 +25,7 @@ statecode: MN
     <tr>
       <td>5</td>
       <td>5,639,632</td>
-      <td>72,599</td>
+      <td>71,784</td>
       <td><span style="color:transparent; font-size:0;">001.12</span>1.12<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">033</span>33<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>270,157</td>

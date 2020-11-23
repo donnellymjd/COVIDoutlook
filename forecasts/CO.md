@@ -23,11 +23,11 @@ statecode: CO
   </thead>
   <tbody>
     <tr>
-      <td>32</td>
+      <td>28</td>
       <td>5,758,736</td>
-      <td>30,222</td>
+      <td>37,411</td>
       <td><span style="color:transparent; font-size:0;">001.07</span>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td><span style="color:transparent; font-size:0;">106</span>106<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">093</span>93<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>198,600</td>
       <td>4,829.7<span style="color: red">▲</span></td>
       <td>24.2%<span style="color: red">▲</span></td>

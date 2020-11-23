@@ -25,7 +25,7 @@ statecode: IL
     <tr>
       <td>3</td>
       <td>12,671,821</td>
-      <td>192,648</td>
+      <td>186,574</td>
       <td><span style="color:transparent; font-size:0;">000.99</span>0.99<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>656,298</td>

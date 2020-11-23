@@ -25,7 +25,7 @@ statecode: WI
     <tr>
       <td>16</td>
       <td>5,822,434</td>
-      <td>52,579</td>
+      <td>55,084</td>
       <td><span style="color:transparent; font-size:0;">001.00</span>1.00<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>376,238</td>

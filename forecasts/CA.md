@@ -25,9 +25,9 @@ statecode: CA
     <tr>
       <td>34</td>
       <td>39,512,223</td>
-      <td>202,374</td>
+      <td>196,034</td>
       <td><span style="color:transparent; font-size:0;">001.28</span>1.28<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">029</span>29<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">030</span>30<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>1,102,033</td>
       <td>9,813.9<span style="color: red">▲</span></td>
       <td>5.5%<span style="color: red">▲</span></td>
