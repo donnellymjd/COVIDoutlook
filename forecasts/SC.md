@@ -25,7 +25,7 @@ statecode: SC
     <tr>
       <td>43</td>
       <td>5,148,714</td>
-      <td>17,531</td>
+      <td>17,490</td>
       <td><span style="color:transparent; font-size:0;">000.96</span>0.96<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>207,552</td>

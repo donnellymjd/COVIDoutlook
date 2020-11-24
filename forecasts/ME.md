@@ -25,7 +25,7 @@ statecode: ME
     <tr>
       <td>50</td>
       <td>1,344,212</td>
-      <td>1,464</td>
+      <td>1,451</td>
       <td><span style="color:transparent; font-size:0;">000.92</span>0.92<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>10,544</td>

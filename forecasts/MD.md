@@ -25,9 +25,9 @@ statecode: MD
     <tr>
       <td>20</td>
       <td>6,045,680</td>
-      <td>46,219</td>
+      <td>47,443</td>
       <td><span style="color:transparent; font-size:0;">001.17</span>1.17<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">027</span>27<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">026</span>26<span style="color: red"> 🟥</span></td>
       <td>183,797</td>
       <td>2,030.4<span style="color: red">▲</span></td>
       <td>14.2%<span style="color: red">▲</span></td>

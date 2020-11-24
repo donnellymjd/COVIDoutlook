@@ -25,9 +25,9 @@ statecode: PA
     <tr>
       <td>28</td>
       <td>12,801,989</td>
-      <td>86,377</td>
+      <td>89,326</td>
       <td><span style="color:transparent; font-size:0;">001.24</span>1.24<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">049</span>49<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">048</span>48<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>314,401</td>
       <td>5,721.8<span style="color: red">▲</span></td>
       <td>24.3%<span style="color: red">▲</span></td>

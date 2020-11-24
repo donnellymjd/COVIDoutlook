@@ -25,9 +25,9 @@ statecode: NC
     <tr>
       <td>38</td>
       <td>10,488,084</td>
-      <td>49,455</td>
+      <td>50,842</td>
       <td><span style="color:transparent; font-size:0;">001.19</span>1.19<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">051</span>51<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">050</span>50<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>339,194</td>
       <td>3,166.7<span style="color: red">▲</span></td>
       <td>7.6%<span style="color: #ffcc00">▶</span></td>

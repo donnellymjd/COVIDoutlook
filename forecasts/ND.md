@@ -25,7 +25,7 @@ statecode: ND
     <tr>
       <td>17</td>
       <td>762,062</td>
-      <td>6,783</td>
+      <td>6,912</td>
       <td><span style="color:transparent; font-size:0;">001.02</span>1.02<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>73,397</td>

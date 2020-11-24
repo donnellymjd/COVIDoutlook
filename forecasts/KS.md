@@ -25,7 +25,7 @@ statecode: KS
     <tr>
       <td>42</td>
       <td>2,913,314</td>
-      <td>11,881</td>
+      <td>12,038</td>
       <td><span style="color:transparent; font-size:0;">001.08</span>1.08<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>142,059</td>

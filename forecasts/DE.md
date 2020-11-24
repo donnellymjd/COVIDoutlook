@@ -25,9 +25,9 @@ statecode: DE
     <tr>
       <td>40</td>
       <td>973,764</td>
-      <td>4,263</td>
+      <td>4,361</td>
       <td><span style="color:transparent; font-size:0;">001.15</span>1.15<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">083</span>83<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">082</span>82<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>32,211</td>
       <td>378.8<span style="color: red">▲</span></td>
       <td>15.0%<span style="color: red">▲</span></td>

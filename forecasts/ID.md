@@ -25,9 +25,9 @@ statecode: ID
     <tr>
       <td>30</td>
       <td>1,787,065</td>
-      <td>11,889</td>
+      <td>12,203</td>
       <td><span style="color:transparent; font-size:0;">001.18</span>1.18<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">056</span>56<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">055</span>55<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>91,653</td>
       <td>1,335.1<span style="color: red">▲</span></td>
       <td>38.3%<span style="color: red">▲</span></td>

@@ -25,9 +25,9 @@ statecode: CT
     <tr>
       <td>29</td>
       <td>3,565,287</td>
-      <td>24,054</td>
+      <td>24,627</td>
       <td><span style="color:transparent; font-size:0;">001.16</span>1.16<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">062</span>62<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">061</span>61<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>106,740</td>
       <td>1,805.5<span style="color: red">▲</span></td>
       <td>5.5%<span style="color: red">▲</span></td>

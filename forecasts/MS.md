@@ -23,9 +23,9 @@ statecode: MS
   </thead>
   <tbody>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>2,976,149</td>
-      <td>34,332</td>
+      <td>34,572</td>
       <td><span style="color:transparent; font-size:0;">001.03</span>1.03<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>143,879</td>

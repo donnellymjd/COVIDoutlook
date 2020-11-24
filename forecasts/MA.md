@@ -25,9 +25,9 @@ statecode: MA
     <tr>
       <td>21</td>
       <td>6,892,503</td>
-      <td>52,692</td>
+      <td>53,364</td>
       <td><span style="color:transparent; font-size:0;">001.07</span>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td><span style="color:transparent; font-size:0;">108</span>108<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">107</span>107<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>208,623</td>
       <td>2,564.0<span style="color: red">▲</span></td>
       <td>11.7%<span style="color: red">▲</span></td>

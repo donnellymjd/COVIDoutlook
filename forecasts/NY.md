@@ -25,7 +25,7 @@ statecode: NY
     <tr>
       <td>47</td>
       <td>19,453,561</td>
-      <td>50,808</td>
+      <td>51,666</td>
       <td><span style="color:transparent; font-size:0;">001.10</span>1.10<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>602,120</td>
