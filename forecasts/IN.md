@@ -25,16 +25,16 @@ statecode: IN
     <tr>
       <td>1</td>
       <td>6,732,219</td>
-      <td>116,334</td>
-      <td><span style="color:transparent; font-size:0;">001.12</span>1.12<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">035</span>35<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>295,357</td>
-      <td>6,070.2<span style="color: red">▲</span></td>
+      <td>113,636</td>
+      <td><span style="color:transparent; font-size:0;">001.10</span>1.10<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">041</span>41<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>300,913</td>
+      <td>6,171.7<span style="color: red">▲</span></td>
       <td>32.3%<span style="color: red">▲</span></td>
-      <td>5,305</td>
-      <td>48.3<span style="color: red">▲</span></td>
-      <td>3,144<span style="color: red">▲</span></td>
-      <td>336.00<span style="color: red">▲</span></td>
+      <td>5,332</td>
+      <td>47.7<span style="color: red">▲</span></td>
+      <td>3,219<span style="color: red">▲</span></td>
+      <td>342.00<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
