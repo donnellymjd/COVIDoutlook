@@ -23,18 +23,18 @@ statecode: RI
   </thead>
   <tbody>
     <tr>
-      <td>26</td>
+      <td>23</td>
       <td>1,059,361</td>
-      <td>7,477</td>
+      <td>7,718</td>
       <td><span style="color:transparent; font-size:0;">001.03</span>1.03<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td><span style="color:transparent; font-size:0;">100</span>100<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>51,424</td>
-      <td>901.9<span style="color: red">▲</span></td>
-      <td>26.4%<span style="color: red">▲</span></td>
-      <td>1,325</td>
-      <td>6.3<span style="color: red">▲</span></td>
-      <td>323<span style="color: red">▲</span></td>
-      <td>45.07<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">090</span>90<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>52,317</td>
+      <td>895.8<span style="color: red">▲</span></td>
+      <td>28.6%<span style="color: red">▲</span></td>
+      <td>1,335</td>
+      <td>6.6<span style="color: red">▲</span></td>
+      <td>357<span style="color: red">▲</span></td>
+      <td>47.86<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
