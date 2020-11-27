@@ -25,16 +25,16 @@ statecode: TN
     <tr>
       <td>22</td>
       <td>6,829,174</td>
-      <td>50,946</td>
-      <td><span style="color:transparent; font-size:0;">001.02</span>1.02<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>50,890</td>
+      <td><span style="color:transparent; font-size:0;">001.00</span>1.00<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>347,972</td>
-      <td>3,899.4<span style="color: red">▲</span></td>
-      <td>14.3%<span style="color: red">▲</span></td>
-      <td>4,466</td>
-      <td>50.4<span style="color: red">▲</span></td>
-      <td>2,413<span style="color: red">▲</span></td>
-      <td>65.64<span style="color: red">▲</span></td>
+      <td>352,376</td>
+      <td>3,975.1<span style="color: red">▲</span></td>
+      <td>14.1%<span style="color: red">▲</span></td>
+      <td>4,519</td>
+      <td>52.2<span style="color: red">▲</span></td>
+      <td>2,427<span style="color: red">▲</span></td>
+      <td>71.43<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
