@@ -25,16 +25,16 @@ statecode: NM
     <tr>
       <td>3</td>
       <td>2,096,829</td>
-      <td>30,889</td>
-      <td><span style="color:transparent; font-size:0;">001.26</span>1.26<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">024</span>24<span style="color: red"> 🟥</span></td>
-      <td>91,852</td>
-      <td>2,131.9<span style="color: red">▲</span></td>
-      <td>17.2%<span style="color: red">▲</span></td>
-      <td>1,504</td>
-      <td>21.9<span style="color: red">▲</span></td>
-      <td>874<span style="color: red">▲</span></td>
-      <td>76.43<span style="color: red">▲</span></td>
+      <td>28,782</td>
+      <td><span style="color:transparent; font-size:0;">001.18</span>1.18<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">031</span>31<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>93,982</td>
+      <td>2,200.8<span style="color: red">▲</span></td>
+      <td>17.5%<span style="color: red">▲</span></td>
+      <td>1,527</td>
+      <td>22.8<span style="color: red">▲</span></td>
+      <td>854<span style="color: red">▲</span></td>
+      <td>79.14<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

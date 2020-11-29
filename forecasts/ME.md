@@ -25,16 +25,16 @@ statecode: ME
     <tr>
       <td>49</td>
       <td>1,344,212</td>
-      <td>1,760</td>
-      <td><span style="color:transparent; font-size:0;">001.14</span>1.14<span style="color: red"> 🟥</span></td>
+      <td>1,822</td>
+      <td><span style="color:transparent; font-size:0;">001.13</span>1.13<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>11,265</td>
-      <td>187.6<span style="color: red">▲</span></td>
-      <td>2.5%<span style="color: #ffcc00">▶</span></td>
-      <td>190</td>
+      <td>11,288</td>
+      <td>178.4<span style="color: red">▲</span></td>
+      <td>2.3%<span style="color: #ffcc00">▶</span></td>
+      <td>191</td>
       <td>2.0<span style="color: red">▲</span></td>
-      <td>119<span style="color: red">▲</span></td>
-      <td>8.64<span style="color: red">▲</span></td>
+      <td>125<span style="color: red">▲</span></td>
+      <td>8.36<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

@@ -23,18 +23,18 @@ statecode: KY
   </thead>
   <tbody>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>4,467,673</td>
-      <td>42,082</td>
-      <td><span style="color:transparent; font-size:0;">001.08</span>1.08<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td><span style="color:transparent; font-size:0;">059</span>59<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>171,755</td>
-      <td>2,779.4<span style="color: red">▲</span></td>
-      <td>10.8%<span style="color: red">▲</span></td>
-      <td>1,871</td>
-      <td>16.0<span style="color: red">▲</span></td>
-      <td>1,714<span style="color: red">▲</span></td>
-      <td>89.64<span style="color: green">▼</span></td>
+      <td>40,790</td>
+      <td><span style="color:transparent; font-size:0;">001.06</span>1.06<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">069</span>69<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>174,182</td>
+      <td>2,717.5<span style="color: red">▲</span></td>
+      <td>10.5%<span style="color: red">▲</span></td>
+      <td>1,885</td>
+      <td>16.2<span style="color: red">▲</span></td>
+      <td>1,722<span style="color: red">▲</span></td>
+      <td>85.57<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
