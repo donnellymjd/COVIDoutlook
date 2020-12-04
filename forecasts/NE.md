@@ -23,18 +23,18 @@ statecode: NE
   </thead>
   <tbody>
     <tr>
-      <td>29</td>
+      <td>43</td>
       <td>1,934,408</td>
-      <td>10,261</td>
-      <td><span style="color:transparent; font-size:0;">000.78</span>0.78<span style="color: green"> 🟢</span></td>
+      <td>7,154</td>
+      <td><span style="color:transparent; font-size:0;">000.80</span>0.80<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>128,407</td>
-      <td>1,914.7<span style="color: green">▼</span></td>
-      <td>38.0%<span style="color: red">▲</span></td>
-      <td>1,018</td>
-      <td>15.8<span style="color: red">▲</span></td>
-      <td>907<span style="color: red">▲</span></td>
-      <td>47.50<span style="color: red">▲</span></td>
+      <td>132,530</td>
+      <td>1,850.9<span style="color: green">▼</span></td>
+      <td>38.6%<span style="color: red">▲</span></td>
+      <td>1,128</td>
+      <td>21.6<span style="color: red">▲</span></td>
+      <td>853<span style="color: red">▲</span></td>
+      <td>49.93<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

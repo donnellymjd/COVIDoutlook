@@ -23,18 +23,18 @@ statecode: OK
   </thead>
   <tbody>
     <tr>
-      <td>6</td>
+      <td>10</td>
       <td>3,956,971</td>
-      <td>39,295</td>
-      <td><span style="color:transparent; font-size:0;">001.08</span>1.08<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td><span style="color:transparent; font-size:0;">053</span>53<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>199,482</td>
-      <td>2,933.9<span style="color: red">▲</span></td>
-      <td>15.1%<span style="color: red">▲</span></td>
-      <td>1,758</td>
-      <td>15.3<span style="color: red">▲</span></td>
-      <td>1,718<span style="color: red">▲</span></td>
-      <td>129.43<span style="color: red">▲</span></td>
+      <td>33,989</td>
+      <td><span style="color:transparent; font-size:0;">000.99</span>0.99<span style="color: green"> 🟢</span></td>
+      <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
+      <td>204,048</td>
+      <td>2,836.3<span style="color: red">▲</span></td>
+      <td>14.7%<span style="color: red">▲</span></td>
+      <td>1,836</td>
+      <td>17.7<span style="color: red">▲</span></td>
+      <td>1,734<span style="color: red">▲</span></td>
+      <td>138.36<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
