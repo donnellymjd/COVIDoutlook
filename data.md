@@ -3,8 +3,6 @@ layout: page
 title: Data
 banner: duotone5.png
 ---
-This data page, like the rest of the site, is brand new. Unfortunately, it's not fully functional yet. Please check back here soon for downloadable datasets of the forecasts and other data displayed on this website.
-
 ### Data Sources
 Our models and charts rely on data from a variety of publicly available datasets. These data providers depend on reliable and accurate reporting by national, state, and local governments. In many cases, the data reported by these governmental entities changes over time. This makes our jobs much more difficult as we have to account for some jurisdictions providing all necessary data on a daily basis, while other jurisdictions report less frequently or do not report some data at all. More and better data is necessary for high quality analysis and forecasts. If your state is showing incomplete data in our charts, ask your representatives to demand better reporting. 
  - [COVID-19 Tracking Project](https://api.covidtracking.com/v1/states/daily.csv) - The single most important source of data for our models. This volunteer run project collects and distributes state-level data on cases, testing, hospitalizations, and deaths. 
@@ -20,6 +18,7 @@ Our models and charts rely on data from a variety of publicly available datasets
  - [COVID-19 Related Policy Actions by State - Source: KFF.org](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_interventions.csv)
 
 ### Our Forecasts (comma separated values)
+ - [Forecast published on December 05, 2020](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_fore_allstates_20201205.csv)
  - [Forecast published on December 04, 2020](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_fore_allstates_20201204.csv)
  - [Forecast published on December 02, 2020](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_fore_allstates_20201202.csv)
  - [Forecast published on December 01, 2020](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_fore_allstates_20201201.csv)

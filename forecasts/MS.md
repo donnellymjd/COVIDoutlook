@@ -23,17 +23,17 @@ statecode: MS
   </thead>
   <tbody>
     <tr>
-      <td>2</td>
+      <td>8</td>
       <td>2,976,149</td>
-      <td>40,399</td>
-      <td><span style="color:transparent; font-size:0;">001.10</span>1.10<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">066</span>66<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>159,036</td>
-      <td>1,446.1<span style="color: red">▲</span></td>
-      <td>21.2%<span style="color: red">▲</span></td>
-      <td>3,879</td>
-      <td>18.6<span style="color: red">▲</span></td>
-      <td>1,160<span style="color: red">▲</span></td>
+      <td>32,361</td>
+      <td><span style="color:transparent; font-size:0;">001.26</span>1.26<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">040</span>40<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>161,516</td>
+      <td>1,506.2<span style="color: red">▲</span></td>
+      <td>21.9%<span style="color: red">▲</span></td>
+      <td>3,916</td>
+      <td>19.6<span style="color: red">▲</span></td>
+      <td>1,188<span style="color: red">▲</span></td>
       <td>28.21<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
