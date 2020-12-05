@@ -14,7 +14,7 @@ menu:
 - {name: 'Data', folder: '.', file: 'data'}
 - {name: 'Methodology', folder: '.', file: 'methodology'}
 #- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
-#- {name: 'About', folder: 'pages', file: 'about.html'}
+- {name: 'About', folder: '.', file: 'about'}
 #- {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

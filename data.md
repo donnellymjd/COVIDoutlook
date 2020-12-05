@@ -6,7 +6,15 @@ banner: duotone5.png
 This data page, like the rest of the site, is brand new. Unfortunately, it's not fully functional yet. Please check back here soon for downloadable datasets of the forecasts and other data displayed on this website.
 
 ### Data Sources
- - 
+Our models and charts rely on data from a variety of publicly available datasets. These data providers depend on reliable and accurate reporting by national, state, and local governments. In many cases, the data reported by these governmental entities changes over time. This makes our jobs much more difficult as we have to account for some jurisdictions providing all necessary data on a daily basis, while other jurisdictions report less frequently or do not report some data at all. More and better data is necessary for high quality analysis and forecasts. If your state is showing incomplete data in our charts, ask your representatives to demand better reporting. 
+ - [COVID-19 Tracking Project](https://api.covidtracking.com/v1/states/daily.csv) - The single most important source of data for our models. This volunteer run project collects and distributes state-level data on cases, testing, hospitalizations, and deaths. 
+ - [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series) - County-level data on cases and deaths.
+ - [New York Times](https://github.com/nytimes/covid-19-data/raw/master/us-counties.csv) - County-level data on cases and deaths.
+ - [NYC Dept of Health](https://github.com/nychealth/coronavirus-data/raw/master/case-hosp-death.csv) - Borough-level data on cases,  hospitalizations, and deaths.
+ - [NYS Dept of Health](https://health.data.ny.gov/api/views/xdss-u53e/rows.csv?accessType=DOWNLOAD) - County-level data on cases and total tests.
+ - [US Census](https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/totals/co-est2019-alldata.csv) - County-level data on populations.
+ - [Google Mobility Data](https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv) - While currently not used in our models, this data powers our mobility tracking charts.
+ - [US Dept of HHS - Hopsital Capacity](https://healthdata.gov/api/3/action/package_show?id=060e4acc-241d-4d19-a929-f5f7b653c648) - After the CDC stopped collecting this data earlier in 2020, the HHS began collecting and hosting data reported by states of currently reported hospital bed capacity.
 
 ### Reference Downloads (comma separated values)
  - [COVID-19 Related Policy Actions by State - Source: KFF.org](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_interventions.csv)
