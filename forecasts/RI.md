@@ -23,18 +23,18 @@ statecode: RI
   </thead>
   <tbody>
     <tr>
-      <td>4</td>
+      <td>7</td>
       <td>1,059,361</td>
-      <td>14,484</td>
-      <td><span style="color:transparent; font-size:0;">001.17</span>1.17<span style="color: red"> 🟥</span></td>
+      <td>13,708</td>
+      <td><span style="color:transparent; font-size:0;">001.12</span>1.12<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">017</span>17<span style="color: red"> 🟥</span></td>
       <td>62,137</td>
-      <td>1,009.7<span style="color: red">▲</span></td>
-      <td>32.0%<span style="color: red">▲</span></td>
+      <td>909.4<span style="color: red">▲</span></td>
+      <td>32.3%<span style="color: red">▲</span></td>
       <td>1,413</td>
-      <td>8.5<span style="color: red">▲</span></td>
+      <td>8.1<span style="color: red">▲</span></td>
       <td>408<span style="color: red">▲</span></td>
-      <td>56.93<span style="color: red">▲</span></td>
+      <td>49.79<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
