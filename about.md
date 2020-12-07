@@ -6,7 +6,7 @@ banner: duotone3.png
 
 *Launched in Summer 2020, COVIDoutlook.info is a volunteer-run website that provides independent data-driven analyses and forecasts about the COVID-19 crisis in the United States for policymakers and individuals. We hope our work can help people make the best decisions for themselves, their families, and their communities during this complicated time of heightened risk.* 
 
-Interested in helping out and have web development experience? Get in touch! <a href=''mailto:COVIDoutlook@gmail.com'>COVIDoutlook@gmail.com</a>
+Interested in helping out and have web development experience? Get in touch! <a href="mailto:COVIDoutlook@gmail.com">COVIDoutlook@gmail.com</a>
 
 ![image](./assets/img/donnelly.jpeg){: style="float: left; width: 235px; height: 235px; padding: 25px 25px 25px 25px;"} **Michael Donnelly, MSc - Founder, Lead Modeler**
 <a href="https://www.michaeldonnel.ly"><i class="fa fa-globe" aria-hidden="true"></i></a>  <a href="https://twitter.com/donnellymjd"><i class="fa fa-twitter" aria-hidden="true"></i></a><a href="https://www.linkedin.com/in/michaeljdonnelly/"><i class="fa fa-linkedin-in" aria-hidden="true"></i></a><a href="https://github.com/donnellymjd"><i class="fa fa-github" aria-hidden="true"></i></a><a href="mailto:donnellymjd@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i></a>
