@@ -23,18 +23,18 @@ statecode: OR
   </thead>
   <tbody>
     <tr>
-      <td>34</td>
+      <td>40</td>
       <td>4,217,737</td>
-      <td>26,362</td>
-      <td><span style="color:transparent; font-size:0;">001.21</span>1.21<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">034</span>34<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>85,788</td>
-      <td>1,389.6<span style="color: red">▲</span></td>
+      <td>22,554</td>
+      <td><span style="color:transparent; font-size:0;">001.07</span>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">078</span>78<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>87,082</td>
+      <td>1,410.6<span style="color: red">▲</span></td>
       <td>1.7%<span style="color: green">▼</span></td>
-      <td>1,045</td>
-      <td>15.6<span style="color: red">▲</span></td>
-      <td>622<span style="color: red">▲</span></td>
-      <td>63.71<span style="color: red">▲</span></td>
+      <td>1,080</td>
+      <td>16.6<span style="color: red">▲</span></td>
+      <td>608<span style="color: red">▲</span></td>
+      <td>63.43<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
