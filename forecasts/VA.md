@@ -23,18 +23,18 @@ statecode: VA
   </thead>
   <tbody>
     <tr>
-      <td>37</td>
+      <td>43</td>
       <td>8,535,519</td>
-      <td>55,573</td>
-      <td><span style="color:transparent; font-size:0;">001.17</span>1.17<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">033</span>33<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>274,438</td>
-      <td>3,142.4<span style="color: red">▲</span></td>
-      <td>11.7%<span style="color: red">▲</span></td>
-      <td>4,370</td>
-      <td>23.3<span style="color: red">▲</span></td>
-      <td>2,115<span style="color: red">▲</span></td>
-      <td>100.93<span style="color: red">▲</span></td>
+      <td>36,053</td>
+      <td><span style="color:transparent; font-size:0;">001.13</span>1.13<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">071</span>71<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>278,615</td>
+      <td>3,214.1<span style="color: red">▲</span></td>
+      <td>11.6%<span style="color: red">▲</span></td>
+      <td>4,409</td>
+      <td>25.4<span style="color: red">▲</span></td>
+      <td>2,117<span style="color: red">▲</span></td>
+      <td>103.64<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

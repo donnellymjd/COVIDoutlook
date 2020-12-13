@@ -23,17 +23,17 @@ statecode: TX
   </thead>
   <tbody>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>28,995,881</td>
-      <td>240,377</td>
-      <td><span style="color:transparent; font-size:0;">001.11</span>1.11<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">037</span>37<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>1,307,878</td>
-      <td>11,488.1<span style="color: red">▲</span></td>
-      <td>12.1%<span style="color: #ffcc00">▶</span></td>
-      <td>23,551</td>
-      <td>167.4<span style="color: red">▲</span></td>
-      <td>9,109<span style="color: red">▲</span></td>
+      <td>249,378</td>
+      <td><span style="color:transparent; font-size:0;">001.09</span>1.09<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">052</span>52<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>1,464,362</td>
+      <td>14,621.8<span style="color: red">▲</span></td>
+      <td>15.2%<span style="color: #ffcc00">▶</span></td>
+      <td>23,800</td>
+      <td>177.9<span style="color: red">▲</span></td>
+      <td>9,192<span style="color: red">▲</span></td>
       <td>nannan</td>
     </tr>
   </tbody>
