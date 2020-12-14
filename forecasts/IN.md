@@ -23,18 +23,18 @@ statecode: IN
   </thead>
   <tbody>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>6,732,219</td>
-      <td>86,885</td>
-      <td><span style="color:transparent; font-size:0;">001.06</span>1.06<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td><span style="color:transparent; font-size:0;">071</span>71<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>419,536</td>
-      <td>6,466.3<span style="color: red">▲</span></td>
-      <td>39.1%<span style="color: red">▲</span></td>
-      <td>6,758</td>
-      <td>78.2<span style="color: red">▲</span></td>
-      <td>3,141<span style="color: red">▲</span></td>
-      <td>371.71<span style="color: red">▲</span></td>
+      <td>84,087</td>
+      <td><span style="color:transparent; font-size:0;">001.04</span>1.04<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">095</span>95<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>425,434</td>
+      <td>6,580.1<span style="color: red">▲</span></td>
+      <td>39.2%<span style="color: red">▲</span></td>
+      <td>6,805</td>
+      <td>80.0<span style="color: red">▲</span></td>
+      <td>3,108<span style="color: red">▲</span></td>
+      <td>368.86<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
