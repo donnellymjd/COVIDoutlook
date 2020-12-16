@@ -25,16 +25,16 @@ statecode: KY
     <tr>
       <td>37</td>
       <td>4,467,673</td>
-      <td>23,321</td>
-      <td><span style="color:transparent; font-size:0;">001.07</span>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>23,994</td>
+      <td><span style="color:transparent; font-size:0;">001.09</span>1.09<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>224,890</td>
-      <td>3,274.9<span style="color: red">▲</span></td>
-      <td>13.4%<span style="color: red">▲</span></td>
-      <td>2,224</td>
-      <td>22.6<span style="color: red">▲</span></td>
-      <td>1,712<span style="color: red">▲</span></td>
-      <td>100.64<span style="color: red">▲</span></td>
+      <td>227,818</td>
+      <td>3,189.3<span style="color: red">▲</span></td>
+      <td>13.6%<span style="color: red">▲</span></td>
+      <td>2,239</td>
+      <td>21.1<span style="color: red">▲</span></td>
+      <td>1,788<span style="color: red">▲</span></td>
+      <td>99.93<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
