@@ -25,15 +25,15 @@ statecode: NV
     <tr>
       <td>9</td>
       <td>3,080,156</td>
-      <td>29,623</td>
-      <td><span style="color:transparent; font-size:0;">001.04</span>1.04<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td><span style="color:transparent; font-size:0;">071</span>71<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>191,732</td>
-      <td>2,633.2<span style="color: red">▲</span></td>
-      <td>40.1%<span style="color: red">▲</span></td>
-      <td>2,596</td>
-      <td>30.7<span style="color: red">▲</span></td>
-      <td>1,979<span style="color: red">▲</span></td>
+      <td>28,728</td>
+      <td><span style="color:transparent; font-size:0;">001.02</span>1.02<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">105</span>105<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>194,098</td>
+      <td>2,650.1<span style="color: red">▲</span></td>
+      <td>39.8%<span style="color: red">▲</span></td>
+      <td>2,653</td>
+      <td>32.3<span style="color: red">▲</span></td>
+      <td>1,550<span style="color: red">▲</span></td>
       <td>nannan</td>
     </tr>
   </tbody>
