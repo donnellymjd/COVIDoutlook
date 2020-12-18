@@ -23,18 +23,18 @@ statecode: MD
   </thead>
   <tbody>
     <tr>
-      <td>24</td>
+      <td>21</td>
       <td>6,045,680</td>
-      <td>41,608</td>
-      <td><span style="color:transparent; font-size:0;">001.06</span>1.06<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td><span style="color:transparent; font-size:0;">056</span>56<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>241,767</td>
-      <td>2,743.7<span style="color: red">▲</span></td>
-      <td>16.3%<span style="color: red">▲</span></td>
-      <td>5,270</td>
+      <td>41,505</td>
+      <td><span style="color:transparent; font-size:0;">001.05</span>1.05<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">061</span>61<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>243,984</td>
+      <td>2,756.1<span style="color: red">▲</span></td>
+      <td>16.4%<span style="color: red">▲</span></td>
+      <td>5,319</td>
       <td>39.6<span style="color: red">▲</span></td>
-      <td>1,762<span style="color: red">▲</span></td>
-      <td>179.50<span style="color: #ffcc00">▶</span></td>
+      <td>1,702<span style="color: red">▲</span></td>
+      <td>184.14<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
