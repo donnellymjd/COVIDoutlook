@@ -25,15 +25,15 @@ statecode: NC
     <tr>
       <td>34</td>
       <td>10,488,084</td>
-      <td>59,111</td>
-      <td><span style="color:transparent; font-size:0;">001.07</span>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td><span style="color:transparent; font-size:0;">075</span>75<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>466,104</td>
-      <td>5,969.3<span style="color: red">▲</span></td>
-      <td>10.7%<span style="color: red">▲</span></td>
-      <td>6,125</td>
-      <td>47.0<span style="color: red">▲</span></td>
-      <td>2,824<span style="color: red">▲</span></td>
+      <td>57,898</td>
+      <td><span style="color:transparent; font-size:0;">001.05</span>1.05<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">089</span>89<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>472,268</td>
+      <td>5,979.7<span style="color: red">▲</span></td>
+      <td>10.5%<span style="color: red">▲</span></td>
+      <td>6,184</td>
+      <td>47.7<span style="color: red">▲</span></td>
+      <td>2,846<span style="color: red">▲</span></td>
       <td>nannan</td>
     </tr>
   </tbody>
