@@ -23,17 +23,17 @@ statecode: DC
   </thead>
   <tbody>
     <tr>
-      <td>39</td>
+      <td>37</td>
       <td>705,749</td>
-      <td>2,688</td>
-      <td><span style="color:transparent; font-size:0;">000.89</span>0.89<span style="color: green"> 🟢</span></td>
+      <td>2,934</td>
+      <td><span style="color:transparent; font-size:0;">000.88</span>0.88<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>26,740</td>
-      <td>244.4<span style="color: red">▲</span></td>
-      <td>3.6%<span style="color: red">▲</span></td>
-      <td>742</td>
-      <td>2.9<span style="color: red">▲</span></td>
-      <td>238<span style="color: red">▲</span></td>
+      <td>26,900</td>
+      <td>236.5<span style="color: red">▲</span></td>
+      <td>3.5%<span style="color: red">▲</span></td>
+      <td>744</td>
+      <td>3.1<span style="color: red">▲</span></td>
+      <td>256<span style="color: red">▲</span></td>
       <td>nannan</td>
     </tr>
   </tbody>
