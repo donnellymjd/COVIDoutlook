@@ -23,18 +23,18 @@ statecode: HI
   </thead>
   <tbody>
     <tr>
-      <td>35</td>
+      <td>33</td>
       <td>1,415,872</td>
-      <td>5,422</td>
-      <td><span style="color:transparent; font-size:0;">001.07</span>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td><span style="color:transparent; font-size:0;">069</span>69<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>20,920</td>
-      <td>133.1<span style="color: red">▲</span></td>
+      <td>5,491</td>
+      <td><span style="color:transparent; font-size:0;">001.00</span>1.00<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
+      <td>21,204</td>
+      <td>134.9<span style="color: red">▲</span></td>
       <td>100.0%<span style="color: #ffcc00">▶</span></td>
       <td>285</td>
-      <td>1.4<span style="color: green">▼</span></td>
-      <td>67<span style="color: #ffcc00">▶</span></td>
-      <td>26.43<span style="color: red">▲</span></td>
+      <td>1.1<span style="color: green">▼</span></td>
+      <td>64<span style="color: #ffcc00">▶</span></td>
+      <td>25.50<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
