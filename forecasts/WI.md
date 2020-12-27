@@ -23,18 +23,18 @@ statecode: WI
   </thead>
   <tbody>
     <tr>
-      <td>39</td>
+      <td>45</td>
       <td>5,822,434</td>
-      <td>19,400</td>
-      <td><span style="color:transparent; font-size:0;">000.85</span>0.85<span style="color: green"> 🟢</span></td>
+      <td>13,854</td>
+      <td><span style="color:transparent; font-size:0;">000.71</span>0.71<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>505,345</td>
-      <td>3,141.3<span style="color: green">▼</span></td>
-      <td>32.1%<span style="color: green">▼</span></td>
-      <td>5,025</td>
-      <td>54.2<span style="color: green">▼</span></td>
+      <td>506,022</td>
+      <td>2,859.4<span style="color: green">▼</span></td>
+      <td>31.1%<span style="color: green">▼</span></td>
+      <td>5,029</td>
+      <td>50.4<span style="color: green">▼</span></td>
       <td>1,243<span style="color: green">▼</span></td>
-      <td>120.21<span style="color: green">▼</span></td>
+      <td>112.29<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
