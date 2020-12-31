@@ -23,18 +23,18 @@ statecode: KS
   </thead>
   <tbody>
     <tr>
-      <td>7</td>
+      <td>14</td>
       <td>2,913,314</td>
-      <td>21,067</td>
-      <td><span style="color:transparent; font-size:0;">001.14</span>1.14<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">068</span>68<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>216,062</td>
-      <td>1,860.3<span style="color: green">▼</span></td>
-      <td>31.7%<span style="color: green">▼</span></td>
-      <td>2,548</td>
-      <td>31.4<span style="color: green">▼</span></td>
-      <td>554<span style="color: green">▼</span></td>
-      <td>48.07<span style="color: green">▼</span></td>
+      <td>19,055</td>
+      <td><span style="color:transparent; font-size:0;">001.07</span>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">113</span>113<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>222,433</td>
+      <td>1,990.3<span style="color: green">▼</span></td>
+      <td>33.6%<span style="color: green">▼</span></td>
+      <td>2,741</td>
+      <td>34.9<span style="color: green">▼</span></td>
+      <td>767<span style="color: green">▼</span></td>
+      <td>50.71<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
