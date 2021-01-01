@@ -23,18 +23,18 @@ statecode: ID
   </thead>
   <tbody>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>1,787,065</td>
-      <td>4,107</td>
-      <td><span style="color:transparent; font-size:0;">000.82</span>0.82<span style="color: green"> 🟢</span></td>
+      <td>4,230</td>
+      <td><span style="color:transparent; font-size:0;">000.85</span>0.85<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>138,524</td>
-      <td>1,036.1<span style="color: green">▼</span></td>
-      <td>44.9%<span style="color: green">▼</span></td>
-      <td>1,393</td>
-      <td>12.8<span style="color: green">▼</span></td>
-      <td>280<span style="color: green">▼</span></td>
-      <td>43.64<span style="color: green">▼</span></td>
+      <td>139,864</td>
+      <td>1,029.4<span style="color: green">▼</span></td>
+      <td>45.3%<span style="color: green">▼</span></td>
+      <td>1,403</td>
+      <td>12.3<span style="color: green">▼</span></td>
+      <td>375<span style="color: green">▼</span></td>
+      <td>43.00<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

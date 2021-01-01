@@ -23,18 +23,18 @@ statecode: GA
   </thead>
   <tbody>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>10,617,423</td>
-      <td>59,335</td>
-      <td><span style="color:transparent; font-size:0;">000.98</span>0.98<span style="color: green"> 🟢</span></td>
-      <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>558,177</td>
-      <td>4,988.5<span style="color: red">▲</span></td>
-      <td>14.3%<span style="color: red">▲</span></td>
-      <td>10,846</td>
-      <td>44.1<span style="color: #ffcc00">▶</span></td>
-      <td>4,926<span style="color: red">▲</span></td>
-      <td>240.00<span style="color: red">▲</span></td>
+      <td>62,914</td>
+      <td><span style="color:transparent; font-size:0;">001.02</span>1.02<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">046</span>46<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>566,676</td>
+      <td>5,178.8<span style="color: red">▲</span></td>
+      <td>14.7%<span style="color: red">▲</span></td>
+      <td>10,934</td>
+      <td>45.7<span style="color: #ffcc00">▶</span></td>
+      <td>4,937<span style="color: red">▲</span></td>
+      <td>240.43<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

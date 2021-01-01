@@ -23,17 +23,17 @@ statecode: WV
   </thead>
   <tbody>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>1,792,147</td>
-      <td>15,718</td>
-      <td><span style="color:transparent; font-size:0;">001.09</span>1.09<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td><span style="color:transparent; font-size:0;">057</span>57<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>84,225</td>
-      <td>1,241.1<span style="color: red">▲</span></td>
-      <td>12.0%<span style="color: red">▲</span></td>
-      <td>1,318</td>
-      <td>19.9<span style="color: red">▲</span></td>
-      <td>797<span style="color: red">▲</span></td>
+      <td>15,481</td>
+      <td><span style="color:transparent; font-size:0;">001.07</span>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">061</span>61<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>85,334</td>
+      <td>1,203.5<span style="color: green">▼</span></td>
+      <td>11.3%<span style="color: red">▲</span></td>
+      <td>1,338</td>
+      <td>19.1<span style="color: green">▼</span></td>
+      <td>801<span style="color: red">▲</span></td>
       <td>0.00<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>

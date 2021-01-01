@@ -23,17 +23,17 @@ statecode: LA
   </thead>
   <tbody>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>4,648,794</td>
-      <td>35,145</td>
-      <td><span style="color:transparent; font-size:0;">001.18</span>1.18<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">043</span>43<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>311,229</td>
-      <td>2,548.9<span style="color: red">▲</span></td>
-      <td>11.1%<span style="color: red">▲</span></td>
-      <td>7,448</td>
-      <td>36.8<span style="color: red">▲</span></td>
-      <td>1,717<span style="color: red">▲</span></td>
+      <td>34,611</td>
+      <td><span style="color:transparent; font-size:0;">001.29</span>1.29<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">032</span>32<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>315,275</td>
+      <td>2,568.1<span style="color: red">▲</span></td>
+      <td>11.3%<span style="color: #ffcc00">▶</span></td>
+      <td>7,488</td>
+      <td>37.4<span style="color: red">▲</span></td>
+      <td>1,731<span style="color: red">▲</span></td>
       <td>nannan</td>
     </tr>
   </tbody>
