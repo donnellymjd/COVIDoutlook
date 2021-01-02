@@ -25,16 +25,16 @@ statecode: AZ
     <tr>
       <td>1</td>
       <td>7,278,717</td>
-      <td>68,903</td>
-      <td><span style="color:transparent; font-size:0;">001.01</span>1.01<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td><span style="color:transparent; font-size:0;">066</span>66<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>520,207</td>
-      <td>6,083.6<span style="color: green">▼</span></td>
-      <td>32.9%<span style="color: red">▲</span></td>
-      <td>8,864</td>
-      <td>84.8<span style="color: red">▲</span></td>
-      <td>4,564<span style="color: red">▲</span></td>
-      <td>386.14<span style="color: red">▲</span></td>
+      <td>93,443</td>
+      <td><span style="color:transparent; font-size:0;">001.14</span>1.14<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">018</span>18<span style="color: red"> 🟥</span></td>
+      <td>530,267</td>
+      <td>6,256.9<span style="color: green">▼</span></td>
+      <td>31.1%<span style="color: red">▲</span></td>
+      <td>9,015</td>
+      <td>85.4<span style="color: red">▲</span></td>
+      <td>4,501<span style="color: red">▲</span></td>
+      <td>468.07<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

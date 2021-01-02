@@ -23,17 +23,17 @@ statecode: DE
   </thead>
   <tbody>
     <tr>
-      <td>13</td>
+      <td>18</td>
       <td>973,764</td>
-      <td>6,727</td>
-      <td><span style="color:transparent; font-size:0;">001.12</span>1.12<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">059</span>59<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>57,456</td>
-      <td>620.6<span style="color: green">▼</span></td>
-      <td>26.0%<span style="color: red">▲</span></td>
-      <td>926</td>
-      <td>5.8<span style="color: red">▲</span></td>
-      <td>411<span style="color: red">▲</span></td>
+      <td>6,936</td>
+      <td><span style="color:transparent; font-size:0;">001.13</span>1.13<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">055</span>55<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>58,064</td>
+      <td>639.6<span style="color: green">▼</span></td>
+      <td>26.5%<span style="color: red">▲</span></td>
+      <td>930</td>
+      <td>5.4<span style="color: #ffcc00">▶</span></td>
+      <td>412<span style="color: red">▲</span></td>
       <td>nannan</td>
     </tr>
   </tbody>

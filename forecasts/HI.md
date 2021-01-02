@@ -25,15 +25,15 @@ statecode: HI
     <tr>
       <td>51</td>
       <td>1,415,872</td>
-      <td>1,184</td>
-      <td><span style="color:transparent; font-size:0;">000.79</span>0.79<span style="color: green"> 🟢</span></td>
+      <td>1,800</td>
+      <td><span style="color:transparent; font-size:0;">000.99</span>0.99<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>21,832</td>
-      <td>124.1<span style="color: #ffcc00">▶</span></td>
+      <td>22,120</td>
+      <td>133.1<span style="color: red">▲</span></td>
       <td>100.0%<span style="color: #ffcc00">▶</span></td>
-      <td>288</td>
+      <td>289</td>
       <td>0.6<span style="color: green">▼</span></td>
-      <td>97<span style="color: red">▲</span></td>
+      <td>86<span style="color: red">▲</span></td>
       <td>8.57<span style="color: green">▼</span></td>
     </tr>
   </tbody>
