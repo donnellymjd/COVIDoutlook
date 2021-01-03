@@ -23,18 +23,18 @@ statecode: OH
   </thead>
   <tbody>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>11,689,100</td>
-      <td>72,933</td>
-      <td><span style="color:transparent; font-size:0;">001.04</span>1.04<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td><span style="color:transparent; font-size:0;">089</span>89<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>700,380</td>
-      <td>6,751.3<span style="color: green">▼</span></td>
-      <td>16.4%<span style="color: #ffcc00">▶</span></td>
-      <td>8,962</td>
-      <td>71.1<span style="color: green">▼</span></td>
-      <td>4,367<span style="color: green">▼</span></td>
-      <td>299.36<span style="color: green">▼</span></td>
+      <td>72,570</td>
+      <td><span style="color:transparent; font-size:0;">001.00</span>1.00<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
+      <td>714,673</td>
+      <td>7,160.3<span style="color: green">▼</span></td>
+      <td>17.3%<span style="color: green">▼</span></td>
+      <td>9,017</td>
+      <td>70.4<span style="color: green">▼</span></td>
+      <td>4,102<span style="color: green">▼</span></td>
+      <td>291.43<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
