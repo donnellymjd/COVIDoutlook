@@ -23,17 +23,17 @@ statecode: PA
   </thead>
   <tbody>
     <tr>
-      <td>16</td>
+      <td>11</td>
       <td>12,801,989</td>
-      <td>99,580</td>
-      <td><span style="color:transparent; font-size:0;">001.00</span>1.00<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>657,292</td>
-      <td>7,771.6<span style="color: green">▼</span></td>
-      <td>40.8%<span style="color: red">▲</span></td>
-      <td>16,239</td>
-      <td>172.4<span style="color: green">▼</span></td>
-      <td>5,460<span style="color: #ffcc00">▶</span></td>
+      <td>109,448</td>
+      <td><span style="color:transparent; font-size:0;">001.08</span>1.08<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">063</span>63<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>661,871</td>
+      <td>7,583.5<span style="color: green">▼</span></td>
+      <td>41.2%<span style="color: red">▲</span></td>
+      <td>16,295</td>
+      <td>169.4<span style="color: green">▼</span></td>
+      <td>5,529<span style="color: #ffcc00">▶</span></td>
       <td>73.00<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
