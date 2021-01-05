@@ -23,17 +23,17 @@ statecode: CA
   </thead>
   <tbody>
     <tr>
-      <td>16</td>
+      <td>11</td>
       <td>39,512,223</td>
-      <td>309,225</td>
-      <td><span style="color:transparent; font-size:0;">001.13</span>1.13<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">027</span>27<span style="color: red"> 🟥</span></td>
-      <td>2,391,261</td>
-      <td>38,343.2<span style="color: red">▲</span></td>
-      <td>12.3%<span style="color: red">▲</span></td>
-      <td>26,538</td>
-      <td>281.8<span style="color: red">▲</span></td>
-      <td>21,510<span style="color: red">▲</span></td>
+      <td>334,840</td>
+      <td><span style="color:transparent; font-size:0;">001.18</span>1.18<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">022</span>22<span style="color: red"> 🟥</span></td>
+      <td>2,420,894</td>
+      <td>37,753.3<span style="color: #ffcc00">▶</span></td>
+      <td>12.4%<span style="color: red">▲</span></td>
+      <td>26,635</td>
+      <td>282.8<span style="color: red">▲</span></td>
+      <td>22,003<span style="color: red">▲</span></td>
       <td>nannan</td>
     </tr>
   </tbody>

@@ -23,17 +23,17 @@ statecode: MO
   </thead>
   <tbody>
     <tr>
-      <td>23</td>
+      <td>14</td>
       <td>6,137,428</td>
-      <td>42,792</td>
-      <td><span style="color:transparent; font-size:0;">001.19</span>1.19<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">037</span>37<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>401,761</td>
-      <td>2,612.5<span style="color: green">▼</span></td>
-      <td>43.0%<span style="color: #ffcc00">▶</span></td>
+      <td>50,072</td>
+      <td><span style="color:transparent; font-size:0;">001.20</span>1.20<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">032</span>32<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>402,957</td>
+      <td>2,474.4<span style="color: green">▼</span></td>
+      <td>43.9%<span style="color: #ffcc00">▶</span></td>
       <td>5,562</td>
-      <td>44.6<span style="color: green">▼</span></td>
-      <td>2,701<span style="color: red">▲</span></td>
+      <td>43.9<span style="color: green">▼</span></td>
+      <td>2,448<span style="color: #ffcc00">▶</span></td>
       <td>nannan</td>
     </tr>
   </tbody>
