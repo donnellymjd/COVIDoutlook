@@ -23,18 +23,18 @@ statecode: AK
   </thead>
   <tbody>
     <tr>
-      <td>35</td>
+      <td>26</td>
       <td>731,545</td>
-      <td>3,404</td>
-      <td><span style="color:transparent; font-size:0;">001.16</span>1.16<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">060</span>60<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>46,812</td>
-      <td>303.5<span style="color: green">▼</span></td>
-      <td>4.4%<span style="color: green">▼</span></td>
+      <td>4,495</td>
+      <td><span style="color:transparent; font-size:0;">001.26</span>1.26<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">039</span>39<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>47,006</td>
+      <td>286.1<span style="color: green">▼</span></td>
+      <td>4.6%<span style="color: green">▼</span></td>
       <td>218</td>
-      <td>2.4<span style="color: #ffcc00">▶</span></td>
-      <td>97<span style="color: green">▼</span></td>
-      <td>6.86<span style="color: green">▼</span></td>
+      <td>1.7<span style="color: green">▼</span></td>
+      <td>93<span style="color: green">▼</span></td>
+      <td>7.71<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

@@ -23,18 +23,18 @@ statecode: MN
   </thead>
   <tbody>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>5,639,632</td>
-      <td>17,247</td>
-      <td><span style="color:transparent; font-size:0;">001.20</span>1.20<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">056</span>56<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>423,688</td>
-      <td>1,741.2<span style="color: green">▼</span></td>
-      <td>16.0%<span style="color: green">▼</span></td>
-      <td>5,443</td>
-      <td>40.8<span style="color: green">▼</span></td>
-      <td>810<span style="color: green">▼</span></td>
-      <td>110.79<span style="color: green">▼</span></td>
+      <td>17,481</td>
+      <td><span style="color:transparent; font-size:0;">001.22</span>1.22<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">053</span>53<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>425,261</td>
+      <td>1,732.1<span style="color: green">▼</span></td>
+      <td>16.7%<span style="color: green">▼</span></td>
+      <td>5,461</td>
+      <td>40.4<span style="color: green">▼</span></td>
+      <td>842<span style="color: green">▼</span></td>
+      <td>108.64<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
