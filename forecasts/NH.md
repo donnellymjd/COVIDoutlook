@@ -23,18 +23,18 @@ statecode: NH
   </thead>
   <tbody>
     <tr>
-      <td>36</td>
+      <td>41</td>
       <td>1,359,711</td>
-      <td>6,663</td>
-      <td><span style="color:transparent; font-size:0;">001.10</span>1.10<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">075</span>75<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>47,992</td>
-      <td>713.1<span style="color: green">▼</span></td>
-      <td>24.9%<span style="color: red">▲</span></td>
-      <td>792</td>
-      <td>9.7<span style="color: red">▲</span></td>
-      <td>305<span style="color: red">▲</span></td>
-      <td>2.07<span style="color: #ffcc00">▶</span></td>
+      <td>5,455</td>
+      <td><span style="color:transparent; font-size:0;">000.96</span>0.96<span style="color: green"> 🟢</span></td>
+      <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
+      <td>48,838</td>
+      <td>737.6<span style="color: green">▼</span></td>
+      <td>25.3%<span style="color: red">▲</span></td>
+      <td>816</td>
+      <td>9.9<span style="color: red">▲</span></td>
+      <td>301<span style="color: red">▲</span></td>
+      <td>1.93<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>
