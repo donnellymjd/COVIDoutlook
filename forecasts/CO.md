@@ -23,18 +23,18 @@ statecode: CO
   </thead>
   <tbody>
     <tr>
-      <td>43</td>
+      <td>27</td>
       <td>5,758,736</td>
-      <td>22,217</td>
-      <td><span style="color:transparent; font-size:0;">001.06</span>1.06<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td><span style="color:transparent; font-size:0;">117</span>117<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>349,450</td>
-      <td>2,353.6<span style="color: green">▼</span></td>
-      <td>28.1%<span style="color: green">▼</span></td>
-      <td>5,050</td>
-      <td>42.0<span style="color: green">▼</span></td>
-      <td>988<span style="color: green">▼</span></td>
-      <td>147.21<span style="color: #ffcc00">▶</span></td>
+      <td>34,780</td>
+      <td><span style="color:transparent; font-size:0;">001.22</span>1.22<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">038</span>38<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>352,923</td>
+      <td>2,385.2<span style="color: green">▼</span></td>
+      <td>26.4%<span style="color: green">▼</span></td>
+      <td>5,102</td>
+      <td>39.4<span style="color: green">▼</span></td>
+      <td>954<span style="color: green">▼</span></td>
+      <td>138.64<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
