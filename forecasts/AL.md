@@ -23,18 +23,18 @@ statecode: AL
   </thead>
   <tbody>
     <tr>
-      <td>10</td>
+      <td>8</td>
       <td>4,903,185</td>
-      <td>48,207</td>
-      <td><span style="color:transparent; font-size:0;">001.11</span>1.11<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">034</span>34<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>389,230</td>
-      <td>3,602.1<span style="color: green">▼</span></td>
-      <td>41.7%<span style="color: red">▲</span></td>
-      <td>5,080</td>
-      <td>28.9<span style="color: green">▼</span></td>
-      <td>3,015<span style="color: red">▲</span></td>
-      <td>318.36<span style="color: red">▲</span></td>
+      <td>50,565</td>
+      <td><span style="color:transparent; font-size:0;">001.13</span>1.13<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">030</span>30<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>394,287</td>
+      <td>3,704.4<span style="color: green">▼</span></td>
+      <td>41.8%<span style="color: red">▲</span></td>
+      <td>5,191</td>
+      <td>36.5<span style="color: green">▼</span></td>
+      <td>3,046<span style="color: red">▲</span></td>
+      <td>342.86<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
