@@ -23,17 +23,17 @@ statecode: IA
   </thead>
   <tbody>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>3,155,070</td>
-      <td>19,156</td>
-      <td><span style="color:transparent; font-size:0;">001.24</span>1.24<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">045</span>45<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>250,753</td>
-      <td>1,086.7<span style="color: red">▲</span></td>
-      <td>43.6%<span style="color: red">▲</span></td>
-      <td>4,138</td>
-      <td>28.1<span style="color: green">▼</span></td>
-      <td>541<span style="color: green">▼</span></td>
+      <td>16,372</td>
+      <td><span style="color:transparent; font-size:0;">001.09</span>1.09<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">094</span>94<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>251,866</td>
+      <td>1,076.3<span style="color: red">▲</span></td>
+      <td>42.5%<span style="color: red">▲</span></td>
+      <td>4,222</td>
+      <td>29.3<span style="color: green">▼</span></td>
+      <td>552<span style="color: green">▼</span></td>
       <td>0.00<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>

@@ -23,17 +23,17 @@ statecode: IL
   </thead>
   <tbody>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>12,671,821</td>
-      <td>78,504</td>
-      <td><span style="color:transparent; font-size:0;">001.04</span>1.04<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td><span style="color:transparent; font-size:0;">095</span>95<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>1,028,750</td>
-      <td>6,488.6<span style="color: red">▲</span></td>
-      <td>8.1%<span style="color: #ffcc00">▶</span></td>
-      <td>19,293</td>
-      <td>139.8<span style="color: #ffcc00">▶</span></td>
-      <td>3,527<span style="color: green">▼</span></td>
+      <td>69,213</td>
+      <td><span style="color:transparent; font-size:0;">000.95</span>0.95<span style="color: green"> 🟢</span></td>
+      <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
+      <td>1,040,168</td>
+      <td>6,583.0<span style="color: red">▲</span></td>
+      <td>7.9%<span style="color: #ffcc00">▶</span></td>
+      <td>19,497</td>
+      <td>135.8<span style="color: green">▼</span></td>
+      <td>3,553<span style="color: green">▼</span></td>
       <td>nannan</td>
     </tr>
   </tbody>
