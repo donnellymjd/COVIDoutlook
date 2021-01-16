@@ -25,16 +25,16 @@ statecode: AL
     <tr>
       <td>20</td>
       <td>4,903,185</td>
-      <td>30,981</td>
-      <td><span style="color:transparent; font-size:0;">000.82</span>0.82<span style="color: green"> 🟢</span></td>
+      <td>28,185</td>
+      <td><span style="color:transparent; font-size:0;">000.79</span>0.79<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>414,583</td>
-      <td>3,811.2<span style="color: red">▲</span></td>
-      <td>38.1%<span style="color: red">▲</span></td>
-      <td>5,945</td>
-      <td>79.9<span style="color: red">▲</span></td>
-      <td>2,850<span style="color: red">▲</span></td>
-      <td>304.71<span style="color: green">▼</span></td>
+      <td>417,528</td>
+      <td>3,698.6<span style="color: red">▲</span></td>
+      <td>36.7%<span style="color: red">▲</span></td>
+      <td>6,030</td>
+      <td>82.7<span style="color: red">▲</span></td>
+      <td>2,863<span style="color: red">▲</span></td>
+      <td>313.57<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
