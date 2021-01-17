@@ -25,16 +25,16 @@ statecode: MN
     <tr>
       <td>50</td>
       <td>5,639,632</td>
-      <td>10,810</td>
+      <td>10,784</td>
       <td><span style="color:transparent; font-size:0;">000.79</span>0.79<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>443,562</td>
-      <td>2,018.6<span style="color: red">▲</span></td>
-      <td>18.2%<span style="color: #ffcc00">▶</span></td>
-      <td>5,850</td>
-      <td>37.6<span style="color: green">▼</span></td>
+      <td>445,047</td>
+      <td>1,943.9<span style="color: red">▲</span></td>
+      <td>17.6%<span style="color: #ffcc00">▶</span></td>
+      <td>5,887</td>
+      <td>36.4<span style="color: green">▼</span></td>
       <td>612<span style="color: green">▼</span></td>
-      <td>94.36<span style="color: green">▼</span></td>
+      <td>93.36<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

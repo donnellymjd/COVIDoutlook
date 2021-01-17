@@ -23,17 +23,17 @@ statecode: TX
   </thead>
   <tbody>
     <tr>
-      <td>12</td>
+      <td>17</td>
       <td>28,995,881</td>
-      <td>205,029</td>
-      <td><span style="color:transparent; font-size:0;">000.92</span>0.92<span style="color: green"> 🟢</span></td>
+      <td>188,925</td>
+      <td><span style="color:transparent; font-size:0;">000.88</span>0.88<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>2,072,903</td>
-      <td>21,458.6<span style="color: red">▲</span></td>
-      <td>18.3%<span style="color: red">▲</span></td>
-      <td>31,450</td>
-      <td>262.8<span style="color: red">▲</span></td>
-      <td>13,953<span style="color: red">▲</span></td>
+      <td>2,097,560</td>
+      <td>22,879.6<span style="color: red">▲</span></td>
+      <td>19.7%<span style="color: red">▲</span></td>
+      <td>31,831</td>
+      <td>283.1<span style="color: red">▲</span></td>
+      <td>13,929<span style="color: red">▲</span></td>
       <td>nannan</td>
     </tr>
   </tbody>
