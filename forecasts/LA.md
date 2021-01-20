@@ -23,17 +23,17 @@ statecode: LA
   </thead>
   <tbody>
     <tr>
-      <td>24</td>
+      <td>32</td>
       <td>4,648,794</td>
-      <td>22,664</td>
-      <td><span style="color:transparent; font-size:0;">000.89</span>0.89<span style="color: green"> 🟢</span></td>
+      <td>19,309</td>
+      <td><span style="color:transparent; font-size:0;">000.88</span>0.88<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>369,951</td>
-      <td>3,412.1<span style="color: red">▲</span></td>
-      <td>12.5%<span style="color: red">▲</span></td>
-      <td>8,253</td>
-      <td>47.7<span style="color: red">▲</span></td>
-      <td>1,894<span style="color: red">▲</span></td>
+      <td>372,089</td>
+      <td>3,245.8<span style="color: red">▲</span></td>
+      <td>12.4%<span style="color: red">▲</span></td>
+      <td>8,324</td>
+      <td>49.2<span style="color: red">▲</span></td>
+      <td>1,905<span style="color: red">▲</span></td>
       <td>nannan</td>
     </tr>
   </tbody>
