@@ -23,18 +23,18 @@ statecode: MA
   </thead>
   <tbody>
     <tr>
-      <td>2</td>
+      <td>23</td>
       <td>6,892,503</td>
-      <td>55,323</td>
-      <td><span style="color:transparent; font-size:0;">000.92</span>0.92<span style="color: green"> 🟢</span></td>
+      <td>30,146</td>
+      <td><span style="color:transparent; font-size:0;">000.86</span>0.86<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>476,526</td>
-      <td>5,666.0<span style="color: red">▲</span></td>
-      <td>26.8%<span style="color: red">▲</span></td>
-      <td>13,749</td>
-      <td>72.5<span style="color: red">▲</span></td>
-      <td>2,213<span style="color: #ffcc00">▶</span></td>
-      <td>72.21<span style="color: red">▲</span></td>
+      <td>481,040</td>
+      <td>5,499.1<span style="color: red">▲</span></td>
+      <td>26.4%<span style="color: red">▲</span></td>
+      <td>13,829</td>
+      <td>70.9<span style="color: red">▲</span></td>
+      <td>2,209<span style="color: #ffcc00">▶</span></td>
+      <td>104.14<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

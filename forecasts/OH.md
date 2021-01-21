@@ -23,18 +23,18 @@ statecode: OH
   </thead>
   <tbody>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>11,689,100</td>
-      <td>46,524</td>
+      <td>44,697</td>
       <td><span style="color:transparent; font-size:0;">000.79</span>0.79<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>836,055</td>
-      <td>7,218.0<span style="color: red">▲</span></td>
-      <td>14.6%<span style="color: #ffcc00">▶</span></td>
-      <td>10,336</td>
-      <td>77.8<span style="color: red">▲</span></td>
-      <td>3,643<span style="color: green">▼</span></td>
-      <td>282.50<span style="color: #ffcc00">▶</span></td>
+      <td>842,433</td>
+      <td>7,115.4<span style="color: #ffcc00">▶</span></td>
+      <td>14.5%<span style="color: #ffcc00">▶</span></td>
+      <td>10,409</td>
+      <td>74.4<span style="color: #ffcc00">▶</span></td>
+      <td>3,566<span style="color: green">▼</span></td>
+      <td>278.93<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
