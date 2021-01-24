@@ -23,17 +23,17 @@ statecode: VT
   </thead>
   <tbody>
     <tr>
-      <td>17</td>
+      <td>45</td>
       <td>623,989</td>
-      <td>3,228</td>
-      <td><span style="color:transparent; font-size:0;">000.96</span>0.96<span style="color: green"> 🟢</span></td>
+      <td>1,398</td>
+      <td><span style="color:transparent; font-size:0;">000.97</span>0.97<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>10,759</td>
-      <td>152.9<span style="color: red">▲</span></td>
-      <td>12.0%<span style="color: red">▲</span></td>
-      <td>169</td>
-      <td>0.9<span style="color: green">▼</span></td>
-      <td>46<span style="color: red">▲</span></td>
+      <td>10,908</td>
+      <td>151.3<span style="color: red">▲</span></td>
+      <td>12.4%<span style="color: red">▲</span></td>
+      <td>170</td>
+      <td>1.0<span style="color: green">▼</span></td>
+      <td>49<span style="color: red">▲</span></td>
       <td>5.00<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
