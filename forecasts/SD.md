@@ -23,18 +23,18 @@ statecode: SD
   </thead>
   <tbody>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>884,659</td>
-      <td>2,816</td>
-      <td><span style="color:transparent; font-size:0;">000.87</span>0.87<span style="color: green"> 🟢</span></td>
+      <td>2,388</td>
+      <td><span style="color:transparent; font-size:0;">000.83</span>0.83<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>107,148</td>
-      <td>273.6<span style="color: green">▼</span></td>
-      <td>29.3%<span style="color: green">▼</span></td>
+      <td>107,180</td>
+      <td>262.9<span style="color: green">▼</span></td>
+      <td>28.7%<span style="color: green">▼</span></td>
       <td>1,705</td>
       <td>8.6<span style="color: green">▼</span></td>
-      <td>162<span style="color: green">▼</span></td>
-      <td>20.64<span style="color: green">▼</span></td>
+      <td>161<span style="color: green">▼</span></td>
+      <td>20.29<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
