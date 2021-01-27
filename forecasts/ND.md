@@ -23,18 +23,18 @@ statecode: ND
   </thead>
   <tbody>
     <tr>
-      <td>40</td>
+      <td>47</td>
       <td>762,062</td>
-      <td>1,825</td>
-      <td><span style="color:transparent; font-size:0;">001.11</span>1.11<span style="color: red"> 🟥</span></td>
+      <td>1,554</td>
+      <td><span style="color:transparent; font-size:0;">001.04</span>1.04<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>96,874</td>
-      <td>146.0<span style="color: green">▼</span></td>
-      <td>25.0%<span style="color: green">▼</span></td>
-      <td>1,436</td>
-      <td>5.4<span style="color: green">▼</span></td>
-      <td>50<span style="color: green">▼</span></td>
-      <td>6.36<span style="color: green">▼</span></td>
+      <td>97,006</td>
+      <td>145.6<span style="color: green">▼</span></td>
+      <td>29.1%<span style="color: green">▼</span></td>
+      <td>1,440</td>
+      <td>5.5<span style="color: #ffcc00">▶</span></td>
+      <td>48<span style="color: green">▼</span></td>
+      <td>6.07<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
