@@ -23,17 +23,17 @@ statecode: CT
   </thead>
   <tbody>
     <tr>
-      <td>16</td>
+      <td>3</td>
       <td>3,565,287</td>
-      <td>19,723</td>
-      <td><span style="color:transparent; font-size:0;">001.23</span>1.23<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">040</span>40<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>244,899</td>
-      <td>1,989.4<span style="color: green">▼</span></td>
-      <td>3.5%<span style="color: green">▼</span></td>
-      <td>6,934</td>
-      <td>34.6<span style="color: green">▼</span></td>
-      <td>1,068<span style="color: #ffcc00">▶</span></td>
+      <td>26,245</td>
+      <td><span style="color:transparent; font-size:0;">001.43</span>1.43<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">023</span>23<span style="color: red"> 🟥</span></td>
+      <td>247,339</td>
+      <td>1,911.6<span style="color: green">▼</span></td>
+      <td>3.3%<span style="color: green">▼</span></td>
+      <td>6,976</td>
+      <td>31.4<span style="color: green">▼</span></td>
+      <td>1,016<span style="color: #ffcc00">▶</span></td>
       <td>0.00<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
