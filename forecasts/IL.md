@@ -23,17 +23,17 @@ statecode: IL
   </thead>
   <tbody>
     <tr>
-      <td>44</td>
+      <td>32</td>
       <td>12,671,821</td>
-      <td>24,644</td>
-      <td><span style="color:transparent; font-size:0;">000.88</span>0.88<span style="color: green"> 🟢</span></td>
+      <td>36,683</td>
+      <td><span style="color:transparent; font-size:0;">000.82</span>0.82<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>1,112,181</td>
-      <td>4,725.1<span style="color: green">▼</span></td>
-      <td>5.1%<span style="color: green">▼</span></td>
-      <td>20,949</td>
-      <td>95.1<span style="color: green">▼</span></td>
-      <td>2,931<span style="color: green">▼</span></td>
+      <td>1,120,528</td>
+      <td>4,371.7<span style="color: green">▼</span></td>
+      <td>4.8%<span style="color: green">▼</span></td>
+      <td>21,146</td>
+      <td>90.9<span style="color: green">▼</span></td>
+      <td>2,735<span style="color: green">▼</span></td>
       <td>nannan</td>
     </tr>
   </tbody>

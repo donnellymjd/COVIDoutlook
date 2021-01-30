@@ -25,16 +25,16 @@ statecode: NM
     <tr>
       <td>27</td>
       <td>2,096,829</td>
-      <td>8,309</td>
-      <td><span style="color:transparent; font-size:0;">000.93</span>0.93<span style="color: green"> 🟢</span></td>
+      <td>7,969</td>
+      <td><span style="color:transparent; font-size:0;">000.92</span>0.92<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>171,047</td>
-      <td>852.0<span style="color: green">▼</span></td>
-      <td>8.2%<span style="color: #ffcc00">▶</span></td>
-      <td>3,198</td>
-      <td>27.9<span style="color: red">▲</span></td>
-      <td>586<span style="color: green">▼</span></td>
-      <td>68.00<span style="color: green">▼</span></td>
+      <td>172,798</td>
+      <td>785.2<span style="color: green">▼</span></td>
+      <td>6.1%<span style="color: green">▼</span></td>
+      <td>3,248</td>
+      <td>26.7<span style="color: #ffcc00">▶</span></td>
+      <td>538<span style="color: green">▼</span></td>
+      <td>70.29<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
