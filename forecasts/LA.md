@@ -23,11 +23,11 @@ statecode: LA
   </thead>
   <tbody>
     <tr>
-      <td>13</td>
+      <td>9</td>
       <td>4,648,794</td>
-      <td>26,393</td>
-      <td><span style="color:transparent; font-size:0;">001.04</span>1.04<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
+      <td>28,748</td>
+      <td><span style="color:transparent; font-size:0;">001.19</span>1.19<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">055</span>55<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>397,276</td>
       <td>2,315.9<span style="color: green">▼</span></td>
       <td>8.7%<span style="color: green">▼</span></td>
