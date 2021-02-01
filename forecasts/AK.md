@@ -23,18 +23,18 @@ statecode: AK
   </thead>
   <tbody>
     <tr>
-      <td>47</td>
+      <td>40</td>
       <td>731,545</td>
-      <td>1,023</td>
-      <td><span style="color:transparent; font-size:0;">000.74</span>0.74<span style="color: green"> 🟢</span></td>
+      <td>1,384</td>
+      <td><span style="color:transparent; font-size:0;">000.85</span>0.85<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>52,470</td>
-      <td>175.2<span style="color: green">▼</span></td>
+      <td>52,598</td>
+      <td>164.4<span style="color: green">▼</span></td>
       <td>100.0%<span style="color: #ffcc00">▶</span></td>
       <td>262</td>
       <td>2.4<span style="color: red">▲</span></td>
-      <td>39<span style="color: green">▼</span></td>
-      <td>3.79<span style="color: green">▼</span></td>
+      <td>42<span style="color: green">▼</span></td>
+      <td>3.71<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

@@ -23,17 +23,17 @@ statecode: NY
   </thead>
   <tbody>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>19,453,561</td>
-      <td>105,687</td>
-      <td><span style="color:transparent; font-size:0;">000.91</span>0.91<span style="color: green"> 🟢</span></td>
+      <td>102,363</td>
+      <td><span style="color:transparent; font-size:0;">000.90</span>0.90<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>1,399,863</td>
-      <td>12,879.6<span style="color: green">▼</span></td>
+      <td>1,410,656</td>
+      <td>12,661.9<span style="color: green">▼</span></td>
       <td>100.0%<span style="color: #ffcc00">▶</span></td>
-      <td>35,036</td>
-      <td>165.1<span style="color: #ffcc00">▶</span></td>
-      <td>8,176<span style="color: #ffcc00">▶</span></td>
+      <td>35,178</td>
+      <td>162.9<span style="color: green">▼</span></td>
+      <td>7,976<span style="color: #ffcc00">▶</span></td>
       <td>0.00<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
