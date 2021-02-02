@@ -23,17 +23,17 @@ statecode: NV
   </thead>
   <tbody>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>3,080,156</td>
-      <td>16,154</td>
-      <td><span style="color:transparent; font-size:0;">000.90</span>0.90<span style="color: green"> 🟢</span></td>
+      <td>15,776</td>
+      <td><span style="color:transparent; font-size:0;">000.89</span>0.89<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>278,308</td>
-      <td>1,195.4<span style="color: green">▼</span></td>
-      <td>30.9%<span style="color: red">▲</span></td>
-      <td>4,270</td>
-      <td>35.1<span style="color: green">▼</span></td>
-      <td>1,242<span style="color: green">▼</span></td>
+      <td>279,146</td>
+      <td>1,168.0<span style="color: green">▼</span></td>
+      <td>30.5%<span style="color: #ffcc00">▶</span></td>
+      <td>4,278</td>
+      <td>35.3<span style="color: green">▼</span></td>
+      <td>1,247<span style="color: green">▼</span></td>
       <td>nannan</td>
     </tr>
   </tbody>
