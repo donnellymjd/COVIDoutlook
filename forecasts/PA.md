@@ -23,17 +23,17 @@ statecode: PA
   </thead>
   <tbody>
     <tr>
-      <td>14</td>
+      <td>18</td>
       <td>12,801,989</td>
-      <td>54,774</td>
-      <td><span style="color:transparent; font-size:0;">000.96</span>0.96<span style="color: green"> 🟢</span></td>
+      <td>48,684</td>
+      <td><span style="color:transparent; font-size:0;">000.95</span>0.95<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>846,078</td>
-      <td>5,302.4<span style="color: green">▼</span></td>
-      <td>31.0%<span style="color: green">▼</span></td>
-      <td>21,687</td>
-      <td>164.1<span style="color: green">▼</span></td>
-      <td>3,280<span style="color: green">▼</span></td>
+      <td>850,488</td>
+      <td>5,235.9<span style="color: green">▼</span></td>
+      <td>31.1%<span style="color: green">▼</span></td>
+      <td>21,812</td>
+      <td>167.5<span style="color: green">▼</span></td>
+      <td>3,281<span style="color: green">▼</span></td>
       <td>73.00<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
