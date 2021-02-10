@@ -23,17 +23,17 @@ statecode: MI
   </thead>
   <tbody>
     <tr>
-      <td>31</td>
+      <td>39</td>
       <td>9,986,857</td>
-      <td>28,724</td>
-      <td><span style="color:transparent; font-size:0;">001.01</span>1.01<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>16,951</td>
+      <td><span style="color:transparent; font-size:0;">000.85</span>0.85<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>620,685</td>
-      <td>1,709.9<span style="color: green">▼</span></td>
-      <td>4.6%<span style="color: green">▼</span></td>
-      <td>15,854</td>
-      <td>48.1<span style="color: green">▼</span></td>
-      <td>1,296<span style="color: green">▼</span></td>
+      <td>623,731</td>
+      <td>1,540.2<span style="color: green">▼</span></td>
+      <td>4.2%<span style="color: green">▼</span></td>
+      <td>15,925</td>
+      <td>44.3<span style="color: green">▼</span></td>
+      <td>1,175<span style="color: green">▼</span></td>
       <td>nannan</td>
     </tr>
   </tbody>

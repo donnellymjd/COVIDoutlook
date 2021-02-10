@@ -25,16 +25,16 @@ statecode: MD
     <tr>
       <td>17</td>
       <td>6,045,680</td>
-      <td>23,898</td>
-      <td><span style="color:transparent; font-size:0;">000.95</span>0.95<span style="color: green"> 🟢</span></td>
+      <td>22,062</td>
+      <td><span style="color:transparent; font-size:0;">000.97</span>0.97<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>363,650</td>
-      <td>1,585.6<span style="color: green">▼</span></td>
-      <td>17.4%<span style="color: green">▼</span></td>
-      <td>7,349</td>
-      <td>34.6<span style="color: green">▼</span></td>
-      <td>1,402<span style="color: green">▼</span></td>
-      <td>145.07<span style="color: green">▼</span></td>
+      <td>365,529</td>
+      <td>1,493.5<span style="color: green">▼</span></td>
+      <td>17.3%<span style="color: green">▼</span></td>
+      <td>7,413</td>
+      <td>32.1<span style="color: green">▼</span></td>
+      <td>1,377<span style="color: green">▼</span></td>
+      <td>139.86<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
