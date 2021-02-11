@@ -23,17 +23,17 @@ statecode: CT
   </thead>
   <tbody>
     <tr>
-      <td>27</td>
+      <td>23</td>
       <td>3,565,287</td>
-      <td>10,506</td>
-      <td><span style="color:transparent; font-size:0;">000.86</span>0.86<span style="color: green"> 🟢</span></td>
+      <td>10,981</td>
+      <td><span style="color:transparent; font-size:0;">000.87</span>0.87<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>264,608</td>
-      <td>1,407.8<span style="color: green">▼</span></td>
-      <td>3.7%<span style="color: green">▼</span></td>
-      <td>7,298</td>
-      <td>26.0<span style="color: green">▼</span></td>
-      <td>826<span style="color: green">▼</span></td>
+      <td>265,496</td>
+      <td>1,296.9<span style="color: green">▼</span></td>
+      <td>3.6%<span style="color: #ffcc00">▶</span></td>
+      <td>7,326</td>
+      <td>25.0<span style="color: green">▼</span></td>
+      <td>770<span style="color: green">▼</span></td>
       <td>0.00<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
