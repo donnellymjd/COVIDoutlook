@@ -23,17 +23,17 @@ statecode: DE
   </thead>
   <tbody>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>973,764</td>
-      <td>4,671</td>
-      <td><span style="color:transparent; font-size:0;">001.05</span>1.05<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>4,947</td>
+      <td><span style="color:transparent; font-size:0;">001.12</span>1.12<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>82,672</td>
-      <td>365.8<span style="color: green">▼</span></td>
-      <td>22.4%<span style="color: green">▼</span></td>
-      <td>1,282</td>
-      <td>14.4<span style="color: red">▲</span></td>
-      <td>282<span style="color: green">▼</span></td>
+      <td>83,003</td>
+      <td>352.3<span style="color: green">▼</span></td>
+      <td>22.1%<span style="color: green">▼</span></td>
+      <td>1,283</td>
+      <td>13.8<span style="color: red">▲</span></td>
+      <td>216<span style="color: green">▼</span></td>
       <td>nannan</td>
     </tr>
   </tbody>
