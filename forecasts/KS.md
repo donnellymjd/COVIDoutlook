@@ -23,10 +23,10 @@ statecode: KS
   </thead>
   <tbody>
     <tr>
-      <td>24</td>
+      <td>9</td>
       <td>2,913,314</td>
-      <td>7,393</td>
-      <td><span style="color:transparent; font-size:0;">000.80</span>0.80<span style="color: green"> 🟢</span></td>
+      <td>9,700</td>
+      <td><span style="color:transparent; font-size:0;">001.00</span>1.00<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>287,450</td>
       <td>770.1<span style="color: green">▼</span></td>

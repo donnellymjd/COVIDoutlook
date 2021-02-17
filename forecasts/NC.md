@@ -23,17 +23,17 @@ statecode: NC
   </thead>
   <tbody>
     <tr>
-      <td>20</td>
+      <td>14</td>
       <td>10,488,084</td>
-      <td>28,707</td>
-      <td><span style="color:transparent; font-size:0;">000.90</span>0.90<span style="color: green"> 🟢</span></td>
+      <td>28,237</td>
+      <td><span style="color:transparent; font-size:0;">000.89</span>0.89<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>824,352</td>
-      <td>4,503.6<span style="color: green">▼</span></td>
-      <td>8.2%<span style="color: green">▼</span></td>
-      <td>10,501</td>
-      <td>82.8<span style="color: green">▼</span></td>
-      <td>1,941<span style="color: green">▼</span></td>
+      <td>826,340</td>
+      <td>4,436.6<span style="color: green">▼</span></td>
+      <td>8.1%<span style="color: green">▼</span></td>
+      <td>10,562</td>
+      <td>82.4<span style="color: green">▼</span></td>
+      <td>1,958<span style="color: green">▼</span></td>
       <td>nannan</td>
     </tr>
   </tbody>
