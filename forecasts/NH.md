@@ -23,18 +23,18 @@ statecode: NH
   </thead>
   <tbody>
     <tr>
-      <td>22</td>
+      <td>17</td>
       <td>1,359,711</td>
-      <td>3,282</td>
-      <td><span style="color:transparent; font-size:0;">001.01</span>1.01<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>3,360</td>
+      <td><span style="color:transparent; font-size:0;">001.06</span>1.06<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>71,215</td>
-      <td>345.1<span style="color: green">▼</span></td>
-      <td>26.1%<span style="color: red">▲</span></td>
+      <td>321.0<span style="color: green">▼</span></td>
+      <td>28.2%<span style="color: red">▲</span></td>
       <td>1,136</td>
-      <td>5.0<span style="color: green">▼</span></td>
+      <td>4.3<span style="color: green">▼</span></td>
       <td>119<span style="color: green">▼</span></td>
-      <td>3.14<span style="color: green">▼</span></td>
+      <td>2.71<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
