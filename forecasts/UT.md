@@ -23,17 +23,17 @@ statecode: UT
   </thead>
   <tbody>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>3,205,958</td>
-      <td>3,209</td>
-      <td><span style="color:transparent; font-size:0;">000.86</span>0.86<span style="color: green"> 🟢</span></td>
+      <td>3,213</td>
+      <td><span style="color:transparent; font-size:0;">000.88</span>0.88<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>363,248</td>
-      <td>946.3<span style="color: green">▼</span></td>
-      <td>20.8%<span style="color: green">▼</span></td>
-      <td>1,806</td>
-      <td>7.8<span style="color: green">▼</span></td>
-      <td>290<span style="color: green">▼</span></td>
+      <td>364,399</td>
+      <td>937.6<span style="color: green">▼</span></td>
+      <td>20.7%<span style="color: green">▼</span></td>
+      <td>1,813</td>
+      <td>7.3<span style="color: green">▼</span></td>
+      <td>291<span style="color: green">▼</span></td>
       <td>46.14<span style="color: green">▼</span></td>
     </tr>
   </tbody>
