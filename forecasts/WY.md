@@ -23,18 +23,18 @@ statecode: WY
   </thead>
   <tbody>
     <tr>
-      <td>8</td>
+      <td>5</td>
       <td>578,759</td>
-      <td>1,729</td>
-      <td><span style="color:transparent; font-size:0;">000.78</span>0.78<span style="color: green"> 🟢</span></td>
+      <td>2,026</td>
+      <td><span style="color:transparent; font-size:0;">000.84</span>0.84<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>53,531</td>
-      <td>75.9<span style="color: green">▼</span></td>
-      <td>15.1%<span style="color: green">▼</span></td>
+      <td>53,683</td>
+      <td>79.1<span style="color: green">▼</span></td>
+      <td>16.2%<span style="color: green">▼</span></td>
       <td>662</td>
       <td>2.7<span style="color: green">▼</span></td>
       <td>31<span style="color: green">▼</span></td>
-      <td>4.57<span style="color: red">▲</span></td>
+      <td>4.64<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

@@ -23,18 +23,18 @@ statecode: AL
   </thead>
   <tbody>
     <tr>
-      <td>3</td>
+      <td>8</td>
       <td>4,903,185</td>
-      <td>19,993</td>
-      <td><span style="color:transparent; font-size:0;">000.93</span>0.93<span style="color: green"> 🟢</span></td>
+      <td>15,285</td>
+      <td><span style="color:transparent; font-size:0;">000.90</span>0.90<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>484,365</td>
-      <td>1,181.6<span style="color: green">▼</span></td>
-      <td>16.8%<span style="color: green">▼</span></td>
-      <td>9,424</td>
-      <td>75.6<span style="color: green">▼</span></td>
-      <td>1,003<span style="color: green">▼</span></td>
-      <td>139.71<span style="color: green">▼</span></td>
+      <td>485,212</td>
+      <td>1,135.2<span style="color: green">▼</span></td>
+      <td>15.6%<span style="color: green">▼</span></td>
+      <td>9,573</td>
+      <td>80.3<span style="color: green">▼</span></td>
+      <td>951<span style="color: green">▼</span></td>
+      <td>125.86<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
