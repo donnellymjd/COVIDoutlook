@@ -25,15 +25,15 @@ statecode: MO
     <tr>
       <td>19</td>
       <td>6,137,428</td>
-      <td>14,220</td>
-      <td><span style="color:transparent; font-size:0;">000.89</span>0.89<span style="color: green"> 🟢</span></td>
+      <td>14,189</td>
+      <td><span style="color:transparent; font-size:0;">000.90</span>0.90<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>474,021</td>
-      <td>684.1<span style="color: green">▼</span></td>
-      <td>19.9%<span style="color: green">▼</span></td>
-      <td>7,709</td>
-      <td>41.4<span style="color: #ffcc00">▶</span></td>
-      <td>1,254<span style="color: green">▼</span></td>
+      <td>474,587</td>
+      <td>652.8<span style="color: green">▼</span></td>
+      <td>19.5%<span style="color: green">▼</span></td>
+      <td>7,715</td>
+      <td>40.9<span style="color: #ffcc00">▶</span></td>
+      <td>1,257<span style="color: green">▼</span></td>
       <td>nannan</td>
     </tr>
   </tbody>

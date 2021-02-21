@@ -25,8 +25,8 @@ statecode: LA
     <tr>
       <td>31</td>
       <td>4,648,794</td>
-      <td>7,254</td>
-      <td><span style="color:transparent; font-size:0;">000.63</span>0.63<span style="color: green"> 🟢</span></td>
+      <td>8,458</td>
+      <td><span style="color:transparent; font-size:0;">000.78</span>0.78<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>422,287</td>
       <td>887.6<span style="color: green">▼</span></td>

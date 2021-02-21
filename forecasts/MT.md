@@ -23,18 +23,18 @@ statecode: MT
   </thead>
   <tbody>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>1,068,778</td>
-      <td>1,466</td>
-      <td><span style="color:transparent; font-size:0;">000.88</span>0.88<span style="color: green"> 🟢</span></td>
+      <td>1,498</td>
+      <td><span style="color:transparent; font-size:0;">000.95</span>0.95<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>98,377</td>
-      <td>208.5<span style="color: green">▼</span></td>
-      <td>4.9%<span style="color: green">▼</span></td>
-      <td>1,339</td>
-      <td>2.3<span style="color: green">▼</span></td>
-      <td>96<span style="color: green">▼</span></td>
-      <td>11.79<span style="color: green">▼</span></td>
+      <td>98,641</td>
+      <td>208.9<span style="color: green">▼</span></td>
+      <td>4.9%<span style="color: #ffcc00">▶</span></td>
+      <td>1,341</td>
+      <td>2.1<span style="color: green">▼</span></td>
+      <td>78<span style="color: green">▼</span></td>
+      <td>11.93<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
