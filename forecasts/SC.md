@@ -23,18 +23,18 @@ statecode: SC
   </thead>
   <tbody>
     <tr>
-      <td>4</td>
+      <td>8</td>
       <td>5,148,714</td>
-      <td>22,170</td>
-      <td><span style="color:transparent; font-size:0;">000.97</span>0.97<span style="color: green"> 🟢</span></td>
+      <td>20,636</td>
+      <td><span style="color:transparent; font-size:0;">000.93</span>0.93<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>501,277</td>
-      <td>2,735.4<span style="color: green">▼</span></td>
-      <td>10.0%<span style="color: green">▼</span></td>
-      <td>8,256</td>
-      <td>46.1<span style="color: green">▼</span></td>
-      <td>1,086<span style="color: green">▼</span></td>
-      <td>87.29<span style="color: green">▼</span></td>
+      <td>504,149</td>
+      <td>2,698.3<span style="color: green">▼</span></td>
+      <td>9.8%<span style="color: green">▼</span></td>
+      <td>8,324</td>
+      <td>48.1<span style="color: green">▼</span></td>
+      <td>1,013<span style="color: green">▼</span></td>
+      <td>86.43<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
