@@ -23,9 +23,9 @@ statecode: CO
   </thead>
   <tbody>
     <tr>
-      <td>35</td>
+      <td>31</td>
       <td>5,758,736</td>
-      <td>6,876</td>
+      <td>6,905</td>
       <td><span style="color:transparent; font-size:0;">001.00</span>1.00<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>426,339</td>

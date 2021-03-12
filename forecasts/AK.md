@@ -23,9 +23,9 @@ statecode: AK
   </thead>
   <tbody>
     <tr>
-      <td>31</td>
+      <td>27</td>
       <td>731,545</td>
-      <td>931</td>
+      <td>914</td>
       <td><span style="color:transparent; font-size:0;">000.85</span>0.85<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>99,170</td>

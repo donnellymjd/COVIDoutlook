@@ -25,7 +25,7 @@ statecode: OR
     <tr>
       <td>51</td>
       <td>4,217,737</td>
-      <td>2,532</td>
+      <td>2,274</td>
       <td><span style="color:transparent; font-size:0;">000.68</span>0.68<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>246,840</td>

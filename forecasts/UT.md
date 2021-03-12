@@ -25,7 +25,7 @@ statecode: UT
     <tr>
       <td>50</td>
       <td>3,205,958</td>
-      <td>2,014</td>
+      <td>1,860</td>
       <td><span style="color:transparent; font-size:0;">000.74</span>0.74<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>472,816</td>

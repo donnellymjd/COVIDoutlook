@@ -23,9 +23,9 @@ statecode: AR
   </thead>
   <tbody>
     <tr>
-      <td>24</td>
+      <td>30</td>
       <td>3,017,804</td>
-      <td>4,113</td>
+      <td>3,675</td>
       <td><span style="color:transparent; font-size:0;">000.69</span>0.69<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>227,217</td>

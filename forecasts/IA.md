@@ -25,7 +25,7 @@ statecode: IA
     <tr>
       <td>47</td>
       <td>3,155,070</td>
-      <td>2,756</td>
+      <td>2,522</td>
       <td><span style="color:transparent; font-size:0;">000.90</span>0.90<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>339,046</td>

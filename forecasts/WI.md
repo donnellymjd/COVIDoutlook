@@ -23,9 +23,9 @@ statecode: WI
   </thead>
   <tbody>
     <tr>
-      <td>32</td>
+      <td>37</td>
       <td>5,822,434</td>
-      <td>7,083</td>
+      <td>6,206</td>
       <td><span style="color:transparent; font-size:0;">000.93</span>0.93<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>687,370</td>

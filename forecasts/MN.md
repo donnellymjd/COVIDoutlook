@@ -23,9 +23,9 @@ statecode: MN
   </thead>
   <tbody>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>5,639,632</td>
-      <td>5,819</td>
+      <td>5,836</td>
       <td><span style="color:transparent; font-size:0;">000.99</span>0.99<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>722,358</td>

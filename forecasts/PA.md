@@ -23,9 +23,9 @@ statecode: PA
   </thead>
   <tbody>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>12,801,989</td>
-      <td>27,697</td>
+      <td>27,282</td>
       <td><span style="color:transparent; font-size:0;">000.88</span>0.88<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>1,007,760</td>

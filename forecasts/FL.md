@@ -23,9 +23,9 @@ statecode: FL
   </thead>
   <tbody>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>21,477,737</td>
-      <td>55,018</td>
+      <td>50,616</td>
       <td><span style="color:transparent; font-size:0;">000.85</span>0.85<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>2,454,567</td>

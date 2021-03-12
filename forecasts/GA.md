@@ -25,7 +25,7 @@ statecode: GA
     <tr>
       <td>12</td>
       <td>10,617,423</td>
-      <td>21,166</td>
+      <td>20,460</td>
       <td><span style="color:transparent; font-size:0;">000.76</span>0.76<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>768,472</td>

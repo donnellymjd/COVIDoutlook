@@ -25,7 +25,7 @@ statecode: AZ
     <tr>
       <td>20</td>
       <td>7,278,717</td>
-      <td>11,728</td>
+      <td>11,386</td>
       <td><span style="color:transparent; font-size:0;">000.79</span>0.79<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>799,214</td>

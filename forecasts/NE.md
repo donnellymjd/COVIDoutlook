@@ -23,9 +23,9 @@ statecode: NE
   </thead>
   <tbody>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>1,934,408</td>
-      <td>3,414</td>
+      <td>3,429</td>
       <td><span style="color:transparent; font-size:0;">001.00</span>1.00<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>286,259</td>
