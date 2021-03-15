@@ -23,18 +23,18 @@ statecode: MN
   </thead>
   <tbody>
     <tr>
-      <td>40</td>
+      <td>31</td>
       <td>5,639,632</td>
-      <td>6,377</td>
-      <td><span style="color:transparent; font-size:0;">001.05</span>1.05<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>7,172</td>
+      <td><span style="color:transparent; font-size:0;">001.08</span>1.08<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>730,200</td>
-      <td>1,039.9<span style="color: green">▼</span></td>
+      <td>733,319</td>
+      <td>1,113.7<span style="color: #ffcc00">▶</span></td>
       <td>nan%<span style="color: #ffcc00">▶</span></td>
-      <td>6,792</td>
-      <td>19.6<span style="color: red">▲</span></td>
-      <td>289<span style="color: green">▼</span></td>
-      <td>66.79<span style="color: green">▼</span></td>
+      <td>6,809</td>
+      <td>19.0<span style="color: red">▲</span></td>
+      <td>342<span style="color: #ffcc00">▶</span></td>
+      <td>71.00<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

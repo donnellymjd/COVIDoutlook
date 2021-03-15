@@ -23,18 +23,18 @@ statecode: WV
   </thead>
   <tbody>
     <tr>
-      <td>20</td>
+      <td>14</td>
       <td>1,792,147</td>
-      <td>3,160</td>
-      <td><span style="color:transparent; font-size:0;">000.85</span>0.85<span style="color: green"> 🟢</span></td>
+      <td>3,346</td>
+      <td><span style="color:transparent; font-size:0;">000.91</span>0.91<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>164,552</td>
-      <td>249.1<span style="color: green">▼</span></td>
+      <td>165,192</td>
+      <td>241.9<span style="color: green">▼</span></td>
       <td>nan%<span style="color: green">▼</span></td>
-      <td>2,338</td>
-      <td>3.4<span style="color: green">▼</span></td>
-      <td>262<span style="color: green">▼</span></td>
-      <td>82.86<span style="color: green">▼</span></td>
+      <td>2,519</td>
+      <td>15.9<span style="color: red">▲</span></td>
+      <td>210<span style="color: green">▼</span></td>
+      <td>82.29<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
