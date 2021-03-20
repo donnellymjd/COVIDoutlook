@@ -23,18 +23,18 @@ statecode: NJ
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>8,882,190</td>
-      <td>40,462</td>
-      <td><span style="color:transparent; font-size:0;">001.02</span>1.02<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>38,409</td>
+      <td><span style="color:transparent; font-size:0;">001.00</span>1.00<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>787,108</td>
-      <td>3,200.4<span style="color: #ffcc00">▶</span></td>
-      <td>8.1%<span style="color: #ffcc00">▶</span></td>
-      <td>24,045</td>
-      <td>42.6<span style="color: green">▼</span></td>
-      <td>1,973<span style="color: green">▼</span></td>
-      <td>402.86<span style="color: red">▲</span></td>
+      <td>791,812</td>
+      <td>2,765.9<span style="color: green">▼</span></td>
+      <td>nan%<span style="color: #ffcc00">▶</span></td>
+      <td>24,076</td>
+      <td>37.1<span style="color: green">▼</span></td>
+      <td>2,055<span style="color: #ffcc00">▶</span></td>
+      <td>395.36<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

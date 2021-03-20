@@ -23,18 +23,18 @@ statecode: IN
   </thead>
   <tbody>
     <tr>
-      <td>35</td>
+      <td>33</td>
       <td>6,732,219</td>
-      <td>9,074</td>
-      <td><span style="color:transparent; font-size:0;">000.99</span>0.99<span style="color: green"> 🟢</span></td>
+      <td>8,848</td>
+      <td><span style="color:transparent; font-size:0;">000.98</span>0.98<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>771,086</td>
-      <td>539.5<span style="color: green">▼</span></td>
-      <td>3.0%<span style="color: green">▼</span></td>
-      <td>12,893</td>
-      <td>18.6<span style="color: green">▼</span></td>
-      <td>601<span style="color: green">▼</span></td>
-      <td>199.86<span style="color: green">▼</span></td>
+      <td>772,074</td>
+      <td>457.3<span style="color: green">▼</span></td>
+      <td>nan%<span style="color: #ffcc00">▶</span></td>
+      <td>12,907</td>
+      <td>12.9<span style="color: green">▼</span></td>
+      <td>590<span style="color: green">▼</span></td>
+      <td>194.64<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

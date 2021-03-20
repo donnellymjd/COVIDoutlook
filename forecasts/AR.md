@@ -23,18 +23,18 @@ statecode: AR
   </thead>
   <tbody>
     <tr>
-      <td>17</td>
+      <td>20</td>
       <td>3,017,804</td>
-      <td>6,014</td>
-      <td><span style="color:transparent; font-size:0;">000.91</span>0.91<span style="color: green"> 🟢</span></td>
+      <td>5,461</td>
+      <td><span style="color:transparent; font-size:0;">000.90</span>0.90<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>228,774</td>
-      <td>124.8<span style="color: green">▼</span></td>
-      <td>2.7%<span style="color: green">▼</span></td>
-      <td>5,507</td>
-      <td>17.6<span style="color: red">▲</span></td>
-      <td>322<span style="color: green">▼</span></td>
-      <td>109.50<span style="color: green">▼</span></td>
+      <td>228,886</td>
+      <td>108.3<span style="color: green">▼</span></td>
+      <td>nan%<span style="color: green">▼</span></td>
+      <td>5,515</td>
+      <td>15.6<span style="color: red">▲</span></td>
+      <td>255<span style="color: green">▼</span></td>
+      <td>101.79<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
