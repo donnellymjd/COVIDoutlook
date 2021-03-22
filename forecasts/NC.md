@@ -25,12 +25,12 @@ statecode: NC
     <tr>
       <td>35</td>
       <td>10,488,084</td>
-      <td>13,224</td>
+      <td>13,262</td>
       <td><span style="color:transparent; font-size:0;">001.01</span>1.01<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>890,284</td>
-      <td>1,199.7<span style="color: green">▼</span></td>
-      <td>nan%<span style="color: green">▼</span></td>
+      <td>891,614</td>
+      <td>1,294.5<span style="color: green">▼</span></td>
+      <td>4.7%<span style="color: green">▼</span></td>
       <td>11,820</td>
       <td>22.7<span style="color: green">▼</span></td>
       <td>999<span style="color: green">▼</span></td>

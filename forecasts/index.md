@@ -23,12 +23,12 @@ statecode: US
   <tbody>
     <tr>
       <td>328,239,523</td>
-      <td>595,248</td>
+      <td>599,290</td>
       <td>0.93</td>
       <td>Not Available</td>
-      <td>30,955,638</td>
-      <td>41,119.7</td>
-      <td>nan%</td>
+      <td>30,999,157</td>
+      <td>44,083.8</td>
+      <td>4.6%</td>
       <td>536,781</td>
       <td>1,137.3</td>
       <td>40,068</td>

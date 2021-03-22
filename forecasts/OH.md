@@ -23,9 +23,9 @@ statecode: OH
   </thead>
   <tbody>
     <tr>
-      <td>28</td>
+      <td>25</td>
       <td>11,689,100</td>
-      <td>16,409</td>
+      <td>16,368</td>
       <td><span style="color:transparent; font-size:0;">000.96</span>0.96<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>876,453</td>
