@@ -25,16 +25,16 @@ statecode: ND
     <tr>
       <td>7</td>
       <td>762,062</td>
-      <td>2,120</td>
-      <td><span style="color:transparent; font-size:0;">001.14</span>1.14<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>79,411</td>
-      <td>48.4<span style="color: #ffcc00">▶</span></td>
-      <td>2.2%<span style="color: #ffcc00">▶</span></td>
-      <td>1,461</td>
-      <td>0.9<span style="color: #ffcc00">▶</span></td>
-      <td>71<span style="color: green">▼</span></td>
-      <td>19.64<span style="color: red">▲</span></td>
+      <td>2,213</td>
+      <td><span style="color:transparent; font-size:0;">001.18</span>1.18<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">090</span>90<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>79,434</td>
+      <td>46.8<span style="color: #ffcc00">▶</span></td>
+      <td>nan%<span style="color: #ffcc00">▶</span></td>
+      <td>1,463</td>
+      <td>1.0<span style="color: #ffcc00">▶</span></td>
+      <td>71<span style="color: #ffcc00">▶</span></td>
+      <td>18.29<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>
