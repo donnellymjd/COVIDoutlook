@@ -23,9 +23,9 @@ statecode: WY
   </thead>
   <tbody>
     <tr>
-      <td>13</td>
+      <td>16</td>
       <td>578,759</td>
-      <td>1,242</td>
+      <td>1,256</td>
       <td><span style="color:transparent; font-size:0;">001.34</span>1.34<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">076</span>76<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>48,650</td>

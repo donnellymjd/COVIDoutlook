@@ -23,9 +23,9 @@ statecode: LA
   </thead>
   <tbody>
     <tr>
-      <td>49</td>
+      <td>22</td>
       <td>4,648,794</td>
-      <td>3,332</td>
+      <td>8,125</td>
       <td><span style="color:transparent; font-size:0;">000.85</span>0.85<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>500,352</td>

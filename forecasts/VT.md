@@ -23,9 +23,9 @@ statecode: VT
   </thead>
   <tbody>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>623,989</td>
-      <td>773</td>
+      <td>792</td>
       <td><span style="color:transparent; font-size:0;">001.16</span>1.16<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>25,448</td>

@@ -23,9 +23,9 @@ statecode: IL
   </thead>
   <tbody>
     <tr>
-      <td>39</td>
+      <td>11</td>
       <td>12,671,821</td>
-      <td>14,163</td>
+      <td>34,712</td>
       <td><span style="color:transparent; font-size:0;">001.05</span>1.05<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>1,211,859</td>

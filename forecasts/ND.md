@@ -23,11 +23,11 @@ statecode: ND
   </thead>
   <tbody>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>762,062</td>
-      <td>2,213</td>
+      <td>2,272</td>
       <td><span style="color:transparent; font-size:0;">001.18</span>1.18<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">090</span>90<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">095</span>95<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>79,434</td>
       <td>46.8<span style="color: #ffcc00">▶</span></td>
       <td>nan%<span style="color: #ffcc00">▶</span></td>

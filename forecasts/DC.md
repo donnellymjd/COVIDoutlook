@@ -25,7 +25,7 @@ statecode: DC
     <tr>
       <td>2</td>
       <td>705,749</td>
-      <td>2,860</td>
+      <td>2,879</td>
       <td><span style="color:transparent; font-size:0;">001.01</span>1.01<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>60,725</td>

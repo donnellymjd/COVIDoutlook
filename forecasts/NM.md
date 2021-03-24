@@ -23,9 +23,9 @@ statecode: NM
   </thead>
   <tbody>
     <tr>
-      <td>42</td>
+      <td>45</td>
       <td>2,096,829</td>
-      <td>2,066</td>
+      <td>2,045</td>
       <td><span style="color:transparent; font-size:0;">000.91</span>0.91<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>139,234</td>

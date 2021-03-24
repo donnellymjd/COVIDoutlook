@@ -23,9 +23,9 @@ statecode: HI
   </thead>
   <tbody>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>1,415,872</td>
-      <td>3,026</td>
+      <td>3,106</td>
       <td><span style="color:transparent; font-size:0;">001.17</span>1.17<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">073</span>73<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>33,747</td>

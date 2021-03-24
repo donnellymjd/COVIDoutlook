@@ -23,9 +23,9 @@ statecode: GA
   </thead>
   <tbody>
     <tr>
-      <td>15</td>
+      <td>20</td>
       <td>10,617,423</td>
-      <td>22,287</td>
+      <td>19,927</td>
       <td><span style="color:transparent; font-size:0;">000.94</span>0.94<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>783,050</td>

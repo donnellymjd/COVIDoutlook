@@ -23,9 +23,9 @@ statecode: DE
   </thead>
   <tbody>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>973,764</td>
-      <td>2,268</td>
+      <td>2,276</td>
       <td><span style="color:transparent; font-size:0;">001.00</span>1.00<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>107,918</td>
