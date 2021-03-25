@@ -25,16 +25,16 @@ statecode: NY
     <tr>
       <td>1</td>
       <td>19,453,561</td>
-      <td>86,315</td>
+      <td>88,412</td>
       <td><span style="color:transparent; font-size:0;">001.02</span>1.02<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>1,941,111</td>
-      <td>6,850.4<span style="color: green">▼</span></td>
+      <td>1,955,106</td>
+      <td>6,709.6<span style="color: green">▼</span></td>
       <td>nan%<span style="color: #ffcc00">▶</span></td>
-      <td>49,331</td>
-      <td>82.6<span style="color: green">▼</span></td>
+      <td>49,491</td>
+      <td>80.6<span style="color: green">▼</span></td>
       <td>5,352<span style="color: green">▼</span></td>
-      <td>762.86<span style="color: #ffcc00">▶</span></td>
+      <td>759.36<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>
