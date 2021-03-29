@@ -23,18 +23,18 @@ statecode: MI
   </thead>
   <tbody>
     <tr>
-      <td>14</td>
+      <td>1</td>
       <td>9,986,857</td>
-      <td>23,432</td>
-      <td><span style="color:transparent; font-size:0;">001.32</span>1.32<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">042</span>42<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>834,508</td>
-      <td>2,105.3<span style="color: red">▲</span></td>
-      <td>nan%<span style="color: red">▲</span></td>
-      <td>17,003</td>
-      <td>20.1<span style="color: #ffcc00">▶</span></td>
-      <td>1,330<span style="color: red">▲</span></td>
-      <td>261.79<span style="color: red">▲</span></td>
+      <td>95,528</td>
+      <td><span style="color:transparent; font-size:0;">001.40</span>1.40<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">018</span>18<span style="color: red"> 🟥</span></td>
+      <td>851,091</td>
+      <td>3,029.4<span style="color: red">▲</span></td>
+      <td>8.9%<span style="color: red">▲</span></td>
+      <td>17,047</td>
+      <td>19.9<span style="color: #ffcc00">▶</span></td>
+      <td>1,956<span style="color: red">▲</span></td>
+      <td>316.29<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

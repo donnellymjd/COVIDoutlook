@@ -23,18 +23,18 @@ statecode: CA
   </thead>
   <tbody>
     <tr>
-      <td>33</td>
+      <td>26</td>
       <td>39,512,223</td>
-      <td>53,084</td>
-      <td><span style="color:transparent; font-size:0;">000.87</span>0.87<span style="color: green"> 🟢</span></td>
+      <td>59,094</td>
+      <td><span style="color:transparent; font-size:0;">000.93</span>0.93<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>3,592,012</td>
-      <td>753.4<span style="color: green">▼</span></td>
+      <td>3,610,393</td>
+      <td>1,626.4<span style="color: green">▼</span></td>
       <td>nan%nan</td>
-      <td>57,091</td>
-      <td>157.1<span style="color: green">▼</span></td>
-      <td>3,212<span style="color: green">▼</span></td>
-      <td>836.00<span style="color: green">▼</span></td>
+      <td>57,551</td>
+      <td>175.4<span style="color: green">▼</span></td>
+      <td>2,743<span style="color: green">▼</span></td>
+      <td>770.36<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

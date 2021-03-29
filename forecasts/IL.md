@@ -25,16 +25,16 @@ statecode: IL
     <tr>
       <td>17</td>
       <td>12,671,821</td>
-      <td>28,006</td>
-      <td><span style="color:transparent; font-size:0;">001.08</span>1.08<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>1,216,965</td>
-      <td>1,317.0<span style="color: #ffcc00">▶</span></td>
-      <td>nan%<span style="color: #ffcc00">▶</span></td>
-      <td>23,442</td>
-      <td>22.9<span style="color: green">▼</span></td>
-      <td>1,209<span style="color: #ffcc00">▶</span></td>
-      <td>468.43<span style="color: #ffcc00">▶</span></td>
+      <td>30,121</td>
+      <td><span style="color:transparent; font-size:0;">001.16</span>1.16<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">090</span>90<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>1,223,943</td>
+      <td>1,623.1<span style="color: red">▲</span></td>
+      <td>3.0%<span style="color: #ffcc00">▶</span></td>
+      <td>23,498</td>
+      <td>22.1<span style="color: green">▼</span></td>
+      <td>1,386<span style="color: #ffcc00">▶</span></td>
+      <td>483.14<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>
