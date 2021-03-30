@@ -23,18 +23,18 @@ statecode: MO
   </thead>
   <tbody>
     <tr>
-      <td>38</td>
+      <td>16</td>
       <td>6,137,428</td>
-      <td>7,117</td>
+      <td>15,647</td>
       <td><span style="color:transparent; font-size:0;">000.96</span>0.96<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>331,405</td>
-      <td>376.3<span style="color: green">▼</span></td>
+      <td>356.3<span style="color: green">▼</span></td>
       <td>nan%nan</td>
       <td>8,440</td>
       <td>9.3<span style="color: green">▼</span></td>
       <td>822<span style="color: green">▼</span></td>
-      <td>239.21<span style="color: green">▼</span></td>
+      <td>241.57<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

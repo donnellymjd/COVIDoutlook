@@ -23,18 +23,18 @@ statecode: WA
   </thead>
   <tbody>
     <tr>
-      <td>29</td>
+      <td>32</td>
       <td>7,614,893</td>
-      <td>10,846</td>
-      <td><span style="color:transparent; font-size:0;">001.20</span>1.20<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">078</span>78<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>10,170</td>
+      <td><span style="color:transparent; font-size:0;">001.19</span>1.19<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">085</span>85<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>247,604</td>
-      <td>460.2<span style="color: #ffcc00">▶</span></td>
+      <td>444.9<span style="color: #ffcc00">▶</span></td>
       <td>nan%nan</td>
       <td>5,218</td>
       <td>6.8<span style="color: green">▼</span></td>
       <td>417<span style="color: #ffcc00">▶</span></td>
-      <td>115.79<span style="color: green">▼</span></td>
+      <td>113.86<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

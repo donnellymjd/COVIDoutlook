@@ -23,18 +23,18 @@ statecode: MS
   </thead>
   <tbody>
     <tr>
-      <td>44</td>
+      <td>42</td>
       <td>2,976,149</td>
-      <td>2,605</td>
-      <td><span style="color:transparent; font-size:0;">000.89</span>0.89<span style="color: green"> 🟢</span></td>
+      <td>2,714</td>
+      <td><span style="color:transparent; font-size:0;">000.90</span>0.90<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>154,471</td>
-      <td>67.5<span style="color: green">▼</span></td>
-      <td>4.0%<span style="color: green">▼</span></td>
+      <td>65.4<span style="color: green">▼</span></td>
+      <td>nan%<span style="color: green">▼</span></td>
       <td>7,001</td>
-      <td>7.1<span style="color: green">▼</span></td>
+      <td>7.0<span style="color: green">▼</span></td>
       <td>330<span style="color: green">▼</span></td>
-      <td>46.43<span style="color: green">▼</span></td>
+      <td>45.93<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
