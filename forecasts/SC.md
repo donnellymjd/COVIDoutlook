@@ -23,14 +23,14 @@ statecode: SC
   </thead>
   <tbody>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>5,148,714</td>
-      <td>7,107</td>
+      <td>7,076</td>
       <td><span style="color:transparent; font-size:0;">000.94</span>0.94<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>501,791</td>
       <td>679.5<span style="color: #ffcc00">▶</span></td>
-      <td>nan%<span style="color: #ffcc00">▶</span></td>
+      <td>nan%nan</td>
       <td>9,117</td>
       <td>9.2<span style="color: green">▼</span></td>
       <td>531<span style="color: green">▼</span></td>

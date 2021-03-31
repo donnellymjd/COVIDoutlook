@@ -25,10 +25,10 @@ statecode: MO
     <tr>
       <td>16</td>
       <td>6,137,428</td>
-      <td>15,647</td>
+      <td>13,856</td>
       <td><span style="color:transparent; font-size:0;">000.96</span>0.96<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>331,405</td>
+      <td>331,409</td>
       <td>356.3<span style="color: green">▼</span></td>
       <td>nan%nan</td>
       <td>8,440</td>

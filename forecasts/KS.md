@@ -28,9 +28,9 @@ statecode: KS
       <td>2,251</td>
       <td><span style="color:transparent; font-size:0;">000.97</span>0.97<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>282,813</td>
-      <td>148.4<span style="color: green">▼</span></td>
-      <td>nan%<span style="color: #ffcc00">▶</span></td>
+      <td>282,896</td>
+      <td>154.3<span style="color: green">▼</span></td>
+      <td>3.3%<span style="color: #ffcc00">▶</span></td>
       <td>4,891</td>
       <td>4.8<span style="color: green">▼</span></td>
       <td>170<span style="color: green">▼</span></td>
