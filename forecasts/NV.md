@@ -23,18 +23,18 @@ statecode: NV
   </thead>
   <tbody>
     <tr>
-      <td>21</td>
+      <td>16</td>
       <td>3,080,156</td>
-      <td>5,550</td>
-      <td><span style="color:transparent; font-size:0;">001.01</span>1.01<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>6,284</td>
+      <td><span style="color:transparent; font-size:0;">001.05</span>1.05<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>418,806</td>
-      <td>325.2<span style="color: green">▼</span></td>
-      <td>5.0%<span style="color: green">▼</span></td>
+      <td>419,796</td>
+      <td>299.1<span style="color: green">▼</span></td>
+      <td>nan%nan</td>
       <td>5,236</td>
-      <td>8.4<span style="color: green">▼</span></td>
+      <td>6.4<span style="color: green">▼</span></td>
       <td>315<span style="color: green">▼</span></td>
-      <td>105.00<span style="color: green">▼</span></td>
+      <td>105.79<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>
