@@ -25,7 +25,7 @@ statecode: AL
     <tr>
       <td>25</td>
       <td>4,903,185</td>
-      <td>8,146</td>
+      <td>8,166</td>
       <td><span style="color:transparent; font-size:0;">000.99</span>0.99<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>507,605</td>

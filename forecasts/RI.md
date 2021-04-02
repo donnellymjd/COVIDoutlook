@@ -25,9 +25,9 @@ statecode: RI
     <tr>
       <td>8</td>
       <td>1,059,361</td>
-      <td>3,269</td>
+      <td>3,356</td>
       <td><span style="color:transparent; font-size:0;">001.18</span>1.18<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">022</span>22<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">021</span>21<span style="color: red"> 🟥</span></td>
       <td>131,892</td>
       <td>256.9<span style="color: #ffcc00">▶</span></td>
       <td>nan%nan</td>

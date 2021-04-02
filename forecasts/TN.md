@@ -25,7 +25,7 @@ statecode: TN
     <tr>
       <td>15</td>
       <td>6,829,174</td>
-      <td>15,791</td>
+      <td>14,581</td>
       <td><span style="color:transparent; font-size:0;">000.95</span>0.95<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>748,068</td>

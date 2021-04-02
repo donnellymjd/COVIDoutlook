@@ -23,9 +23,9 @@ statecode: CA
   </thead>
   <tbody>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>39,512,223</td>
-      <td>50,445</td>
+      <td>50,024</td>
       <td><span style="color:transparent; font-size:0;">000.91</span>0.91<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>3,621,926</td>

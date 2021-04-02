@@ -25,9 +25,9 @@ statecode: HI
     <tr>
       <td>9</td>
       <td>1,415,872</td>
-      <td>4,347</td>
+      <td>4,462</td>
       <td><span style="color:transparent; font-size:0;">001.17</span>1.17<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">059</span>59<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">058</span>58<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>34,607</td>
       <td>81.4<span style="color: red">▲</span></td>
       <td>nan%nan</td>

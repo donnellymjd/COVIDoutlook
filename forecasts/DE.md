@@ -25,9 +25,9 @@ statecode: DE
     <tr>
       <td>7</td>
       <td>973,764</td>
-      <td>3,038</td>
+      <td>3,107</td>
       <td><span style="color:transparent; font-size:0;">001.14</span>1.14<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">092</span>92<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td><span style="color:transparent; font-size:0;">091</span>91<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td>110,286</td>
       <td>216.7<span style="color: #ffcc00">▶</span></td>
       <td>nan%nan</td>

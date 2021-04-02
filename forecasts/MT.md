@@ -25,7 +25,7 @@ statecode: MT
     <tr>
       <td>49</td>
       <td>1,068,778</td>
-      <td>750</td>
+      <td>722</td>
       <td><span style="color:transparent; font-size:0;">000.85</span>0.85<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>136,073</td>

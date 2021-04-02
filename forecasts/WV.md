@@ -23,9 +23,9 @@ statecode: WV
   </thead>
   <tbody>
     <tr>
-      <td>20</td>
+      <td>18</td>
       <td>1,792,147</td>
-      <td>3,275</td>
+      <td>3,332</td>
       <td><span style="color:transparent; font-size:0;">001.10</span>1.10<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>171,272</td>

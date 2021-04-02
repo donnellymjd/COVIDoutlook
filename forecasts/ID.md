@@ -23,9 +23,9 @@ statecode: ID
   </thead>
   <tbody>
     <tr>
-      <td>40</td>
+      <td>36</td>
       <td>1,787,065</td>
-      <td>2,088</td>
+      <td>2,105</td>
       <td><span style="color:transparent; font-size:0;">001.03</span>1.03<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
       <td>217,784</td>
