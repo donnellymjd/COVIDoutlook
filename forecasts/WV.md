@@ -23,18 +23,18 @@ statecode: WV
   </thead>
   <tbody>
     <tr>
-      <td>18</td>
+      <td>16</td>
       <td>1,792,147</td>
-      <td>3,332</td>
-      <td><span style="color:transparent; font-size:0;">001.10</span>1.10<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>171,272</td>
-      <td>314.4<span style="color: red">▲</span></td>
-      <td>nan%nan</td>
-      <td>2,634</td>
-      <td>4.9<span style="color: green">▼</span></td>
-      <td>270<span style="color: red">▲</span></td>
-      <td>88.29<span style="color: red">▲</span></td>
+      <td>4,858</td>
+      <td><span style="color:transparent; font-size:0;">001.11</span>1.11<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">115</span>115<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>173,379</td>
+      <td>367.6<span style="color: red">▲</span></td>
+      <td>nan%<span style="color: #ffcc00">▶</span></td>
+      <td>2,695</td>
+      <td>6.4<span style="color: green">▼</span></td>
+      <td>301<span style="color: red">▲</span></td>
+      <td>91.50<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

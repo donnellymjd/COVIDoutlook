@@ -23,18 +23,18 @@ statecode: MA
   </thead>
   <tbody>
     <tr>
-      <td>19</td>
+      <td>15</td>
       <td>6,892,503</td>
-      <td>12,445</td>
-      <td><span style="color:transparent; font-size:0;">001.08</span>1.08<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>20,297</td>
+      <td><span style="color:transparent; font-size:0;">001.02</span>1.02<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>713,720</td>
-      <td>1,702.9<span style="color: red">▲</span></td>
-      <td>nan%nan</td>
-      <td>16,983</td>
-      <td>26.9<span style="color: green">▼</span></td>
-      <td>689<span style="color: #ffcc00">▶</span></td>
-      <td>193.93<span style="color: red">▲</span></td>
+      <td>724,047</td>
+      <td>1,921.5<span style="color: red">▲</span></td>
+      <td>nan%<span style="color: #ffcc00">▶</span></td>
+      <td>17,146</td>
+      <td>29.1<span style="color: green">▼</span></td>
+      <td>639<span style="color: #ffcc00">▶</span></td>
+      <td>192.21<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
