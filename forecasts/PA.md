@@ -23,18 +23,18 @@ statecode: PA
   </thead>
   <tbody>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>12,801,989</td>
-      <td>48,074</td>
-      <td><span style="color:transparent; font-size:0;">001.12</span>1.12<span style="color: red"> 🟥</span></td>
-      <td><span style="color:transparent; font-size:0;">087</span>87<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>1,088,810</td>
-      <td>3,084.7<span style="color: red">▲</span></td>
+      <td>54,413</td>
+      <td><span style="color:transparent; font-size:0;">001.11</span>1.11<span style="color: red"> 🟥</span></td>
+      <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
+      <td>1,093,963</td>
+      <td>3,274.9<span style="color: red">▲</span></td>
       <td>nan%<span style="color: red">▲</span></td>
-      <td>25,195</td>
-      <td>29.1<span style="color: #ffcc00">▶</span></td>
+      <td>25,200</td>
+      <td>29.4<span style="color: #ffcc00">▶</span></td>
       <td>2,650<span style="color: red">▲</span></td>
-      <td>744.57<span style="color: red">▲</span></td>
+      <td>760.86<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
