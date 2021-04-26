@@ -35,7 +35,7 @@ statecode: SC
       <td><span style="color:transparent; font-size:0;">000009,478</span>9,478</td>
       <td><span style="color:transparent; font-size:0;">000000035%</span>35%</td>
       <td><span style="color:transparent; font-size:0;">000000040%</span>40%</td>
-      <td><span style="color:transparent; font-size:0;">210630</span>June 30, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210621</span>June 21, 2021</td>
       <td>603,378</td>
       <td>610.6<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000005.3%</span>5.3%<span style="color: #ffcc00">▶</span></td>

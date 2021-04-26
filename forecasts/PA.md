@@ -35,7 +35,7 @@ statecode: PA
       <td><span style="color:transparent; font-size:0;">000078,699</span>78,699</td>
       <td><span style="color:transparent; font-size:0;">000000047%</span>47%</td>
       <td><span style="color:transparent; font-size:0;">000000042%</span>42%</td>
-      <td><span style="color:transparent; font-size:0;">210713</span>July 13, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210704</span>July 04, 2021</td>
       <td>1,174,102</td>
       <td>3,613.5<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000008.2%</span>8.2%<span style="color: #ffcc00">▶</span></td>

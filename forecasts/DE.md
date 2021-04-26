@@ -35,7 +35,7 @@ statecode: DE
       <td><span style="color:transparent; font-size:0;">000004,777</span>4,777</td>
       <td><span style="color:transparent; font-size:0;">000000045%</span>45%</td>
       <td><span style="color:transparent; font-size:0;">000000041%</span>41%</td>
-      <td><span style="color:transparent; font-size:0;">210518</span>May 18, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210513</span>May 13, 2021</td>
       <td>118,839</td>
       <td>310.4<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000005.8%</span>5.8%<span style="color: #ffcc00">▶</span></td>

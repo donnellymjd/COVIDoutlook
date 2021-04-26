@@ -35,7 +35,7 @@ statecode: KY
       <td><span style="color:transparent; font-size:0;">000010,705</span>10,705</td>
       <td><span style="color:transparent; font-size:0;">000000040%</span>40%</td>
       <td><span style="color:transparent; font-size:0;">000000036%</span>36%</td>
-      <td><span style="color:transparent; font-size:0;">210815</span>August 15, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210801</span>August 01, 2021</td>
       <td>473,117</td>
       <td>398.4<span style="color: red">▲</span></td>
       <td><span style="color:transparent; font-size:0;">0000003.8%</span>3.8%<span style="color: #ffcc00">▶</span></td>

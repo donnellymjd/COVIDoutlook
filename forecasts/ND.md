@@ -35,7 +35,7 @@ statecode: ND
       <td><span style="color:transparent; font-size:0;">0000000898</span>898</td>
       <td><span style="color:transparent; font-size:0;">000000039%</span>39%</td>
       <td><span style="color:transparent; font-size:0;">000000040%</span>40%</td>
-      <td><span style="color:transparent; font-size:0;">210620</span>June 20, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210608</span>June 08, 2021</td>
       <td>81,851</td>
       <td>70.1<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000003.3%</span>3.3%<span style="color: #ffcc00">▶</span></td>

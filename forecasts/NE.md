@@ -35,7 +35,7 @@ statecode: NE
       <td><span style="color:transparent; font-size:0;">000005,329</span>5,329</td>
       <td><span style="color:transparent; font-size:0;">000000042%</span>42%</td>
       <td><span style="color:transparent; font-size:0;">000000037%</span>37%</td>
-      <td><span style="color:transparent; font-size:0;">210606</span>June 06, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210531</span>May 31, 2021</td>
       <td>296,123</td>
       <td>278.1<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000007.7%</span>7.7%<span style="color: #ffcc00">▶</span></td>

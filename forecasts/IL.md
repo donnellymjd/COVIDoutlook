@@ -35,7 +35,7 @@ statecode: IL
       <td><span style="color:transparent; font-size:0;">000059,226</span>59,226</td>
       <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
       <td><span style="color:transparent; font-size:0;">000000037%</span>37%</td>
-      <td><span style="color:transparent; font-size:0;">210810</span>August 10, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210729</span>July 29, 2021</td>
       <td>1,307,185</td>
       <td>2,585.0<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000004.2%</span>4.2%<span style="color: #ffcc00">▶</span></td>

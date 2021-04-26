@@ -35,7 +35,7 @@ statecode: UT
       <td><span style="color:transparent; font-size:0;">000011,727</span>11,727</td>
       <td><span style="color:transparent; font-size:0;">000000038%</span>38%</td>
       <td><span style="color:transparent; font-size:0;">000000028%</span>28%</td>
-      <td><span style="color:transparent; font-size:0;">210622</span>June 22, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210615</span>June 15, 2021</td>
       <td>488,880</td>
       <td>313.4<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000004.1%</span>4.1%<span style="color: #ffcc00">▶</span></td>

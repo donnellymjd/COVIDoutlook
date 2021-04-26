@@ -35,7 +35,7 @@ statecode: OH
       <td><span style="color:transparent; font-size:0;">000030,654</span>30,654</td>
       <td><span style="color:transparent; font-size:0;">000000039%</span>39%</td>
       <td><span style="color:transparent; font-size:0;">000000038%</span>38%</td>
-      <td><span style="color:transparent; font-size:0;">210808</span>August 08, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210724</span>July 24, 2021</td>
       <td>924,111</td>
       <td>1,390.0<span style="color: red">▲</span></td>
       <td><span style="color:transparent; font-size:0;">0000004.6%</span>4.6%<span style="color: #ffcc00">▶</span></td>

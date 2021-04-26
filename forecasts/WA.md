@@ -35,7 +35,7 @@ statecode: WA
       <td><span style="color:transparent; font-size:0;">000040,290</span>40,290</td>
       <td><span style="color:transparent; font-size:0;">000000043%</span>43%</td>
       <td><span style="color:transparent; font-size:0;">000000035%</span>35%</td>
-      <td><span style="color:transparent; font-size:0;">210603</span>June 03, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210530</span>May 30, 2021</td>
       <td>276,097</td>
       <td>875.2<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000005.2%</span>5.2%<span style="color: #ffcc00">▶</span></td>

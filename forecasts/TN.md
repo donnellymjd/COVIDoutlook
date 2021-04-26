@@ -35,7 +35,7 @@ statecode: TN
       <td><span style="color:transparent; font-size:0;">000015,511</span>15,511</td>
       <td><span style="color:transparent; font-size:0;">000000033%</span>33%</td>
       <td><span style="color:transparent; font-size:0;">000000037%</span>37%</td>
-      <td><span style="color:transparent; font-size:0;">210621</span>June 21, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210612</span>June 12, 2021</td>
       <td>769,804</td>
       <td>625.6<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000007.0%</span>7.0%<span style="color: #ffcc00">▶</span></td>

@@ -35,7 +35,7 @@ statecode: OR
       <td><span style="color:transparent; font-size:0;">000020,552</span>20,552</td>
       <td><span style="color:transparent; font-size:0;">000000042%</span>42%</td>
       <td><span style="color:transparent; font-size:0;">000000030%</span>30%</td>
-      <td><span style="color:transparent; font-size:0;">210608</span>June 08, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210603</span>June 03, 2021</td>
       <td>220,797</td>
       <td>727.1<span style="color: red">▲</span></td>
       <td><span style="color:transparent; font-size:0;">0000005.5%</span>5.5%<span style="color: red">▲</span></td>

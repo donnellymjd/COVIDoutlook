@@ -35,7 +35,7 @@ statecode: IA
       <td><span style="color:transparent; font-size:0;">000009,928</span>9,928</td>
       <td><span style="color:transparent; font-size:0;">000000043%</span>43%</td>
       <td><span style="color:transparent; font-size:0;">000000037%</span>37%</td>
-      <td><span style="color:transparent; font-size:0;">210605</span>June 05, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210529</span>May 29, 2021</td>
       <td>359,918</td>
       <td>367.7<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000005.8%</span>5.8%<span style="color: #ffcc00">▶</span></td>

@@ -35,7 +35,7 @@ statecode: NY
       <td><span style="color:transparent; font-size:0;">000089,641</span>89,641</td>
       <td><span style="color:transparent; font-size:0;">000000045%</span>45%</td>
       <td><span style="color:transparent; font-size:0;">000000041%</span>41%</td>
-      <td><span style="color:transparent; font-size:0;">210530</span>May 30, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210526</span>May 26, 2021</td>
       <td>2,280,421</td>
       <td>5,776.6<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000004.3%</span>4.3%<span style="color: #ffcc00">▶</span></td>

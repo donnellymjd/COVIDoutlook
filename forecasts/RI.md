@@ -35,7 +35,7 @@ statecode: RI
       <td><span style="color:transparent; font-size:0;">000007,548</span>7,548</td>
       <td><span style="color:transparent; font-size:0;">000000049%</span>49%</td>
       <td><span style="color:transparent; font-size:0;">000000045%</span>45%</td>
-      <td><span style="color:transparent; font-size:0;">210530</span>May 30, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210525</span>May 25, 2021</td>
       <td>176,180</td>
       <td>278.7<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000002.1%</span>2.1%<span style="color: #ffcc00">▶</span></td>

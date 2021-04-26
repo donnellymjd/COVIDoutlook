@@ -35,7 +35,7 @@ statecode: AR
       <td><span style="color:transparent; font-size:0;">000006,638</span>6,638</td>
       <td><span style="color:transparent; font-size:0;">000000035%</span>35%</td>
       <td><span style="color:transparent; font-size:0;">000000035%</span>35%</td>
-      <td><span style="color:transparent; font-size:0;">210621</span>June 21, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210614</span>June 14, 2021</td>
       <td>231,876</td>
       <td>86.4<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000002.4%</span>2.4%<span style="color: #ffcc00">▶</span></td>

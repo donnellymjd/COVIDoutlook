@@ -35,7 +35,7 @@ statecode: FL
       <td><span style="color:transparent; font-size:0;">000079,051</span>79,051</td>
       <td><span style="color:transparent; font-size:0;">000000040%</span>40%</td>
       <td><span style="color:transparent; font-size:0;">000000037%</span>37%</td>
-      <td><span style="color:transparent; font-size:0;">210608</span>June 08, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210603</span>June 03, 2021</td>
       <td>2,755,413</td>
       <td>5,931.5<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000008.5%</span>8.5%<span style="color: #ffcc00">▶</span></td>

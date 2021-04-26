@@ -35,7 +35,7 @@ statecode: MO
       <td><span style="color:transparent; font-size:0;">000018,155</span>18,155</td>
       <td><span style="color:transparent; font-size:0;">000000036%</span>36%</td>
       <td><span style="color:transparent; font-size:0;">000000036%</span>36%</td>
-      <td><span style="color:transparent; font-size:0;">210726</span>July 26, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210719</span>July 19, 2021</td>
       <td>620,022</td>
       <td>378.6<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000004.9%</span>4.9%<span style="color: #ffcc00">▶</span></td>

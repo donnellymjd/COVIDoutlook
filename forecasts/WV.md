@@ -35,7 +35,7 @@ statecode: WV
       <td><span style="color:transparent; font-size:0;">000001,870</span>1,870</td>
       <td><span style="color:transparent; font-size:0;">000000035%</span>35%</td>
       <td><span style="color:transparent; font-size:0;">000000040%</span>40%</td>
-      <td><span style="color:transparent; font-size:0;">210701</span>July 01, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210618</span>June 18, 2021</td>
       <td>181,693</td>
       <td>386.6<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000006.9%</span>6.9%<span style="color: #ffcc00">▶</span></td>

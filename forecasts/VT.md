@@ -35,7 +35,7 @@ statecode: VT
       <td><span style="color:transparent; font-size:0;">000004,531</span>4,531</td>
       <td><span style="color:transparent; font-size:0;">000000051%</span>51%</td>
       <td><span style="color:transparent; font-size:0;">000000035%</span>35%</td>
-      <td><span style="color:transparent; font-size:0;">210523</span>May 23, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210520</span>May 20, 2021</td>
       <td>32,106</td>
       <td>128.7<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000001.6%</span>1.6%<span style="color: #ffcc00">▶</span></td>

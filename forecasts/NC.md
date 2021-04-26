@@ -35,7 +35,7 @@ statecode: NC
       <td><span style="color:transparent; font-size:0;">000029,943</span>29,943</td>
       <td><span style="color:transparent; font-size:0;">000000038%</span>38%</td>
       <td><span style="color:transparent; font-size:0;">000000035%</span>35%</td>
-      <td><span style="color:transparent; font-size:0;">210716</span>July 16, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210708</span>July 08, 2021</td>
       <td>947,996</td>
       <td>1,625.5<span style="color: red">▲</span></td>
       <td><span style="color:transparent; font-size:0;">0000006.1%</span>6.1%<span style="color: #ffcc00">▶</span></td>

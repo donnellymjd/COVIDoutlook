@@ -35,7 +35,7 @@ statecode: MI
       <td><span style="color:transparent; font-size:0;">000038,742</span>38,742</td>
       <td><span style="color:transparent; font-size:0;">000000041%</span>41%</td>
       <td><span style="color:transparent; font-size:0;">000000039%</span>39%</td>
-      <td><span style="color:transparent; font-size:0;">210817</span>August 17, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210806</span>August 06, 2021</td>
       <td>1,026,817</td>
       <td>5,888.6<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000012.8%</span>12.8%<span style="color: red">▲</span></td>

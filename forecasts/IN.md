@@ -35,7 +35,7 @@ statecode: IN
       <td><span style="color:transparent; font-size:0;">000017,774</span>17,774</td>
       <td><span style="color:transparent; font-size:0;">000000035%</span>35%</td>
       <td><span style="color:transparent; font-size:0;">000000036%</span>36%</td>
-      <td><span style="color:transparent; font-size:0;">210802</span>August 02, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210724</span>July 24, 2021</td>
       <td>800,859</td>
       <td>951.4<span style="color: red">▲</span></td>
       <td><span style="color:transparent; font-size:0;">0000005.2%</span>5.2%<span style="color: #ffcc00">▶</span></td>

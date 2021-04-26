@@ -35,7 +35,7 @@ statecode: AK
       <td><span style="color:transparent; font-size:0;">000001,610</span>1,610</td>
       <td><span style="color:transparent; font-size:0;">000000041%</span>41%</td>
       <td><span style="color:transparent; font-size:0;">000000041%</span>41%</td>
-      <td><span style="color:transparent; font-size:0;">210607</span>June 07, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210529</span>May 29, 2021</td>
       <td>108,587</td>
       <td>182.6<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000003.2%</span>3.2%<span style="color: #ffcc00">▶</span></td>

@@ -35,7 +35,7 @@ statecode: HI
       <td><span style="color:transparent; font-size:0;">000020,042</span>20,042</td>
       <td><span style="color:transparent; font-size:0;">000000049%</span>49%</td>
       <td><span style="color:transparent; font-size:0;">000000037%</span>37%</td>
-      <td><span style="color:transparent; font-size:0;">210520</span>May 20, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210518</span>May 18, 2021</td>
       <td>37,147</td>
       <td>90.9<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000001.7%</span>1.7%<span style="color: #ffcc00">▶</span></td>

@@ -35,7 +35,7 @@ statecode: KS
       <td><span style="color:transparent; font-size:0;">000007,542</span>7,542</td>
       <td><span style="color:transparent; font-size:0;">000000042%</span>42%</td>
       <td><span style="color:transparent; font-size:0;">000000038%</span>38%</td>
-      <td><span style="color:transparent; font-size:0;">210610</span>June 10, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210603</span>June 03, 2021</td>
       <td>290,720</td>
       <td>190.9<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000003.8%</span>3.8%<span style="color: #ffcc00">▶</span></td>

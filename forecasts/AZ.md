@@ -35,7 +35,7 @@ statecode: AZ
       <td><span style="color:transparent; font-size:0;">000023,214</span>23,214</td>
       <td><span style="color:transparent; font-size:0;">000000039%</span>39%</td>
       <td><span style="color:transparent; font-size:0;">000000036%</span>36%</td>
-      <td><span style="color:transparent; font-size:0;">210714</span>July 14, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210705</span>July 05, 2021</td>
       <td>860,039</td>
       <td>675.3<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000004.4%</span>4.4%<span style="color: #ffcc00">▶</span></td>

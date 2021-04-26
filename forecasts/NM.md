@@ -35,7 +35,7 @@ statecode: NM
       <td><span style="color:transparent; font-size:0;">000006,679</span>6,679</td>
       <td><span style="color:transparent; font-size:0;">000000050%</span>50%</td>
       <td><span style="color:transparent; font-size:0;">000000043%</span>43%</td>
-      <td><span style="color:transparent; font-size:0;">210516</span>May 16, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210512</span>May 12, 2021</td>
       <td>142,657</td>
       <td>116.5<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000002.7%</span>2.7%<span style="color: #ffcc00">▶</span></td>

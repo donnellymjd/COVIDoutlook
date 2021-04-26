@@ -35,7 +35,7 @@ statecode: CO
       <td><span style="color:transparent; font-size:0;">000022,932</span>22,932</td>
       <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
       <td><span style="color:transparent; font-size:0;">000000034%</span>34%</td>
-      <td><span style="color:transparent; font-size:0;">210718</span>July 18, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210709</span>July 09, 2021</td>
       <td>484,236</td>
       <td>1,337.8<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000005.6%</span>5.6%<span style="color: #ffcc00">▶</span></td>

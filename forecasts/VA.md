@@ -35,7 +35,7 @@ statecode: VA
       <td><span style="color:transparent; font-size:0;">000038,723</span>38,723</td>
       <td><span style="color:transparent; font-size:0;">000000045%</span>45%</td>
       <td><span style="color:transparent; font-size:0;">000000041%</span>41%</td>
-      <td><span style="color:transparent; font-size:0;">210602</span>June 02, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210528</span>May 28, 2021</td>
       <td>916,438</td>
       <td>1,012.6<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000005.8%</span>5.8%<span style="color: #ffcc00">▶</span></td>

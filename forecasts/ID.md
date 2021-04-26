@@ -35,7 +35,7 @@ statecode: ID
       <td><span style="color:transparent; font-size:0;">000003,381</span>3,381</td>
       <td><span style="color:transparent; font-size:0;">000000033%</span>33%</td>
       <td><span style="color:transparent; font-size:0;">000000030%</span>30%</td>
-      <td><span style="color:transparent; font-size:0;">210801</span>August 01, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210718</span>July 18, 2021</td>
       <td>222,029</td>
       <td>142.6<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000004.6%</span>4.6%<span style="color: #ffcc00">▶</span></td>

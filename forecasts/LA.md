@@ -35,7 +35,7 @@ statecode: LA
       <td><span style="color:transparent; font-size:0;">000006,049</span>6,049</td>
       <td><span style="color:transparent; font-size:0;">000000032%</span>32%</td>
       <td><span style="color:transparent; font-size:0;">000000037%</span>37%</td>
-      <td><span style="color:transparent; font-size:0;">210725</span>July 25, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210723</span>July 23, 2021</td>
       <td>512,646</td>
       <td>275.9<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000003.0%</span>3.0%<span style="color: #ffcc00">▶</span></td>

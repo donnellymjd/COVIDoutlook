@@ -35,7 +35,7 @@ statecode: AL
       <td><span style="color:transparent; font-size:0;">000009,626</span>9,626</td>
       <td><span style="color:transparent; font-size:0;">000000031%</span>31%</td>
       <td><span style="color:transparent; font-size:0;">000000032%</span>32%</td>
-      <td><span style="color:transparent; font-size:0;">210628</span>June 28, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210621</span>June 21, 2021</td>
       <td>525,019</td>
       <td>361.4<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000007.0%</span>7.0%<span style="color: #ffcc00">▶</span></td>

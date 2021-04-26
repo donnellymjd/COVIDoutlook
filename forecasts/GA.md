@@ -35,7 +35,7 @@ statecode: GA
       <td><span style="color:transparent; font-size:0;">000025,877</span>25,877</td>
       <td><span style="color:transparent; font-size:0;">000000034%</span>34%</td>
       <td><span style="color:transparent; font-size:0;">000000031%</span>31%</td>
-      <td><span style="color:transparent; font-size:0;">210725</span>July 25, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210716</span>July 16, 2021</td>
       <td>809,345</td>
       <td>821.1<span style="color: red">▲</span></td>
       <td><span style="color:transparent; font-size:0;">0000005.5%</span>5.5%<span style="color: #ffcc00">▶</span></td>

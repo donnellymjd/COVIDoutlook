@@ -35,7 +35,7 @@ statecode: OK
       <td><span style="color:transparent; font-size:0;">000007,075</span>7,075</td>
       <td><span style="color:transparent; font-size:0;">000000038%</span>38%</td>
       <td><span style="color:transparent; font-size:0;">000000039%</span>39%</td>
-      <td><span style="color:transparent; font-size:0;">210627</span>June 27, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210615</span>June 15, 2021</td>
       <td>460,990</td>
       <td>166.0<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000005.6%</span>5.6%<span style="color: #ffcc00">▶</span></td>

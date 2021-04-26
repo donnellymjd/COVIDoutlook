@@ -35,7 +35,7 @@ statecode: NJ
       <td><span style="color:transparent; font-size:0;">000046,736</span>46,736</td>
       <td><span style="color:transparent; font-size:0;">000000049%</span>49%</td>
       <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
-      <td>NaN</td>
+      <td><span style="color:transparent; font-size:0;">210815</span>August 15, 2021</td>
       <td>951,412</td>
       <td>2,987.3<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000007.6%</span>7.6%<span style="color: green">▼</span></td>

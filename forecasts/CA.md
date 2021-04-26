@@ -35,7 +35,7 @@ statecode: CA
       <td><span style="color:transparent; font-size:0;">000205,689</span>205,689</td>
       <td><span style="color:transparent; font-size:0;">000000046%</span>46%</td>
       <td><span style="color:transparent; font-size:0;">000000035%</span>35%</td>
-      <td><span style="color:transparent; font-size:0;">210622</span>June 22, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210616</span>June 16, 2021</td>
       <td>3,680,843</td>
       <td>1,390.4<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000001.5%</span>1.5%<span style="color: #ffcc00">▶</span></td>

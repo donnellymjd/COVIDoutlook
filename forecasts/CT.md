@@ -35,7 +35,7 @@ statecode: CT
       <td><span style="color:transparent; font-size:0;">000020,083</span>20,083</td>
       <td><span style="color:transparent; font-size:0;">000000052%</span>52%</td>
       <td><span style="color:transparent; font-size:0;">000000049%</span>49%</td>
-      <td><span style="color:transparent; font-size:0;">210522</span>May 22, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210517</span>May 17, 2021</td>
       <td>459,720</td>
       <td>709.5<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000003.1%</span>3.1%<span style="color: #ffcc00">▶</span></td>
