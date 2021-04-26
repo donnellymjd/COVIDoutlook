@@ -11,7 +11,11 @@ statecode: TN
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
-      <th>Days to Hospital Capacity</th>
+      <th>Vaccine Hesistant, % of Adults</th>
+      <th>Daily Vaccines Initiated</th>
+      <th>Vaccines Initiated, % of Pop.</th>
+      <th>Vaccine & Acquired Immunity, % of Pop.</th>
+      <th>Forecasted Date Herd Immunity Achieved</th>
       <th>Total Cases</th>
       <th>14-Day Avg Daily Cases</th>
       <th>Positivity Rate</th>
@@ -23,18 +27,22 @@ statecode: TN
   </thead>
   <tbody>
     <tr>
-      <td>34</td>
+      <td>9</td>
       <td>6,829,174</td>
-      <td>9,008</td>
-      <td><span style="color:transparent; font-size:0;">000.87</span>0.87<span style="color: green"> 🟢</span></td>
-      <td><span style="color:transparent; font-size:0;">121</span>120+<span style="color: green"> 🟢</span></td>
-      <td>749,840</td>
-      <td>412.6<span style="color: green">▼</span></td>
-      <td>nan%nan</td>
-      <td>11,929</td>
-      <td>15.4<span style="color: red">▲</span></td>
-      <td>808<span style="color: red">▲</span></td>
-      <td>159.00<span style="color: red">▲</span></td>
+      <td>19,809</td>
+      <td><span style="color:transparent; font-size:0;">000.91</span>0.91<span style="color: green"> 🟢</span></td>
+      <td><span style="color:transparent; font-size:0;">000000024%</span>24%</td>
+      <td><span style="color:transparent; font-size:0;">000015,511</span>15,511</td>
+      <td><span style="color:transparent; font-size:0;">000000033%</span>33%</td>
+      <td><span style="color:transparent; font-size:0;">000000038%</span>38%</td>
+      <td>June 17, 2021</td>
+      <td>769,002</td>
+      <td>570.6<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000006.9%</span>6.9%<span style="color: #ffcc00">▶</span></td>
+      <td>12,146</td>
+      <td>10.1<span style="color: #ffcc00">▶</span></td>
+      <td>868<span style="color: #ffcc00">▶</span></td>
+      <td>159.79<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>
@@ -77,6 +85,23 @@ New COVID-19 Cases Per 100k Residents Over Last 14 Days
 ### Model and Forecast Results
 Google Movement Data
 : Through its [Community Mobility Reports](https://www.google.com/covid19/mobility/), Google has made public aggregate data that represent "movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential." These are percent changes from baseline (roughly the average of visits in February 2020.) Notice the spike in grocery and pharmacy visits in mid-March in most states.
+
+- - - -
+<img src='/assets/images/covid19/TN_ch_vax_status.png'>
+Total People Vaccinated Forecast
+: This chart shows the forecasted total number of people with completed vaccinations over time. It also shows the reported number of people with partially complete and completed vaccinations. Our forecast assumes that all adults, except for those who reported as hesitant to receive the vaccine in the US Census Bureau's Household Pulse Survey, will eventually be vaccinated. The rate of vaccinations is expected to slow as we approach the total number of adults who are willing to get vaccinated.
+
+- - - -
+<img src='/assets/images/covid19/TN_ch_vax_daily.png'>
+Daily New Vaccinations Initiated Forecast
+: This chart shows the forecasted number of people initiating a COVID-19 vaccination per day. It also shows the reported number for the same metric. Our forecast assumes that all adults, except for those who reported as hesitant to receive the vaccine in the US Census Bureau's Household Pulse Survey, will eventually be vaccinated. The rate of vaccinations is expected to slow as we approach the total number of adults who are willing to get vaccinated.
+
+- - - -
+<img src='/assets/images/covid19/TN_ch_rt_scen_explanation.png'>
+Reproduction Rate Breakdown & Forecast
+: This chart shows the historical and the forecasted effective reproduction rate (Rt) alongside what the reproduction rate hypothetically would have looked like if there were no immunity to COVID-19. In order to calculate the hypothetical Pre-Immunity/Behavioral Reproduction Rate, we divide the observed effective reproduction rate by the percentage of the overall population without any immunity (aka the susceptible population.) To estimate the susceptible population, we model the # of people previously infected and assume they have acquired immunity after their infection AND we forecast the number of people who have completed a vaccination against COVID-19. To avoid double counting, we assume vaccines are randomly distributed across susceptible and recovered populations.
+
+By calculating the hypothetical Pre-Immunity/Behavioral Reproduction Rate, we can see how close we are to the prevailing original reproduction rate (aka the basic Reproduction rate) at the beginning of the crisis. The original rate shows us how transmissible COVID-19 is in each region without mitigation measures and without immunity. Since our ultimate goal is to return to "normal life" without mitigation measures like social distancing, we will need to control the spread of COVID-19 through immunity alone. The forecasted hypothetical Rt brings us back to the original R0 by July 4, 2021, with an additional 20% transmissibility due to variants of concern. If after that July 4th date, the forecasted effective Rt is below 1, then the region has achieved herd immunity and will eventually see their infection rate drop to very low levels.
 
 - - - -
 <img src='/assets/images/covid19/TN_ch_exposed_infectious.png'>

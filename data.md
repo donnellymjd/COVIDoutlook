@@ -13,11 +13,14 @@ Our models and charts rely on data from a variety of publicly available datasets
  - [US Census](https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/totals/co-est2019-alldata.csv) - County-level data on populations.
  - [Google Mobility Data](https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv) - While currently not used in our models, this data powers our mobility tracking charts.
  - [US Dept of HHS - Hopsital Capacity](https://healthdata.gov/api/3/action/package_show?id=060e4acc-241d-4d19-a929-f5f7b653c648) - After the CDC stopped collecting this data earlier in 2020, the HHS began collecting and hosting data reported by states of currently reported hospital bed capacity.
+ - [COVID ActNow](https://apidocs.covidactnow.org/data-definitions)
+ - [US Census Bureau's Household Pulse Survey - Vaccine Hesitancy](https://data.cdc.gov/stories/s/Vaccine-Hesitancy-for-COVID-19/cnd2-a6zw)
 
 ### Reference Downloads (comma separated values)
  - [COVID-19 Related Policy Actions by State - Source: KFF.org](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_interventions.csv)
 
 ### Our Forecasts (comma separated values)
+ - [Forecast published on April 25, 2021](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_fore_allstates_20210425.csv)
  - [Forecast published on April 06, 2021](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_fore_allstates_20210406.csv)
  - [Forecast published on April 05, 2021](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_fore_allstates_20210405.csv)
  - [Forecast published on April 02, 2021](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_fore_allstates_20210402.csv)

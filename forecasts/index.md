@@ -10,7 +10,11 @@ statecode: US
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
-      <th>Days to Hospital Capacity</th>
+      <th>Vaccine Hesistant, % of Adults</th>
+      <th>Daily Vaccines Initiated</th>
+      <th>Vaccines Initiated, % of Pop.</th>
+      <th>Vaccine & Acquired Immunity, % of Pop.</th>
+      <th>Forecasted Date Herd Immunity Achieved</th>
       <th>Total Cases</th>
       <th>14-Day Avg Daily Cases</th>
       <th>Positivity Rate</th>
@@ -23,16 +27,20 @@ statecode: US
   <tbody>
     <tr>
       <td>328,239,523</td>
-      <td>777,771</td>
-      <td>1.06</td>
-      <td>Not Available</td>
-      <td>32,566,877</td>
-      <td>49,934.3</td>
+      <td>635,082</td>
+      <td>0.96</td>
+      <td>16%</td>
+      <td>1,279,200</td>
+      <td>42%</td>
+      <td>37%</td>
+      <td>2021-08-13</td>
+      <td>33,880,132</td>
+      <td>50,443.7</td>
       <td>nan%</td>
-      <td>552,125</td>
-      <td>987.0</td>
-      <td>41,003</td>
-      <td>10,327.00</td>
+      <td>566,540</td>
+      <td>711.9</td>
+      <td>43,806</td>
+      <td>10,695.43</td>
     </tr>
   </tbody>
 </table>
@@ -75,6 +83,23 @@ New COVID-19 Cases Per 100k Residents Over Last 14 Days
 ### Model and Forecast Results
 Google Movement Data
 : Through its [Community Mobility Reports](https://www.google.com/covid19/mobility/), Google has made public aggregate data that represent "movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential." These are percent changes from baseline (roughly the average of visits in February 2020.) Notice the spike in grocery and pharmacy visits in mid-March in most states.
+
+- - - -
+<img src='/assets/images/covid19/US_ch_vax_status.png'>
+Total People Vaccinated Forecast
+: This chart shows the forecasted total number of people with completed vaccinations over time. It also shows the reported number of people with partially complete and completed vaccinations. Our forecast assumes that all adults, except for those who reported as hesitant to receive the vaccine in the US Census Bureau's Household Pulse Survey, will eventually be vaccinated. The rate of vaccinations is expected to slow as we approach the total number of adults who are willing to get vaccinated.
+
+- - - -
+<img src='/assets/images/covid19/US_ch_vax_daily.png'>
+Daily New Vaccinations Initiated Forecast
+: This chart shows the forecasted number of people initiating a COVID-19 vaccination per day. It also shows the reported number for the same metric. Our forecast assumes that all adults, except for those who reported as hesitant to receive the vaccine in the US Census Bureau's Household Pulse Survey, will eventually be vaccinated. The rate of vaccinations is expected to slow as we approach the total number of adults who are willing to get vaccinated.
+
+- - - -
+<img src='/assets/images/covid19/US_ch_rt_scen_explanation.png'>
+Reproduction Rate Breakdown & Forecast
+: This chart shows the historical and the forecasted effective reproduction rate (Rt) alongside what the reproduction rate hypothetically would have looked like if there were no immunity to COVID-19. In order to calculate the hypothetical Pre-Immunity/Behavioral Reproduction Rate, we divide the observed effective reproduction rate by the percentage of the overall population without any immunity (aka the susceptible population.) To estimate the susceptible population, we model the # of people previously infected and assume they have acquired immunity after their infection AND we forecast the number of people who have completed a vaccination against COVID-19. To avoid double counting, we assume vaccines are randomly distributed across susceptible and recovered populations.
+
+By calculating the hypothetical Pre-Immunity/Behavioral Reproduction Rate, we can see how close we are to the prevailing original reproduction rate (aka the basic Reproduction rate) at the beginning of the crisis. The original rate shows us how transmissible COVID-19 is in each region without mitigation measures and without immunity. Since our ultimate goal is to return to "normal life" without mitigation measures like social distancing, we will need to control the spread of COVID-19 through immunity alone. The forecasted hypothetical Rt brings us back to the original R0 by July 4, 2021, with an additional 20% transmissibility due to variants of concern. If after that July 4th date, the forecasted effective Rt is below 1, then the region has achieved herd immunity and will eventually see their infection rate drop to very low levels.
 
 - - - -
 <img src='/assets/images/covid19/US_ch_exposed_infectious.png'>
