@@ -29,16 +29,16 @@ statecode: NJ
     <tr>
       <td>8</td>
       <td>8,882,190</td>
-      <td>25,998</td>
+      <td>24,796</td>
       <td><span style="color:transparent; font-size:0;">000.83</span>0.83<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000012%</span>12%</td>
       <td><span style="color:transparent; font-size:0;">000046,736</span>46,736</td>
       <td><span style="color:transparent; font-size:0;">000000049%</span>49%</td>
       <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
-      <td>July 29, 2021</td>
-      <td>949,101</td>
-      <td>2,825.7<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000008.0%</span>8.0%<span style="color: green">▼</span></td>
+      <td>NaN</td>
+      <td>951,412</td>
+      <td>2,987.3<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000007.6%</span>7.6%<span style="color: green">▼</span></td>
       <td>25,367</td>
       <td>36.3<span style="color: #ffcc00">▶</span></td>
       <td>1,982<span style="color: green">▼</span></td>
@@ -99,9 +99,7 @@ Daily New Vaccinations Initiated Forecast
 - - - -
 <img src='/assets/images/covid19/NJ_ch_rt_scen_explanation.png'>
 Reproduction Rate Breakdown & Forecast
-: This chart shows the historical and the forecasted effective reproduction rate (Rt) alongside what the reproduction rate hypothetically would have looked like if there were no immunity to COVID-19. In order to calculate the hypothetical Pre-Immunity/Behavioral Reproduction Rate, we divide the observed effective reproduction rate by the percentage of the overall population without any immunity (aka the susceptible population.) To estimate the susceptible population, we model the # of people previously infected and assume they have acquired immunity after their infection AND we forecast the number of people who have completed a vaccination against COVID-19. To avoid double counting, we assume vaccines are randomly distributed across susceptible and recovered populations.
-
-By calculating the hypothetical Pre-Immunity/Behavioral Reproduction Rate, we can see how close we are to the prevailing original reproduction rate (aka the basic Reproduction rate) at the beginning of the crisis. The original rate shows us how transmissible COVID-19 is in each region without mitigation measures and without immunity. Since our ultimate goal is to return to "normal life" without mitigation measures like social distancing, we will need to control the spread of COVID-19 through immunity alone. The forecasted hypothetical Rt brings us back to the original R0 by July 4, 2021, with an additional 20% transmissibility due to variants of concern. If after that July 4th date, the forecasted effective Rt is below 1, then the region has achieved herd immunity and will eventually see their infection rate drop to very low levels.
+: This chart shows the historical and the forecasted effective reproduction rate (Rt) alongside what the reproduction rate hypothetically would have looked like if there were no immunity to COVID-19. In order to calculate the hypothetical Pre-Immunity/Behavioral Reproduction Rate, we divide the observed effective reproduction rate by the percentage of the overall population without any immunity (aka the susceptible population.) To estimate the susceptible population, we model the # of people previously infected and assume they have acquired immunity after their infection AND we forecast the number of people who have completed a vaccination against COVID-19. To avoid double counting, we assume vaccines are randomly distributed across susceptible and recovered populations. By calculating the hypothetical Pre-Immunity/Behavioral Reproduction Rate, we can see how close we are to the prevailing original reproduction rate (aka the basic Reproduction rate) at the beginning of the crisis. The original rate shows us how transmissible COVID-19 is in each region without mitigation measures and without immunity. Since our ultimate goal is to return to "normal life" without mitigation measures like social distancing, we will need to control the spread of COVID-19 through immunity alone. The forecasted hypothetical Rt brings us back to the original R0 by July 4, 2021, with an additional 20% transmissibility due to variants of concern. (To prevent nonsensical results, we constrain the current VOC R0 to be no less than 2.0 and no greater than 3.0 in any state.) If after that July 4th date, the forecasted effective Rt is below 1, then the region has achieved herd immunity and will eventually see their infection rate drop to very low levels.
 
 - - - -
 <img src='/assets/images/covid19/NJ_ch_exposed_infectious.png'>
