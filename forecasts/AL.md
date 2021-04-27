@@ -27,22 +27,22 @@ statecode: AL
   </thead>
   <tbody>
     <tr>
-      <td>15</td>
+      <td>13</td>
       <td>4,903,185</td>
-      <td>9,608</td>
+      <td>9,866</td>
       <td><span style="color:transparent; font-size:0;">001.21</span>1.21<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000021%</span>21%</td>
-      <td><span style="color:transparent; font-size:0;">000009,626</span>9,626</td>
-      <td><span style="color:transparent; font-size:0;">000000031%</span>31%</td>
+      <td><span style="color:transparent; font-size:0;">000009,335</span>9,335</td>
       <td><span style="color:transparent; font-size:0;">000000032%</span>32%</td>
-      <td><span style="color:transparent; font-size:0;">210621</span>June 21, 2021</td>
-      <td>525,019</td>
-      <td>361.4<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000007.0%</span>7.0%<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">000000033%</span>33%</td>
+      <td><span style="color:transparent; font-size:0;">210623</span>June 23, 2021</td>
+      <td>525,260</td>
+      <td>370.0<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">0000006.9%</span>6.9%<span style="color: #ffcc00">▶</span></td>
       <td>10,851</td>
       <td>9.9<span style="color: green">▼</span></td>
       <td>445<span style="color: #ffcc00">▶</span></td>
-      <td>146.86<span style="color: green">▼</span></td>
+      <td>148.36<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

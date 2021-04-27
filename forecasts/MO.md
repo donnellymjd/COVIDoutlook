@@ -27,22 +27,22 @@ statecode: MO
   </thead>
   <tbody>
     <tr>
-      <td>20</td>
+      <td>28</td>
       <td>6,137,428</td>
-      <td>10,699</td>
-      <td><span style="color:transparent; font-size:0;">000.90</span>0.90<span style="color: green"> 🟢</span></td>
+      <td>9,366</td>
+      <td><span style="color:transparent; font-size:0;">000.89</span>0.89<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
-      <td><span style="color:transparent; font-size:0;">000018,155</span>18,155</td>
+      <td><span style="color:transparent; font-size:0;">000017,918</span>17,918</td>
       <td><span style="color:transparent; font-size:0;">000000036%</span>36%</td>
-      <td><span style="color:transparent; font-size:0;">000000036%</span>36%</td>
-      <td><span style="color:transparent; font-size:0;">210719</span>July 19, 2021</td>
+      <td><span style="color:transparent; font-size:0;">000000034%</span>34%</td>
+      <td><span style="color:transparent; font-size:0;">210722</span>July 22, 2021</td>
       <td>620,022</td>
-      <td>378.6<span style="color: green">▼</span></td>
+      <td>349.9<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000004.9%</span>4.9%<span style="color: #ffcc00">▶</span></td>
       <td>8,695</td>
       <td>12.9<span style="color: red">▲</span></td>
       <td>755<span style="color: #ffcc00">▶</span></td>
-      <td>233.57<span style="color: #ffcc00">▶</span></td>
+      <td>234.71<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

@@ -27,22 +27,22 @@ statecode: OR
   </thead>
   <tbody>
     <tr>
-      <td>28</td>
+      <td>23</td>
       <td>4,217,737</td>
-      <td>6,648</td>
-      <td><span style="color:transparent; font-size:0;">001.23</span>1.23<span style="color: red"> 🟥</span></td>
+      <td>6,907</td>
+      <td><span style="color:transparent; font-size:0;">001.24</span>1.24<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
-      <td><span style="color:transparent; font-size:0;">000020,552</span>20,552</td>
+      <td><span style="color:transparent; font-size:0;">000020,655</span>20,655</td>
       <td><span style="color:transparent; font-size:0;">000000042%</span>42%</td>
-      <td><span style="color:transparent; font-size:0;">000000030%</span>30%</td>
+      <td><span style="color:transparent; font-size:0;">000000031%</span>31%</td>
       <td><span style="color:transparent; font-size:0;">210603</span>June 03, 2021</td>
-      <td>220,797</td>
-      <td>727.1<span style="color: red">▲</span></td>
-      <td><span style="color:transparent; font-size:0;">0000005.5%</span>5.5%<span style="color: red">▲</span></td>
-      <td>2,484</td>
-      <td>3.1<span style="color: #ffcc00">▶</span></td>
+      <td>221,463</td>
+      <td>754.3<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">0000005.6%</span>5.6%<span style="color: red">▲</span></td>
+      <td>2,485</td>
+      <td>3.2<span style="color: #ffcc00">▶</span></td>
       <td>334<span style="color: red">▲</span></td>
-      <td>81.71<span style="color: red">▲</span></td>
+      <td>82.29<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

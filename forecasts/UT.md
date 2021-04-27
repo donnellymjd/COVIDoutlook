@@ -27,22 +27,22 @@ statecode: UT
   </thead>
   <tbody>
     <tr>
-      <td>49</td>
+      <td>47</td>
       <td>3,205,958</td>
-      <td>2,455</td>
-      <td><span style="color:transparent; font-size:0;">000.99</span>0.99<span style="color: green"> 🟢</span></td>
+      <td>2,488</td>
+      <td><span style="color:transparent; font-size:0;">001.00</span>1.00<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">000000014%</span>14%</td>
-      <td><span style="color:transparent; font-size:0;">000011,727</span>11,727</td>
+      <td><span style="color:transparent; font-size:0;">000011,729</span>11,729</td>
       <td><span style="color:transparent; font-size:0;">000000038%</span>38%</td>
-      <td><span style="color:transparent; font-size:0;">000000028%</span>28%</td>
-      <td><span style="color:transparent; font-size:0;">210615</span>June 15, 2021</td>
-      <td>488,880</td>
-      <td>313.4<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">000000029%</span>29%</td>
+      <td><span style="color:transparent; font-size:0;">210617</span>June 17, 2021</td>
+      <td>489,113</td>
+      <td>315.1<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000004.1%</span>4.1%<span style="color: #ffcc00">▶</span></td>
-      <td>2,180</td>
-      <td>1.5<span style="color: green">▼</span></td>
+      <td>2,182</td>
+      <td>1.6<span style="color: green">▼</span></td>
       <td>150<span style="color: #ffcc00">▶</span></td>
-      <td>25.93<span style="color: #ffcc00">▶</span></td>
+      <td>26.86<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>
