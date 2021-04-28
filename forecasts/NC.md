@@ -27,22 +27,22 @@ statecode: NC
   </thead>
   <tbody>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>10,488,084</td>
-      <td>15,779</td>
-      <td><span style="color:transparent; font-size:0;">000.92</span>0.92<span style="color: green"> 🟢</span></td>
+      <td>14,659</td>
+      <td><span style="color:transparent; font-size:0;">000.90</span>0.90<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
-      <td><span style="color:transparent; font-size:0;">000029,120</span>29,120</td>
+      <td><span style="color:transparent; font-size:0;">000028,031</span>28,031</td>
       <td><span style="color:transparent; font-size:0;">000000038%</span>38%</td>
       <td><span style="color:transparent; font-size:0;">000000035%</span>35%</td>
-      <td><span style="color:transparent; font-size:0;">210709</span>July 09, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210711</span>July 11, 2021</td>
       <td>948,815</td>
-      <td>1,606.9<span style="color: #ffcc00">▶</span></td>
+      <td>1,489.4<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000006.1%</span>6.1%<span style="color: #ffcc00">▶</span></td>
-      <td>12,523</td>
-      <td>19.6<span style="color: #ffcc00">▶</span></td>
+      <td>12,560</td>
+      <td>19.3<span style="color: red">▲</span></td>
       <td>1,218<span style="color: red">▲</span></td>
-      <td>266.86<span style="color: red">▲</span></td>
+      <td>267.21<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

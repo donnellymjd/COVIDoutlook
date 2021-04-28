@@ -27,22 +27,22 @@ statecode: DE
   </thead>
   <tbody>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>973,764</td>
-      <td>3,688</td>
-      <td><span style="color:transparent; font-size:0;">000.83</span>0.83<span style="color: green"> 🟢</span></td>
+      <td>3,117</td>
+      <td><span style="color:transparent; font-size:0;">000.79</span>0.79<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000013%</span>13%</td>
-      <td><span style="color:transparent; font-size:0;">000004,900</span>4,900</td>
+      <td><span style="color:transparent; font-size:0;">000004,785</span>4,785</td>
       <td><span style="color:transparent; font-size:0;">000000045%</span>45%</td>
       <td><span style="color:transparent; font-size:0;">000000041%</span>41%</td>
-      <td><span style="color:transparent; font-size:0;">210515</span>May 15, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210516</span>May 16, 2021</td>
       <td>118,839</td>
-      <td>289.2<span style="color: green">▼</span></td>
+      <td>270.1<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000005.8%</span>5.8%<span style="color: #ffcc00">▶</span></td>
-      <td>1,616</td>
-      <td>2.7<span style="color: #ffcc00">▶</span></td>
+      <td>1,617</td>
+      <td>2.6<span style="color: red">▲</span></td>
       <td>225<span style="color: red">▲</span></td>
-      <td>70.14<span style="color: red">▲</span></td>
+      <td>70.21<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
