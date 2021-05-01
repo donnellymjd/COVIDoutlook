@@ -27,22 +27,22 @@ statecode: KS
   </thead>
   <tbody>
     <tr>
-      <td>38</td>
+      <td>32</td>
       <td>2,913,314</td>
-      <td>2,993</td>
-      <td><span style="color:transparent; font-size:0;">001.08</span>1.08<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>3,686</td>
+      <td><span style="color:transparent; font-size:0;">001.11</span>1.11<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000019%</span>19%</td>
-      <td><span style="color:transparent; font-size:0;">000006,235</span>6,235</td>
-      <td><span style="color:transparent; font-size:0;">000000042%</span>42%</td>
-      <td><span style="color:transparent; font-size:0;">000000039%</span>39%</td>
-      <td><span style="color:transparent; font-size:0;">210611</span>June 11, 2021</td>
-      <td>291,866</td>
-      <td>202.7<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000004.1%</span>4.1%<span style="color: #ffcc00">▶</span></td>
-      <td>4,978</td>
-      <td>2.4<span style="color: #ffcc00">▶</span></td>
-      <td>195<span style="color: #ffcc00">▶</span></td>
-      <td>54.93<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">000004,616</span>4,616</td>
+      <td><span style="color:transparent; font-size:0;">000000043%</span>43%</td>
+      <td><span style="color:transparent; font-size:0;">000000040%</span>40%</td>
+      <td><span style="color:transparent; font-size:0;">210612</span>June 12, 2021</td>
+      <td>292,132</td>
+      <td>177.4<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000004.2%</span>4.2%<span style="color: #ffcc00">▶</span></td>
+      <td>4,982</td>
+      <td>2.1<span style="color: #ffcc00">▶</span></td>
+      <td>253<span style="color: red">▲</span></td>
+      <td>60.21<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

@@ -29,20 +29,20 @@ statecode: CA
     <tr>
       <td>51</td>
       <td>39,512,223</td>
-      <td>22,630</td>
-      <td><span style="color:transparent; font-size:0;">000.90</span>0.90<span style="color: green"> 🟢</span></td>
+      <td>19,337</td>
+      <td><span style="color:transparent; font-size:0;">000.91</span>0.91<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000011%</span>11%</td>
-      <td><span style="color:transparent; font-size:0;">000190,418</span>190,418</td>
-      <td><span style="color:transparent; font-size:0;">000000048%</span>48%</td>
-      <td><span style="color:transparent; font-size:0;">000000036%</span>36%</td>
-      <td><span style="color:transparent; font-size:0;">210618</span>June 18, 2021</td>
+      <td><span style="color:transparent; font-size:0;">000175,943</span>175,943</td>
+      <td><span style="color:transparent; font-size:0;">000000049%</span>49%</td>
+      <td><span style="color:transparent; font-size:0;">000000037%</span>37%</td>
+      <td><span style="color:transparent; font-size:0;">210619</span>June 19, 2021</td>
       <td>3,697,229</td>
-      <td>1,856.9<span style="color: green">▼</span></td>
+      <td>1,317.9<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000001.4%</span>1.4%<span style="color: #ffcc00">▶</span></td>
-      <td>60,273</td>
-      <td>64.4<span style="color: green">▼</span></td>
-      <td>2,099<span style="color: #ffcc00">▶</span></td>
-      <td>705.93<span style="color: #ffcc00">▶</span></td>
+      <td>60,467</td>
+      <td>55.5<span style="color: green">▼</span></td>
+      <td>2,018<span style="color: #ffcc00">▶</span></td>
+      <td>659.07<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

@@ -27,22 +27,22 @@ statecode: NJ
   </thead>
   <tbody>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>8,882,190</td>
-      <td>22,387</td>
-      <td><span style="color:transparent; font-size:0;">000.80</span>0.80<span style="color: green"> 🟢</span></td>
+      <td>18,073</td>
+      <td><span style="color:transparent; font-size:0;">000.73</span>0.73<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000012%</span>12%</td>
-      <td><span style="color:transparent; font-size:0;">000042,727</span>42,727</td>
-      <td><span style="color:transparent; font-size:0;">000000051%</span>51%</td>
-      <td><span style="color:transparent; font-size:0;">000000046%</span>46%</td>
-      <td><span style="color:transparent; font-size:0;">210903</span>September 03, 2021</td>
-      <td>961,457</td>
-      <td>2,591.1<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000007.3%</span>7.3%<span style="color: green">▼</span></td>
-      <td>25,509</td>
-      <td>35.9<span style="color: red">▲</span></td>
-      <td>1,982<span style="color: green">▼</span></td>
-      <td>397.71<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">000038,820</span>38,820</td>
+      <td><span style="color:transparent; font-size:0;">000000052%</span>52%</td>
+      <td><span style="color:transparent; font-size:0;">000000047%</span>47%</td>
+      <td>Not Achieved. More vaccinations needed.<span style="color: red"> 🟥</span></td>
+      <td>963,827</td>
+      <td>1,972.5<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000007.0%</span>7.0%<span style="color: green">▼</span></td>
+      <td>25,554</td>
+      <td>30.0<span style="color: green">▼</span></td>
+      <td>1,654<span style="color: green">▼</span></td>
+      <td>359.79<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

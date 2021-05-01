@@ -27,22 +27,22 @@ statecode: NV
   </thead>
   <tbody>
     <tr>
-      <td>25</td>
+      <td>34</td>
       <td>3,080,156</td>
-      <td>4,454</td>
-      <td><span style="color:transparent; font-size:0;">000.94</span>0.94<span style="color: green"> 🟢</span></td>
+      <td>3,669</td>
+      <td><span style="color:transparent; font-size:0;">000.88</span>0.88<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000019%</span>19%</td>
-      <td><span style="color:transparent; font-size:0;">000008,474</span>8,474</td>
-      <td><span style="color:transparent; font-size:0;">000000039%</span>39%</td>
+      <td><span style="color:transparent; font-size:0;">000008,215</span>8,215</td>
+      <td><span style="color:transparent; font-size:0;">000000040%</span>40%</td>
       <td><span style="color:transparent; font-size:0;">000000035%</span>35%</td>
-      <td><span style="color:transparent; font-size:0;">210611</span>June 11, 2021</td>
-      <td>436,674</td>
-      <td>295.7<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000005.9%</span>5.9%<span style="color: #ffcc00">▶</span></td>
-      <td>5,448</td>
-      <td>6.8<span style="color: #ffcc00">▶</span></td>
-      <td>359<span style="color: red">▲</span></td>
-      <td>100.07<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">210613</span>June 13, 2021</td>
+      <td>436,791</td>
+      <td>222.6<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000005.9%</span>5.9%<span style="color: green">▼</span></td>
+      <td>5,464</td>
+      <td>7.0<span style="color: #ffcc00">▶</span></td>
+      <td>372<span style="color: #ffcc00">▶</span></td>
+      <td>101.43<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
