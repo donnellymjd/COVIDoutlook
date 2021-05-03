@@ -27,20 +27,20 @@ statecode: NJ
   </thead>
   <tbody>
     <tr>
-      <td>10</td>
+      <td>13</td>
       <td>8,882,190</td>
-      <td>18,073</td>
-      <td><span style="color:transparent; font-size:0;">000.73</span>0.73<span style="color: green"> 🟢</span></td>
+      <td>17,352</td>
+      <td><span style="color:transparent; font-size:0;">000.74</span>0.74<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000012%</span>12%</td>
-      <td><span style="color:transparent; font-size:0;">000038,820</span>38,820</td>
+      <td><span style="color:transparent; font-size:0;">000036,170</span>36,170</td>
       <td><span style="color:transparent; font-size:0;">000000052%</span>52%</td>
-      <td><span style="color:transparent; font-size:0;">000000047%</span>47%</td>
-      <td>Not Achieved. More vaccinations needed.<span style="color: red"> 🟥</span></td>
-      <td>963,827</td>
-      <td>1,972.5<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000007.0%</span>7.0%<span style="color: green">▼</span></td>
-      <td>25,554</td>
-      <td>30.0<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">000000048%</span>48%</td>
+      <td><span style="color:transparent; font-size:0;">210628</span>June 28, 2021</td>
+      <td>967,462</td>
+      <td>2,227.5<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000006.3%</span>6.3%<span style="color: green">▼</span></td>
+      <td>25,588</td>
+      <td>32.4<span style="color: #ffcc00">▶</span></td>
       <td>1,654<span style="color: green">▼</span></td>
       <td>359.79<span style="color: green">▼</span></td>
     </tr>
