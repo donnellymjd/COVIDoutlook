@@ -11,7 +11,7 @@ statecode: TX
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
-      <th>Vaccine Hesistant, % of Adults</th>
+      <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
       <th>Vaccine & Acquired Immunity, % of Pop.</th>
@@ -27,22 +27,22 @@ statecode: TX
   </thead>
   <tbody>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>28,995,881</td>
-      <td>39,004</td>
+      <td>39,213</td>
       <td><span style="color:transparent; font-size:0;">000.91</span>0.91<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000017%</span>17%</td>
       <td><span style="color:transparent; font-size:0;">000070,855</span>70,855</td>
       <td><span style="color:transparent; font-size:0;">000000039%</span>39%</td>
-      <td><span style="color:transparent; font-size:0;">000000039%</span>39%</td>
+      <td><span style="color:transparent; font-size:0;">000000040%</span>40%</td>
       <td><span style="color:transparent; font-size:0;">210804</span>August 04, 2021</td>
-      <td>3,134,068</td>
-      <td>2,273.9<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000005.0%</span>5.0%<span style="color: #ffcc00">▶</span></td>
-      <td>49,278</td>
-      <td>50.4<span style="color: #ffcc00">▶</span></td>
+      <td>3,138,317</td>
+      <td>2,393.5<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000004.9%</span>4.9%<span style="color: #ffcc00">▶</span></td>
+      <td>49,303</td>
+      <td>49.4<span style="color: #ffcc00">▶</span></td>
       <td>3,126<span style="color: green">▼</span></td>
-      <td>911.57<span style="color: green">▼</span></td>
+      <td>928.21<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

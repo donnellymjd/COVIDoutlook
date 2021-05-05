@@ -11,7 +11,7 @@ statecode: AZ
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
-      <th>Vaccine Hesistant, % of Adults</th>
+      <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
       <th>Vaccine & Acquired Immunity, % of Pop.</th>
@@ -27,22 +27,22 @@ statecode: AZ
   </thead>
   <tbody>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>7,278,717</td>
-      <td>8,693</td>
+      <td>8,005</td>
       <td><span style="color:transparent; font-size:0;">001.04</span>1.04<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
       <td><span style="color:transparent; font-size:0;">000017,529</span>17,529</td>
       <td><span style="color:transparent; font-size:0;">000000041%</span>41%</td>
       <td><span style="color:transparent; font-size:0;">000000039%</span>39%</td>
-      <td><span style="color:transparent; font-size:0;">210710</span>July 10, 2021</td>
-      <td>865,101</td>
-      <td>678.9<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000004.7%</span>4.7%<span style="color: #ffcc00">▶</span></td>
-      <td>17,338</td>
-      <td>13.4<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">210713</span>July 13, 2021</td>
+      <td>865,746</td>
+      <td>691.6<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000004.6%</span>4.6%<span style="color: #ffcc00">▶</span></td>
+      <td>17,344</td>
+      <td>13.6<span style="color: #ffcc00">▶</span></td>
       <td>630<span style="color: #ffcc00">▶</span></td>
-      <td>190.00<span style="color: #ffcc00">▶</span></td>
+      <td>191.43<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

@@ -11,7 +11,7 @@ statecode: WY
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
-      <th>Vaccine Hesistant, % of Adults</th>
+      <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
       <th>Vaccine & Acquired Immunity, % of Pop.</th>
@@ -27,22 +27,22 @@ statecode: WY
   </thead>
   <tbody>
     <tr>
-      <td>27</td>
+      <td>25</td>
       <td>578,759</td>
-      <td>798</td>
+      <td>800</td>
       <td><span style="color:transparent; font-size:0;">001.10</span>1.10<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000031%</span>31%</td>
       <td><span style="color:transparent; font-size:0;">0000000704</span>704</td>
       <td><span style="color:transparent; font-size:0;">000000034%</span>34%</td>
       <td><span style="color:transparent; font-size:0;">000000035%</span>35%</td>
       <td><span style="color:transparent; font-size:0;">210722</span>July 22, 2021</td>
-      <td>50,691</td>
-      <td>43.0<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000003.4%</span>3.4%<span style="color: #ffcc00">▶</span></td>
+      <td>50,739</td>
+      <td>44.4<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000003.5%</span>3.5%<span style="color: #ffcc00">▶</span></td>
       <td>707</td>
       <td>0.3<span style="color: #ffcc00">▶</span></td>
       <td>30<span style="color: #ffcc00">▶</span></td>
-      <td>16.07<span style="color: #ffcc00">▶</span></td>
+      <td>15.79<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

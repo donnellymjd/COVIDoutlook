@@ -11,7 +11,7 @@ statecode: PA
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
-      <th>Vaccine Hesistant, % of Adults</th>
+      <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
       <th>Vaccine & Acquired Immunity, % of Pop.</th>
@@ -29,20 +29,20 @@ statecode: PA
     <tr>
       <td>3</td>
       <td>12,801,989</td>
-      <td>34,914</td>
+      <td>34,311</td>
       <td><span style="color:transparent; font-size:0;">000.85</span>0.85<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
       <td><span style="color:transparent; font-size:0;">000058,007</span>58,007</td>
       <td><span style="color:transparent; font-size:0;">000000050%</span>50%</td>
-      <td><span style="color:transparent; font-size:0;">000000045%</span>45%</td>
+      <td><span style="color:transparent; font-size:0;">000000046%</span>46%</td>
       <td><span style="color:transparent; font-size:0;">210703</span>July 03, 2021</td>
-      <td>1,195,213</td>
-      <td>3,011.1<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000007.2%</span>7.2%<span style="color: #ffcc00">▶</span></td>
-      <td>26,253</td>
-      <td>42.3<span style="color: red">▲</span></td>
-      <td>2,696<span style="color: red">▲</span></td>
-      <td>755.50<span style="color: green">▼</span></td>
+      <td>1,196,771</td>
+      <td>2,940.7<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000007.0%</span>7.0%<span style="color: #ffcc00">▶</span></td>
+      <td>26,275</td>
+      <td>41.9<span style="color: red">▲</span></td>
+      <td>2,696<span style="color: #ffcc00">▶</span></td>
+      <td>759.93<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

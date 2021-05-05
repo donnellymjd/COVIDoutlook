@@ -11,7 +11,7 @@ statecode: NY
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
-      <th>Vaccine Hesistant, % of Adults</th>
+      <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
       <th>Vaccine & Acquired Immunity, % of Pop.</th>
@@ -27,22 +27,22 @@ statecode: NY
   </thead>
   <tbody>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>19,453,561</td>
-      <td>19,246</td>
+      <td>18,135</td>
       <td><span style="color:transparent; font-size:0;">000.77</span>0.77<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000013%</span>13%</td>
       <td><span style="color:transparent; font-size:0;">000076,149</span>76,149</td>
       <td><span style="color:transparent; font-size:0;">000000048%</span>48%</td>
-      <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
+      <td><span style="color:transparent; font-size:0;">000000045%</span>45%</td>
       <td><span style="color:transparent; font-size:0;">210530</span>May 30, 2021</td>
-      <td>2,309,527</td>
-      <td>4,382.8<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000003.2%</span>3.2%<span style="color: green">▼</span></td>
-      <td>52,044</td>
-      <td>54.6<span style="color: green">▼</span></td>
+      <td>2,312,020</td>
+      <td>4,219.6<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000003.1%</span>3.1%<span style="color: green">▼</span></td>
+      <td>52,102</td>
+      <td>55.4<span style="color: green">▼</span></td>
       <td>3,366<span style="color: green">▼</span></td>
-      <td>552.57<span style="color: green">▼</span></td>
+      <td>546.00<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

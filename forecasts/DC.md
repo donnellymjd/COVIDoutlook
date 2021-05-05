@@ -11,7 +11,7 @@ statecode: DC
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
-      <th>Vaccine Hesistant, % of Adults</th>
+      <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
       <th>Vaccine & Acquired Immunity, % of Pop.</th>
@@ -27,22 +27,22 @@ statecode: DC
   </thead>
   <tbody>
     <tr>
-      <td>19</td>
+      <td>22</td>
       <td>705,749</td>
-      <td>1,190</td>
+      <td>1,076</td>
       <td><span style="color:transparent; font-size:0;">000.84</span>0.84<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000010%</span>10%</td>
       <td><span style="color:transparent; font-size:0;">000003,737</span>3,737</td>
       <td><span style="color:transparent; font-size:0;">000000048%</span>48%</td>
       <td><span style="color:transparent; font-size:0;">000000035%</span>35%</td>
       <td><span style="color:transparent; font-size:0;">210528</span>May 28, 2021</td>
-      <td>67,198</td>
-      <td>109.4<span style="color: green">▼</span></td>
+      <td>67,306</td>
+      <td>108.0<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000002.0%</span>2.0%<span style="color: #ffcc00">▶</span></td>
-      <td>1,105</td>
+      <td>1,106</td>
       <td>0.7<span style="color: green">▼</span></td>
       <td>173<span style="color: green">▼</span></td>
-      <td>114.71<span style="color: red">▲</span></td>
+      <td>116.07<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

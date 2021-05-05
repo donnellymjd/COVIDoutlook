@@ -11,7 +11,7 @@ statecode: NC
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
-      <th>Vaccine Hesistant, % of Adults</th>
+      <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
       <th>Vaccine & Acquired Immunity, % of Pop.</th>
@@ -27,22 +27,22 @@ statecode: NC
   </thead>
   <tbody>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>10,488,084</td>
-      <td>14,514</td>
+      <td>14,375</td>
       <td><span style="color:transparent; font-size:0;">000.89</span>0.89<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
       <td><span style="color:transparent; font-size:0;">000022,823</span>22,823</td>
       <td><span style="color:transparent; font-size:0;">000000039%</span>39%</td>
       <td><span style="color:transparent; font-size:0;">000000038%</span>38%</td>
       <td><span style="color:transparent; font-size:0;">210719</span>July 19, 2021</td>
-      <td>957,035</td>
-      <td>1,320.6<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000005.7%</span>5.7%<span style="color: #ffcc00">▶</span></td>
-      <td>12,651</td>
-      <td>17.0<span style="color: #ffcc00">▶</span></td>
+      <td>959,563</td>
+      <td>1,436.4<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000005.6%</span>5.6%<span style="color: #ffcc00">▶</span></td>
+      <td>12,689</td>
+      <td>19.4<span style="color: #ffcc00">▶</span></td>
       <td>1,086<span style="color: #ffcc00">▶</span></td>
-      <td>269.64<span style="color: red">▲</span></td>
+      <td>270.50<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

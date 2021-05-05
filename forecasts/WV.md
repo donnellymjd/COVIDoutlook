@@ -11,7 +11,7 @@ statecode: WV
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
-      <th>Vaccine Hesistant, % of Adults</th>
+      <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
       <th>Vaccine & Acquired Immunity, % of Pop.</th>
@@ -29,20 +29,20 @@ statecode: WV
     <tr>
       <td>7</td>
       <td>1,792,147</td>
-      <td>3,737</td>
+      <td>3,608</td>
       <td><span style="color:transparent; font-size:0;">000.97</span>0.97<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000020%</span>20%</td>
       <td><span style="color:transparent; font-size:0;">000001,725</span>1,725</td>
       <td><span style="color:transparent; font-size:0;">000000036%</span>36%</td>
       <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
-      <td><span style="color:transparent; font-size:0;">210617</span>June 17, 2021</td>
-      <td>187,046</td>
-      <td>364.1<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">210618</span>June 18, 2021</td>
+      <td>187,359</td>
+      <td>364.0<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000006.6%</span>6.6%<span style="color: #ffcc00">▶</span></td>
-      <td>2,679</td>
-      <td>-7.2<span style="color: green">▼</span></td>
+      <td>2,686</td>
+      <td>-7.1<span style="color: green">▼</span></td>
       <td>263<span style="color: #ffcc00">▶</span></td>
-      <td>92.86<span style="color: red">▲</span></td>
+      <td>93.86<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

@@ -11,7 +11,7 @@ statecode: GA
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
-      <th>Vaccine Hesistant, % of Adults</th>
+      <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
       <th>Vaccine & Acquired Immunity, % of Pop.</th>
@@ -27,22 +27,22 @@ statecode: GA
   </thead>
   <tbody>
     <tr>
-      <td>12</td>
+      <td>17</td>
       <td>10,617,423</td>
-      <td>20,807</td>
+      <td>18,869</td>
       <td><span style="color:transparent; font-size:0;">000.95</span>0.95<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000022%</span>22%</td>
       <td><span style="color:transparent; font-size:0;">000019,994</span>19,994</td>
       <td><span style="color:transparent; font-size:0;">000000035%</span>35%</td>
-      <td><span style="color:transparent; font-size:0;">000000034%</span>34%</td>
-      <td><span style="color:transparent; font-size:0;">210722</span>July 22, 2021</td>
-      <td>818,820</td>
-      <td>783.4<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000005.3%</span>5.3%<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">000000035%</span>35%</td>
+      <td><span style="color:transparent; font-size:0;">210724</span>July 24, 2021</td>
+      <td>819,397</td>
+      <td>788.4<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000005.2%</span>5.2%<span style="color: #ffcc00">▶</span></td>
       <td>20,212</td>
-      <td>32.5<span style="color: green">▼</span></td>
+      <td>32.4<span style="color: green">▼</span></td>
       <td>1,441<span style="color: #ffcc00">▶</span></td>
-      <td>361.14<span style="color: #ffcc00">▶</span></td>
+      <td>366.79<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

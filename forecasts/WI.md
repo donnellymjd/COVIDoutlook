@@ -11,7 +11,7 @@ statecode: WI
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
-      <th>Vaccine Hesistant, % of Adults</th>
+      <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
       <th>Vaccine & Acquired Immunity, % of Pop.</th>
@@ -27,22 +27,22 @@ statecode: WI
   </thead>
   <tbody>
     <tr>
-      <td>30</td>
+      <td>36</td>
       <td>5,822,434</td>
-      <td>7,751</td>
+      <td>6,884</td>
       <td><span style="color:transparent; font-size:0;">000.96</span>0.96<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000017%</span>17%</td>
       <td><span style="color:transparent; font-size:0;">000013,977</span>13,977</td>
       <td><span style="color:transparent; font-size:0;">000000046%</span>46%</td>
       <td><span style="color:transparent; font-size:0;">000000041%</span>41%</td>
-      <td><span style="color:transparent; font-size:0;">210718</span>July 18, 2021</td>
-      <td>726,102</td>
-      <td>717.6<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">210720</span>July 20, 2021</td>
+      <td>726,477</td>
+      <td>710.8<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000003.5%</span>3.5%<span style="color: #ffcc00">▶</span></td>
-      <td>7,569</td>
+      <td>7,567</td>
       <td>10.5<span style="color: red">▲</span></td>
       <td>404<span style="color: #ffcc00">▶</span></td>
-      <td>146.00<span style="color: #ffcc00">▶</span></td>
+      <td>147.79<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

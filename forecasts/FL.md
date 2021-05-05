@@ -11,7 +11,7 @@ statecode: FL
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
-      <th>Vaccine Hesistant, % of Adults</th>
+      <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
       <th>Vaccine & Acquired Immunity, % of Pop.</th>
@@ -27,22 +27,22 @@ statecode: FL
   </thead>
   <tbody>
     <tr>
-      <td>9</td>
+      <td>16</td>
       <td>21,477,737</td>
-      <td>42,489</td>
+      <td>38,438</td>
       <td><span style="color:transparent; font-size:0;">000.91</span>0.91<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000020%</span>20%</td>
       <td><span style="color:transparent; font-size:0;">000074,787</span>74,787</td>
       <td><span style="color:transparent; font-size:0;">000000042%</span>42%</td>
       <td><span style="color:transparent; font-size:0;">000000036%</span>36%</td>
-      <td><span style="color:transparent; font-size:0;">210616</span>June 16, 2021</td>
-      <td>2,727,948</td>
-      <td>5,440.5<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000008.0%</span>8.0%<span style="color: #ffcc00">▶</span></td>
-      <td>35,239</td>
-      <td>59.6<span style="color: #ffcc00">▶</span></td>
-      <td>3,600<span style="color: red">▲</span></td>
-      <td>741.29<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">210617</span>June 17, 2021</td>
+      <td>2,732,471</td>
+      <td>5,412.2<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000007.9%</span>7.9%<span style="color: #ffcc00">▶</span></td>
+      <td>35,268</td>
+      <td>59.2<span style="color: #ffcc00">▶</span></td>
+      <td>3,600<span style="color: #ffcc00">▶</span></td>
+      <td>738.50<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

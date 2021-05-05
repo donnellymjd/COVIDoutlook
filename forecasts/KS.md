@@ -11,7 +11,7 @@ statecode: KS
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
-      <th>Vaccine Hesistant, % of Adults</th>
+      <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
       <th>Vaccine & Acquired Immunity, % of Pop.</th>
@@ -29,20 +29,20 @@ statecode: KS
     <tr>
       <td>31</td>
       <td>2,913,314</td>
-      <td>3,853</td>
+      <td>3,927</td>
       <td><span style="color:transparent; font-size:0;">001.12</span>1.12<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000019%</span>19%</td>
       <td><span style="color:transparent; font-size:0;">000004,535</span>4,535</td>
       <td><span style="color:transparent; font-size:0;">000000043%</span>43%</td>
-      <td><span style="color:transparent; font-size:0;">000000041%</span>41%</td>
+      <td><span style="color:transparent; font-size:0;">000000042%</span>42%</td>
       <td><span style="color:transparent; font-size:0;">210612</span>June 12, 2021</td>
-      <td>292,399</td>
-      <td>195.5<span style="color: #ffcc00">▶</span></td>
+      <td>292,521</td>
+      <td>197.1<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000004.2%</span>4.2%<span style="color: #ffcc00">▶</span></td>
       <td>4,982</td>
       <td>2.1<span style="color: #ffcc00">▶</span></td>
       <td>253<span style="color: red">▲</span></td>
-      <td>60.21<span style="color: red">▲</span></td>
+      <td>62.29<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

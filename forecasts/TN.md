@@ -11,7 +11,7 @@ statecode: TN
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
-      <th>Vaccine Hesistant, % of Adults</th>
+      <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
       <th>Vaccine & Acquired Immunity, % of Pop.</th>
@@ -27,9 +27,9 @@ statecode: TN
   </thead>
   <tbody>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>6,829,174</td>
-      <td>9,671</td>
+      <td>9,406</td>
       <td><span style="color:transparent; font-size:0;">000.86</span>0.86<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000024%</span>24%</td>
       <td><span style="color:transparent; font-size:0;">000012,475</span>12,475</td>
@@ -37,12 +37,12 @@ statecode: TN
       <td><span style="color:transparent; font-size:0;">000000036%</span>36%</td>
       <td><span style="color:transparent; font-size:0;">210707</span>July 07, 2021</td>
       <td>775,765</td>
-      <td>586.6<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000006.4%</span>6.4%<span style="color: #ffcc00">▶</span></td>
-      <td>12,204</td>
-      <td>10.1<span style="color: #ffcc00">▶</span></td>
+      <td>552.9<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000006.3%</span>6.3%<span style="color: #ffcc00">▶</span></td>
+      <td>12,203</td>
+      <td>9.9<span style="color: #ffcc00">▶</span></td>
       <td>853<span style="color: #ffcc00">▶</span></td>
-      <td>153.86<span style="color: green">▼</span></td>
+      <td>154.93<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

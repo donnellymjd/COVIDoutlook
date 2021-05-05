@@ -11,7 +11,7 @@ statecode: NV
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
-      <th>Vaccine Hesistant, % of Adults</th>
+      <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
       <th>Vaccine & Acquired Immunity, % of Pop.</th>
@@ -27,22 +27,22 @@ statecode: NV
   </thead>
   <tbody>
     <tr>
-      <td>37</td>
+      <td>21</td>
       <td>3,080,156</td>
-      <td>3,426</td>
+      <td>4,842</td>
       <td><span style="color:transparent; font-size:0;">000.91</span>0.91<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000019%</span>19%</td>
       <td><span style="color:transparent; font-size:0;">000007,930</span>7,930</td>
       <td><span style="color:transparent; font-size:0;">000000040%</span>40%</td>
-      <td><span style="color:transparent; font-size:0;">000000036%</span>36%</td>
-      <td><span style="color:transparent; font-size:0;">210615</span>June 15, 2021</td>
-      <td>437,484</td>
-      <td>271.1<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">000000038%</span>38%</td>
+      <td><span style="color:transparent; font-size:0;">210610</span>June 10, 2021</td>
+      <td>437,828</td>
+      <td>277.1<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000006.0%</span>6.0%<span style="color: green">▼</span></td>
       <td>5,464</td>
-      <td>7.0<span style="color: #ffcc00">▶</span></td>
+      <td>6.9<span style="color: #ffcc00">▶</span></td>
       <td>372<span style="color: #ffcc00">▶</span></td>
-      <td>101.43<span style="color: green">▼</span></td>
+      <td>102.79<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

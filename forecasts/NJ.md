@@ -11,7 +11,7 @@ statecode: NJ
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
-      <th>Vaccine Hesistant, % of Adults</th>
+      <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
       <th>Vaccine & Acquired Immunity, % of Pop.</th>
@@ -27,22 +27,22 @@ statecode: NJ
   </thead>
   <tbody>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>8,882,190</td>
-      <td>17,352</td>
+      <td>16,498</td>
       <td><span style="color:transparent; font-size:0;">000.74</span>0.74<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000012%</span>12%</td>
       <td><span style="color:transparent; font-size:0;">000036,170</span>36,170</td>
       <td><span style="color:transparent; font-size:0;">000000052%</span>52%</td>
-      <td><span style="color:transparent; font-size:0;">000000048%</span>48%</td>
+      <td><span style="color:transparent; font-size:0;">000000049%</span>49%</td>
       <td><span style="color:transparent; font-size:0;">210628</span>June 28, 2021</td>
-      <td>967,462</td>
-      <td>2,227.5<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000006.3%</span>6.3%<span style="color: green">▼</span></td>
-      <td>25,588</td>
-      <td>32.4<span style="color: #ffcc00">▶</span></td>
+      <td>968,809</td>
+      <td>2,168.1<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000006.1%</span>6.1%<span style="color: green">▼</span></td>
+      <td>25,600</td>
+      <td>32.6<span style="color: #ffcc00">▶</span></td>
       <td>1,654<span style="color: green">▼</span></td>
-      <td>359.79<span style="color: green">▼</span></td>
+      <td>359.36<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

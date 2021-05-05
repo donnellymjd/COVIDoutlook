@@ -11,7 +11,7 @@ statecode: LA
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
-      <th>Vaccine Hesistant, % of Adults</th>
+      <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
       <th>Vaccine & Acquired Immunity, % of Pop.</th>
@@ -27,22 +27,22 @@ statecode: LA
   </thead>
   <tbody>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>4,648,794</td>
-      <td>3,568</td>
+      <td>3,158</td>
       <td><span style="color:transparent; font-size:0;">000.87</span>0.87<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000023%</span>23%</td>
       <td><span style="color:transparent; font-size:0;">000003,762</span>3,762</td>
       <td><span style="color:transparent; font-size:0;">000000032%</span>32%</td>
-      <td><span style="color:transparent; font-size:0;">000000034%</span>34%</td>
-      <td><span style="color:transparent; font-size:0;">210804</span>August 04, 2021</td>
-      <td>515,019</td>
-      <td>238.4<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000002.8%</span>2.8%<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">000000033%</span>33%</td>
+      <td><span style="color:transparent; font-size:0;">210805</span>August 05, 2021</td>
+      <td>515,217</td>
+      <td>235.2<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000002.7%</span>2.7%<span style="color: #ffcc00">▶</span></td>
       <td>10,382</td>
-      <td>6.9<span style="color: green">▼</span></td>
+      <td>6.6<span style="color: green">▼</span></td>
       <td>315<span style="color: #ffcc00">▶</span></td>
-      <td>75.21<span style="color: red">▲</span></td>
+      <td>80.00<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

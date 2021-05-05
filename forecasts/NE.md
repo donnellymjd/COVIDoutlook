@@ -11,7 +11,7 @@ statecode: NE
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
-      <th>Vaccine Hesistant, % of Adults</th>
+      <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
       <th>Vaccine & Acquired Immunity, % of Pop.</th>
@@ -29,20 +29,20 @@ statecode: NE
     <tr>
       <td>50</td>
       <td>1,934,408</td>
-      <td>1,269</td>
+      <td>1,229</td>
       <td><span style="color:transparent; font-size:0;">000.86</span>0.86<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
       <td><span style="color:transparent; font-size:0;">000002,889</span>2,889</td>
       <td><span style="color:transparent; font-size:0;">000000043%</span>43%</td>
-      <td><span style="color:transparent; font-size:0;">000000040%</span>40%</td>
+      <td><span style="color:transparent; font-size:0;">000000041%</span>41%</td>
       <td><span style="color:transparent; font-size:0;">210605</span>June 05, 2021</td>
-      <td>310,638</td>
-      <td>227.9<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000007.0%</span>7.0%<span style="color: green">▼</span></td>
+      <td>310,892</td>
+      <td>224.7<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000006.9%</span>6.9%<span style="color: green">▼</span></td>
       <td>2,245</td>
-      <td>2.3<span style="color: #ffcc00">▶</span></td>
+      <td>2.1<span style="color: #ffcc00">▶</span></td>
       <td>138<span style="color: green">▼</span></td>
-      <td>29.64<span style="color: green">▼</span></td>
+      <td>28.93<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

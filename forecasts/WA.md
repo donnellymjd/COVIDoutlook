@@ -11,7 +11,7 @@ statecode: WA
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
-      <th>Vaccine Hesistant, % of Adults</th>
+      <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
       <th>Vaccine & Acquired Immunity, % of Pop.</th>
@@ -27,22 +27,22 @@ statecode: WA
   </thead>
   <tbody>
     <tr>
-      <td>11</td>
+      <td>15</td>
       <td>7,614,893</td>
-      <td>14,941</td>
+      <td>13,704</td>
       <td><span style="color:transparent; font-size:0;">000.98</span>0.98<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000011%</span>11%</td>
       <td><span style="color:transparent; font-size:0;">000037,129</span>37,129</td>
       <td><span style="color:transparent; font-size:0;">000000047%</span>47%</td>
       <td><span style="color:transparent; font-size:0;">000000038%</span>38%</td>
-      <td><span style="color:transparent; font-size:0;">210531</span>May 31, 2021</td>
-      <td>283,456</td>
-      <td>837.6<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">210601</span>June 01, 2021</td>
+      <td>284,709</td>
+      <td>887.3<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000005.4%</span>5.4%<span style="color: red">▲</span></td>
       <td>5,499</td>
       <td>8.5<span style="color: #ffcc00">▶</span></td>
       <td>822<span style="color: red">▲</span></td>
-      <td>242.14<span style="color: red">▲</span></td>
+      <td>244.93<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
