@@ -27,22 +27,22 @@ statecode: ND
   </thead>
   <tbody>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>762,062</td>
-      <td>1,548</td>
-      <td><span style="color:transparent; font-size:0;">000.95</span>0.95<span style="color: green"> 🟢</span></td>
+      <td>1,353</td>
+      <td><span style="color:transparent; font-size:0;">000.90</span>0.90<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000029%</span>29%</td>
-      <td><span style="color:transparent; font-size:0;">0000000720</span>720</td>
+      <td><span style="color:transparent; font-size:0;">0000000650</span>650</td>
       <td><span style="color:transparent; font-size:0;">000000040%</span>40%</td>
       <td><span style="color:transparent; font-size:0;">000000043%</span>43%</td>
-      <td><span style="color:transparent; font-size:0;">210701</span>July 01, 2021</td>
-      <td>98,457</td>
-      <td>58.1<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000003.2%</span>3.2%<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">210708</span>July 08, 2021</td>
+      <td>98,653</td>
+      <td>58.2<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000002.9%</span>2.9%<span style="color: #ffcc00">▶</span></td>
       <td>1,499</td>
-      <td>1.1<span style="color: #ffcc00">▶</span></td>
-      <td>118<span style="color: red">▲</span></td>
-      <td>23.64<span style="color: green">▼</span></td>
+      <td>0.9<span style="color: #ffcc00">▶</span></td>
+      <td>91<span style="color: #ffcc00">▶</span></td>
+      <td>22.21<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

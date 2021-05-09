@@ -29,20 +29,20 @@ statecode: SC
     <tr>
       <td>39</td>
       <td>5,148,714</td>
-      <td>5,384</td>
-      <td><span style="color:transparent; font-size:0;">000.98</span>0.98<span style="color: green"> 🟢</span></td>
+      <td>5,051</td>
+      <td><span style="color:transparent; font-size:0;">000.93</span>0.93<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
-      <td><span style="color:transparent; font-size:0;">000007,220</span>7,220</td>
-      <td><span style="color:transparent; font-size:0;">000000037%</span>37%</td>
+      <td><span style="color:transparent; font-size:0;">000006,866</span>6,866</td>
+      <td><span style="color:transparent; font-size:0;">000000038%</span>38%</td>
       <td><span style="color:transparent; font-size:0;">000000039%</span>39%</td>
-      <td><span style="color:transparent; font-size:0;">210704</span>July 04, 2021</td>
-      <td>616,551</td>
-      <td>440.1<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000004.1%</span>4.1%<span style="color: #ffcc00">▶</span></td>
-      <td>9,536</td>
-      <td>6.2<span style="color: green">▼</span></td>
-      <td>419<span style="color: green">▼</span></td>
-      <td>94.36<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">210710</span>July 10, 2021</td>
+      <td>618,416</td>
+      <td>442.5<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000004.2%</span>4.2%<span style="color: #ffcc00">▶</span></td>
+      <td>9,559</td>
+      <td>4.9<span style="color: green">▼</span></td>
+      <td>318<span style="color: green">▼</span></td>
+      <td>82.79<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

@@ -27,22 +27,22 @@ statecode: WA
   </thead>
   <tbody>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>7,614,893</td>
-      <td>13,635</td>
-      <td><span style="color:transparent; font-size:0;">001.02</span>1.02<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>11,181</td>
+      <td><span style="color:transparent; font-size:0;">000.90</span>0.90<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000011%</span>11%</td>
-      <td><span style="color:transparent; font-size:0;">000029,995</span>29,995</td>
-      <td><span style="color:transparent; font-size:0;">000000048%</span>48%</td>
-      <td><span style="color:transparent; font-size:0;">000000040%</span>40%</td>
-      <td><span style="color:transparent; font-size:0;">210602</span>June 02, 2021</td>
-      <td>287,127</td>
-      <td>747.6<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000005.2%</span>5.2%<span style="color: #ffcc00">▶</span></td>
-      <td>5,539</td>
-      <td>8.4<span style="color: #ffcc00">▶</span></td>
-      <td>822<span style="color: red">▲</span></td>
-      <td>250.21<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">000025,343</span>25,343</td>
+      <td><span style="color:transparent; font-size:0;">000000049%</span>49%</td>
+      <td><span style="color:transparent; font-size:0;">000000041%</span>41%</td>
+      <td><span style="color:transparent; font-size:0;">210603</span>June 03, 2021</td>
+      <td>290,059</td>
+      <td>763.8<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000004.9%</span>4.9%<span style="color: #ffcc00">▶</span></td>
+      <td>5,564</td>
+      <td>9.3<span style="color: #ffcc00">▶</span></td>
+      <td>803<span style="color: red">▲</span></td>
+      <td>230.64<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

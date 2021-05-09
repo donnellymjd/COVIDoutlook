@@ -27,22 +27,22 @@ statecode: WV
   </thead>
   <tbody>
     <tr>
-      <td>7</td>
+      <td>3</td>
       <td>1,792,147</td>
-      <td>4,264</td>
-      <td><span style="color:transparent; font-size:0;">001.04</span>1.04<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>4,517</td>
+      <td><span style="color:transparent; font-size:0;">001.01</span>1.01<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">000000020%</span>20%</td>
-      <td><span style="color:transparent; font-size:0;">000001,420</span>1,420</td>
-      <td><span style="color:transparent; font-size:0;">000000036%</span>36%</td>
-      <td><span style="color:transparent; font-size:0;">000000045%</span>45%</td>
-      <td><span style="color:transparent; font-size:0;">210619</span>June 19, 2021</td>
-      <td>187,943</td>
-      <td>322.8<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000006.6%</span>6.6%<span style="color: #ffcc00">▶</span></td>
-      <td>2,707</td>
-      <td>-6.6<span style="color: green">▼</span></td>
-      <td>263<span style="color: #ffcc00">▶</span></td>
-      <td>93.29<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">000001,595</span>1,595</td>
+      <td><span style="color:transparent; font-size:0;">000000037%</span>37%</td>
+      <td><span style="color:transparent; font-size:0;">000000046%</span>46%</td>
+      <td><span style="color:transparent; font-size:0;">210616</span>June 16, 2021</td>
+      <td>189,162</td>
+      <td>327.9<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000006.9%</span>6.9%<span style="color: #ffcc00">▶</span></td>
+      <td>2,726</td>
+      <td>-6.5<span style="color: green">▼</span></td>
+      <td>276<span style="color: #ffcc00">▶</span></td>
+      <td>96.36<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

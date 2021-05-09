@@ -27,22 +27,22 @@ statecode: IN
   </thead>
   <tbody>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>6,732,219</td>
-      <td>16,603</td>
-      <td><span style="color:transparent; font-size:0;">001.07</span>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>16,094</td>
+      <td><span style="color:transparent; font-size:0;">001.06</span>1.06<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
-      <td><span style="color:transparent; font-size:0;">000013,601</span>13,601</td>
-      <td><span style="color:transparent; font-size:0;">000000037%</span>37%</td>
-      <td><span style="color:transparent; font-size:0;">000000040%</span>40%</td>
-      <td><span style="color:transparent; font-size:0;">210724</span>July 24, 2021</td>
-      <td>812,916</td>
-      <td>735.1<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000005.0%</span>5.0%<span style="color: #ffcc00">▶</span></td>
-      <td>13,373</td>
-      <td>8.9<span style="color: #ffcc00">▶</span></td>
-      <td>866<span style="color: #ffcc00">▶</span></td>
-      <td>223.36<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">000012,787</span>12,787</td>
+      <td><span style="color:transparent; font-size:0;">000000038%</span>38%</td>
+      <td><span style="color:transparent; font-size:0;">000000041%</span>41%</td>
+      <td><span style="color:transparent; font-size:0;">210728</span>July 28, 2021</td>
+      <td>817,070</td>
+      <td>843.4<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000005.4%</span>5.4%<span style="color: #ffcc00">▶</span></td>
+      <td>13,405</td>
+      <td>9.6<span style="color: #ffcc00">▶</span></td>
+      <td>910<span style="color: #ffcc00">▶</span></td>
+      <td>217.14<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>
