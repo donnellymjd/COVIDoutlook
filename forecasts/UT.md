@@ -27,9 +27,9 @@ statecode: UT
   </thead>
   <tbody>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>3,205,958</td>
-      <td>2,764</td>
+      <td>2,744</td>
       <td><span style="color:transparent; font-size:0;">000.97</span>0.97<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000014%</span>14%</td>
       <td><span style="color:transparent; font-size:0;">000005,345</span>5,345</td>

@@ -27,9 +27,9 @@ statecode: MD
   </thead>
   <tbody>
     <tr>
-      <td>24</td>
+      <td>27</td>
       <td>6,045,680</td>
-      <td>8,504</td>
+      <td>8,242</td>
       <td><span style="color:transparent; font-size:0;">000.78</span>0.78<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000012%</span>12%</td>
       <td><span style="color:transparent; font-size:0;">000017,038</span>17,038</td>

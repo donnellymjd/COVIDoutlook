@@ -27,15 +27,15 @@ statecode: FL
   </thead>
   <tbody>
     <tr>
-      <td>21</td>
+      <td>4</td>
       <td>21,477,737</td>
-      <td>31,509</td>
+      <td>52,574</td>
       <td><span style="color:transparent; font-size:0;">000.85</span>0.85<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000020%</span>20%</td>
       <td><span style="color:transparent; font-size:0;">000045,365</span>45,365</td>
       <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
-      <td><span style="color:transparent; font-size:0;">000000039%</span>39%</td>
-      <td><span style="color:transparent; font-size:0;">210626</span>June 26, 2021</td>
+      <td><span style="color:transparent; font-size:0;">000000042%</span>42%</td>
+      <td><span style="color:transparent; font-size:0;">210617</span>June 17, 2021</td>
       <td>2,756,456</td>
       <td>4,251.2<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000007.3%</span>7.3%<span style="color: #ffcc00">▶</span></td>

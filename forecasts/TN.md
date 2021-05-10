@@ -29,7 +29,7 @@ statecode: TN
     <tr>
       <td>34</td>
       <td>6,829,174</td>
-      <td>8,033</td>
+      <td>7,871</td>
       <td><span style="color:transparent; font-size:0;">000.81</span>0.81<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000024%</span>24%</td>
       <td><span style="color:transparent; font-size:0;">000010,405</span>10,405</td>

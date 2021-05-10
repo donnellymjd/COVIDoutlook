@@ -27,15 +27,15 @@ statecode: DC
   </thead>
   <tbody>
     <tr>
-      <td>28</td>
+      <td>10</td>
       <td>705,749</td>
-      <td>966</td>
+      <td>1,435</td>
       <td><span style="color:transparent; font-size:0;">000.86</span>0.86<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000010%</span>10%</td>
       <td><span style="color:transparent; font-size:0;">000002,348</span>2,348</td>
       <td><span style="color:transparent; font-size:0;">000000051%</span>51%</td>
-      <td><span style="color:transparent; font-size:0;">000000039%</span>39%</td>
-      <td><span style="color:transparent; font-size:0;">210529</span>May 29, 2021</td>
+      <td><span style="color:transparent; font-size:0;">000000041%</span>41%</td>
+      <td><span style="color:transparent; font-size:0;">210526</span>May 26, 2021</td>
       <td>67,562</td>
       <td>74.7<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000001.9%</span>1.9%<span style="color: #ffcc00">▶</span></td>

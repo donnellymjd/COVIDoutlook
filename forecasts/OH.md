@@ -29,12 +29,12 @@ statecode: OH
     <tr>
       <td>23</td>
       <td>11,689,100</td>
-      <td>16,689</td>
+      <td>16,643</td>
       <td><span style="color:transparent; font-size:0;">000.94</span>0.94<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000021%</span>21%</td>
       <td><span style="color:transparent; font-size:0;">000017,510</span>17,510</td>
       <td><span style="color:transparent; font-size:0;">000000042%</span>42%</td>
-      <td><span style="color:transparent; font-size:0;">000000043%</span>43%</td>
+      <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
       <td><span style="color:transparent; font-size:0;">210816</span>August 16, 2021</td>
       <td>939,412</td>
       <td>1,027.3<span style="color: green">▼</span></td>

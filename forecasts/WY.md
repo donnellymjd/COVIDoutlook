@@ -27,15 +27,15 @@ statecode: WY
   </thead>
   <tbody>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>578,759</td>
-      <td>432</td>
+      <td>418</td>
       <td><span style="color:transparent; font-size:0;">000.92</span>0.92<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000031%</span>31%</td>
       <td><span style="color:transparent; font-size:0;">0000000542</span>542</td>
       <td><span style="color:transparent; font-size:0;">000000035%</span>35%</td>
       <td><span style="color:transparent; font-size:0;">000000036%</span>36%</td>
-      <td><span style="color:transparent; font-size:0;">210829</span>August 29, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210830</span>August 30, 2021</td>
       <td>51,016</td>
       <td>41.1<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000003.7%</span>3.7%<span style="color: #ffcc00">▶</span></td>

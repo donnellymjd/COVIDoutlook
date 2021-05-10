@@ -27,14 +27,14 @@ statecode: PA
   </thead>
   <tbody>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>12,801,989</td>
-      <td>27,961</td>
+      <td>27,687</td>
       <td><span style="color:transparent; font-size:0;">000.86</span>0.86<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
       <td><span style="color:transparent; font-size:0;">000040,077</span>40,077</td>
       <td><span style="color:transparent; font-size:0;">000000052%</span>52%</td>
-      <td><span style="color:transparent; font-size:0;">000000047%</span>47%</td>
+      <td><span style="color:transparent; font-size:0;">000000048%</span>48%</td>
       <td><span style="color:transparent; font-size:0;">210712</span>July 12, 2021</td>
       <td>1,210,694</td>
       <td>2,328.1<span style="color: green">▼</span></td>

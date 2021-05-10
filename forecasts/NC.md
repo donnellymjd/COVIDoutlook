@@ -27,9 +27,9 @@ statecode: NC
   </thead>
   <tbody>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>10,488,084</td>
-      <td>14,582</td>
+      <td>14,517</td>
       <td><span style="color:transparent; font-size:0;">000.90</span>0.90<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
       <td><span style="color:transparent; font-size:0;">000014,477</span>14,477</td>

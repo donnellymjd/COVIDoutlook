@@ -27,15 +27,15 @@ statecode: NV
   </thead>
   <tbody>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>3,080,156</td>
-      <td>3,996</td>
+      <td>3,754</td>
       <td><span style="color:transparent; font-size:0;">000.97</span>0.97<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000019%</span>19%</td>
       <td><span style="color:transparent; font-size:0;">000005,195</span>5,195</td>
       <td><span style="color:transparent; font-size:0;">000000041%</span>41%</td>
       <td><span style="color:transparent; font-size:0;">000000040%</span>40%</td>
-      <td><span style="color:transparent; font-size:0;">210619</span>June 19, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210620</span>June 20, 2021</td>
       <td>439,436</td>
       <td>247.9<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000005.4%</span>5.4%<span style="color: green">▼</span></td>

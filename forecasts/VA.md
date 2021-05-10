@@ -29,12 +29,12 @@ statecode: VA
     <tr>
       <td>37</td>
       <td>8,535,519</td>
-      <td>9,332</td>
+      <td>9,120</td>
       <td><span style="color:transparent; font-size:0;">000.85</span>0.85<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000014%</span>14%</td>
       <td><span style="color:transparent; font-size:0;">000022,534</span>22,534</td>
       <td><span style="color:transparent; font-size:0;">000000049%</span>49%</td>
-      <td><span style="color:transparent; font-size:0;">000000048%</span>48%</td>
+      <td><span style="color:transparent; font-size:0;">000000049%</span>49%</td>
       <td><span style="color:transparent; font-size:0;">210528</span>May 28, 2021</td>
       <td>927,945</td>
       <td>629.5<span style="color: green">▼</span></td>

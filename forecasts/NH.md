@@ -27,14 +27,14 @@ statecode: NH
   </thead>
   <tbody>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>1,359,711</td>
-      <td>1,032</td>
+      <td>992</td>
       <td><span style="color:transparent; font-size:0;">000.93</span>0.93<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000014%</span>14%</td>
       <td><span style="color:transparent; font-size:0;">0000-6,385</span>-6,385</td>
       <td><span style="color:transparent; font-size:0;">000000057%</span>57%</td>
-      <td><span style="color:transparent; font-size:0;">000000052%</span>52%</td>
+      <td><span style="color:transparent; font-size:0;">000000054%</span>54%</td>
       <td><span style="color:transparent; font-size:0;">210508</span>May 08, 2021</td>
       <td>79,418</td>
       <td>155.6<span style="color: green">▼</span></td>

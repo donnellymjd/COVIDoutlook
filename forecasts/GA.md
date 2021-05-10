@@ -27,15 +27,15 @@ statecode: GA
   </thead>
   <tbody>
     <tr>
-      <td>33</td>
+      <td>6</td>
       <td>10,617,423</td>
-      <td>12,779</td>
+      <td>24,106</td>
       <td><span style="color:transparent; font-size:0;">000.90</span>0.90<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000022%</span>22%</td>
       <td><span style="color:transparent; font-size:0;">000016,750</span>16,750</td>
       <td><span style="color:transparent; font-size:0;">000000036%</span>36%</td>
-      <td><span style="color:transparent; font-size:0;">000000035%</span>35%</td>
-      <td><span style="color:transparent; font-size:0;">210810</span>August 10, 2021</td>
+      <td><span style="color:transparent; font-size:0;">000000039%</span>39%</td>
+      <td><span style="color:transparent; font-size:0;">210725</span>July 25, 2021</td>
       <td>823,021</td>
       <td>635.8<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000005.1%</span>5.1%<span style="color: #ffcc00">▶</span></td>

@@ -27,9 +27,9 @@ statecode: ME
   </thead>
   <tbody>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>1,344,212</td>
-      <td>1,867</td>
+      <td>1,832</td>
       <td><span style="color:transparent; font-size:0;">000.91</span>0.91<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000012%</span>12%</td>
       <td><span style="color:transparent; font-size:0;">000003,842</span>3,842</td>
