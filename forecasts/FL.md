@@ -27,22 +27,22 @@ statecode: FL
   </thead>
   <tbody>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>21,477,737</td>
-      <td>52,574</td>
+      <td>44,077</td>
       <td><span style="color:transparent; font-size:0;">000.85</span>0.85<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000020%</span>20%</td>
-      <td><span style="color:transparent; font-size:0;">000045,365</span>45,365</td>
+      <td><span style="color:transparent; font-size:0;">000057,916</span>57,916</td>
       <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
       <td><span style="color:transparent; font-size:0;">000000042%</span>42%</td>
-      <td><span style="color:transparent; font-size:0;">210617</span>June 17, 2021</td>
-      <td>2,756,456</td>
-      <td>4,251.2<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000007.3%</span>7.3%<span style="color: #ffcc00">▶</span></td>
-      <td>35,700</td>
-      <td>63.4<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">210621</span>June 21, 2021</td>
+      <td>2,765,355</td>
+      <td>4,163.0<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000006.9%</span>6.9%<span style="color: #ffcc00">▶</span></td>
+      <td>35,783</td>
+      <td>62.2<span style="color: #ffcc00">▶</span></td>
       <td>3,466<span style="color: #ffcc00">▶</span></td>
-      <td>727.57<span style="color: green">▼</span></td>
+      <td>734.36<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

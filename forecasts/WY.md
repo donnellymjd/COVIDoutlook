@@ -27,22 +27,22 @@ statecode: WY
   </thead>
   <tbody>
     <tr>
-      <td>48</td>
+      <td>43</td>
       <td>578,759</td>
-      <td>418</td>
-      <td><span style="color:transparent; font-size:0;">000.92</span>0.92<span style="color: green"> 🟢</span></td>
+      <td>454</td>
+      <td><span style="color:transparent; font-size:0;">000.93</span>0.93<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000031%</span>31%</td>
-      <td><span style="color:transparent; font-size:0;">0000000542</span>542</td>
+      <td><span style="color:transparent; font-size:0;">0000000543</span>543</td>
       <td><span style="color:transparent; font-size:0;">000000035%</span>35%</td>
       <td><span style="color:transparent; font-size:0;">000000036%</span>36%</td>
-      <td><span style="color:transparent; font-size:0;">210830</span>August 30, 2021</td>
-      <td>51,016</td>
-      <td>41.1<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000003.7%</span>3.7%<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">210904</span>September 04, 2021</td>
+      <td>51,098</td>
+      <td>40.4<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000003.6%</span>3.6%<span style="color: #ffcc00">▶</span></td>
       <td>710</td>
       <td>0.4<span style="color: #ffcc00">▶</span></td>
       <td>26<span style="color: red">▲</span></td>
-      <td>14.50<span style="color: green">▼</span></td>
+      <td>13.50<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

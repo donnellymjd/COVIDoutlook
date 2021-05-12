@@ -27,22 +27,22 @@ statecode: OK
   </thead>
   <tbody>
     <tr>
-      <td>46</td>
+      <td>44</td>
       <td>3,956,971</td>
-      <td>2,925</td>
-      <td><span style="color:transparent; font-size:0;">000.95</span>0.95<span style="color: green"> 🟢</span></td>
+      <td>2,974</td>
+      <td><span style="color:transparent; font-size:0;">000.94</span>0.94<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000021%</span>21%</td>
-      <td><span style="color:transparent; font-size:0;">000003,851</span>3,851</td>
-      <td><span style="color:transparent; font-size:0;">000000039%</span>39%</td>
+      <td><span style="color:transparent; font-size:0;">000003,803</span>3,803</td>
+      <td><span style="color:transparent; font-size:0;">000000040%</span>40%</td>
       <td><span style="color:transparent; font-size:0;">000000043%</span>43%</td>
-      <td><span style="color:transparent; font-size:0;">210707</span>July 07, 2021</td>
-      <td>468,394</td>
-      <td>111.1<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000004.5%</span>4.5%<span style="color: green">▼</span></td>
-      <td>6,852</td>
-      <td>5.0<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">210708</span>July 08, 2021</td>
+      <td>468,596</td>
+      <td>108.2<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000004.4%</span>4.4%<span style="color: green">▼</span></td>
+      <td>6,878</td>
+      <td>6.3<span style="color: #ffcc00">▶</span></td>
       <td>265<span style="color: #ffcc00">▶</span></td>
-      <td>107.50<span style="color: green">▼</span></td>
+      <td>107.57<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
