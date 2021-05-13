@@ -27,18 +27,18 @@ statecode: SC
   </thead>
   <tbody>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>5,148,714</td>
-      <td>4,574</td>
+      <td>4,550</td>
       <td><span style="color:transparent; font-size:0;">000.91</span>0.91<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
       <td><span style="color:transparent; font-size:0;">000007,290</span>7,290</td>
       <td><span style="color:transparent; font-size:0;">000000038%</span>38%</td>
-      <td><span style="color:transparent; font-size:0;">000000040%</span>40%</td>
+      <td><span style="color:transparent; font-size:0;">000000041%</span>41%</td>
       <td><span style="color:transparent; font-size:0;">210710</span>July 10, 2021</td>
-      <td>619,083</td>
-      <td>429.4<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000004.1%</span>4.1%<span style="color: #ffcc00">▶</span></td>
+      <td>619,362</td>
+      <td>447.1<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000004.0%</span>4.0%<span style="color: #ffcc00">▶</span></td>
       <td>9,572</td>
       <td>4.9<span style="color: green">▼</span></td>
       <td>318<span style="color: green">▼</span></td>
