@@ -29,20 +29,20 @@ statecode: VT
     <tr>
       <td>50</td>
       <td>623,989</td>
-      <td>400</td>
-      <td><span style="color:transparent; font-size:0;">001.07</span>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>336</td>
+      <td><span style="color:transparent; font-size:0;">000.97</span>0.97<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000007%</span>7%</td>
-      <td><span style="color:transparent; font-size:0;">000003,888</span>3,888</td>
-      <td><span style="color:transparent; font-size:0;">000000063%</span>63%</td>
-      <td><span style="color:transparent; font-size:0;">000000047%</span>47%</td>
+      <td><span style="color:transparent; font-size:0;">000003,700</span>3,700</td>
+      <td><span style="color:transparent; font-size:0;">000000064%</span>64%</td>
+      <td><span style="color:transparent; font-size:0;">000000049%</span>49%</td>
       <td><span style="color:transparent; font-size:0;">210520</span>May 20, 2021</td>
-      <td>33,866</td>
-      <td>84.7<span style="color: green">▼</span></td>
+      <td>34,143</td>
+      <td>80.4<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000001.6%</span>1.6%<span style="color: #ffcc00">▶</span></td>
       <td>252</td>
       <td>0.4<span style="color: #ffcc00">▶</span></td>
-      <td>18<span style="color: green">▼</span></td>
-      <td>9.21<span style="color: green">▼</span></td>
+      <td>15<span style="color: green">▼</span></td>
+      <td>8.07<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
