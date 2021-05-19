@@ -27,22 +27,22 @@ statecode: PA
   </thead>
   <tbody>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>12,801,989</td>
-      <td>20,035</td>
-      <td><span style="color:transparent; font-size:0;">000.79</span>0.79<span style="color: green"> 🟢</span></td>
+      <td>21,859</td>
+      <td><span style="color:transparent; font-size:0;">000.81</span>0.81<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
-      <td><span style="color:transparent; font-size:0;">000034,564</span>34,564</td>
-      <td><span style="color:transparent; font-size:0;">000000054%</span>54%</td>
-      <td><span style="color:transparent; font-size:0;">000000051%</span>51%</td>
-      <td><span style="color:transparent; font-size:0;">210721</span>July 21, 2021</td>
-      <td>1,223,030</td>
-      <td>1,741.9<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000005.5%</span>5.5%<span style="color: green">▼</span></td>
-      <td>26,749</td>
-      <td>35.4<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">000037,072</span>37,072</td>
+      <td><span style="color:transparent; font-size:0;">000000055%</span>55%</td>
+      <td><span style="color:transparent; font-size:0;">000000053%</span>53%</td>
+      <td><span style="color:transparent; font-size:0;">210718</span>July 18, 2021</td>
+      <td>1,224,848</td>
+      <td>1,594.1<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000005.2%</span>5.2%<span style="color: green">▼</span></td>
+      <td>26,833</td>
+      <td>39.8<span style="color: #ffcc00">▶</span></td>
       <td>1,983<span style="color: green">▼</span></td>
-      <td>614.93<span style="color: green">▼</span></td>
+      <td>606.79<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

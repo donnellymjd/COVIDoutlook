@@ -27,22 +27,22 @@ statecode: SD
   </thead>
   <tbody>
     <tr>
-      <td>15</td>
+      <td>18</td>
       <td>884,659</td>
-      <td>1,042</td>
-      <td><span style="color:transparent; font-size:0;">000.80</span>0.80<span style="color: green"> 🟢</span></td>
+      <td>1,092</td>
+      <td><span style="color:transparent; font-size:0;">000.85</span>0.85<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000021%</span>21%</td>
-      <td><span style="color:transparent; font-size:0;">0000000917</span>917</td>
+      <td><span style="color:transparent; font-size:0;">0000000974</span>974</td>
       <td><span style="color:transparent; font-size:0;">000000046%</span>46%</td>
       <td><span style="color:transparent; font-size:0;">000000049%</span>49%</td>
-      <td><span style="color:transparent; font-size:0;">210524</span>May 24, 2021</td>
-      <td>68,867</td>
-      <td>73.8<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000007.7%</span>7.7%<span style="color: green">▼</span></td>
-      <td>1,991</td>
-      <td>1.7<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">210527</span>May 27, 2021</td>
+      <td>68,963</td>
+      <td>65.4<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000007.4%</span>7.4%<span style="color: green">▼</span></td>
+      <td>1,993</td>
+      <td>1.6<span style="color: red">▲</span></td>
       <td>73<span style="color: green">▼</span></td>
-      <td>19.86<span style="color: green">▼</span></td>
+      <td>19.21<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
