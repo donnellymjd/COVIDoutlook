@@ -27,22 +27,22 @@ statecode: IL
   </thead>
   <tbody>
     <tr>
-      <td>15</td>
+      <td>19</td>
       <td>12,671,821</td>
-      <td>16,536</td>
-      <td><span style="color:transparent; font-size:0;">000.81</span>0.81<span style="color: green"> 🟢</span></td>
+      <td>15,767</td>
+      <td><span style="color:transparent; font-size:0;">000.80</span>0.80<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
-      <td><span style="color:transparent; font-size:0;">000034,344</span>34,344</td>
+      <td><span style="color:transparent; font-size:0;">000031,755</span>31,755</td>
       <td><span style="color:transparent; font-size:0;">000000051%</span>51%</td>
-      <td><span style="color:transparent; font-size:0;">000000048%</span>48%</td>
-      <td><span style="color:transparent; font-size:0;">210819</span>August 19, 2021</td>
-      <td>1,349,465</td>
-      <td>1,464.9<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000002.9%</span>2.9%<span style="color: #ffcc00">▶</span></td>
-      <td>24,801</td>
-      <td>29.4<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">000000049%</span>49%</td>
+      <td><span style="color:transparent; font-size:0;">210821</span>August 21, 2021</td>
+      <td>1,351,975</td>
+      <td>1,316.6<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000002.8%</span>2.8%<span style="color: #ffcc00">▶</span></td>
+      <td>24,864</td>
+      <td>30.1<span style="color: #ffcc00">▶</span></td>
       <td>1,651<span style="color: green">▼</span></td>
-      <td>471.86<span style="color: green">▼</span></td>
+      <td>447.29<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
