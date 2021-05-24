@@ -27,22 +27,22 @@ statecode: MN
   </thead>
   <tbody>
     <tr>
-      <td>29</td>
+      <td>32</td>
       <td>5,639,632</td>
-      <td>5,685</td>
-      <td><span style="color:transparent; font-size:0;">000.82</span>0.82<span style="color: green"> 🟢</span></td>
+      <td>4,688</td>
+      <td><span style="color:transparent; font-size:0;">000.77</span>0.77<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000011%</span>11%</td>
-      <td><span style="color:transparent; font-size:0;">000012,626</span>12,626</td>
-      <td><span style="color:transparent; font-size:0;">000000051%</span>51%</td>
-      <td><span style="color:transparent; font-size:0;">000000049%</span>49%</td>
-      <td><span style="color:transparent; font-size:0;">210621</span>June 21, 2021</td>
-      <td>877,167</td>
-      <td>1,187.8<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000004.6%</span>4.6%<span style="color: #ffcc00">▶</span></td>
-      <td>7,418</td>
-      <td>9.6<span style="color: #ffcc00">▶</span></td>
-      <td>549<span style="color: green">▼</span></td>
-      <td>98.50<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">000017,110</span>17,110</td>
+      <td><span style="color:transparent; font-size:0;">000000053%</span>53%</td>
+      <td><span style="color:transparent; font-size:0;">000000050%</span>50%</td>
+      <td><span style="color:transparent; font-size:0;">210620</span>June 20, 2021</td>
+      <td>881,157</td>
+      <td>1,003.9<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000004.2%</span>4.2%<span style="color: green">▼</span></td>
+      <td>7,456</td>
+      <td>9.9<span style="color: #ffcc00">▶</span></td>
+      <td>469<span style="color: green">▼</span></td>
+      <td>85.00<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

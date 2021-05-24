@@ -27,22 +27,22 @@ statecode: KY
   </thead>
   <tbody>
     <tr>
-      <td>14</td>
+      <td>21</td>
       <td>4,467,673</td>
-      <td>6,562</td>
-      <td><span style="color:transparent; font-size:0;">000.89</span>0.89<span style="color: green"> 🟢</span></td>
+      <td>5,193</td>
+      <td><span style="color:transparent; font-size:0;">000.86</span>0.86<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000019%</span>19%</td>
-      <td><span style="color:transparent; font-size:0;">000006,911</span>6,911</td>
-      <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
+      <td><span style="color:transparent; font-size:0;">000010,407</span>10,407</td>
+      <td><span style="color:transparent; font-size:0;">000000045%</span>45%</td>
       <td><span style="color:transparent; font-size:0;">000000047%</span>47%</td>
-      <td><span style="color:transparent; font-size:0;">210821</span>August 21, 2021</td>
-      <td>485,505</td>
-      <td>310.2<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000003.8%</span>3.8%<span style="color: #ffcc00">▶</span></td>
-      <td>6,678</td>
-      <td>9.7<span style="color: green">▼</span></td>
-      <td>435<span style="color: #ffcc00">▶</span></td>
-      <td>176.00<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">210826</span>August 26, 2021</td>
+      <td>487,050</td>
+      <td>287.9<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000003.6%</span>3.6%<span style="color: #ffcc00">▶</span></td>
+      <td>6,705</td>
+      <td>9.1<span style="color: #ffcc00">▶</span></td>
+      <td>380<span style="color: #ffcc00">▶</span></td>
+      <td>168.79<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
