@@ -27,22 +27,22 @@ statecode: OH
   </thead>
   <tbody>
     <tr>
-      <td>18</td>
+      <td>14</td>
       <td>11,689,100</td>
-      <td>14,606</td>
-      <td><span style="color:transparent; font-size:0;">000.89</span>0.89<span style="color: green"> 🟢</span></td>
+      <td>15,798</td>
+      <td><span style="color:transparent; font-size:0;">000.90</span>0.90<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000021%</span>21%</td>
-      <td><span style="color:transparent; font-size:0;">000027,252</span>27,252</td>
-      <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
+      <td><span style="color:transparent; font-size:0;">000027,095</span>27,095</td>
+      <td><span style="color:transparent; font-size:0;">000000045%</span>45%</td>
       <td><span style="color:transparent; font-size:0;">000000047%</span>47%</td>
-      <td><span style="color:transparent; font-size:0;">210827</span>August 27, 2021</td>
-      <td>951,129</td>
-      <td>693.6<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000003.2%</span>3.2%<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">210824</span>August 24, 2021</td>
+      <td>951,800</td>
+      <td>701.4<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000003.3%</span>3.3%<span style="color: #ffcc00">▶</span></td>
       <td>19,709</td>
       <td>20.1<span style="color: #ffcc00">▶</span></td>
       <td>1,261<span style="color: green">▼</span></td>
-      <td>374.43<span style="color: green">▼</span></td>
+      <td>379.64<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

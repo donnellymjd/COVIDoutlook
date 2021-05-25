@@ -29,15 +29,15 @@ statecode: ID
     <tr>
       <td>15</td>
       <td>1,787,065</td>
-      <td>2,269</td>
+      <td>2,278</td>
       <td><span style="color:transparent; font-size:0;">001.07</span>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">000000025%</span>25%</td>
-      <td><span style="color:transparent; font-size:0;">000002,213</span>2,213</td>
+      <td><span style="color:transparent; font-size:0;">000002,277</span>2,277</td>
       <td><span style="color:transparent; font-size:0;">000000037%</span>37%</td>
       <td><span style="color:transparent; font-size:0;">000000038%</span>38%</td>
-      <td><span style="color:transparent; font-size:0;">210820</span>August 20, 2021</td>
-      <td>226,443</td>
-      <td>111.8<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">210821</span>August 21, 2021</td>
+      <td>226,551</td>
+      <td>114.4<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000004.6%</span>4.6%<span style="color: #ffcc00">▶</span></td>
       <td>2,082</td>
       <td>1.5<span style="color: #ffcc00">▶</span></td>
