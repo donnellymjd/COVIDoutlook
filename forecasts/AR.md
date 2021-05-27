@@ -27,22 +27,22 @@ statecode: AR
   </thead>
   <tbody>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>3,017,804</td>
-      <td>4,282</td>
-      <td><span style="color:transparent; font-size:0;">001.09</span>1.09<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>4,164</td>
+      <td><span style="color:transparent; font-size:0;">001.08</span>1.08<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">000000021%</span>21%</td>
-      <td><span style="color:transparent; font-size:0;">000004,585</span>4,585</td>
+      <td><span style="color:transparent; font-size:0;">000004,526</span>4,526</td>
       <td><span style="color:transparent; font-size:0;">000000039%</span>39%</td>
       <td><span style="color:transparent; font-size:0;">000000042%</span>42%</td>
-      <td><span style="color:transparent; font-size:0;">210724</span>July 24, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210725</span>July 25, 2021</td>
       <td>234,333</td>
-      <td>36.9<span style="color: green">▼</span></td>
+      <td>30.0<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000003.3%</span>3.3%<span style="color: #ffcc00">▶</span></td>
-      <td>5,820</td>
-      <td>4.0<span style="color: #ffcc00">▶</span></td>
+      <td>5,824</td>
+      <td>3.9<span style="color: #ffcc00">▶</span></td>
       <td>229<span style="color: #ffcc00">▶</span></td>
-      <td>94.71<span style="color: #ffcc00">▶</span></td>
+      <td>94.50<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

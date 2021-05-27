@@ -29,20 +29,20 @@ statecode: ID
     <tr>
       <td>17</td>
       <td>1,787,065</td>
-      <td>2,225</td>
-      <td><span style="color:transparent; font-size:0;">001.04</span>1.04<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>2,117</td>
+      <td><span style="color:transparent; font-size:0;">001.01</span>1.01<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">000000025%</span>25%</td>
-      <td><span style="color:transparent; font-size:0;">000002,344</span>2,344</td>
+      <td><span style="color:transparent; font-size:0;">000002,381</span>2,381</td>
       <td><span style="color:transparent; font-size:0;">000000037%</span>37%</td>
       <td><span style="color:transparent; font-size:0;">000000038%</span>38%</td>
-      <td><span style="color:transparent; font-size:0;">210822</span>August 22, 2021</td>
-      <td>226,611</td>
-      <td>109.5<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">210825</span>August 25, 2021</td>
+      <td>226,728</td>
+      <td>108.4<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000004.6%</span>4.6%<span style="color: #ffcc00">▶</span></td>
-      <td>2,086</td>
-      <td>1.8<span style="color: #ffcc00">▶</span></td>
+      <td>2,087</td>
+      <td>2.1<span style="color: red">▲</span></td>
       <td>121<span style="color: #ffcc00">▶</span></td>
-      <td>15.14<span style="color: green">▼</span></td>
+      <td>15.07<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

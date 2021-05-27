@@ -20,6 +20,7 @@ Our models and charts rely on data from a variety of publicly available datasets
  - [COVID-19 Related Policy Actions by State - Source: KFF.org](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_interventions.csv)
 
 ### Our Forecasts (comma separated values)
+ - [Forecast published on May 27, 2021](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_fore_allstates_20210527.csv)
  - [Forecast published on May 26, 2021](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_fore_allstates_20210526.csv)
  - [Forecast published on May 25, 2021](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_fore_allstates_20210525.csv)
  - [Forecast published on May 24, 2021](https://raw.githubusercontent.com/donnellymjd/COVIDoutlook/master/download/df_fore_allstates_20210524.csv)
