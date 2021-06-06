@@ -27,22 +27,22 @@ statecode: MD
   </thead>
   <tbody>
     <tr>
-      <td>26</td>
+      <td>14</td>
       <td>6,045,680</td>
-      <td>5,685</td>
-      <td><span style="color:transparent; font-size:0;">000.67</span>0.67<span style="color: green"> 🟢</span></td>
+      <td>6,053</td>
+      <td><span style="color:transparent; font-size:0;">000.88</span>0.88<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000012%</span>12%</td>
       <td><span style="color:transparent; font-size:0;">000016,487</span>16,487</td>
-      <td><span style="color:transparent; font-size:0;">000000057%</span>57%</td>
+      <td><span style="color:transparent; font-size:0;">000000058%</span>58%</td>
       <td><span style="color:transparent; font-size:0;">000000056%</span>56%</td>
-      <td><span style="color:transparent; font-size:0;">210618</span>June 18, 2021</td>
-      <td>929,699</td>
-      <td>356.7<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000002.4%</span>2.4%<span style="color: green">▼</span></td>
-      <td>9,614</td>
-      <td>7.5<span style="color: green">▼</span></td>
-      <td>601<span style="color: green">▼</span></td>
-      <td>311.79<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">210623</span>June 23, 2021</td>
+      <td>935,672</td>
+      <td>204.7<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000001.8%</span>1.8%<span style="color: green">▼</span></td>
+      <td>9,644</td>
+      <td>6.1<span style="color: green">▼</span></td>
+      <td>503<span style="color: green">▼</span></td>
+      <td>293.07<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

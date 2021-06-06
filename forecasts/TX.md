@@ -27,22 +27,22 @@ statecode: TX
   </thead>
   <tbody>
     <tr>
-      <td>32</td>
+      <td>10</td>
       <td>28,995,881</td>
-      <td>23,766</td>
-      <td><span style="color:transparent; font-size:0;">000.79</span>0.79<span style="color: green"> 🟢</span></td>
+      <td>30,543</td>
+      <td><span style="color:transparent; font-size:0;">000.81</span>0.81<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000017%</span>17%</td>
       <td><span style="color:transparent; font-size:0;">000057,571</span>57,571</td>
-      <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
-      <td><span style="color:transparent; font-size:0;">000000048%</span>48%</td>
-      <td><span style="color:transparent; font-size:0;">210908</span>September 08, 2021</td>
-      <td>3,191,854</td>
-      <td>960.3<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000003.0%</span>3.0%<span style="color: green">▼</span></td>
-      <td>50,426</td>
-      <td>37.6<span style="color: #ffcc00">▶</span></td>
-      <td>2,388<span style="color: green">▼</span></td>
-      <td>736.71<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">000000045%</span>45%</td>
+      <td><span style="color:transparent; font-size:0;">000000051%</span>51%</td>
+      <td><span style="color:transparent; font-size:0;">210831</span>August 31, 2021</td>
+      <td>3,198,677</td>
+      <td>855.2<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000003.1%</span>3.1%<span style="color: #ffcc00">▶</span></td>
+      <td>50,621</td>
+      <td>13.3<span style="color: green">▼</span></td>
+      <td>2,071<span style="color: green">▼</span></td>
+      <td>693.21<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

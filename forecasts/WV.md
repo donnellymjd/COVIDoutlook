@@ -27,22 +27,22 @@ statecode: WV
   </thead>
   <tbody>
     <tr>
-      <td>2</td>
+      <td>11</td>
       <td>1,792,147</td>
-      <td>3,538</td>
-      <td><span style="color:transparent; font-size:0;">000.92</span>0.92<span style="color: green"> 🟢</span></td>
+      <td>1,836</td>
+      <td><span style="color:transparent; font-size:0;">000.69</span>0.69<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000020%</span>20%</td>
       <td><span style="color:transparent; font-size:0;">000002,743</span>2,743</td>
       <td><span style="color:transparent; font-size:0;">000000041%</span>41%</td>
-      <td><span style="color:transparent; font-size:0;">000000048%</span>48%</td>
-      <td><span style="color:transparent; font-size:0;">210615</span>June 15, 2021</td>
-      <td>194,912</td>
-      <td>197.2<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000005.7%</span>5.7%<span style="color: #ffcc00">▶</span></td>
-      <td>2,792</td>
-      <td>2.1<span style="color: green">▼</span></td>
-      <td>233<span style="color: green">▼</span></td>
-      <td>93.36<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">000000049%</span>49%</td>
+      <td><span style="color:transparent; font-size:0;">210617</span>June 17, 2021</td>
+      <td>195,491</td>
+      <td>141.1<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000005.0%</span>5.0%<span style="color: #ffcc00">▶</span></td>
+      <td>2,813</td>
+      <td>2.9<span style="color: #ffcc00">▶</span></td>
+      <td>203<span style="color: green">▼</span></td>
+      <td>86.79<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
