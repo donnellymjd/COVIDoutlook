@@ -27,9 +27,9 @@ statecode: IN
   </thead>
   <tbody>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>6,732,219</td>
-      <td>8,235</td>
+      <td>8,255</td>
       <td><span style="color:transparent; font-size:0;">000.86</span>0.86<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
       <td><span style="color:transparent; font-size:0;">000010,115</span>10,115</td>

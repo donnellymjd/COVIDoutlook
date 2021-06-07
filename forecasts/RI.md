@@ -29,7 +29,7 @@ statecode: RI
     <tr>
       <td>43</td>
       <td>1,059,361</td>
-      <td>401</td>
+      <td>379</td>
       <td><span style="color:transparent; font-size:0;">000.56</span>0.56<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000013%</span>13%</td>
       <td><span style="color:transparent; font-size:0;">000002,680</span>2,680</td>

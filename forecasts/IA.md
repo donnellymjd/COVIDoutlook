@@ -29,7 +29,7 @@ statecode: IA
     <tr>
       <td>34</td>
       <td>3,155,070</td>
-      <td>1,758</td>
+      <td>1,709</td>
       <td><span style="color:transparent; font-size:0;">000.75</span>0.75<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000020%</span>20%</td>
       <td><span style="color:transparent; font-size:0;">000004,647</span>4,647</td>

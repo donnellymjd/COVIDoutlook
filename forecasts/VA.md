@@ -27,9 +27,9 @@ statecode: VA
   </thead>
   <tbody>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>8,535,519</td>
-      <td>5,564</td>
+      <td>5,438</td>
       <td><span style="color:transparent; font-size:0;">000.82</span>0.82<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000014%</span>14%</td>
       <td><span style="color:transparent; font-size:0;">000020,239</span>20,239</td>

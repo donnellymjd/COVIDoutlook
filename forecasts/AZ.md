@@ -27,9 +27,9 @@ statecode: AZ
   </thead>
   <tbody>
     <tr>
-      <td>16</td>
+      <td>13</td>
       <td>7,278,717</td>
-      <td>7,173</td>
+      <td>7,174</td>
       <td><span style="color:transparent; font-size:0;">000.91</span>0.91<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
       <td><span style="color:transparent; font-size:0;">000011,451</span>11,451</td>

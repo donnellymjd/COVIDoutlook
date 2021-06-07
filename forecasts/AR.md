@@ -29,7 +29,7 @@ statecode: AR
     <tr>
       <td>8</td>
       <td>3,017,804</td>
-      <td>3,213</td>
+      <td>3,228</td>
       <td><span style="color:transparent; font-size:0;">000.98</span>0.98<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000021%</span>21%</td>
       <td><span style="color:transparent; font-size:0;">000003,812</span>3,812</td>

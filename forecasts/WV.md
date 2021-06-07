@@ -29,7 +29,7 @@ statecode: WV
     <tr>
       <td>11</td>
       <td>1,792,147</td>
-      <td>1,836</td>
+      <td>1,779</td>
       <td><span style="color:transparent; font-size:0;">000.69</span>0.69<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000020%</span>20%</td>
       <td><span style="color:transparent; font-size:0;">000002,743</span>2,743</td>
