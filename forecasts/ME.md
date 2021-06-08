@@ -27,14 +27,14 @@ statecode: ME
   </thead>
   <tbody>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>1,344,212</td>
-      <td>671</td>
+      <td>646</td>
       <td><span style="color:transparent; font-size:0;">000.75</span>0.75<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000012%</span>12%</td>
       <td><span style="color:transparent; font-size:0;">000003,361</span>3,361</td>
       <td><span style="color:transparent; font-size:0;">000000064%</span>64%</td>
-      <td><span style="color:transparent; font-size:0;">000000057%</span>57%</td>
+      <td><span style="color:transparent; font-size:0;">000000058%</span>58%</td>
       <td><span style="color:transparent; font-size:0;">210518</span>May 18, 2021</td>
       <td>61,867</td>
       <td>46.4<span style="color: green">▼</span></td>

@@ -29,16 +29,16 @@ statecode: VT
     <tr>
       <td>51</td>
       <td>623,989</td>
-      <td>60</td>
+      <td>56</td>
       <td><span style="color:transparent; font-size:0;">000.58</span>0.58<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000007%</span>7%</td>
       <td><span style="color:transparent; font-size:0;">000001,201</span>1,201</td>
       <td><span style="color:transparent; font-size:0;">000000071%</span>71%</td>
-      <td><span style="color:transparent; font-size:0;">000000062%</span>62%</td>
+      <td><span style="color:transparent; font-size:0;">000000063%</span>63%</td>
       <td><span style="color:transparent; font-size:0;">210521</span>May 21, 2021</td>
-      <td>34,773</td>
-      <td>13.9<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000001.0%</span>1.0%<span style="color: #ffcc00">▶</span></td>
+      <td>34,787</td>
+      <td>14.9<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000000.9%</span>0.9%<span style="color: #ffcc00">▶</span></td>
       <td>256</td>
       <td>0.1<span style="color: green">▼</span></td>
       <td>1<span style="color: #ffcc00">▶</span></td>

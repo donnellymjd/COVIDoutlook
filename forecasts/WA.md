@@ -27,17 +27,17 @@ statecode: WA
   </thead>
   <tbody>
     <tr>
-      <td>20</td>
+      <td>8</td>
       <td>7,614,893</td>
-      <td>6,435</td>
-      <td><span style="color:transparent; font-size:0;">000.79</span>0.79<span style="color: green"> 🟢</span></td>
+      <td>8,486</td>
+      <td><span style="color:transparent; font-size:0;">000.99</span>0.99<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000011%</span>11%</td>
       <td><span style="color:transparent; font-size:0;">000022,124</span>22,124</td>
       <td><span style="color:transparent; font-size:0;">000000057%</span>57%</td>
       <td><span style="color:transparent; font-size:0;">000000054%</span>54%</td>
       <td><span style="color:transparent; font-size:0;">210603</span>June 03, 2021</td>
-      <td>311,831</td>
-      <td>341.9<span style="color: green">▼</span></td>
+      <td>312,508</td>
+      <td>389.9<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000003.2%</span>3.2%<span style="color: #ffcc00">▶</span></td>
       <td>5,836</td>
       <td>9.6<span style="color: #ffcc00">▶</span></td>

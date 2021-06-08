@@ -29,16 +29,16 @@ statecode: MN
     <tr>
       <td>45</td>
       <td>5,639,632</td>
-      <td>1,891</td>
-      <td><span style="color:transparent; font-size:0;">000.63</span>0.63<span style="color: green"> 🟢</span></td>
+      <td>1,870</td>
+      <td><span style="color:transparent; font-size:0;">000.64</span>0.64<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000011%</span>11%</td>
       <td><span style="color:transparent; font-size:0;">000010,390</span>10,390</td>
       <td><span style="color:transparent; font-size:0;">000000055%</span>55%</td>
       <td><span style="color:transparent; font-size:0;">000000054%</span>54%</td>
       <td><span style="color:transparent; font-size:0;">210621</span>June 21, 2021</td>
-      <td>889,214</td>
-      <td>415.6<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000002.4%</span>2.4%<span style="color: green">▼</span></td>
+      <td>889,516</td>
+      <td>437.2<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000002.3%</span>2.3%<span style="color: green">▼</span></td>
       <td>7,554</td>
       <td>7.0<span style="color: green">▼</span></td>
       <td>313<span style="color: green">▼</span></td>
