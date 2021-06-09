@@ -29,20 +29,20 @@ statecode: MO
     <tr>
       <td>2</td>
       <td>6,137,428</td>
-      <td>8,751</td>
+      <td>8,716</td>
       <td><span style="color:transparent; font-size:0;">000.97</span>0.97<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
       <td><span style="color:transparent; font-size:0;">000007,541</span>7,541</td>
       <td><span style="color:transparent; font-size:0;">000000043%</span>43%</td>
       <td><span style="color:transparent; font-size:0;">000000046%</span>46%</td>
-      <td><span style="color:transparent; font-size:0;">210826</span>August 26, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210827</span>August 27, 2021</td>
       <td>651,449</td>
-      <td>286.4<span style="color: green">▼</span></td>
+      <td>268.9<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000004.2%</span>4.2%<span style="color: #ffcc00">▶</span></td>
-      <td>9,140</td>
+      <td>9,141</td>
       <td>9.6<span style="color: red">▲</span></td>
       <td>675<span style="color: #ffcc00">▶</span></td>
-      <td>201.21<span style="color: #ffcc00">▶</span></td>
+      <td>206.14<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

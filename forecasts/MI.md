@@ -27,22 +27,22 @@ statecode: MI
   </thead>
   <tbody>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>9,986,857</td>
-      <td>3,937</td>
+      <td>3,695</td>
       <td><span style="color:transparent; font-size:0;">000.52</span>0.52<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000019%</span>19%</td>
       <td><span style="color:transparent; font-size:0;">000016,534</span>16,534</td>
       <td><span style="color:transparent; font-size:0;">000000049%</span>49%</td>
-      <td><span style="color:transparent; font-size:0;">000000053%</span>53%</td>
-      <td><span style="color:transparent; font-size:0;">211007</span>October 07, 2021</td>
-      <td>1,082,927</td>
-      <td>593.2<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000003.1%</span>3.1%<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">000000054%</span>54%</td>
+      <td><span style="color:transparent; font-size:0;">211008</span>October 08, 2021</td>
+      <td>1,083,324</td>
+      <td>568.0<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000002.9%</span>2.9%<span style="color: green">▼</span></td>
       <td>20,588</td>
-      <td>22.5<span style="color: green">▼</span></td>
+      <td>16.8<span style="color: green">▼</span></td>
       <td>872<span style="color: green">▼</span></td>
-      <td>150.86<span style="color: green">▼</span></td>
+      <td>147.43<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
