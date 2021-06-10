@@ -29,20 +29,20 @@ statecode: NM
     <tr>
       <td>35</td>
       <td>2,096,829</td>
-      <td>1,155</td>
-      <td><span style="color:transparent; font-size:0;">000.81</span>0.81<span style="color: green"> 🟢</span></td>
+      <td>1,159</td>
+      <td><span style="color:transparent; font-size:0;">000.85</span>0.85<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
-      <td><span style="color:transparent; font-size:0;">000004,716</span>4,716</td>
-      <td><span style="color:transparent; font-size:0;">000000058%</span>58%</td>
+      <td><span style="color:transparent; font-size:0;">000002,364</span>2,364</td>
+      <td><span style="color:transparent; font-size:0;">000000059%</span>59%</td>
       <td><span style="color:transparent; font-size:0;">000000057%</span>57%</td>
       <td><span style="color:transparent; font-size:0;">210513</span>May 13, 2021</td>
-      <td>272,352</td>
-      <td>77.6<span style="color: green">▼</span></td>
+      <td>272,439</td>
+      <td>71.0<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000002.1%</span>2.1%<span style="color: #ffcc00">▶</span></td>
-      <td>4,280</td>
-      <td>10.6<span style="color: red">▲</span></td>
+      <td>4,287</td>
+      <td>2.6<span style="color: green">▼</span></td>
       <td>118<span style="color: green">▼</span></td>
-      <td>42.93<span style="color: green">▼</span></td>
+      <td>38.71<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
