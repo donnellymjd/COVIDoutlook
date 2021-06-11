@@ -3,6 +3,9 @@ layout: page
 title: About Us
 banner: duotone3.png
 ---
+<div class="w3-bar w3-yellow">
+  <div class="w3-bar-item w3-hover-gray"><a href="./assets/img/COVIDoutlook%20Release%20on%20Commendations%20from%20NYS%20Governor.pdf">NEWS: COVIDoutlook Founders Receive Commendation from NY Governor</a></div>
+</div>
 
 *Launched in Summer 2020, COVIDoutlook.info is a volunteer-run website that provides independent data-driven analyses and forecasts about the COVID-19 crisis in the United States for policymakers and individuals. We hope our work can help people make the best decisions for themselves, their families, and their communities during this complicated time of heightened risk.* 
 
