@@ -27,22 +27,22 @@ statecode: MA
   </thead>
   <tbody>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>6,892,503</td>
-      <td>2,301</td>
-      <td><span style="color:transparent; font-size:0;">000.84</span>0.84<span style="color: green"> 🟢</span></td>
+      <td>2,040</td>
+      <td><span style="color:transparent; font-size:0;">000.88</span>0.88<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000007%</span>7%</td>
-      <td><span style="color:transparent; font-size:0;">000013,180</span>13,180</td>
+      <td><span style="color:transparent; font-size:0;">000013,443</span>13,443</td>
       <td><span style="color:transparent; font-size:0;">000000068%</span>68%</td>
       <td><span style="color:transparent; font-size:0;">000000063%</span>63%</td>
-      <td><span style="color:transparent; font-size:0;">210626</span>June 26, 2021</td>
-      <td>789,437</td>
-      <td>179.6<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">210627</span>June 27, 2021</td>
+      <td>789,622</td>
+      <td>169.4<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000000.7%</span>0.7%<span style="color: #ffcc00">▶</span></td>
-      <td>17,917</td>
-      <td>5.9<span style="color: green">▼</span></td>
+      <td>17,922</td>
+      <td>5.8<span style="color: green">▼</span></td>
       <td>183<span style="color: green">▼</span></td>
-      <td>93.86<span style="color: green">▼</span></td>
+      <td>91.93<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

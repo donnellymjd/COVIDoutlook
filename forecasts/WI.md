@@ -29,20 +29,20 @@ statecode: WI
     <tr>
       <td>50</td>
       <td>5,822,434</td>
-      <td>1,723</td>
-      <td><span style="color:transparent; font-size:0;">000.76</span>0.76<span style="color: green"> 🟢</span></td>
+      <td>1,582</td>
+      <td><span style="color:transparent; font-size:0;">000.79</span>0.79<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000017%</span>17%</td>
-      <td><span style="color:transparent; font-size:0;">000005,968</span>5,968</td>
+      <td><span style="color:transparent; font-size:0;">000006,358</span>6,358</td>
       <td><span style="color:transparent; font-size:0;">000000052%</span>52%</td>
       <td><span style="color:transparent; font-size:0;">000000051%</span>51%</td>
-      <td><span style="color:transparent; font-size:0;">210920</span>September 20, 2021</td>
-      <td>740,061</td>
-      <td>151.5<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000001.7%</span>1.7%<span style="color: green">▼</span></td>
-      <td>7,981</td>
-      <td>15.8<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">210922</span>September 22, 2021</td>
+      <td>740,236</td>
+      <td>146.3<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000001.6%</span>1.6%<span style="color: green">▼</span></td>
+      <td>7,995</td>
+      <td>16.4<span style="color: red">▲</span></td>
       <td>226<span style="color: green">▼</span></td>
-      <td>88.36<span style="color: green">▼</span></td>
+      <td>86.50<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
