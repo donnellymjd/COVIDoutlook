@@ -27,22 +27,22 @@ statecode: VA
   </thead>
   <tbody>
     <tr>
-      <td>32</td>
+      <td>38</td>
       <td>8,535,519</td>
-      <td>5,078</td>
-      <td><span style="color:transparent; font-size:0;">000.80</span>0.80<span style="color: green"> 🟢</span></td>
+      <td>4,305</td>
+      <td><span style="color:transparent; font-size:0;">000.78</span>0.78<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000014%</span>14%</td>
-      <td><span style="color:transparent; font-size:0;">000012,166</span>12,166</td>
+      <td><span style="color:transparent; font-size:0;">000013,545</span>13,545</td>
       <td><span style="color:transparent; font-size:0;">000000057%</span>57%</td>
       <td><span style="color:transparent; font-size:0;">000000058%</span>58%</td>
-      <td><span style="color:transparent; font-size:0;">210529</span>May 29, 2021</td>
-      <td>941,190</td>
-      <td>205.1<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000002.7%</span>2.7%<span style="color: #ffcc00">▶</span></td>
-      <td>11,270</td>
-      <td>8.4<span style="color: green">▼</span></td>
-      <td>467<span style="color: green">▼</span></td>
-      <td>227.50<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">210531</span>May 31, 2021</td>
+      <td>942,237</td>
+      <td>175.8<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000002.2%</span>2.2%<span style="color: #ffcc00">▶</span></td>
+      <td>11,308</td>
+      <td>9.6<span style="color: #ffcc00">▶</span></td>
+      <td>367<span style="color: green">▼</span></td>
+      <td>207.00<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
