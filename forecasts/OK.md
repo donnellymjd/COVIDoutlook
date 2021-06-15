@@ -29,15 +29,15 @@ statecode: OK
     <tr>
       <td>40</td>
       <td>3,956,971</td>
-      <td>1,770</td>
-      <td><span style="color:transparent; font-size:0;">000.79</span>0.79<span style="color: green"> 🟢</span></td>
+      <td>1,953</td>
+      <td><span style="color:transparent; font-size:0;">000.85</span>0.85<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000021%</span>21%</td>
       <td><span style="color:transparent; font-size:0;">000002,797</span>2,797</td>
       <td><span style="color:transparent; font-size:0;">000000042%</span>42%</td>
       <td><span style="color:transparent; font-size:0;">000000047%</span>47%</td>
-      <td><span style="color:transparent; font-size:0;">210728</span>July 28, 2021</td>
-      <td>474,030</td>
-      <td>58.1<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">210727</span>July 27, 2021</td>
+      <td>474,182</td>
+      <td>68.9<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000003.6%</span>3.6%<span style="color: #ffcc00">▶</span></td>
       <td>7,354</td>
       <td>4.0<span style="color: red">▲</span></td>

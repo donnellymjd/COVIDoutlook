@@ -27,9 +27,9 @@ statecode: NH
   </thead>
   <tbody>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>1,359,711</td>
-      <td>387</td>
+      <td>376</td>
       <td><span style="color:transparent; font-size:0;">000.77</span>0.77<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000014%</span>14%</td>
       <td><span style="color:transparent; font-size:0;">000001,276</span>1,276</td>

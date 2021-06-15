@@ -27,9 +27,9 @@ statecode: CT
   </thead>
   <tbody>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>3,565,287</td>
-      <td>1,392</td>
+      <td>1,366</td>
       <td><span style="color:transparent; font-size:0;">000.90</span>0.90<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000010%</span>10%</td>
       <td><span style="color:transparent; font-size:0;">000005,783</span>5,783</td>
