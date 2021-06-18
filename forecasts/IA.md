@@ -29,20 +29,20 @@ statecode: IA
     <tr>
       <td>16</td>
       <td>3,155,070</td>
-      <td>2,815</td>
-      <td><span style="color:transparent; font-size:0;">001.00</span>1.00<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>2,924</td>
+      <td><span style="color:transparent; font-size:0;">001.03</span>1.03<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">000000020%</span>20%</td>
-      <td><span style="color:transparent; font-size:0;">000002,288</span>2,288</td>
+      <td><span style="color:transparent; font-size:0;">000002,062</span>2,062</td>
       <td><span style="color:transparent; font-size:0;">000000050%</span>50%</td>
       <td><span style="color:transparent; font-size:0;">000000052%</span>52%</td>
       <td><span style="color:transparent; font-size:0;">210604</span>June 04, 2021</td>
-      <td>369,772</td>
-      <td>81.0<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000002.4%</span>2.4%<span style="color: green">▼</span></td>
-      <td>6,102</td>
+      <td>370,703</td>
+      <td>79.6<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000002.5%</span>2.5%<span style="color: green">▼</span></td>
+      <td>6,109</td>
       <td>3.4<span style="color: #ffcc00">▶</span></td>
       <td>126<span style="color: green">▼</span></td>
-      <td>60.00<span style="color: red">▲</span></td>
+      <td>60.50<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
