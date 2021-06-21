@@ -27,17 +27,17 @@ statecode: DE
   </thead>
   <tbody>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>973,764</td>
-      <td>432</td>
+      <td>418</td>
       <td><span style="color:transparent; font-size:0;">000.75</span>0.75<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000013%</span>13%</td>
       <td><span style="color:transparent; font-size:0;">000001,276</span>1,276</td>
       <td><span style="color:transparent; font-size:0;">000000057%</span>57%</td>
       <td><span style="color:transparent; font-size:0;">000000057%</span>57%</td>
       <td><span style="color:transparent; font-size:0;">210526</span>May 26, 2021</td>
-      <td>125,985</td>
-      <td>23.9<span style="color: green">▼</span></td>
+      <td>126,007</td>
+      <td>25.4<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000001.2%</span>1.2%<span style="color: green">▼</span></td>
       <td>1,679</td>
       <td>0.1<span style="color: green">▼</span></td>

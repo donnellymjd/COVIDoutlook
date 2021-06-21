@@ -27,18 +27,18 @@ statecode: UT
   </thead>
   <tbody>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>3,205,958</td>
-      <td>3,190</td>
-      <td><span style="color:transparent; font-size:0;">001.14</span>1.14<span style="color: red"> 🟥</span></td>
+      <td>3,205</td>
+      <td><span style="color:transparent; font-size:0;">001.13</span>1.13<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000014%</span>14%</td>
       <td><span style="color:transparent; font-size:0;">000004,545</span>4,545</td>
       <td><span style="color:transparent; font-size:0;">000000047%</span>47%</td>
       <td><span style="color:transparent; font-size:0;">000000047%</span>47%</td>
       <td><span style="color:transparent; font-size:0;">210720</span>July 20, 2021</td>
-      <td>503,002</td>
-      <td>237.1<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000005.0%</span>5.0%<span style="color: #ffcc00">▶</span></td>
+      <td>503,259</td>
+      <td>255.4<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">0000005.1%</span>5.1%<span style="color: #ffcc00">▶</span></td>
       <td>2,324</td>
       <td>0.9<span style="color: #ffcc00">▶</span></td>
       <td>171<span style="color: #ffcc00">▶</span></td>

@@ -29,15 +29,15 @@ statecode: TX
     <tr>
       <td>19</td>
       <td>28,995,881</td>
-      <td>21,310</td>
+      <td>21,759</td>
       <td><span style="color:transparent; font-size:0;">000.90</span>0.90<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000017%</span>17%</td>
       <td><span style="color:transparent; font-size:0;">000045,140</span>45,140</td>
       <td><span style="color:transparent; font-size:0;">000000047%</span>47%</td>
       <td><span style="color:transparent; font-size:0;">000000049%</span>49%</td>
       <td><span style="color:transparent; font-size:0;">210918</span>September 18, 2021</td>
-      <td>3,219,425</td>
-      <td>796.9<span style="color: green">▼</span></td>
+      <td>3,220,194</td>
+      <td>850.0<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000002.9%</span>2.9%<span style="color: #ffcc00">▶</span></td>
       <td>50,964</td>
       <td>24.5<span style="color: #ffcc00">▶</span></td>

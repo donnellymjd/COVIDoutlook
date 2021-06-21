@@ -27,17 +27,17 @@ statecode: NC
   </thead>
   <tbody>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>10,488,084</td>
-      <td>5,951</td>
+      <td>6,025</td>
       <td><span style="color:transparent; font-size:0;">000.94</span>0.94<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
       <td><span style="color:transparent; font-size:0;">000006,094</span>6,094</td>
       <td><span style="color:transparent; font-size:0;">000000045%</span>45%</td>
       <td><span style="color:transparent; font-size:0;">000000048%</span>48%</td>
       <td><span style="color:transparent; font-size:0;">211001</span>October 01, 2021</td>
-      <td>994,405</td>
-      <td>317.4<span style="color: green">▼</span></td>
+      <td>994,662</td>
+      <td>335.6<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000002.3%</span>2.3%<span style="color: green">▼</span></td>
       <td>13,320</td>
       <td>4.4<span style="color: #ffcc00">▶</span></td>
