@@ -27,10 +27,10 @@ statecode: DE
   </thead>
   <tbody>
     <tr>
-      <td>40</td>
+      <td>38</td>
       <td>973,764</td>
-      <td>418</td>
-      <td><span style="color:transparent; font-size:0;">000.75</span>0.75<span style="color: green"> 🟢</span></td>
+      <td>417</td>
+      <td><span style="color:transparent; font-size:0;">000.77</span>0.77<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000013%</span>13%</td>
       <td><span style="color:transparent; font-size:0;">000001,276</span>1,276</td>
       <td><span style="color:transparent; font-size:0;">000000057%</span>57%</td>

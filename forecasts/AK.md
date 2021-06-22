@@ -29,8 +29,8 @@ statecode: AK
     <tr>
       <td>1</td>
       <td>731,545</td>
-      <td>1,849</td>
-      <td><span style="color:transparent; font-size:0;">001.11</span>1.11<span style="color: red"> 🟥</span></td>
+      <td>1,843</td>
+      <td><span style="color:transparent; font-size:0;">001.10</span>1.10<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000020%</span>20%</td>
       <td><span style="color:transparent; font-size:0;">0000000572</span>572</td>
       <td><span style="color:transparent; font-size:0;">000000048%</span>48%</td>

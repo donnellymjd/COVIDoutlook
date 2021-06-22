@@ -27,10 +27,10 @@ statecode: MN
   </thead>
   <tbody>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>5,639,632</td>
       <td>1,793</td>
-      <td><span style="color:transparent; font-size:0;">000.76</span>0.76<span style="color: green"> 🟢</span></td>
+      <td><span style="color:transparent; font-size:0;">000.77</span>0.77<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000011%</span>11%</td>
       <td><span style="color:transparent; font-size:0;">000005,454</span>5,454</td>
       <td><span style="color:transparent; font-size:0;">000000056%</span>56%</td>

@@ -27,10 +27,10 @@ statecode: HI
   </thead>
   <tbody>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>1,415,872</td>
-      <td>1,636</td>
-      <td><span style="color:transparent; font-size:0;">000.94</span>0.94<span style="color: green"> 🟢</span></td>
+      <td>1,776</td>
+      <td><span style="color:transparent; font-size:0;">000.99</span>0.99<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000010%</span>10%</td>
       <td><span style="color:transparent; font-size:0;">000001,718</span>1,718</td>
       <td><span style="color:transparent; font-size:0;">000000069%</span>69%</td>

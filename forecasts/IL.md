@@ -27,15 +27,15 @@ statecode: IL
   </thead>
   <tbody>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>12,671,821</td>
-      <td>7,454</td>
-      <td><span style="color:transparent; font-size:0;">000.70</span>0.70<span style="color: green"> 🟢</span></td>
+      <td>7,635</td>
+      <td><span style="color:transparent; font-size:0;">000.71</span>0.71<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
       <td><span style="color:transparent; font-size:0;">000023,004</span>23,004</td>
       <td><span style="color:transparent; font-size:0;">000000058%</span>58%</td>
       <td><span style="color:transparent; font-size:0;">000000058%</span>58%</td>
-      <td><span style="color:transparent; font-size:0;">210906</span>September 06, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210905</span>September 05, 2021</td>
       <td>1,370,575</td>
       <td>284.2<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000000.9%</span>0.9%<span style="color: #ffcc00">▶</span></td>

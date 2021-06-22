@@ -27,7 +27,7 @@ statecode: US
   <tbody>
     <tr>
       <td>328,239,523</td>
-      <td>214,572</td>
+      <td>218,344</td>
       <td>0.90</td>
       <td>16%</td>
       <td>461,993</td>

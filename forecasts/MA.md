@@ -29,8 +29,8 @@ statecode: MA
     <tr>
       <td>50</td>
       <td>6,892,503</td>
-      <td>1,094</td>
-      <td><span style="color:transparent; font-size:0;">000.70</span>0.70<span style="color: green"> 🟢</span></td>
+      <td>947</td>
+      <td><span style="color:transparent; font-size:0;">000.71</span>0.71<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000007%</span>7%</td>
       <td><span style="color:transparent; font-size:0;">000009,802</span>9,802</td>
       <td><span style="color:transparent; font-size:0;">000000069%</span>69%</td>

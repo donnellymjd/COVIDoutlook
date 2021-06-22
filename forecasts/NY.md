@@ -29,8 +29,8 @@ statecode: NY
     <tr>
       <td>37</td>
       <td>19,453,561</td>
-      <td>8,642</td>
-      <td><span style="color:transparent; font-size:0;">000.79</span>0.79<span style="color: green"> 🟢</span></td>
+      <td>8,531</td>
+      <td><span style="color:transparent; font-size:0;">000.78</span>0.78<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000013%</span>13%</td>
       <td><span style="color:transparent; font-size:0;">000031,837</span>31,837</td>
       <td><span style="color:transparent; font-size:0;">000000059%</span>59%</td>

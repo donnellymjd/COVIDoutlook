@@ -29,8 +29,8 @@ statecode: IA
     <tr>
       <td>18</td>
       <td>3,155,070</td>
-      <td>2,388</td>
-      <td><span style="color:transparent; font-size:0;">001.01</span>1.01<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>2,413</td>
+      <td><span style="color:transparent; font-size:0;">001.02</span>1.02<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">000000020%</span>20%</td>
       <td><span style="color:transparent; font-size:0;">000002,582</span>2,582</td>
       <td><span style="color:transparent; font-size:0;">000000051%</span>51%</td>

@@ -27,10 +27,10 @@ statecode: NV
   </thead>
   <tbody>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>3,080,156</td>
-      <td>5,906</td>
-      <td><span style="color:transparent; font-size:0;">001.26</span>1.26<span style="color: red"> 🟥</span></td>
+      <td>6,247</td>
+      <td><span style="color:transparent; font-size:0;">001.27</span>1.27<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000019%</span>19%</td>
       <td><span style="color:transparent; font-size:0;">000003,926</span>3,926</td>
       <td><span style="color:transparent; font-size:0;">000000048%</span>48%</td>
