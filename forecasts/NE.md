@@ -27,9 +27,9 @@ statecode: NE
   </thead>
   <tbody>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>1,934,408</td>
-      <td>717</td>
+      <td>714</td>
       <td><span style="color:transparent; font-size:0;">000.96</span>0.96<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
       <td><span style="color:transparent; font-size:0;">000001,176</span>1,176</td>

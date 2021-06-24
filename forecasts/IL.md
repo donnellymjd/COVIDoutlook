@@ -29,7 +29,7 @@ statecode: IL
     <tr>
       <td>31</td>
       <td>12,671,821</td>
-      <td>8,048</td>
+      <td>8,103</td>
       <td><span style="color:transparent; font-size:0;">000.78</span>0.78<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
       <td><span style="color:transparent; font-size:0;">000020,408</span>20,408</td>

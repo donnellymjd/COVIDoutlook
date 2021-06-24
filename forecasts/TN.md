@@ -29,12 +29,12 @@ statecode: TN
     <tr>
       <td>36</td>
       <td>6,829,174</td>
-      <td>3,546</td>
+      <td>3,619</td>
       <td><span style="color:transparent; font-size:0;">000.87</span>0.87<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000024%</span>24%</td>
       <td><span style="color:transparent; font-size:0;">000006,029</span>6,029</td>
       <td><span style="color:transparent; font-size:0;">000000041%</span>41%</td>
-      <td><span style="color:transparent; font-size:0;">000000045%</span>45%</td>
+      <td><span style="color:transparent; font-size:0;">000000046%</span>46%</td>
       <td><span style="color:transparent; font-size:0;">211009</span>October 09, 2021</td>
       <td>792,468</td>
       <td>69.2<span style="color: green">▼</span></td>

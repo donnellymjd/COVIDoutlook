@@ -27,15 +27,15 @@ statecode: MI
   </thead>
   <tbody>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>9,986,857</td>
-      <td>4,101</td>
+      <td>3,503</td>
       <td><span style="color:transparent; font-size:0;">000.70</span>0.70<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000019%</span>19%</td>
       <td><span style="color:transparent; font-size:0;">000009,462</span>9,462</td>
       <td><span style="color:transparent; font-size:0;">000000051%</span>51%</td>
-      <td><span style="color:transparent; font-size:0;">000000058%</span>58%</td>
-      <td><span style="color:transparent; font-size:0;">211005</span>October 05, 2021</td>
+      <td><span style="color:transparent; font-size:0;">000000057%</span>57%</td>
+      <td><span style="color:transparent; font-size:0;">211014</span>October 14, 2021</td>
       <td>1,087,070</td>
       <td>221.9<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000001.3%</span>1.3%<span style="color: green">▼</span></td>

@@ -29,7 +29,7 @@ statecode: MO
     <tr>
       <td>3</td>
       <td>6,137,428</td>
-      <td>11,206</td>
+      <td>11,492</td>
       <td><span style="color:transparent; font-size:0;">001.10</span>1.10<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
       <td><span style="color:transparent; font-size:0;">000006,470</span>6,470</td>

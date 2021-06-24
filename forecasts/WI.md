@@ -27,15 +27,15 @@ statecode: WI
   </thead>
   <tbody>
     <tr>
-      <td>47</td>
+      <td>50</td>
       <td>5,822,434</td>
-      <td>1,335</td>
+      <td>1,185</td>
       <td><span style="color:transparent; font-size:0;">000.73</span>0.73<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000017%</span>17%</td>
       <td><span style="color:transparent; font-size:0;">000004,778</span>4,778</td>
       <td><span style="color:transparent; font-size:0;">000000053%</span>53%</td>
       <td><span style="color:transparent; font-size:0;">000000055%</span>55%</td>
-      <td><span style="color:transparent; font-size:0;">210929</span>September 29, 2021</td>
+      <td><span style="color:transparent; font-size:0;">211003</span>October 03, 2021</td>
       <td>741,483</td>
       <td>97.6<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000001.0%</span>1.0%<span style="color: #ffcc00">▶</span></td>

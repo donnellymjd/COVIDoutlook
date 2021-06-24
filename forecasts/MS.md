@@ -29,7 +29,7 @@ statecode: MS
     <tr>
       <td>6</td>
       <td>2,976,149</td>
-      <td>3,946</td>
+      <td>4,077</td>
       <td><span style="color:transparent; font-size:0;">001.06</span>1.06<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">000000027%</span>27%</td>
       <td><span style="color:transparent; font-size:0;">000002,291</span>2,291</td>

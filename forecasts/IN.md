@@ -29,12 +29,12 @@ statecode: IN
     <tr>
       <td>23</td>
       <td>6,732,219</td>
-      <td>4,909</td>
+      <td>4,959</td>
       <td><span style="color:transparent; font-size:0;">000.74</span>0.74<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
       <td><span style="color:transparent; font-size:0;">000006,824</span>6,824</td>
       <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
-      <td><span style="color:transparent; font-size:0;">000000047%</span>47%</td>
+      <td><span style="color:transparent; font-size:0;">000000048%</span>48%</td>
       <td><span style="color:transparent; font-size:0;">210928</span>September 28, 2021</td>
       <td>838,459</td>
       <td>207.5<span style="color: green">▼</span></td>

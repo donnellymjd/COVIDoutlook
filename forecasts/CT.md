@@ -29,7 +29,7 @@ statecode: CT
     <tr>
       <td>49</td>
       <td>3,565,287</td>
-      <td>790</td>
+      <td>769</td>
       <td><span style="color:transparent; font-size:0;">000.84</span>0.84<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000010%</span>10%</td>
       <td><span style="color:transparent; font-size:0;">000004,721</span>4,721</td>

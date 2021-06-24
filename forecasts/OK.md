@@ -27,9 +27,9 @@ statecode: OK
   </thead>
   <tbody>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td>3,956,971</td>
-      <td>3,605</td>
+      <td>3,667</td>
       <td><span style="color:transparent; font-size:0;">001.12</span>1.12<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000021%</span>21%</td>
       <td><span style="color:transparent; font-size:0;">000008,755</span>8,755</td>
