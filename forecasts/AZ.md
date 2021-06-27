@@ -27,22 +27,22 @@ statecode: AZ
   </thead>
   <tbody>
     <tr>
-      <td>7</td>
+      <td>11</td>
       <td>7,278,717</td>
-      <td>10,558</td>
-      <td><span style="color:transparent; font-size:0;">001.08</span>1.08<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>7,543</td>
+      <td><span style="color:transparent; font-size:0;">001.12</span>1.12<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
-      <td><span style="color:transparent; font-size:0;">000008,455</span>8,455</td>
+      <td><span style="color:transparent; font-size:0;">000006,481</span>6,481</td>
       <td><span style="color:transparent; font-size:0;">000000049%</span>49%</td>
-      <td><span style="color:transparent; font-size:0;">000000052%</span>52%</td>
-      <td><span style="color:transparent; font-size:0;">210807</span>August 07, 2021</td>
-      <td>892,981</td>
-      <td>315.4<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000004.2%</span>4.2%<span style="color: #ffcc00">▶</span></td>
-      <td>17,858</td>
-      <td>10.4<span style="color: #ffcc00">▶</span></td>
-      <td>484<span style="color: #ffcc00">▶</span></td>
-      <td>161.79<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">000000051%</span>51%</td>
+      <td><span style="color:transparent; font-size:0;">210823</span>August 23, 2021</td>
+      <td>896,036</td>
+      <td>333.4<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000004.4%</span>4.4%<span style="color: #ffcc00">▶</span></td>
+      <td>17,903</td>
+      <td>10.1<span style="color: #ffcc00">▶</span></td>
+      <td>530<span style="color: #ffcc00">▶</span></td>
+      <td>156.64<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

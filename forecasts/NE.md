@@ -27,22 +27,22 @@ statecode: NE
   </thead>
   <tbody>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>1,934,408</td>
-      <td>754</td>
+      <td>856</td>
       <td><span style="color:transparent; font-size:0;">000.98</span>0.98<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
-      <td><span style="color:transparent; font-size:0;">000001,616</span>1,616</td>
-      <td><span style="color:transparent; font-size:0;">000000050%</span>50%</td>
-      <td><span style="color:transparent; font-size:0;">000000053%</span>53%</td>
-      <td><span style="color:transparent; font-size:0;">210605</span>June 05, 2021</td>
-      <td>255,094</td>
-      <td>39.6<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000003.6%</span>3.6%<span style="color: #ffcc00">▶</span></td>
-      <td>2,257</td>
-      <td>0.1<span style="color: #ffcc00">▶</span></td>
-      <td>50<span style="color: green">▼</span></td>
-      <td>16.93<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">000003,556</span>3,556</td>
+      <td><span style="color:transparent; font-size:0;">000000051%</span>51%</td>
+      <td><span style="color:transparent; font-size:0;">000000054%</span>54%</td>
+      <td><span style="color:transparent; font-size:0;">210602</span>June 02, 2021</td>
+      <td>255,711</td>
+      <td>40.4<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000004.1%</span>4.1%<span style="color: #ffcc00">▶</span></td>
+      <td>2,259</td>
+      <td>0.2<span style="color: #ffcc00">▶</span></td>
+      <td>44<span style="color: green">▼</span></td>
+      <td>15.79<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>
