@@ -27,17 +27,17 @@ statecode: RI
   </thead>
   <tbody>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>1,059,361</td>
-      <td>504</td>
-      <td><span style="color:transparent; font-size:0;">000.80</span>0.80<span style="color: green"> 🟢</span></td>
+      <td>502</td>
+      <td><span style="color:transparent; font-size:0;">000.79</span>0.79<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000013%</span>13%</td>
-      <td><span style="color:transparent; font-size:0;">000001,030</span>1,030</td>
+      <td><span style="color:transparent; font-size:0;">000001,187</span>1,187</td>
       <td><span style="color:transparent; font-size:0;">000000064%</span>64%</td>
       <td><span style="color:transparent; font-size:0;">000000065%</span>65%</td>
       <td><span style="color:transparent; font-size:0;">210531</span>May 31, 2021</td>
-      <td>181,730</td>
-      <td>17.0<span style="color: #ffcc00">▶</span></td>
+      <td>181,748</td>
+      <td>17.6<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000000.5%</span>0.5%<span style="color: #ffcc00">▶</span></td>
       <td>2,728</td>
       <td>0.4<span style="color: #ffcc00">▶</span></td>
