@@ -27,9 +27,9 @@ statecode: OH
   </thead>
   <tbody>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>11,689,100</td>
-      <td>8,908</td>
+      <td>9,043</td>
       <td><span style="color:transparent; font-size:0;">000.89</span>0.89<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000021%</span>21%</td>
       <td><span style="color:transparent; font-size:0;">000006,719</span>6,719</td>

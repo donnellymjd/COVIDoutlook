@@ -29,7 +29,7 @@ statecode: AZ
     <tr>
       <td>8</td>
       <td>7,278,717</td>
-      <td>10,139</td>
+      <td>10,324</td>
       <td><span style="color:transparent; font-size:0;">001.11</span>1.11<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
       <td><span style="color:transparent; font-size:0;">000006,571</span>6,571</td>

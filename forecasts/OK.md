@@ -29,7 +29,7 @@ statecode: OK
     <tr>
       <td>19</td>
       <td>3,956,971</td>
-      <td>3,302</td>
+      <td>3,339</td>
       <td><span style="color:transparent; font-size:0;">001.07</span>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">000000021%</span>21%</td>
       <td><span style="color:transparent; font-size:0;">000003,393</span>3,393</td>

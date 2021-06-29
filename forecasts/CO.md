@@ -29,7 +29,7 @@ statecode: CO
     <tr>
       <td>18</td>
       <td>5,758,736</td>
-      <td>4,837</td>
+      <td>4,904</td>
       <td><span style="color:transparent; font-size:0;">000.87</span>0.87<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
       <td><span style="color:transparent; font-size:0;">000005,897</span>5,897</td>

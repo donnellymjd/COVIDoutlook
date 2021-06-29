@@ -27,9 +27,9 @@ statecode: WA
   </thead>
   <tbody>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>7,614,893</td>
-      <td>8,135</td>
+      <td>8,051</td>
       <td><span style="color:transparent; font-size:0;">000.98</span>0.98<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000011%</span>11%</td>
       <td><span style="color:transparent; font-size:0;">000008,785</span>8,785</td>

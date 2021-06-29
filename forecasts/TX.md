@@ -27,9 +27,9 @@ statecode: TX
   </thead>
   <tbody>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>28,995,881</td>
-      <td>28,713</td>
+      <td>29,731</td>
       <td><span style="color:transparent; font-size:0;">001.01</span>1.01<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">000000017%</span>17%</td>
       <td><span style="color:transparent; font-size:0;">000027,797</span>27,797</td>

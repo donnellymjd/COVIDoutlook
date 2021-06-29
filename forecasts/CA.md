@@ -27,14 +27,14 @@ statecode: CA
   </thead>
   <tbody>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>39,512,223</td>
-      <td>18,297</td>
+      <td>18,563</td>
       <td><span style="color:transparent; font-size:0;">001.02</span>1.02<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">000000011%</span>11%</td>
       <td><span style="color:transparent; font-size:0;">000052,550</span>52,550</td>
       <td><span style="color:transparent; font-size:0;">000000061%</span>61%</td>
-      <td><span style="color:transparent; font-size:0;">000000060%</span>60%</td>
+      <td><span style="color:transparent; font-size:0;">000000061%</span>61%</td>
       <td><span style="color:transparent; font-size:0;">210803</span>August 03, 2021</td>
       <td>3,772,562</td>
       <td>553.0<span style="color: green">▼</span></td>

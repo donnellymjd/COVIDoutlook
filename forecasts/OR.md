@@ -29,7 +29,7 @@ statecode: OR
     <tr>
       <td>32</td>
       <td>4,217,737</td>
-      <td>2,417</td>
+      <td>2,370</td>
       <td><span style="color:transparent; font-size:0;">000.88</span>0.88<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
       <td><span style="color:transparent; font-size:0;">000004,030</span>4,030</td>

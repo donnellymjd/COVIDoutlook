@@ -29,12 +29,12 @@ statecode: CT
     <tr>
       <td>48</td>
       <td>3,565,287</td>
-      <td>843</td>
+      <td>824</td>
       <td><span style="color:transparent; font-size:0;">000.88</span>0.88<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000010%</span>10%</td>
       <td><span style="color:transparent; font-size:0;">000003,643</span>3,643</td>
       <td><span style="color:transparent; font-size:0;">000000067%</span>67%</td>
-      <td><span style="color:transparent; font-size:0;">000000066%</span>66%</td>
+      <td><span style="color:transparent; font-size:0;">000000067%</span>67%</td>
       <td><span style="color:transparent; font-size:0;">210526</span>May 26, 2021</td>
       <td>474,032</td>
       <td>30.1<span style="color: #ffcc00">▶</span></td>

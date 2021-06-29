@@ -29,7 +29,7 @@ statecode: NJ
     <tr>
       <td>31</td>
       <td>8,882,190</td>
-      <td>5,423</td>
+      <td>5,457</td>
       <td><span style="color:transparent; font-size:0;">000.97</span>0.97<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000012%</span>12%</td>
       <td><span style="color:transparent; font-size:0;">000014,239</span>14,239</td>

@@ -29,7 +29,7 @@ statecode: PA
     <tr>
       <td>36</td>
       <td>12,801,989</td>
-      <td>6,860</td>
+      <td>6,908</td>
       <td><span style="color:transparent; font-size:0;">000.86</span>0.86<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
       <td><span style="color:transparent; font-size:0;">000012,519</span>12,519</td>

@@ -29,12 +29,12 @@ statecode: HI
     <tr>
       <td>1</td>
       <td>1,415,872</td>
-      <td>3,454</td>
+      <td>3,503</td>
       <td><span style="color:transparent; font-size:0;">001.19</span>1.19<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000010%</span>10%</td>
       <td><span style="color:transparent; font-size:0;">0000000913</span>913</td>
       <td><span style="color:transparent; font-size:0;">000000070%</span>70%</td>
-      <td><span style="color:transparent; font-size:0;">000000069%</span>69%</td>
+      <td><span style="color:transparent; font-size:0;">000000070%</span>70%</td>
       <td><span style="color:transparent; font-size:0;">210518</span>May 18, 2021</td>
       <td>41,323</td>
       <td>43.2<span style="color: green">▼</span></td>
