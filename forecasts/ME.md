@@ -27,22 +27,22 @@ statecode: ME
   </thead>
   <tbody>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>1,344,212</td>
-      <td>595</td>
-      <td><span style="color:transparent; font-size:0;">000.80</span>0.80<span style="color: green"> 🟢</span></td>
+      <td>612</td>
+      <td><span style="color:transparent; font-size:0;">000.81</span>0.81<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000012%</span>12%</td>
-      <td><span style="color:transparent; font-size:0;">0000000847</span>847</td>
+      <td><span style="color:transparent; font-size:0;">0000000848</span>848</td>
       <td><span style="color:transparent; font-size:0;">000000066%</span>66%</td>
-      <td><span style="color:transparent; font-size:0;">000000063%</span>63%</td>
+      <td><span style="color:transparent; font-size:0;">000000064%</span>64%</td>
       <td><span style="color:transparent; font-size:0;">210518</span>May 18, 2021</td>
-      <td>62,644</td>
-      <td>20.4<span style="color: green">▼</span></td>
+      <td>62,657</td>
+      <td>18.9<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000001.1%</span>1.1%<span style="color: #ffcc00">▶</span></td>
       <td>858</td>
-      <td>0.9<span style="color: #ffcc00">▶</span></td>
+      <td>0.7<span style="color: green">▼</span></td>
       <td>46<span style="color: green">▼</span></td>
-      <td>22.29<span style="color: red">▲</span></td>
+      <td>22.07<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

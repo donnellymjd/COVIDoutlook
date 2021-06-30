@@ -27,17 +27,17 @@ statecode: HI
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>1,415,872</td>
-      <td>3,503</td>
-      <td><span style="color:transparent; font-size:0;">001.19</span>1.19<span style="color: red"> 🟥</span></td>
+      <td>3,160</td>
+      <td><span style="color:transparent; font-size:0;">001.12</span>1.12<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000010%</span>10%</td>
-      <td><span style="color:transparent; font-size:0;">0000000913</span>913</td>
+      <td><span style="color:transparent; font-size:0;">000001,315</span>1,315</td>
       <td><span style="color:transparent; font-size:0;">000000070%</span>70%</td>
       <td><span style="color:transparent; font-size:0;">000000070%</span>70%</td>
       <td><span style="color:transparent; font-size:0;">210518</span>May 18, 2021</td>
-      <td>41,323</td>
-      <td>43.2<span style="color: green">▼</span></td>
+      <td>41,355</td>
+      <td>42.9<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000001.5%</span>1.5%<span style="color: #ffcc00">▶</span></td>
       <td>513</td>
       <td>0.7<span style="color: #ffcc00">▶</span></td>

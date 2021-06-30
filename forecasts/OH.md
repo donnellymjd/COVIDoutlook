@@ -27,22 +27,22 @@ statecode: OH
   </thead>
   <tbody>
     <tr>
-      <td>23</td>
+      <td>21</td>
       <td>11,689,100</td>
-      <td>9,043</td>
-      <td><span style="color:transparent; font-size:0;">000.89</span>0.89<span style="color: green"> 🟢</span></td>
+      <td>10,009</td>
+      <td><span style="color:transparent; font-size:0;">000.91</span>0.91<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000021%</span>21%</td>
-      <td><span style="color:transparent; font-size:0;">000006,719</span>6,719</td>
+      <td><span style="color:transparent; font-size:0;">000006,757</span>6,757</td>
       <td><span style="color:transparent; font-size:0;">000000048%</span>48%</td>
-      <td><span style="color:transparent; font-size:0;">000000052%</span>52%</td>
-      <td><span style="color:transparent; font-size:0;">210927</span>September 27, 2021</td>
-      <td>963,596</td>
-      <td>172.4<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">000000053%</span>53%</td>
+      <td><span style="color:transparent; font-size:0;">210926</span>September 26, 2021</td>
+      <td>963,729</td>
+      <td>167.8<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000001.2%</span>1.2%<span style="color: #ffcc00">▶</span></td>
       <td>20,281</td>
       <td>13.6<span style="color: #ffcc00">▶</span></td>
       <td>743<span style="color: green">▼</span></td>
-      <td>273.93<span style="color: #ffcc00">▶</span></td>
+      <td>275.29<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

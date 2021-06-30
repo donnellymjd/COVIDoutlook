@@ -27,17 +27,17 @@ statecode: SD
   </thead>
   <tbody>
     <tr>
-      <td>30</td>
+      <td>26</td>
       <td>884,659</td>
-      <td>566</td>
+      <td>678</td>
       <td><span style="color:transparent; font-size:0;">001.02</span>1.02<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">000000021%</span>21%</td>
       <td><span style="color:transparent; font-size:0;">0000000662</span>662</td>
       <td><span style="color:transparent; font-size:0;">000000050%</span>50%</td>
       <td><span style="color:transparent; font-size:0;">000000052%</span>52%</td>
-      <td><span style="color:transparent; font-size:0;">210617</span>June 17, 2021</td>
-      <td>70,371</td>
-      <td>22.6<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">210615</span>June 15, 2021</td>
+      <td>70,386</td>
+      <td>21.8<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000004.6%</span>4.6%<span style="color: #ffcc00">▶</span></td>
       <td>2,030</td>
       <td>0.3<span style="color: green">▼</span></td>

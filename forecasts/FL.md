@@ -27,22 +27,22 @@ statecode: FL
   </thead>
   <tbody>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>21,477,737</td>
-      <td>29,732</td>
-      <td><span style="color:transparent; font-size:0;">001.07</span>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>25,634</td>
+      <td><span style="color:transparent; font-size:0;">001.09</span>1.09<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">000000020%</span>20%</td>
-      <td><span style="color:transparent; font-size:0;">000018,928</span>18,928</td>
+      <td><span style="color:transparent; font-size:0;">000027,421</span>27,421</td>
       <td><span style="color:transparent; font-size:0;">000000053%</span>53%</td>
       <td><span style="color:transparent; font-size:0;">000000053%</span>53%</td>
-      <td><span style="color:transparent; font-size:0;">210817</span>August 17, 2021</td>
-      <td>2,879,421</td>
-      <td>1,547.3<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000003.9%</span>3.9%<span style="color: #ffcc00">▶</span></td>
-      <td>37,772</td>
-      <td>31.6<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">210820</span>August 20, 2021</td>
+      <td>2,881,513</td>
+      <td>1,583.3<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000004.0%</span>4.0%<span style="color: #ffcc00">▶</span></td>
+      <td>37,836</td>
+      <td>31.6<span style="color: green">▼</span></td>
       <td>1,889<span style="color: #ffcc00">▶</span></td>
-      <td>400.71<span style="color: #ffcc00">▶</span></td>
+      <td>405.43<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>
