@@ -27,22 +27,22 @@ statecode: GA
   </thead>
   <tbody>
     <tr>
-      <td>13</td>
+      <td>18</td>
       <td>10,617,423</td>
-      <td>11,026</td>
-      <td><span style="color:transparent; font-size:0;">000.97</span>0.97<span style="color: green"> 🟢</span></td>
+      <td>10,757</td>
+      <td><span style="color:transparent; font-size:0;">001.04</span>1.04<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">000000022%</span>22%</td>
-      <td><span style="color:transparent; font-size:0;">000012,288</span>12,288</td>
-      <td><span style="color:transparent; font-size:0;">000000043%</span>43%</td>
-      <td><span style="color:transparent; font-size:0;">000000046%</span>46%</td>
-      <td><span style="color:transparent; font-size:0;">210923</span>September 23, 2021</td>
-      <td>840,844</td>
-      <td>151.4<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000001.8%</span>1.8%<span style="color: #ffcc00">▶</span></td>
-      <td>21,423</td>
-      <td>13.9<span style="color: green">▼</span></td>
-      <td>618<span style="color: green">▼</span></td>
-      <td>207.64<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">000017,530</span>17,530</td>
+      <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
+      <td><span style="color:transparent; font-size:0;">000000047%</span>47%</td>
+      <td><span style="color:transparent; font-size:0;">210926</span>September 26, 2021</td>
+      <td>842,516</td>
+      <td>160.9<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000001.9%</span>1.9%<span style="color: #ffcc00">▶</span></td>
+      <td>21,443</td>
+      <td>10.5<span style="color: green">▼</span></td>
+      <td>593<span style="color: #ffcc00">▶</span></td>
+      <td>197.64<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

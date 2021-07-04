@@ -27,22 +27,22 @@ statecode: HI
   </thead>
   <tbody>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>1,415,872</td>
-      <td>2,686</td>
-      <td><span style="color:transparent; font-size:0;">001.03</span>1.03<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>2,849</td>
+      <td><span style="color:transparent; font-size:0;">001.04</span>1.04<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">000000010%</span>10%</td>
-      <td><span style="color:transparent; font-size:0;">000001,277</span>1,277</td>
+      <td><span style="color:transparent; font-size:0;">000001,314</span>1,314</td>
       <td><span style="color:transparent; font-size:0;">000000070%</span>70%</td>
       <td><span style="color:transparent; font-size:0;">000000070%</span>70%</td>
       <td><span style="color:transparent; font-size:0;">210518</span>May 18, 2021</td>
-      <td>41,452</td>
-      <td>45.7<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000001.7%</span>1.7%<span style="color: #ffcc00">▶</span></td>
-      <td>514</td>
-      <td>0.7<span style="color: #ffcc00">▶</span></td>
-      <td>51<span style="color: #ffcc00">▶</span></td>
-      <td>12.29<span style="color: green">▼</span></td>
+      <td>41,637</td>
+      <td>45.9<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000001.8%</span>1.8%<span style="color: #ffcc00">▶</span></td>
+      <td>515</td>
+      <td>0.5<span style="color: #ffcc00">▶</span></td>
+      <td>45<span style="color: #ffcc00">▶</span></td>
+      <td>13.43<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>
