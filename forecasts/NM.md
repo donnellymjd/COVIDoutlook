@@ -29,7 +29,7 @@ statecode: NM
     <tr>
       <td>40</td>
       <td>2,096,829</td>
-      <td>1,158</td>
+      <td>1,130</td>
       <td><span style="color:transparent; font-size:0;">000.86</span>0.86<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
       <td><span style="color:transparent; font-size:0;">000004,978</span>4,978</td>

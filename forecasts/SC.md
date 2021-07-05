@@ -29,7 +29,7 @@ statecode: SC
     <tr>
       <td>41</td>
       <td>5,148,714</td>
-      <td>2,431</td>
+      <td>2,462</td>
       <td><span style="color:transparent; font-size:0;">001.09</span>1.09<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
       <td><span style="color:transparent; font-size:0;">000005,109</span>5,109</td>

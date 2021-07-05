@@ -27,9 +27,9 @@ statecode: MT
   </thead>
   <tbody>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>1,068,778</td>
-      <td>745</td>
+      <td>749</td>
       <td><span style="color:transparent; font-size:0;">000.90</span>0.90<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000024%</span>24%</td>
       <td><span style="color:transparent; font-size:0;">0000000701</span>701</td>
