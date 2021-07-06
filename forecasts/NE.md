@@ -29,12 +29,12 @@ statecode: NE
     <tr>
       <td>25</td>
       <td>1,934,408</td>
-      <td>1,597</td>
+      <td>1,640</td>
       <td><span style="color:transparent; font-size:0;">001.20</span>1.20<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
       <td><span style="color:transparent; font-size:0;">000001,299</span>1,299</td>
       <td><span style="color:transparent; font-size:0;">000000052%</span>52%</td>
-      <td><span style="color:transparent; font-size:0;">000000054%</span>54%</td>
+      <td><span style="color:transparent; font-size:0;">000000055%</span>55%</td>
       <td><span style="color:transparent; font-size:0;">210604</span>June 04, 2021</td>
       <td>257,689</td>
       <td>57.1<span style="color: #ffcc00">▶</span></td>

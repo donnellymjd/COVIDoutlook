@@ -29,7 +29,7 @@ statecode: ID
     <tr>
       <td>19</td>
       <td>1,787,065</td>
-      <td>1,821</td>
+      <td>1,865</td>
       <td><span style="color:transparent; font-size:0;">000.97</span>0.97<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000025%</span>25%</td>
       <td><span style="color:transparent; font-size:0;">0000000953</span>953</td>

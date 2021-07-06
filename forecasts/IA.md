@@ -27,9 +27,9 @@ statecode: IA
   </thead>
   <tbody>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>3,155,070</td>
-      <td>3,883</td>
+      <td>3,982</td>
       <td><span style="color:transparent; font-size:0;">001.20</span>1.20<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000020%</span>20%</td>
       <td><span style="color:transparent; font-size:0;">000001,720</span>1,720</td>

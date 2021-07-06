@@ -27,14 +27,14 @@ statecode: OR
   </thead>
   <tbody>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>4,217,737</td>
-      <td>2,364</td>
+      <td>2,318</td>
       <td><span style="color:transparent; font-size:0;">000.89</span>0.89<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
       <td><span style="color:transparent; font-size:0;">000004,622</span>4,622</td>
       <td><span style="color:transparent; font-size:0;">000000059%</span>59%</td>
-      <td><span style="color:transparent; font-size:0;">000000058%</span>58%</td>
+      <td><span style="color:transparent; font-size:0;">000000059%</span>59%</td>
       <td><span style="color:transparent; font-size:0;">210605</span>June 05, 2021</td>
       <td>204,559</td>
       <td>140.6<span style="color: green">▼</span></td>

@@ -29,12 +29,12 @@ statecode: MS
     <tr>
       <td>9</td>
       <td>2,976,149</td>
-      <td>5,695</td>
+      <td>5,984</td>
       <td><span style="color:transparent; font-size:0;">001.22</span>1.22<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000027%</span>27%</td>
       <td><span style="color:transparent; font-size:0;">000001,792</span>1,792</td>
       <td><span style="color:transparent; font-size:0;">000000036%</span>36%</td>
-      <td><span style="color:transparent; font-size:0;">000000042%</span>42%</td>
+      <td><span style="color:transparent; font-size:0;">000000043%</span>43%</td>
       <td><span style="color:transparent; font-size:0;">210919</span>September 19, 2021</td>
       <td>159,635</td>
       <td>49.1<span style="color: #ffcc00">▶</span></td>

@@ -29,7 +29,7 @@ statecode: KY
     <tr>
       <td>29</td>
       <td>4,467,673</td>
-      <td>3,256</td>
+      <td>3,286</td>
       <td><span style="color:transparent; font-size:0;">001.07</span>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">000000019%</span>19%</td>
       <td><span style="color:transparent; font-size:0;">000003,423</span>3,423</td>

@@ -29,13 +29,13 @@ statecode: MA
     <tr>
       <td>51</td>
       <td>6,892,503</td>
-      <td>1,766</td>
+      <td>1,539</td>
       <td><span style="color:transparent; font-size:0;">001.08</span>1.08<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">000000007%</span>7%</td>
       <td><span style="color:transparent; font-size:0;">000006,455</span>6,455</td>
       <td><span style="color:transparent; font-size:0;">000000071%</span>71%</td>
       <td><span style="color:transparent; font-size:0;">000000068%</span>68%</td>
-      <td><span style="color:transparent; font-size:0;">210626</span>June 26, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210627</span>June 27, 2021</td>
       <td>792,321</td>
       <td>66.6<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000000.4%</span>0.4%<span style="color: #ffcc00">▶</span></td>
