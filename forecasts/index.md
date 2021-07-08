@@ -27,7 +27,7 @@ statecode: US
   <tbody>
     <tr>
       <td>328,239,523</td>
-      <td>348,806</td>
+      <td>349,055</td>
       <td>1.10</td>
       <td>16%</td>
       <td>408,726</td>
@@ -35,12 +35,12 @@ statecode: US
       <td>56%</td>
       <td>2021-10-25</td>
       <td>35,698,660</td>
-      <td>10,763.6</td>
-      <td>2.4%</td>
-      <td>600,406</td>
-      <td>208.9</td>
+      <td>10,025.7</td>
+      <td>nan%</td>
+      <td>600,457</td>
+      <td>189.6</td>
       <td>16,901</td>
-      <td>5,916.64</td>
+      <td>5,994.00</td>
     </tr>
   </tbody>
 </table>

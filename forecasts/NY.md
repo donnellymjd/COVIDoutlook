@@ -27,22 +27,22 @@ statecode: NY
   </thead>
   <tbody>
     <tr>
-      <td>35</td>
+      <td>32</td>
       <td>19,453,561</td>
-      <td>12,388</td>
-      <td><span style="color:transparent; font-size:0;">001.12</span>1.12<span style="color: red"> 🟥</span></td>
+      <td>14,884</td>
+      <td><span style="color:transparent; font-size:0;">001.16</span>1.16<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000013%</span>13%</td>
       <td><span style="color:transparent; font-size:0;">000021,161</span>21,161</td>
       <td><span style="color:transparent; font-size:0;">000000060%</span>60%</td>
-      <td><span style="color:transparent; font-size:0;">000000064%</span>64%</td>
-      <td><span style="color:transparent; font-size:0;">210807</span>August 07, 2021</td>
+      <td><span style="color:transparent; font-size:0;">000000065%</span>65%</td>
+      <td><span style="color:transparent; font-size:0;">210728</span>July 28, 2021</td>
       <td>2,383,717</td>
-      <td>387.7<span style="color: #ffcc00">▶</span></td>
+      <td>362.3<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000000.6%</span>0.6%<span style="color: #ffcc00">▶</span></td>
-      <td>53,370</td>
-      <td>6.8<span style="color: #ffcc00">▶</span></td>
+      <td>53,375</td>
+      <td>5.7<span style="color: #ffcc00">▶</span></td>
       <td>726<span style="color: green">▼</span></td>
-      <td>216.43<span style="color: #ffcc00">▶</span></td>
+      <td>217.57<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>
