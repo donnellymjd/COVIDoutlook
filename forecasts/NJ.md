@@ -27,22 +27,22 @@ statecode: NJ
   </thead>
   <tbody>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>8,882,190</td>
-      <td>6,166</td>
-      <td><span style="color:transparent; font-size:0;">001.08</span>1.08<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>6,408</td>
+      <td><span style="color:transparent; font-size:0;">001.10</span>1.10<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000012%</span>12%</td>
       <td><span style="color:transparent; font-size:0;">000009,215</span>9,215</td>
       <td><span style="color:transparent; font-size:0;">000000063%</span>63%</td>
-      <td><span style="color:transparent; font-size:0;">000000065%</span>65%</td>
+      <td><span style="color:transparent; font-size:0;">000000066%</span>66%</td>
       <td><span style="color:transparent; font-size:0;">210719</span>July 19, 2021</td>
-      <td>1,010,280</td>
-      <td>222.2<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000001.1%</span>1.1%<span style="color: #ffcc00">▶</span></td>
+      <td>1,010,747</td>
+      <td>235.3<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000001.3%</span>1.3%<span style="color: #ffcc00">▶</span></td>
       <td>26,477</td>
-      <td>7.1<span style="color: #ffcc00">▶</span></td>
+      <td>6.1<span style="color: #ffcc00">▶</span></td>
       <td>294<span style="color: #ffcc00">▶</span></td>
-      <td>145.29<span style="color: green">▼</span></td>
+      <td>142.29<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

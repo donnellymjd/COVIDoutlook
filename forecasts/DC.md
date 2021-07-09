@@ -27,22 +27,22 @@ statecode: DC
   </thead>
   <tbody>
     <tr>
-      <td>14</td>
+      <td>20</td>
       <td>705,749</td>
-      <td>1,024</td>
-      <td><span style="color:transparent; font-size:0;">001.11</span>1.11<span style="color: red"> 🟥</span></td>
+      <td>872</td>
+      <td><span style="color:transparent; font-size:0;">001.13</span>1.13<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000010%</span>10%</td>
       <td><span style="color:transparent; font-size:0;">0000000815</span>815</td>
       <td><span style="color:transparent; font-size:0;">000000062%</span>62%</td>
       <td><span style="color:transparent; font-size:0;">000000060%</span>60%</td>
       <td><span style="color:transparent; font-size:0;">210530</span>May 30, 2021</td>
-      <td>69,430</td>
-      <td>15.3<span style="color: #ffcc00">▶</span></td>
+      <td>69,460</td>
+      <td>16.1<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000000.6%</span>0.6%<span style="color: #ffcc00">▶</span></td>
-      <td>1,141</td>
-      <td>0.0<span style="color: green">▼</span></td>
+      <td>1,142</td>
+      <td>0.1<span style="color: #ffcc00">▶</span></td>
       <td>57<span style="color: green">▼</span></td>
-      <td>55.50<span style="color: green">▼</span></td>
+      <td>54.50<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

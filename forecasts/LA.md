@@ -27,22 +27,22 @@ statecode: LA
   </thead>
   <tbody>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>4,648,794</td>
-      <td>14,134</td>
-      <td><span style="color:transparent; font-size:0;">001.24</span>1.24<span style="color: red"> 🟥</span></td>
+      <td>12,611</td>
+      <td><span style="color:transparent; font-size:0;">001.30</span>1.30<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000023%</span>23%</td>
       <td><span style="color:transparent; font-size:0;">000005,354</span>5,354</td>
       <td><span style="color:transparent; font-size:0;">000000039%</span>39%</td>
       <td><span style="color:transparent; font-size:0;">000000042%</span>42%</td>
-      <td><span style="color:transparent; font-size:0;">210829</span>August 29, 2021</td>
-      <td>533,882</td>
-      <td>273.8<span style="color: red">▲</span></td>
-      <td><span style="color:transparent; font-size:0;">0000004.2%</span>4.2%<span style="color: #ffcc00">▶</span></td>
-      <td>10,757</td>
+      <td><span style="color:transparent; font-size:0;">210831</span>August 31, 2021</td>
+      <td>535,098</td>
+      <td>337.3<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">0000005.1%</span>5.1%<span style="color: #ffcc00">▶</span></td>
+      <td>10,763</td>
       <td>4.6<span style="color: #ffcc00">▶</span></td>
       <td>253<span style="color: #ffcc00">▶</span></td>
-      <td>62.57<span style="color: red">▲</span></td>
+      <td>63.93<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
