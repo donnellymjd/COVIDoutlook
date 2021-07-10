@@ -27,22 +27,22 @@ statecode: MO
   </thead>
   <tbody>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>6,137,428</td>
-      <td>16,367</td>
-      <td><span style="color:transparent; font-size:0;">001.04</span>1.04<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>17,801</td>
+      <td><span style="color:transparent; font-size:0;">001.12</span>1.12<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
       <td><span style="color:transparent; font-size:0;">000006,389</span>6,389</td>
-      <td><span style="color:transparent; font-size:0;">000000045%</span>45%</td>
+      <td><span style="color:transparent; font-size:0;">000000046%</span>46%</td>
       <td><span style="color:transparent; font-size:0;">000000050%</span>50%</td>
-      <td><span style="color:transparent; font-size:0;">210904</span>September 04, 2021</td>
-      <td>670,316</td>
-      <td>574.3<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000008.8%</span>8.8%<span style="color: red">▲</span></td>
-      <td>9,375</td>
-      <td>8.9<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">210903</span>September 03, 2021</td>
+      <td>673,641</td>
+      <td>679.0<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">0000010.2%</span>10.2%<span style="color: red">▲</span></td>
+      <td>9,383</td>
+      <td>9.2<span style="color: red">▲</span></td>
       <td>971<span style="color: red">▲</span></td>
-      <td>254.21<span style="color: red">▲</span></td>
+      <td>255.00<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

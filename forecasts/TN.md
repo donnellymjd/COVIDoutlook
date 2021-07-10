@@ -27,22 +27,22 @@ statecode: TN
   </thead>
   <tbody>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>6,829,174</td>
-      <td>6,853</td>
-      <td><span style="color:transparent; font-size:0;">001.12</span>1.12<span style="color: red"> 🟥</span></td>
+      <td>7,415</td>
+      <td><span style="color:transparent; font-size:0;">001.16</span>1.16<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000024%</span>24%</td>
       <td><span style="color:transparent; font-size:0;">000010,813</span>10,813</td>
       <td><span style="color:transparent; font-size:0;">000000043%</span>43%</td>
       <td><span style="color:transparent; font-size:0;">000000046%</span>46%</td>
-      <td><span style="color:transparent; font-size:0;">211007</span>October 07, 2021</td>
-      <td>795,494</td>
-      <td>104.0<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000003.0%</span>3.0%<span style="color: #ffcc00">▶</span></td>
-      <td>12,577</td>
-      <td>2.4<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">211006</span>October 06, 2021</td>
+      <td>796,069</td>
+      <td>117.5<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000003.1%</span>3.1%<span style="color: #ffcc00">▶</span></td>
+      <td>12,592</td>
+      <td>3.0<span style="color: #ffcc00">▶</span></td>
       <td>244<span style="color: green">▼</span></td>
-      <td>46.21<span style="color: green">▼</span></td>
+      <td>43.00<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

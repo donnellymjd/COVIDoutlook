@@ -27,22 +27,22 @@ statecode: CT
   </thead>
   <tbody>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>3,565,287</td>
-      <td>1,558</td>
-      <td><span style="color:transparent; font-size:0;">001.20</span>1.20<span style="color: red"> 🟥</span></td>
+      <td>1,419</td>
+      <td><span style="color:transparent; font-size:0;">001.26</span>1.26<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000010%</span>10%</td>
       <td><span style="color:transparent; font-size:0;">000003,493</span>3,493</td>
       <td><span style="color:transparent; font-size:0;">000000068%</span>68%</td>
       <td><span style="color:transparent; font-size:0;">000000068%</span>68%</td>
       <td><span style="color:transparent; font-size:0;">210526</span>May 26, 2021</td>
-      <td>474,544</td>
-      <td>39.1<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000000.5%</span>0.5%<span style="color: #ffcc00">▶</span></td>
+      <td>474,704</td>
+      <td>45.0<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000000.6%</span>0.6%<span style="color: #ffcc00">▶</span></td>
       <td>8,279</td>
-      <td>0.6<span style="color: #ffcc00">▶</span></td>
+      <td>0.4<span style="color: #ffcc00">▶</span></td>
       <td>68<span style="color: #ffcc00">▶</span></td>
-      <td>29.86<span style="color: green">▼</span></td>
+      <td>30.00<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
