@@ -27,22 +27,22 @@ statecode: NY
   </thead>
   <tbody>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>19,453,561</td>
-      <td>16,530</td>
-      <td><span style="color:transparent; font-size:0;">001.25</span>1.25<span style="color: red"> 🟥</span></td>
+      <td>15,467</td>
+      <td><span style="color:transparent; font-size:0;">001.22</span>1.22<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000013%</span>13%</td>
       <td><span style="color:transparent; font-size:0;">000021,161</span>21,161</td>
       <td><span style="color:transparent; font-size:0;">000000061%</span>61%</td>
       <td><span style="color:transparent; font-size:0;">000000064%</span>64%</td>
-      <td><span style="color:transparent; font-size:0;">210808</span>August 08, 2021</td>
-      <td>2,385,333</td>
-      <td>377.3<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000000.7%</span>0.7%<span style="color: #ffcc00">▶</span></td>
-      <td>53,390</td>
-      <td>6.0<span style="color: #ffcc00">▶</span></td>
-      <td>726<span style="color: green">▼</span></td>
-      <td>212.36<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">210809</span>August 09, 2021</td>
+      <td>2,386,130</td>
+      <td>380.6<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000000.8%</span>0.8%<span style="color: #ffcc00">▶</span></td>
+      <td>53,393</td>
+      <td>4.8<span style="color: #ffcc00">▶</span></td>
+      <td>727<span style="color: #ffcc00">▶</span></td>
+      <td>207.50<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>
