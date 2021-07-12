@@ -27,15 +27,15 @@ statecode: NY
   </thead>
   <tbody>
     <tr>
-      <td>32</td>
+      <td>28</td>
       <td>19,453,561</td>
-      <td>15,467</td>
+      <td>18,097</td>
       <td><span style="color:transparent; font-size:0;">001.22</span>1.22<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000013%</span>13%</td>
       <td><span style="color:transparent; font-size:0;">000021,161</span>21,161</td>
       <td><span style="color:transparent; font-size:0;">000000061%</span>61%</td>
       <td><span style="color:transparent; font-size:0;">000000064%</span>64%</td>
-      <td><span style="color:transparent; font-size:0;">210809</span>August 09, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210922</span>September 22, 2021</td>
       <td>2,386,130</td>
       <td>380.6<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000000.8%</span>0.8%<span style="color: #ffcc00">▶</span></td>

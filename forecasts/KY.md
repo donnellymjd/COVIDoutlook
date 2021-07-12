@@ -29,13 +29,13 @@ statecode: KY
     <tr>
       <td>29</td>
       <td>4,467,673</td>
-      <td>3,657</td>
+      <td>3,975</td>
       <td><span style="color:transparent; font-size:0;">001.15</span>1.15<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000019%</span>19%</td>
       <td><span style="color:transparent; font-size:0;">000003,317</span>3,317</td>
       <td><span style="color:transparent; font-size:0;">000000050%</span>50%</td>
       <td><span style="color:transparent; font-size:0;">000000053%</span>53%</td>
-      <td><span style="color:transparent; font-size:0;">210620</span>June 20, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210928</span>September 28, 2021</td>
       <td>500,773</td>
       <td>140.6<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000003.0%</span>3.0%<span style="color: #ffcc00">▶</span></td>

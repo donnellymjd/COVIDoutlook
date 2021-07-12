@@ -27,15 +27,15 @@ statecode: NM
   </thead>
   <tbody>
     <tr>
-      <td>35</td>
+      <td>41</td>
       <td>2,096,829</td>
-      <td>1,526</td>
+      <td>1,233</td>
       <td><span style="color:transparent; font-size:0;">001.13</span>1.13<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
       <td><span style="color:transparent; font-size:0;">000004,911</span>4,911</td>
       <td><span style="color:transparent; font-size:0;">000000064%</span>64%</td>
       <td><span style="color:transparent; font-size:0;">000000063%</span>63%</td>
-      <td><span style="color:transparent; font-size:0;">210515</span>May 15, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210628</span>June 28, 2021</td>
       <td>274,903</td>
       <td>43.4<span style="color: green">▼</span></td>
       <td><span style="color:transparent; font-size:0;">0000002.0%</span>2.0%<span style="color: #ffcc00">▶</span></td>

@@ -27,15 +27,15 @@ statecode: ND
   </thead>
   <tbody>
     <tr>
-      <td>28</td>
+      <td>33</td>
       <td>762,062</td>
-      <td>648</td>
+      <td>600</td>
       <td><span style="color:transparent; font-size:0;">000.94</span>0.94<span style="color: green"> 🟢</span></td>
       <td><span style="color:transparent; font-size:0;">000000029%</span>29%</td>
       <td><span style="color:transparent; font-size:0;">0000000392</span>392</td>
       <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
       <td><span style="color:transparent; font-size:0;">000000048%</span>48%</td>
-      <td><span style="color:transparent; font-size:0;">210820</span>August 20, 2021</td>
+      <td><span style="color:transparent; font-size:0;">211115</span>November 15, 2021</td>
       <td>100,034</td>
       <td>6.6<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000001.4%</span>1.4%<span style="color: #ffcc00">▶</span></td>

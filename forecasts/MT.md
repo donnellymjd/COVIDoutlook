@@ -27,15 +27,15 @@ statecode: MT
   </thead>
   <tbody>
     <tr>
-      <td>27</td>
+      <td>24</td>
       <td>1,068,778</td>
-      <td>958</td>
+      <td>1,065</td>
       <td><span style="color:transparent; font-size:0;">001.09</span>1.09<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
       <td><span style="color:transparent; font-size:0;">000000024%</span>24%</td>
       <td><span style="color:transparent; font-size:0;">0000000638</span>638</td>
       <td><span style="color:transparent; font-size:0;">000000048%</span>48%</td>
       <td><span style="color:transparent; font-size:0;">000000050%</span>50%</td>
-      <td><span style="color:transparent; font-size:0;">210713</span>July 13, 2021</td>
+      <td><span style="color:transparent; font-size:0;">211014</span>October 14, 2021</td>
       <td>145,219</td>
       <td>40.6<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000004.2%</span>4.2%<span style="color: #ffcc00">▶</span></td>

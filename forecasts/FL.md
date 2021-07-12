@@ -29,13 +29,13 @@ statecode: FL
     <tr>
       <td>4</td>
       <td>21,477,737</td>
-      <td>69,823</td>
+      <td>72,281</td>
       <td><span style="color:transparent; font-size:0;">001.21</span>1.21<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000020%</span>20%</td>
       <td><span style="color:transparent; font-size:0;">000032,210</span>32,210</td>
       <td><span style="color:transparent; font-size:0;">000000055%</span>55%</td>
       <td><span style="color:transparent; font-size:0;">000000057%</span>57%</td>
-      <td><span style="color:transparent; font-size:0;">210801</span>August 01, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210903</span>September 03, 2021</td>
       <td>2,913,134</td>
       <td>2,113.1<span style="color: red">▲</span></td>
       <td><span style="color:transparent; font-size:0;">0000006.3%</span>6.3%<span style="color: red">▲</span></td>

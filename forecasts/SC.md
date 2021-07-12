@@ -27,15 +27,15 @@ statecode: SC
   </thead>
   <tbody>
     <tr>
-      <td>33</td>
+      <td>27</td>
       <td>5,148,714</td>
-      <td>4,070</td>
+      <td>4,840</td>
       <td><span style="color:transparent; font-size:0;">001.35</span>1.35<span style="color: red"> 🟥</span></td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
       <td><span style="color:transparent; font-size:0;">000004,329</span>4,329</td>
       <td><span style="color:transparent; font-size:0;">000000045%</span>45%</td>
       <td><span style="color:transparent; font-size:0;">000000047%</span>47%</td>
-      <td><span style="color:transparent; font-size:0;">210912</span>September 12, 2021</td>
+      <td><span style="color:transparent; font-size:0;">211001</span>October 01, 2021</td>
       <td>632,181</td>
       <td>134.1<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000003.0%</span>3.0%<span style="color: #ffcc00">▶</span></td>
