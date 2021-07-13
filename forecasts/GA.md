@@ -11,6 +11,7 @@ statecode: GA
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Hyp. Pre-Immunity Rt</th>
       <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
@@ -27,22 +28,23 @@ statecode: GA
   </thead>
   <tbody>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>10,617,423</td>
-      <td>13,908</td>
-      <td><span style="color:transparent; font-size:0;">001.26</span>1.26<span style="color: red"> 🟥</span></td>
+      <td>14,739</td>
+      <td><span style="color:transparent; font-size:0;">001.33</span>1.33<span style="color: red"> 🟥</span></td>
+      <td>2.84</td>
       <td><span style="color:transparent; font-size:0;">000000022%</span>22%</td>
       <td><span style="color:transparent; font-size:0;">000017,532</span>17,532</td>
       <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
-      <td><span style="color:transparent; font-size:0;">000000047%</span>47%</td>
-      <td><span style="color:transparent; font-size:0;">210918</span>September 18, 2021</td>
-      <td>844,246</td>
-      <td>186.4<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000002.4%</span>2.4%<span style="color: #ffcc00">▶</span></td>
-      <td>21,486</td>
-      <td>6.6<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">000000046%</span>46%</td>
+      <td><span style="color:transparent; font-size:0;">210917</span>September 17, 2021</td>
+      <td>844,943</td>
+      <td>211.5<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000002.7%</span>2.7%<span style="color: #ffcc00">▶</span></td>
+      <td>21,499</td>
+      <td>7.6<span style="color: green">▼</span></td>
       <td>718<span style="color: #ffcc00">▶</span></td>
-      <td>204.07<span style="color: #ffcc00">▶</span></td>
+      <td>214.57<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

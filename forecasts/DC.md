@@ -11,6 +11,7 @@ statecode: DC
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Hyp. Pre-Immunity Rt</th>
       <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
@@ -27,22 +28,23 @@ statecode: DC
   </thead>
   <tbody>
     <tr>
-      <td>20</td>
+      <td>16</td>
       <td>705,749</td>
-      <td>784</td>
-      <td><span style="color:transparent; font-size:0;">001.02</span>1.02<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>1,055</td>
+      <td><span style="color:transparent; font-size:0;">001.17</span>1.17<span style="color: red"> 🟥</span></td>
+      <td>2.81</td>
       <td><span style="color:transparent; font-size:0;">000000010%</span>10%</td>
       <td><span style="color:transparent; font-size:0;">0000000815</span>815</td>
       <td><span style="color:transparent; font-size:0;">000000062%</span>62%</td>
       <td><span style="color:transparent; font-size:0;">000000060%</span>60%</td>
-      <td><span style="color:transparent; font-size:0;">210715</span>July 15, 2021</td>
-      <td>69,519</td>
-      <td>14.9<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000000.7%</span>0.7%<span style="color: #ffcc00">▶</span></td>
-      <td>1,143</td>
-      <td>0.1<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">210815</span>August 15, 2021</td>
+      <td>69,588</td>
+      <td>17.2<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000000.8%</span>0.8%<span style="color: #ffcc00">▶</span></td>
+      <td>1,144</td>
+      <td>0.2<span style="color: #ffcc00">▶</span></td>
       <td>38<span style="color: green">▼</span></td>
-      <td>53.57<span style="color: green">▼</span></td>
+      <td>56.93<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

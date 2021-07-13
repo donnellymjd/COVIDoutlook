@@ -11,6 +11,7 @@ statecode: NH
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Hyp. Pre-Immunity Rt</th>
       <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
@@ -27,22 +28,23 @@ statecode: NH
   </thead>
   <tbody>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>1,359,711</td>
-      <td>320</td>
+      <td>319</td>
       <td><span style="color:transparent; font-size:0;">000.92</span>0.92<span style="color: green"> 🟢</span></td>
+      <td>2.51</td>
       <td><span style="color:transparent; font-size:0;">000000014%</span>14%</td>
       <td><span style="color:transparent; font-size:0;">000002,089</span>2,089</td>
       <td><span style="color:transparent; font-size:0;">000000063%</span>63%</td>
       <td><span style="color:transparent; font-size:0;">000000063%</span>63%</td>
-      <td><span style="color:transparent; font-size:0;">210519</span>May 19, 2021</td>
+      <td>Not Achieved. More vaccinations needed.<span style="color: red"> 🟥</span></td>
       <td>82,583</td>
-      <td>9.3<span style="color: #ffcc00">▶</span></td>
+      <td>7.3<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000000.8%</span>0.8%<span style="color: #ffcc00">▶</span></td>
       <td>1,375</td>
       <td>0.3<span style="color: #ffcc00">▶</span></td>
       <td>21<span style="color: #ffcc00">▶</span></td>
-      <td>9.00<span style="color: #ffcc00">▶</span></td>
+      <td>8.43<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

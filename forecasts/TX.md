@@ -11,6 +11,7 @@ statecode: TX
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Hyp. Pre-Immunity Rt</th>
       <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
@@ -27,22 +28,23 @@ statecode: TX
   </thead>
   <tbody>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>28,995,881</td>
-      <td>32,386</td>
-      <td><span style="color:transparent; font-size:0;">001.07</span>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>39,008</td>
+      <td><span style="color:transparent; font-size:0;">001.16</span>1.16<span style="color: red"> 🟥</span></td>
+      <td>2.57</td>
       <td><span style="color:transparent; font-size:0;">000000017%</span>17%</td>
       <td><span style="color:transparent; font-size:0;">000026,600</span>26,600</td>
       <td><span style="color:transparent; font-size:0;">000000049%</span>49%</td>
       <td><span style="color:transparent; font-size:0;">000000052%</span>52%</td>
-      <td><span style="color:transparent; font-size:0;">211010</span>October 10, 2021</td>
-      <td>3,246,756</td>
-      <td>986.9<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000005.4%</span>5.4%<span style="color: red">▲</span></td>
-      <td>51,455</td>
-      <td>7.4<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">210926</span>September 26, 2021</td>
+      <td>3,251,951</td>
+      <td>1,190.9<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000006.0%</span>6.0%<span style="color: red">▲</span></td>
+      <td>51,490</td>
+      <td>8.5<span style="color: #ffcc00">▶</span></td>
       <td>2,302<span style="color: #ffcc00">▶</span></td>
-      <td>696.86<span style="color: red">▲</span></td>
+      <td>720.36<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

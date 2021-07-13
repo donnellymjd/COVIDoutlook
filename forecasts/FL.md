@@ -11,6 +11,7 @@ statecode: FL
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Hyp. Pre-Immunity Rt</th>
       <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
@@ -29,20 +30,21 @@ statecode: FL
     <tr>
       <td>4</td>
       <td>21,477,737</td>
-      <td>72,281</td>
-      <td><span style="color:transparent; font-size:0;">001.21</span>1.21<span style="color: red"> 🟥</span></td>
+      <td>77,752</td>
+      <td><span style="color:transparent; font-size:0;">001.29</span>1.29<span style="color: red"> 🟥</span></td>
+      <td>3.14</td>
       <td><span style="color:transparent; font-size:0;">000000020%</span>20%</td>
       <td><span style="color:transparent; font-size:0;">000032,210</span>32,210</td>
       <td><span style="color:transparent; font-size:0;">000000055%</span>55%</td>
-      <td><span style="color:transparent; font-size:0;">000000057%</span>57%</td>
-      <td><span style="color:transparent; font-size:0;">210903</span>September 03, 2021</td>
-      <td>2,913,134</td>
-      <td>2,113.1<span style="color: red">▲</span></td>
-      <td><span style="color:transparent; font-size:0;">0000006.3%</span>6.3%<span style="color: red">▲</span></td>
-      <td>38,157</td>
-      <td>25.4<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">000000056%</span>56%</td>
+      <td><span style="color:transparent; font-size:0;">210902</span>September 02, 2021</td>
+      <td>2,922,927</td>
+      <td>2,507.9<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">0000007.0%</span>7.0%<span style="color: red">▲</span></td>
+      <td>38,211</td>
+      <td>26.8<span style="color: #ffcc00">▶</span></td>
       <td>2,828<span style="color: red">▲</span></td>
-      <td>534.57<span style="color: red">▲</span></td>
+      <td>576.00<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

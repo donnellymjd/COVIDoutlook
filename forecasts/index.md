@@ -10,6 +10,7 @@ statecode: US
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Hyp. Pre-Immunity Rt</th>
       <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
@@ -27,20 +28,21 @@ statecode: US
   <tbody>
     <tr>
       <td>328,239,523</td>
-      <td>386,792</td>
-      <td>1.23</td>
+      <td>424,708</td>
+      <td>1.22</td>
+      <td>2.83</td>
       <td>16%</td>
       <td>408,726</td>
-      <td>55%</td>
+      <td>56%</td>
       <td>57%</td>
-      <td>2021-11-15</td>
-      <td>35,782,385</td>
-      <td>11,057.3</td>
+      <td>2021-11-23</td>
+      <td>35,821,378</td>
+      <td>12,129.9</td>
       <td>nan%</td>
-      <td>601,867</td>
-      <td>176.5</td>
+      <td>602,409</td>
+      <td>182.0</td>
       <td>19,611</td>
-      <td>6,106.57</td>
+      <td>6,341.64</td>
     </tr>
   </tbody>
 </table>

@@ -11,6 +11,7 @@ statecode: MO
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Hyp. Pre-Immunity Rt</th>
       <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
@@ -27,22 +28,23 @@ statecode: MO
   </thead>
   <tbody>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>6,137,428</td>
-      <td>16,988</td>
-      <td><span style="color:transparent; font-size:0;">001.13</span>1.13<span style="color: red"> 🟥</span></td>
+      <td>18,267</td>
+      <td><span style="color:transparent; font-size:0;">001.16</span>1.16<span style="color: red"> 🟥</span></td>
+      <td>2.49</td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
       <td><span style="color:transparent; font-size:0;">000006,389</span>6,389</td>
       <td><span style="color:transparent; font-size:0;">000000046%</span>46%</td>
       <td><span style="color:transparent; font-size:0;">000000051%</span>51%</td>
-      <td><span style="color:transparent; font-size:0;">210923</span>September 23, 2021</td>
-      <td>673,641</td>
-      <td>576.4<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000010.2%</span>10.2%<span style="color: red">▲</span></td>
-      <td>9,387</td>
-      <td>9.3<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">210916</span>September 16, 2021</td>
+      <td>675,324</td>
+      <td>574.4<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000010.5%</span>10.5%<span style="color: red">▲</span></td>
+      <td>9,440</td>
+      <td>9.9<span style="color: red">▲</span></td>
       <td>1,249<span style="color: red">▲</span></td>
-      <td>273.64<span style="color: red">▲</span></td>
+      <td>286.50<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

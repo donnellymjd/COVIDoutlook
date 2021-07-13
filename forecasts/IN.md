@@ -11,6 +11,7 @@ statecode: IN
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Hyp. Pre-Immunity Rt</th>
       <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
@@ -27,22 +28,23 @@ statecode: IN
   </thead>
   <tbody>
     <tr>
-      <td>9</td>
+      <td>13</td>
       <td>6,732,219</td>
-      <td>12,213</td>
-      <td><span style="color:transparent; font-size:0;">001.17</span>1.17<span style="color: red"> 🟥</span></td>
+      <td>12,579</td>
+      <td><span style="color:transparent; font-size:0;">001.21</span>1.21<span style="color: red"> 🟥</span></td>
+      <td>2.64</td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
       <td><span style="color:transparent; font-size:0;">000010,649</span>10,649</td>
       <td><span style="color:transparent; font-size:0;">000000046%</span>46%</td>
-      <td><span style="color:transparent; font-size:0;">000000051%</span>51%</td>
-      <td><span style="color:transparent; font-size:0;">210921</span>September 21, 2021</td>
-      <td>842,847</td>
-      <td>140.6<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000003.4%</span>3.4%<span style="color: #ffcc00">▶</span></td>
-      <td>13,914</td>
-      <td>4.1<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">000000050%</span>50%</td>
+      <td><span style="color:transparent; font-size:0;">210919</span>September 19, 2021</td>
+      <td>843,573</td>
+      <td>166.9<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000003.8%</span>3.8%<span style="color: #ffcc00">▶</span></td>
+      <td>13,923</td>
+      <td>4.4<span style="color: #ffcc00">▶</span></td>
       <td>390<span style="color: #ffcc00">▶</span></td>
-      <td>116.64<span style="color: #ffcc00">▶</span></td>
+      <td>114.79<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

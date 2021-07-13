@@ -11,6 +11,7 @@ statecode: MN
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Hyp. Pre-Immunity Rt</th>
       <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
@@ -27,22 +28,23 @@ statecode: MN
   </thead>
   <tbody>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>5,639,632</td>
-      <td>2,834</td>
-      <td><span style="color:transparent; font-size:0;">001.06</span>1.06<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>2,921</td>
+      <td><span style="color:transparent; font-size:0;">001.07</span>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>2.87</td>
       <td><span style="color:transparent; font-size:0;">000000011%</span>11%</td>
       <td><span style="color:transparent; font-size:0;">000004,148</span>4,148</td>
       <td><span style="color:transparent; font-size:0;">000000058%</span>58%</td>
       <td><span style="color:transparent; font-size:0;">000000059%</span>59%</td>
-      <td><span style="color:transparent; font-size:0;">211011</span>October 11, 2021</td>
-      <td>895,979</td>
-      <td>133.6<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000001.4%</span>1.4%<span style="color: #ffcc00">▶</span></td>
-      <td>7,715</td>
-      <td>3.1<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">211012</span>October 12, 2021</td>
+      <td>896,305</td>
+      <td>139.2<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000001.5%</span>1.5%<span style="color: #ffcc00">▶</span></td>
+      <td>7,717</td>
+      <td>2.6<span style="color: green">▼</span></td>
       <td>159<span style="color: #ffcc00">▶</span></td>
-      <td>34.64<span style="color: #ffcc00">▶</span></td>
+      <td>36.86<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

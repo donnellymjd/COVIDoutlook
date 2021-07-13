@@ -11,6 +11,7 @@ statecode: UT
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Hyp. Pre-Immunity Rt</th>
       <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
@@ -27,22 +28,23 @@ statecode: UT
   </thead>
   <tbody>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>3,205,958</td>
-      <td>5,999</td>
-      <td><span style="color:transparent; font-size:0;">001.05</span>1.05<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>6,818</td>
+      <td><span style="color:transparent; font-size:0;">001.11</span>1.11<span style="color: red"> 🟥</span></td>
+      <td>2.33</td>
       <td><span style="color:transparent; font-size:0;">000000014%</span>14%</td>
       <td><span style="color:transparent; font-size:0;">000003,371</span>3,371</td>
       <td><span style="color:transparent; font-size:0;">000000050%</span>50%</td>
       <td><span style="color:transparent; font-size:0;">000000050%</span>50%</td>
-      <td><span style="color:transparent; font-size:0;">210923</span>September 23, 2021</td>
-      <td>510,455</td>
-      <td>337.6<span style="color: red">▲</span></td>
-      <td><span style="color:transparent; font-size:0;">0000008.2%</span>8.2%<span style="color: red">▲</span></td>
-      <td>2,393</td>
-      <td>2.7<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">210920</span>September 20, 2021</td>
+      <td>511,505</td>
+      <td>368.5<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">0000008.8%</span>8.8%<span style="color: red">▲</span></td>
+      <td>2,399</td>
+      <td>2.4<span style="color: #ffcc00">▶</span></td>
       <td>235<span style="color: red">▲</span></td>
-      <td>40.93<span style="color: red">▲</span></td>
+      <td>42.50<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

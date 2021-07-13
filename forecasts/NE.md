@@ -11,6 +11,7 @@ statecode: NE
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Hyp. Pre-Immunity Rt</th>
       <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
@@ -27,22 +28,23 @@ statecode: NE
   </thead>
   <tbody>
     <tr>
-      <td>32</td>
+      <td>36</td>
       <td>1,934,408</td>
-      <td>1,557</td>
-      <td><span style="color:transparent; font-size:0;">001.08</span>1.08<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>1,550</td>
+      <td><span style="color:transparent; font-size:0;">001.07</span>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>2.39</td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
       <td><span style="color:transparent; font-size:0;">000001,299</span>1,299</td>
       <td><span style="color:transparent; font-size:0;">000000052%</span>52%</td>
       <td><span style="color:transparent; font-size:0;">000000055%</span>55%</td>
-      <td><span style="color:transparent; font-size:0;">210915</span>September 15, 2021</td>
-      <td>258,929</td>
-      <td>61.5<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000006.7%</span>6.7%<span style="color: red">▲</span></td>
-      <td>2,262</td>
-      <td>0.2<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">210928</span>September 28, 2021</td>
+      <td>259,299</td>
+      <td>69.7<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000006.8%</span>6.8%<span style="color: red">▲</span></td>
+      <td>2,265</td>
+      <td>0.3<span style="color: #ffcc00">▶</span></td>
       <td>73<span style="color: #ffcc00">▶</span></td>
-      <td>16.00<span style="color: #ffcc00">▶</span></td>
+      <td>16.50<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

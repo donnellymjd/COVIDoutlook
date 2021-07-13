@@ -11,6 +11,7 @@ statecode: NJ
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Hyp. Pre-Immunity Rt</th>
       <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
@@ -27,22 +28,23 @@ statecode: NJ
   </thead>
   <tbody>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>8,882,190</td>
-      <td>5,619</td>
-      <td><span style="color:transparent; font-size:0;">001.03</span>1.03<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>6,198</td>
+      <td><span style="color:transparent; font-size:0;">001.07</span>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>3.44</td>
       <td><span style="color:transparent; font-size:0;">000000012%</span>12%</td>
       <td><span style="color:transparent; font-size:0;">000009,215</span>9,215</td>
       <td><span style="color:transparent; font-size:0;">000000064%</span>64%</td>
-      <td><span style="color:transparent; font-size:0;">000000065%</span>65%</td>
-      <td><span style="color:transparent; font-size:0;">211011</span>October 11, 2021</td>
-      <td>1,011,577</td>
-      <td>212.6<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000001.3%</span>1.3%<span style="color: #ffcc00">▶</span></td>
-      <td>26,496</td>
-      <td>4.4<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">000000066%</span>66%</td>
+      <td><span style="color:transparent; font-size:0;">211006</span>October 06, 2021</td>
+      <td>1,012,319</td>
+      <td>229.5<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000001.4%</span>1.4%<span style="color: #ffcc00">▶</span></td>
+      <td>26,509</td>
+      <td>5.1<span style="color: #ffcc00">▶</span></td>
       <td>339<span style="color: #ffcc00">▶</span></td>
-      <td>145.21<span style="color: #ffcc00">▶</span></td>
+      <td>145.36<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

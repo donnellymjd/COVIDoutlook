@@ -11,6 +11,7 @@ statecode: AK
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Hyp. Pre-Immunity Rt</th>
       <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
@@ -27,22 +28,23 @@ statecode: AK
   </thead>
   <tbody>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>731,545</td>
-      <td>2,986</td>
-      <td><span style="color:transparent; font-size:0;">001.38</span>1.38<span style="color: red"> 🟥</span></td>
+      <td>4,730</td>
+      <td><span style="color:transparent; font-size:0;">001.32</span>1.32<span style="color: red"> 🟥</span></td>
+      <td>3.20</td>
       <td><span style="color:transparent; font-size:0;">000000020%</span>20%</td>
       <td><span style="color:transparent; font-size:0;">000001,371</span>1,371</td>
       <td><span style="color:transparent; font-size:0;">000000050%</span>50%</td>
       <td><span style="color:transparent; font-size:0;">000000058%</span>58%</td>
-      <td><span style="color:transparent; font-size:0;">210729</span>July 29, 2021</td>
-      <td>113,762</td>
-      <td>15.3<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000002.3%</span>2.3%<span style="color: #ffcc00">▶</span></td>
-      <td>372</td>
-      <td>0.4<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">210823</span>August 23, 2021</td>
+      <td>113,814</td>
+      <td>17.0<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000002.6%</span>2.6%<span style="color: red">▲</span></td>
+      <td>374</td>
+      <td>0.5<span style="color: red">▲</span></td>
       <td>35<span style="color: red">▲</span></td>
-      <td>4.29<span style="color: red">▲</span></td>
+      <td>4.86<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

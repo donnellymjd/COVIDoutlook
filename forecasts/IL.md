@@ -11,6 +11,7 @@ statecode: IL
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Hyp. Pre-Immunity Rt</th>
       <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
@@ -27,22 +28,23 @@ statecode: IL
   </thead>
   <tbody>
     <tr>
-      <td>17</td>
+      <td>21</td>
       <td>12,671,821</td>
-      <td>14,907</td>
-      <td><span style="color:transparent; font-size:0;">001.29</span>1.29<span style="color: red"> 🟥</span></td>
+      <td>14,414</td>
+      <td><span style="color:transparent; font-size:0;">001.33</span>1.33<span style="color: red"> 🟥</span></td>
+      <td>3.75</td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
       <td><span style="color:transparent; font-size:0;">000014,466</span>14,466</td>
       <td><span style="color:transparent; font-size:0;">000000060%</span>60%</td>
       <td><span style="color:transparent; font-size:0;">000000060%</span>60%</td>
-      <td><span style="color:transparent; font-size:0;">210918</span>September 18, 2021</td>
-      <td>1,376,361</td>
-      <td>286.6<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000001.3%</span>1.3%<span style="color: #ffcc00">▶</span></td>
-      <td>25,755</td>
-      <td>7.9<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">210920</span>September 20, 2021</td>
+      <td>1,377,432</td>
+      <td>326.1<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000001.5%</span>1.5%<span style="color: #ffcc00">▶</span></td>
+      <td>25,781</td>
+      <td>8.3<span style="color: #ffcc00">▶</span></td>
       <td>509<span style="color: #ffcc00">▶</span></td>
-      <td>307.00<span style="color: #ffcc00">▶</span></td>
+      <td>314.14<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

@@ -11,6 +11,7 @@ statecode: RI
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Hyp. Pre-Immunity Rt</th>
       <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
@@ -27,22 +28,23 @@ statecode: RI
   </thead>
   <tbody>
     <tr>
-      <td>45</td>
+      <td>43</td>
       <td>1,059,361</td>
-      <td>436</td>
-      <td><span style="color:transparent; font-size:0;">001.02</span>1.02<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>561</td>
+      <td><span style="color:transparent; font-size:0;">001.07</span>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>3.05</td>
       <td><span style="color:transparent; font-size:0;">000000013%</span>13%</td>
       <td><span style="color:transparent; font-size:0;">0000000879</span>879</td>
       <td><span style="color:transparent; font-size:0;">000000065%</span>65%</td>
       <td><span style="color:transparent; font-size:0;">000000065%</span>65%</td>
-      <td><span style="color:transparent; font-size:0;">210811</span>August 11, 2021</td>
-      <td>181,945</td>
-      <td>11.8<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">210809</span>August 09, 2021</td>
+      <td>181,980</td>
+      <td>13.1<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000000.4%</span>0.4%<span style="color: #ffcc00">▶</span></td>
-      <td>2,730</td>
-      <td>0.1<span style="color: #ffcc00">▶</span></td>
+      <td>2,731</td>
+      <td>0.2<span style="color: #ffcc00">▶</span></td>
       <td>78<span style="color: #ffcc00">▶</span></td>
-      <td>1.93<span style="color: #ffcc00">▶</span></td>
+      <td>2.21<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

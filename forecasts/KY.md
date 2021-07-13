@@ -11,6 +11,7 @@ statecode: KY
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Hyp. Pre-Immunity Rt</th>
       <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
@@ -27,22 +28,23 @@ statecode: KY
   </thead>
   <tbody>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>4,467,673</td>
-      <td>3,975</td>
-      <td><span style="color:transparent; font-size:0;">001.15</span>1.15<span style="color: red"> 🟥</span></td>
+      <td>4,250</td>
+      <td><span style="color:transparent; font-size:0;">001.16</span>1.16<span style="color: red"> 🟥</span></td>
+      <td>2.55</td>
       <td><span style="color:transparent; font-size:0;">000000019%</span>19%</td>
       <td><span style="color:transparent; font-size:0;">000003,317</span>3,317</td>
       <td><span style="color:transparent; font-size:0;">000000050%</span>50%</td>
       <td><span style="color:transparent; font-size:0;">000000053%</span>53%</td>
-      <td><span style="color:transparent; font-size:0;">210928</span>September 28, 2021</td>
-      <td>500,773</td>
-      <td>140.6<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000003.0%</span>3.0%<span style="color: #ffcc00">▶</span></td>
-      <td>7,255</td>
-      <td>1.1<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">211003</span>October 03, 2021</td>
+      <td>501,268</td>
+      <td>155.7<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000003.1%</span>3.1%<span style="color: #ffcc00">▶</span></td>
+      <td>7,265</td>
+      <td>1.6<span style="color: #ffcc00">▶</span></td>
       <td>233<span style="color: #ffcc00">▶</span></td>
-      <td>106.07<span style="color: green">▼</span></td>
+      <td>107.07<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

@@ -11,6 +11,7 @@ statecode: AR
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Hyp. Pre-Immunity Rt</th>
       <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
@@ -27,22 +28,23 @@ statecode: AR
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>3,017,804</td>
-      <td>12,692</td>
-      <td><span style="color:transparent; font-size:0;">001.29</span>1.29<span style="color: red"> 🟥</span></td>
+      <td>12,539</td>
+      <td><span style="color:transparent; font-size:0;">001.27</span>1.27<span style="color: red"> 🟥</span></td>
+      <td>2.53</td>
       <td><span style="color:transparent; font-size:0;">000000021%</span>21%</td>
       <td><span style="color:transparent; font-size:0;">000003,111</span>3,111</td>
       <td><span style="color:transparent; font-size:0;">000000043%</span>43%</td>
       <td><span style="color:transparent; font-size:0;">000000048%</span>48%</td>
-      <td><span style="color:transparent; font-size:0;">210906</span>September 06, 2021</td>
-      <td>241,366</td>
-      <td>211.6<span style="color: red">▲</span></td>
-      <td><span style="color:transparent; font-size:0;">0000008.7%</span>8.7%<span style="color: red">▲</span></td>
-      <td>5,948</td>
-      <td>3.9<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">210908</span>September 08, 2021</td>
+      <td>242,195</td>
+      <td>249.8<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">0000008.9%</span>8.9%<span style="color: red">▲</span></td>
+      <td>5,955</td>
+      <td>4.1<span style="color: red">▲</span></td>
       <td>522<span style="color: red">▲</span></td>
-      <td>160.00<span style="color: red">▲</span></td>
+      <td>172.50<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

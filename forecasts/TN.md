@@ -11,6 +11,7 @@ statecode: TN
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Hyp. Pre-Immunity Rt</th>
       <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
@@ -27,22 +28,23 @@ statecode: TN
   </thead>
   <tbody>
     <tr>
-      <td>21</td>
+      <td>19</td>
       <td>6,829,174</td>
-      <td>7,352</td>
-      <td><span style="color:transparent; font-size:0;">001.14</span>1.14<span style="color: red"> 🟥</span></td>
+      <td>8,461</td>
+      <td><span style="color:transparent; font-size:0;">001.18</span>1.18<span style="color: red"> 🟥</span></td>
+      <td>2.59</td>
       <td><span style="color:transparent; font-size:0;">000000024%</span>24%</td>
       <td><span style="color:transparent; font-size:0;">000010,813</span>10,813</td>
       <td><span style="color:transparent; font-size:0;">000000043%</span>43%</td>
-      <td><span style="color:transparent; font-size:0;">000000046%</span>46%</td>
-      <td><span style="color:transparent; font-size:0;">211001</span>October 01, 2021</td>
-      <td>796,354</td>
-      <td>116.0<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000003.4%</span>3.4%<span style="color: #ffcc00">▶</span></td>
-      <td>12,596</td>
-      <td>2.9<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">000000048%</span>48%</td>
+      <td><span style="color:transparent; font-size:0;">210922</span>September 22, 2021</td>
+      <td>796,669</td>
+      <td>119.4<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000003.9%</span>3.9%<span style="color: #ffcc00">▶</span></td>
+      <td>12,608</td>
+      <td>2.0<span style="color: #ffcc00">▶</span></td>
       <td>295<span style="color: #ffcc00">▶</span></td>
-      <td>50.21<span style="color: #ffcc00">▶</span></td>
+      <td>51.93<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

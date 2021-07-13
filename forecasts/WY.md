@@ -11,6 +11,7 @@ statecode: WY
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Hyp. Pre-Immunity Rt</th>
       <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
@@ -27,22 +28,23 @@ statecode: WY
   </thead>
   <tbody>
     <tr>
-      <td>12</td>
+      <td>15</td>
       <td>578,759</td>
-      <td>885</td>
-      <td><span style="color:transparent; font-size:0;">001.05</span>1.05<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>872</td>
+      <td><span style="color:transparent; font-size:0;">000.99</span>0.99<span style="color: green"> 🟢</span></td>
+      <td>1.81</td>
       <td><span style="color:transparent; font-size:0;">000000031%</span>31%</td>
       <td><span style="color:transparent; font-size:0;">0000000725</span>725</td>
       <td><span style="color:transparent; font-size:0;">000000040%</span>40%</td>
-      <td><span style="color:transparent; font-size:0;">000000043%</span>43%</td>
-      <td><span style="color:transparent; font-size:0;">211013</span>October 13, 2021</td>
-      <td>54,076</td>
-      <td>38.9<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000006.1%</span>6.1%<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
+      <td><span style="color:transparent; font-size:0;">211123</span>November 23, 2021</td>
+      <td>54,177</td>
+      <td>40.1<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000005.7%</span>5.7%<span style="color: red">▲</span></td>
       <td>751</td>
       <td>0.8<span style="color: green">▼</span></td>
-      <td>45<span style="color: red">▲</span></td>
-      <td>14.71<span style="color: red">▲</span></td>
+      <td>45<span style="color: #ffcc00">▶</span></td>
+      <td>14.14<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

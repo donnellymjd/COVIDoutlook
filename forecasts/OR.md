@@ -11,6 +11,7 @@ statecode: OR
       <th>Population</th>
       <th>Model Est'd Active Infections</th>
       <th>Current Reproduction Rate (Rt)</th>
+      <th>Hyp. Pre-Immunity Rt</th>
       <th>Vaccine Hesitant, % of Adults</th>
       <th>Daily Vaccines Initiated</th>
       <th>Vaccines Initiated, % of Pop.</th>
@@ -27,22 +28,23 @@ statecode: OR
   </thead>
   <tbody>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>4,217,737</td>
-      <td>2,523</td>
-      <td><span style="color:transparent; font-size:0;">000.98</span>0.98<span style="color: green"> 🟢</span></td>
+      <td>2,866</td>
+      <td><span style="color:transparent; font-size:0;">001.06</span>1.06<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>2.55</td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
       <td><span style="color:transparent; font-size:0;">000004,478</span>4,478</td>
       <td><span style="color:transparent; font-size:0;">000000059%</span>59%</td>
-      <td><span style="color:transparent; font-size:0;">000000059%</span>59%</td>
-      <td><span style="color:transparent; font-size:0;">210722</span>July 22, 2021</td>
-      <td>205,456</td>
-      <td>122.1<span style="color: green">▼</span></td>
-      <td><span style="color:transparent; font-size:0;">0000002.6%</span>2.6%<span style="color: #ffcc00">▶</span></td>
-      <td>2,792</td>
-      <td>2.1<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">000000060%</span>60%</td>
+      <td><span style="color:transparent; font-size:0;">210729</span>July 29, 2021</td>
+      <td>205,829</td>
+      <td>130.1<span style="color: green">▼</span></td>
+      <td><span style="color:transparent; font-size:0;">0000002.7%</span>2.7%<span style="color: #ffcc00">▶</span></td>
+      <td>2,797</td>
+      <td>2.4<span style="color: #ffcc00">▶</span></td>
       <td>154<span style="color: #ffcc00">▶</span></td>
-      <td>54.64<span style="color: green">▼</span></td>
+      <td>55.71<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>
