@@ -30,9 +30,9 @@ statecode: PA
     <tr>
       <td>38</td>
       <td>12,801,989</td>
-      <td>9,045</td>
-      <td><span style="color:transparent; font-size:0;">001.07</span>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>3.43</td>
+      <td>9,518</td>
+      <td><span style="color:transparent; font-size:0;">001.08</span>1.08<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>3.48</td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
       <td><span style="color:transparent; font-size:0;">000010,429</span>10,429</td>
       <td><span style="color:transparent; font-size:0;">000000064%</span>64%</td>

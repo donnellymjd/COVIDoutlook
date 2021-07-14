@@ -28,16 +28,16 @@ statecode: NJ
   </thead>
   <tbody>
     <tr>
-      <td>39</td>
+      <td>42</td>
       <td>8,882,190</td>
-      <td>6,198</td>
-      <td><span style="color:transparent; font-size:0;">001.07</span>1.07<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>3.44</td>
+      <td>5,890</td>
+      <td><span style="color:transparent; font-size:0;">001.06</span>1.06<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>3.23</td>
       <td><span style="color:transparent; font-size:0;">000000012%</span>12%</td>
       <td><span style="color:transparent; font-size:0;">000009,215</span>9,215</td>
       <td><span style="color:transparent; font-size:0;">000000064%</span>64%</td>
       <td><span style="color:transparent; font-size:0;">000000066%</span>66%</td>
-      <td><span style="color:transparent; font-size:0;">211006</span>October 06, 2021</td>
+      <td><span style="color:transparent; font-size:0;">211023</span>October 23, 2021</td>
       <td>1,012,319</td>
       <td>229.5<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000001.4%</span>1.4%<span style="color: #ffcc00">▶</span></td>

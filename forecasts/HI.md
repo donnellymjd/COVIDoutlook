@@ -28,16 +28,16 @@ statecode: HI
   </thead>
   <tbody>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>1,415,872</td>
-      <td>4,016</td>
-      <td><span style="color:transparent; font-size:0;">001.22</span>1.22<span style="color: red"> 🟥</span></td>
+      <td>4,187</td>
+      <td><span style="color:transparent; font-size:0;">001.21</span>1.21<span style="color: red"> 🟥</span></td>
       <td>4.05</td>
       <td><span style="color:transparent; font-size:0;">000000010%</span>10%</td>
       <td><span style="color:transparent; font-size:0;">000001,266</span>1,266</td>
       <td><span style="color:transparent; font-size:0;">000000070%</span>70%</td>
       <td><span style="color:transparent; font-size:0;">000000071%</span>71%</td>
-      <td><span style="color:transparent; font-size:0;">210822</span>August 22, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210823</span>August 23, 2021</td>
       <td>42,201</td>
       <td>53.5<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000002.1%</span>2.1%<span style="color: #ffcc00">▶</span></td>

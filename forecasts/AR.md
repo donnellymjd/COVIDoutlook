@@ -30,14 +30,14 @@ statecode: AR
     <tr>
       <td>2</td>
       <td>3,017,804</td>
-      <td>12,539</td>
-      <td><span style="color:transparent; font-size:0;">001.27</span>1.27<span style="color: red"> 🟥</span></td>
-      <td>2.53</td>
+      <td>13,288</td>
+      <td><span style="color:transparent; font-size:0;">001.25</span>1.25<span style="color: red"> 🟥</span></td>
+      <td>2.55</td>
       <td><span style="color:transparent; font-size:0;">000000021%</span>21%</td>
       <td><span style="color:transparent; font-size:0;">000003,111</span>3,111</td>
       <td><span style="color:transparent; font-size:0;">000000043%</span>43%</td>
       <td><span style="color:transparent; font-size:0;">000000048%</span>48%</td>
-      <td><span style="color:transparent; font-size:0;">210908</span>September 08, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210907</span>September 07, 2021</td>
       <td>242,195</td>
       <td>249.8<span style="color: red">▲</span></td>
       <td><span style="color:transparent; font-size:0;">0000008.9%</span>8.9%<span style="color: red">▲</span></td>

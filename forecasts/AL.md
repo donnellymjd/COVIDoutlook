@@ -30,14 +30,14 @@ statecode: AL
     <tr>
       <td>14</td>
       <td>4,903,185</td>
-      <td>8,394</td>
-      <td><span style="color:transparent; font-size:0;">001.28</span>1.28<span style="color: red"> 🟥</span></td>
+      <td>8,434</td>
+      <td><span style="color:transparent; font-size:0;">001.29</span>1.29<span style="color: red"> 🟥</span></td>
       <td>2.55</td>
       <td><span style="color:transparent; font-size:0;">000000021%</span>21%</td>
       <td><span style="color:transparent; font-size:0;">000004,041</span>4,041</td>
       <td><span style="color:transparent; font-size:0;">000000041%</span>41%</td>
       <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
-      <td><span style="color:transparent; font-size:0;">210924</span>September 24, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210925</span>September 25, 2021</td>
       <td>552,319</td>
       <td>220.6<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000007.5%</span>7.5%<span style="color: red">▲</span></td>

@@ -28,16 +28,16 @@ statecode: WY
   </thead>
   <tbody>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>578,759</td>
-      <td>872</td>
-      <td><span style="color:transparent; font-size:0;">000.99</span>0.99<span style="color: green"> 🟢</span></td>
-      <td>1.81</td>
+      <td>903</td>
+      <td><span style="color:transparent; font-size:0;">000.97</span>0.97<span style="color: green"> 🟢</span></td>
+      <td>1.69</td>
       <td><span style="color:transparent; font-size:0;">000000031%</span>31%</td>
       <td><span style="color:transparent; font-size:0;">0000000725</span>725</td>
       <td><span style="color:transparent; font-size:0;">000000040%</span>40%</td>
       <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
-      <td><span style="color:transparent; font-size:0;">211123</span>November 23, 2021</td>
+      <td>Not Achieved. More vaccinations needed.<span style="color: red"> 🟥</span></td>
       <td>54,177</td>
       <td>40.1<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000005.7%</span>5.7%<span style="color: red">▲</span></td>

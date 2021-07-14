@@ -28,16 +28,16 @@ statecode: GA
   </thead>
   <tbody>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>10,617,423</td>
-      <td>14,739</td>
-      <td><span style="color:transparent; font-size:0;">001.33</span>1.33<span style="color: red"> 🟥</span></td>
-      <td>2.84</td>
+      <td>14,091</td>
+      <td><span style="color:transparent; font-size:0;">001.31</span>1.31<span style="color: red"> 🟥</span></td>
+      <td>2.96</td>
       <td><span style="color:transparent; font-size:0;">000000022%</span>22%</td>
       <td><span style="color:transparent; font-size:0;">000017,532</span>17,532</td>
       <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
       <td><span style="color:transparent; font-size:0;">000000046%</span>46%</td>
-      <td><span style="color:transparent; font-size:0;">210917</span>September 17, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210918</span>September 18, 2021</td>
       <td>844,943</td>
       <td>211.5<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000002.7%</span>2.7%<span style="color: #ffcc00">▶</span></td>

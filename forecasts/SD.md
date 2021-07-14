@@ -28,16 +28,16 @@ statecode: SD
   </thead>
   <tbody>
     <tr>
-      <td>27</td>
+      <td>33</td>
       <td>884,659</td>
-      <td>925</td>
-      <td><span style="color:transparent; font-size:0;">001.05</span>1.05<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>2.41</td>
+      <td>807</td>
+      <td><span style="color:transparent; font-size:0;">001.01</span>1.01<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>2.11</td>
       <td><span style="color:transparent; font-size:0;">000000021%</span>21%</td>
       <td><span style="color:transparent; font-size:0;">0000000592</span>592</td>
       <td><span style="color:transparent; font-size:0;">000000051%</span>51%</td>
       <td><span style="color:transparent; font-size:0;">000000053%</span>53%</td>
-      <td><span style="color:transparent; font-size:0;">211011</span>October 11, 2021</td>
+      <td>Not Achieved. More vaccinations needed.<span style="color: red"> 🟥</span></td>
       <td>70,802</td>
       <td>26.6<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000006.5%</span>6.5%<span style="color: red">▲</span></td>

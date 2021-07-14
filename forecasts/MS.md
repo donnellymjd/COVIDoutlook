@@ -28,16 +28,16 @@ statecode: MS
   </thead>
   <tbody>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>2,976,149</td>
-      <td>7,838</td>
-      <td><span style="color:transparent; font-size:0;">001.36</span>1.36<span style="color: red"> 🟥</span></td>
-      <td>2.59</td>
+      <td>7,924</td>
+      <td><span style="color:transparent; font-size:0;">001.35</span>1.35<span style="color: red"> 🟥</span></td>
+      <td>2.78</td>
       <td><span style="color:transparent; font-size:0;">000000027%</span>27%</td>
       <td><span style="color:transparent; font-size:0;">000001,781</span>1,781</td>
       <td><span style="color:transparent; font-size:0;">000000037%</span>37%</td>
       <td><span style="color:transparent; font-size:0;">000000043%</span>43%</td>
-      <td><span style="color:transparent; font-size:0;">210909</span>September 09, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210907</span>September 07, 2021</td>
       <td>160,402</td>
       <td>77.9<span style="color: red">▲</span></td>
       <td><span style="color:transparent; font-size:0;">0000006.6%</span>6.6%<span style="color: red">▲</span></td>

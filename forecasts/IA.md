@@ -28,16 +28,16 @@ statecode: IA
   </thead>
   <tbody>
     <tr>
-      <td>31</td>
+      <td>34</td>
       <td>3,155,070</td>
-      <td>2,862</td>
-      <td><span style="color:transparent; font-size:0;">001.03</span>1.03<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>2.42</td>
+      <td>2,807</td>
+      <td><span style="color:transparent; font-size:0;">001.05</span>1.05<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
+      <td>2.26</td>
       <td><span style="color:transparent; font-size:0;">000000020%</span>20%</td>
       <td><span style="color:transparent; font-size:0;">000001,698</span>1,698</td>
       <td><span style="color:transparent; font-size:0;">000000052%</span>52%</td>
       <td><span style="color:transparent; font-size:0;">000000054%</span>54%</td>
-      <td><span style="color:transparent; font-size:0;">211016</span>October 16, 2021</td>
+      <td><span style="color:transparent; font-size:0;">211118</span>November 18, 2021</td>
       <td>373,168</td>
       <td>92.6<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000004.1%</span>4.1%<span style="color: #ffcc00">▶</span></td>

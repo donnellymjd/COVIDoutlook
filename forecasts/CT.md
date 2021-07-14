@@ -30,14 +30,14 @@ statecode: CT
     <tr>
       <td>48</td>
       <td>3,565,287</td>
-      <td>1,297</td>
-      <td><span style="color:transparent; font-size:0;">001.25</span>1.25<span style="color: red"> 🟥</span></td>
-      <td>3.75</td>
+      <td>1,306</td>
+      <td><span style="color:transparent; font-size:0;">001.21</span>1.21<span style="color: red"> 🟥</span></td>
+      <td>3.65</td>
       <td><span style="color:transparent; font-size:0;">000000010%</span>10%</td>
       <td><span style="color:transparent; font-size:0;">000003,493</span>3,493</td>
       <td><span style="color:transparent; font-size:0;">000000068%</span>68%</td>
       <td><span style="color:transparent; font-size:0;">000000068%</span>68%</td>
-      <td><span style="color:transparent; font-size:0;">211111</span>November 11, 2021</td>
+      <td><span style="color:transparent; font-size:0;">211029</span>October 29, 2021</td>
       <td>474,805</td>
       <td>39.4<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000000.7%</span>0.7%<span style="color: #ffcc00">▶</span></td>

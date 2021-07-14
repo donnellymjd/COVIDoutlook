@@ -30,9 +30,9 @@ statecode: AZ
     <tr>
       <td>12</td>
       <td>7,278,717</td>
-      <td>14,283</td>
-      <td><span style="color:transparent; font-size:0;">001.18</span>1.18<span style="color: red"> 🟥</span></td>
-      <td>2.78</td>
+      <td>15,063</td>
+      <td><span style="color:transparent; font-size:0;">001.19</span>1.19<span style="color: red"> 🟥</span></td>
+      <td>2.86</td>
       <td><span style="color:transparent; font-size:0;">000000018%</span>18%</td>
       <td><span style="color:transparent; font-size:0;">000015,929</span>15,929</td>
       <td><span style="color:transparent; font-size:0;">000000051%</span>51%</td>

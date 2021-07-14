@@ -30,14 +30,14 @@ statecode: AK
     <tr>
       <td>1</td>
       <td>731,545</td>
-      <td>4,730</td>
-      <td><span style="color:transparent; font-size:0;">001.32</span>1.32<span style="color: red"> 🟥</span></td>
-      <td>3.20</td>
+      <td>4,490</td>
+      <td><span style="color:transparent; font-size:0;">001.24</span>1.24<span style="color: red"> 🟥</span></td>
+      <td>3.14</td>
       <td><span style="color:transparent; font-size:0;">000000020%</span>20%</td>
       <td><span style="color:transparent; font-size:0;">000001,371</span>1,371</td>
       <td><span style="color:transparent; font-size:0;">000000050%</span>50%</td>
       <td><span style="color:transparent; font-size:0;">000000058%</span>58%</td>
-      <td><span style="color:transparent; font-size:0;">210823</span>August 23, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210825</span>August 25, 2021</td>
       <td>113,814</td>
       <td>17.0<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000002.6%</span>2.6%<span style="color: red">▲</span></td>
