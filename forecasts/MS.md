@@ -28,23 +28,23 @@ statecode: MS
   </thead>
   <tbody>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>2,976,149</td>
-      <td>7,924</td>
-      <td><span style="color:transparent; font-size:0;">001.35</span>1.35<span style="color: red"> 🟥</span></td>
-      <td>2.78</td>
+      <td>8,760</td>
+      <td><span style="color:transparent; font-size:0;">001.38</span>1.38<span style="color: red"> 🟥</span></td>
+      <td>2.86</td>
       <td><span style="color:transparent; font-size:0;">000000027%</span>27%</td>
-      <td><span style="color:transparent; font-size:0;">000001,781</span>1,781</td>
+      <td><span style="color:transparent; font-size:0;">000004,324</span>4,324</td>
       <td><span style="color:transparent; font-size:0;">000000037%</span>37%</td>
-      <td><span style="color:transparent; font-size:0;">000000043%</span>43%</td>
-      <td><span style="color:transparent; font-size:0;">210907</span>September 07, 2021</td>
-      <td>160,402</td>
-      <td>77.9<span style="color: red">▲</span></td>
-      <td><span style="color:transparent; font-size:0;">0000006.6%</span>6.6%<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">000000042%</span>42%</td>
+      <td><span style="color:transparent; font-size:0;">210906</span>September 06, 2021</td>
+      <td>160,667</td>
+      <td>92.6<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">0000007.4%</span>7.4%<span style="color: red">▲</span></td>
       <td>7,451</td>
       <td>1.5<span style="color: #ffcc00">▶</span></td>
       <td>272<span style="color: red">▲</span></td>
-      <td>68.43<span style="color: red">▲</span></td>
+      <td>69.86<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

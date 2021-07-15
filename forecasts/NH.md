@@ -30,21 +30,21 @@ statecode: NH
     <tr>
       <td>50</td>
       <td>1,359,711</td>
-      <td>373</td>
-      <td><span style="color:transparent; font-size:0;">000.93</span>0.93<span style="color: green"> 🟢</span></td>
-      <td>2.82</td>
+      <td>328</td>
+      <td><span style="color:transparent; font-size:0;">000.92</span>0.92<span style="color: green"> 🟢</span></td>
+      <td>2.61</td>
       <td><span style="color:transparent; font-size:0;">000000014%</span>14%</td>
-      <td><span style="color:transparent; font-size:0;">000002,089</span>2,089</td>
+      <td><span style="color:transparent; font-size:0;">000001,207</span>1,207</td>
       <td><span style="color:transparent; font-size:0;">000000064%</span>64%</td>
       <td><span style="color:transparent; font-size:0;">000000063%</span>63%</td>
       <td>Not Achieved. More vaccinations needed.<span style="color: red"> 🟥</span></td>
       <td>82,583</td>
-      <td>7.3<span style="color: #ffcc00">▶</span></td>
+      <td>5.9<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000000.8%</span>0.8%<span style="color: #ffcc00">▶</span></td>
-      <td>1,375</td>
-      <td>0.3<span style="color: #ffcc00">▶</span></td>
+      <td>1,381</td>
+      <td>0.7<span style="color: #ffcc00">▶</span></td>
       <td>21<span style="color: #ffcc00">▶</span></td>
-      <td>8.43<span style="color: #ffcc00">▶</span></td>
+      <td>8.79<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

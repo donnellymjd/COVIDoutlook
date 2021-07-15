@@ -28,23 +28,23 @@ statecode: DC
   </thead>
   <tbody>
     <tr>
-      <td>17</td>
+      <td>7</td>
       <td>705,749</td>
-      <td>1,089</td>
-      <td><span style="color:transparent; font-size:0;">001.21</span>1.21<span style="color: red"> 🟥</span></td>
-      <td>2.92</td>
+      <td>2,118</td>
+      <td><span style="color:transparent; font-size:0;">001.41</span>1.41<span style="color: red"> 🟥</span></td>
+      <td>3.43</td>
       <td><span style="color:transparent; font-size:0;">000000010%</span>10%</td>
-      <td><span style="color:transparent; font-size:0;">0000000815</span>815</td>
+      <td><span style="color:transparent; font-size:0;">0000000564</span>564</td>
       <td><span style="color:transparent; font-size:0;">000000062%</span>62%</td>
-      <td><span style="color:transparent; font-size:0;">000000060%</span>60%</td>
-      <td><span style="color:transparent; font-size:0;">210825</span>August 25, 2021</td>
-      <td>69,588</td>
-      <td>17.2<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000000.8%</span>0.8%<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">000000061%</span>61%</td>
+      <td><span style="color:transparent; font-size:0;">210903</span>September 03, 2021</td>
+      <td>69,666</td>
+      <td>21.9<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000000.9%</span>0.9%<span style="color: #ffcc00">▶</span></td>
       <td>1,144</td>
       <td>0.2<span style="color: #ffcc00">▶</span></td>
       <td>38<span style="color: green">▼</span></td>
-      <td>56.93<span style="color: green">▼</span></td>
+      <td>56.43<span style="color: green">▼</span></td>
     </tr>
   </tbody>
 </table>

@@ -28,21 +28,21 @@ statecode: WY
   </thead>
   <tbody>
     <tr>
-      <td>16</td>
+      <td>26</td>
       <td>578,759</td>
-      <td>903</td>
-      <td><span style="color:transparent; font-size:0;">000.97</span>0.97<span style="color: green"> 🟢</span></td>
-      <td>1.69</td>
+      <td>721</td>
+      <td><span style="color:transparent; font-size:0;">000.95</span>0.95<span style="color: green"> 🟢</span></td>
+      <td>1.65</td>
       <td><span style="color:transparent; font-size:0;">000000031%</span>31%</td>
-      <td><span style="color:transparent; font-size:0;">0000000725</span>725</td>
+      <td><span style="color:transparent; font-size:0;">0000000387</span>387</td>
       <td><span style="color:transparent; font-size:0;">000000040%</span>40%</td>
       <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
       <td>Not Achieved. More vaccinations needed.<span style="color: red"> 🟥</span></td>
-      <td>54,177</td>
-      <td>40.1<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000005.7%</span>5.7%<span style="color: red">▲</span></td>
-      <td>751</td>
-      <td>0.8<span style="color: green">▼</span></td>
+      <td>54,234</td>
+      <td>41.0<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000005.4%</span>5.4%<span style="color: red">▲</span></td>
+      <td>760</td>
+      <td>0.9<span style="color: #ffcc00">▶</span></td>
       <td>45<span style="color: #ffcc00">▶</span></td>
       <td>14.14<span style="color: red">▲</span></td>
     </tr>

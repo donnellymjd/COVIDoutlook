@@ -28,23 +28,23 @@ statecode: NJ
   </thead>
   <tbody>
     <tr>
-      <td>42</td>
+      <td>38</td>
       <td>8,882,190</td>
-      <td>5,890</td>
-      <td><span style="color:transparent; font-size:0;">001.06</span>1.06<span style="color: #ffcc00"> <span style="color: #ffcc00">▶</span></span></td>
-      <td>3.23</td>
+      <td>7,365</td>
+      <td><span style="color:transparent; font-size:0;">001.14</span>1.14<span style="color: red"> 🟥</span></td>
+      <td>3.63</td>
       <td><span style="color:transparent; font-size:0;">000000012%</span>12%</td>
-      <td><span style="color:transparent; font-size:0;">000009,215</span>9,215</td>
+      <td><span style="color:transparent; font-size:0;">000008,019</span>8,019</td>
       <td><span style="color:transparent; font-size:0;">000000064%</span>64%</td>
       <td><span style="color:transparent; font-size:0;">000000066%</span>66%</td>
-      <td><span style="color:transparent; font-size:0;">211023</span>October 23, 2021</td>
-      <td>1,012,319</td>
-      <td>229.5<span style="color: #ffcc00">▶</span></td>
-      <td><span style="color:transparent; font-size:0;">0000001.4%</span>1.4%<span style="color: #ffcc00">▶</span></td>
-      <td>26,509</td>
+      <td><span style="color:transparent; font-size:0;">211003</span>October 03, 2021</td>
+      <td>1,013,040</td>
+      <td>257.2<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">0000001.5%</span>1.5%<span style="color: #ffcc00">▶</span></td>
+      <td>26,516</td>
       <td>5.1<span style="color: #ffcc00">▶</span></td>
       <td>339<span style="color: #ffcc00">▶</span></td>
-      <td>145.36<span style="color: #ffcc00">▶</span></td>
+      <td>145.43<span style="color: #ffcc00">▶</span></td>
     </tr>
   </tbody>
 </table>

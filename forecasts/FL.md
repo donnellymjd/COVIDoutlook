@@ -30,21 +30,21 @@ statecode: FL
     <tr>
       <td>4</td>
       <td>21,477,737</td>
-      <td>72,555</td>
-      <td><span style="color:transparent; font-size:0;">001.29</span>1.29<span style="color: red"> 🟥</span></td>
+      <td>73,558</td>
+      <td><span style="color:transparent; font-size:0;">001.36</span>1.36<span style="color: red"> 🟥</span></td>
       <td>3.14</td>
       <td><span style="color:transparent; font-size:0;">000000020%</span>20%</td>
-      <td><span style="color:transparent; font-size:0;">000032,210</span>32,210</td>
+      <td><span style="color:transparent; font-size:0;">000020,955</span>20,955</td>
       <td><span style="color:transparent; font-size:0;">000000055%</span>55%</td>
       <td><span style="color:transparent; font-size:0;">000000056%</span>56%</td>
-      <td><span style="color:transparent; font-size:0;">210905</span>September 05, 2021</td>
-      <td>2,922,927</td>
-      <td>2,507.9<span style="color: red">▲</span></td>
-      <td><span style="color:transparent; font-size:0;">0000007.0%</span>7.0%<span style="color: red">▲</span></td>
-      <td>38,211</td>
-      <td>26.8<span style="color: #ffcc00">▶</span></td>
+      <td><span style="color:transparent; font-size:0;">210906</span>September 06, 2021</td>
+      <td>2,933,183</td>
+      <td>3,036.4<span style="color: red">▲</span></td>
+      <td><span style="color:transparent; font-size:0;">0000008.0%</span>8.0%<span style="color: red">▲</span></td>
+      <td>38,282</td>
+      <td>28.9<span style="color: #ffcc00">▶</span></td>
       <td>2,828<span style="color: red">▲</span></td>
-      <td>576.00<span style="color: red">▲</span></td>
+      <td>592.29<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
