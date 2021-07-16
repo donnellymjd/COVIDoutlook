@@ -30,19 +30,19 @@ statecode: CO
     <tr>
       <td>22</td>
       <td>5,758,736</td>
-      <td>7,756</td>
-      <td><span style="color:transparent; font-size:0;">001.12</span>1.12<span style="color: red"> 🟥</span></td>
-      <td>3.08</td>
+      <td>8,371</td>
+      <td><span style="color:transparent; font-size:0;">001.13</span>1.13<span style="color: red"> 🟥</span></td>
+      <td>3.10</td>
       <td><span style="color:transparent; font-size:0;">000000015%</span>15%</td>
-      <td><span style="color:transparent; font-size:0;">000004,065</span>4,065</td>
+      <td><span style="color:transparent; font-size:0;">000004,099</span>4,099</td>
       <td><span style="color:transparent; font-size:0;">000000059%</span>59%</td>
       <td><span style="color:transparent; font-size:0;">000000059%</span>59%</td>
-      <td><span style="color:transparent; font-size:0;">210928</span>September 28, 2021</td>
+      <td><span style="color:transparent; font-size:0;">210927</span>September 27, 2021</td>
       <td>550,687</td>
-      <td>251.6<span style="color: #ffcc00">▶</span></td>
+      <td>230.6<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000002.6%</span>2.6%<span style="color: #ffcc00">▶</span></td>
-      <td>6,861</td>
-      <td>5.2<span style="color: #ffcc00">▶</span></td>
+      <td>6,869</td>
+      <td>5.4<span style="color: #ffcc00">▶</span></td>
       <td>348<span style="color: #ffcc00">▶</span></td>
       <td>109.07<span style="color: red">▲</span></td>
     </tr>

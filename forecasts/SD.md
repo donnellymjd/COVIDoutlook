@@ -28,23 +28,23 @@ statecode: SD
   </thead>
   <tbody>
     <tr>
-      <td>36</td>
+      <td>40</td>
       <td>884,659</td>
-      <td>817</td>
-      <td><span style="color:transparent; font-size:0;">000.99</span>0.99<span style="color: green"> 🟢</span></td>
-      <td>2.08</td>
+      <td>707</td>
+      <td><span style="color:transparent; font-size:0;">000.97</span>0.97<span style="color: green"> 🟢</span></td>
+      <td>2.03</td>
       <td><span style="color:transparent; font-size:0;">000000021%</span>21%</td>
-      <td><span style="color:transparent; font-size:0;">0000000534</span>534</td>
+      <td><span style="color:transparent; font-size:0;">0000000467</span>467</td>
       <td><span style="color:transparent; font-size:0;">000000051%</span>51%</td>
       <td><span style="color:transparent; font-size:0;">000000053%</span>53%</td>
       <td>Not Achieved. More vaccinations needed.<span style="color: red"> 🟥</span></td>
       <td>70,862</td>
-      <td>28.2<span style="color: #ffcc00">▶</span></td>
+      <td>25.3<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000006.5%</span>6.5%<span style="color: red">▲</span></td>
-      <td>2,039</td>
+      <td>2,040</td>
       <td>0.4<span style="color: #ffcc00">▶</span></td>
       <td>33<span style="color: #ffcc00">▶</span></td>
-      <td>14.00<span style="color: red">▲</span></td>
+      <td>13.43<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>

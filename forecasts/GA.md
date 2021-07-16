@@ -28,23 +28,23 @@ statecode: GA
   </thead>
   <tbody>
     <tr>
-      <td>20</td>
+      <td>8</td>
       <td>10,617,423</td>
-      <td>15,460</td>
-      <td><span style="color:transparent; font-size:0;">001.36</span>1.36<span style="color: red"> 🟥</span></td>
+      <td>29,655</td>
+      <td><span style="color:transparent; font-size:0;">001.33</span>1.33<span style="color: red"> 🟥</span></td>
       <td>3.03</td>
       <td><span style="color:transparent; font-size:0;">000000022%</span>22%</td>
-      <td><span style="color:transparent; font-size:0;">000007,140</span>7,140</td>
+      <td><span style="color:transparent; font-size:0;">000007,719</span>7,719</td>
       <td><span style="color:transparent; font-size:0;">000000044%</span>44%</td>
-      <td><span style="color:transparent; font-size:0;">000000046%</span>46%</td>
-      <td><span style="color:transparent; font-size:0;">210917</span>September 17, 2021</td>
+      <td><span style="color:transparent; font-size:0;">000000049%</span>49%</td>
+      <td><span style="color:transparent; font-size:0;">210911</span>September 11, 2021</td>
       <td>845,823</td>
-      <td>257.9<span style="color: #ffcc00">▶</span></td>
+      <td>237.5<span style="color: #ffcc00">▶</span></td>
       <td><span style="color:transparent; font-size:0;">0000003.1%</span>3.1%<span style="color: #ffcc00">▶</span></td>
-      <td>21,525</td>
-      <td>8.1<span style="color: green">▼</span></td>
+      <td>21,527</td>
+      <td>7.4<span style="color: green">▼</span></td>
       <td>718<span style="color: #ffcc00">▶</span></td>
-      <td>220.50<span style="color: red">▲</span></td>
+      <td>223.29<span style="color: red">▲</span></td>
     </tr>
   </tbody>
 </table>
