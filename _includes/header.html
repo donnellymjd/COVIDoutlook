@@ -1,0 +1,30 @@
+<header class="site-header">
+
+
+  <nav class="menu-list">
+    <a href="{{ site.github.url }}/"><img src="/assets/img/hlogo-blackonwhite.svg" class='big-logo' onerror="this.onerror=null; this.src='/assets/img/hlogo-blackonwhite.png'"></a>
+    {% for item in site.data.settings.menu %}
+      <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
+    {% endfor %}
+
+    {% for item in site.data.settings.social %}
+      <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+    {% endfor %}
+  </nav>
+  <div class="dropdown">
+    <button class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
+    <div class="dropdown-content">
+      {% for item in site.data.settings.menu %}
+        <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
+      {% endfor %}
+
+      {% for item in site.data.settings.social %}
+        <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="minilogo-div">
+    <a href="{{ site.github.url }}/"><img src="/assets/img/hlogo-blackonwhite.svg" onerror="this.onerror=null; this.src='/assets/img/hlogo-blackonwhite.png'" class="minilogo"></a>
+  </div>
+  <div class="w3-bar w3-pale-red">COVIDOutlook.info is no longer being updated as of January 2022.</div>
+</header>
